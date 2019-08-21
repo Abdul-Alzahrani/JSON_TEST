@@ -1,0 +1,5178 @@
+[
+  {
+    "state": "Utah",
+    "region": "UT - North",
+    "cities": [
+      {
+        "city": "Alpine",
+        "county": ""
+      },
+      {
+        "city": "American Fork",
+        "county": ""
+      },
+      {
+        "city": "Bluffdale",
+        "county": ""
+      },
+      {
+        "city": "Bountiful",
+        "county": ""
+      },
+      {
+        "city": "Brigham City",
+        "county": ""
+      },
+      {
+        "city": "Centerville",
+        "county": ""
+      },
+      {
+        "city": "Clearfield",
+        "county": ""
+      },
+      {
+        "city": "Clinton",
+        "county": ""
+      },
+      {
+        "city": "Cottonwood Heights",
+        "county": ""
+      },
+      {
+        "city": "Draper",
+        "county": ""
+      },
+      {
+        "city": "Farmington",
+        "county": ""
+      },
+      {
+        "city": "Kaysville",
+        "county": ""
+      },
+      {
+        "city": "Kearns",
+        "county": ""
+      },
+      {
+        "city": "Layton",
+        "county": ""
+      },
+      {
+        "city": "Lehi",
+        "county": ""
+      },
+      {
+        "city": "Logan",
+        "county": ""
+      },
+      {
+        "city": "Magna",
+        "county": ""
+      },
+      {
+        "city": "Mapleton",
+        "county": ""
+      },
+      {
+        "city": "Midvale",
+        "county": ""
+      },
+      {
+        "city": "Millcreek",
+        "county": ""
+      },
+      {
+        "city": "Murray",
+        "county": ""
+      },
+      {
+        "city": "North Logan",
+        "county": ""
+      },
+      {
+        "city": "North Ogden",
+        "county": ""
+      },
+      {
+        "city": "Ogden",
+        "county": ""
+      },
+      {
+        "city": "Orem",
+        "county": ""
+      },
+      {
+        "city": "Park City",
+        "county": ""
+      },
+      {
+        "city": "Payson",
+        "county": ""
+      },
+      {
+        "city": "Pleasant Grove",
+        "county": ""
+      },
+      {
+        "city": "Provo",
+        "county": ""
+      },
+      {
+        "city": "Riverton",
+        "county": ""
+      },
+      {
+        "city": "Roy",
+        "county": ""
+      },
+      {
+        "city": "Salt Lake City",
+        "county": ""
+      },
+      {
+        "city": "Sandy",
+        "county": ""
+      },
+      {
+        "city": "Santaquin",
+        "county": ""
+      },
+      {
+        "city": "South Jordan",
+        "county": ""
+      },
+      {
+        "city": "South Ogden",
+        "county": ""
+      },
+      {
+        "city": "South Salt Lake",
+        "county": ""
+      },
+      {
+        "city": "Spanish Fork",
+        "county": ""
+      },
+      {
+        "city": "Springville",
+        "county": ""
+      },
+      {
+        "city": "Taylorsville",
+        "county": ""
+      },
+      {
+        "city": "Tooele",
+        "county": ""
+      },
+      {
+        "city": "Tremonton",
+        "county": ""
+      },
+      {
+        "city": "Washington",
+        "county": ""
+      },
+      {
+        "city": "West Jordan",
+        "county": ""
+      },
+      {
+        "city": "West Valley City",
+        "county": ""
+      },
+      {
+        "city": "Woods Cross",
+        "county": ""
+      },
+      {
+        "city": "Harrisville",
+        "county": ""
+      },
+      {
+        "city": "North Salt Lake",
+        "county": ""
+      },
+      {
+        "city": "Goshen",
+        "county": ""
+      },
+      {
+        "city": "Paradise",
+        "county": ""
+      },
+      {
+        "city": "Cedar Hills",
+        "county": ""
+      },
+      {
+        "city": "Hooper",
+        "county": ""
+      },
+      {
+        "city": "Francis",
+        "county": ""
+      },
+      {
+        "city": "Saratoga Springs",
+        "county": ""
+      },
+      {
+        "city": "Richmond",
+        "county": ""
+      },
+      {
+        "city": "Providence",
+        "county": ""
+      },
+      {
+        "city": "Laketown",
+        "county": ""
+      },
+      {
+        "city": "Manila",
+        "county": ""
+      },
+      {
+        "city": "Vernon",
+        "county": ""
+      },
+      {
+        "city": "Genola",
+        "county": ""
+      },
+      {
+        "city": "Hyrum",
+        "county": ""
+      },
+      {
+        "city": "West Bountiful",
+        "county": ""
+      },
+      {
+        "city": "Cedar Fort",
+        "county": ""
+      },
+      {
+        "city": "Wallsburg",
+        "county": ""
+      },
+      {
+        "city": "Interlaken",
+        "county": ""
+      },
+      {
+        "city": "Holladay",
+        "county": ""
+      },
+      {
+        "city": "Vernal",
+        "county": ""
+      },
+      {
+        "city": "Wendover",
+        "county": ""
+      },
+      {
+        "city": "Rush Valley",
+        "county": ""
+      },
+      {
+        "city": "Scofield",
+        "county": ""
+      },
+      {
+        "city": "Smithfield",
+        "county": ""
+      },
+      {
+        "city": "Grantsville",
+        "county": ""
+      },
+      {
+        "city": "Eureka",
+        "county": ""
+      },
+      {
+        "city": "Fairfield",
+        "county": ""
+      },
+      {
+        "city": "Newton",
+        "county": ""
+      },
+      {
+        "city": "Hyde Park",
+        "county": ""
+      },
+      {
+        "city": "Elk Ridge",
+        "county": ""
+      },
+      {
+        "city": "Corinne",
+        "county": ""
+      },
+      {
+        "city": "Fielding",
+        "county": ""
+      },
+      {
+        "city": "Helper",
+        "county": ""
+      },
+      {
+        "city": "Howell",
+        "county": ""
+      },
+      {
+        "city": "Myton",
+        "county": ""
+      },
+      {
+        "city": "Ophir",
+        "county": ""
+      },
+      {
+        "city": "Roosevelt",
+        "county": ""
+      },
+      {
+        "city": "Sunset",
+        "county": ""
+      },
+      {
+        "city": "Charleston",
+        "county": ""
+      },
+      {
+        "city": "West Haven",
+        "county": ""
+      },
+      {
+        "city": "Uintah",
+        "county": ""
+      },
+      {
+        "city": "Kamas",
+        "county": ""
+      },
+      {
+        "city": "Mendon",
+        "county": ""
+      },
+      {
+        "city": "Naples",
+        "county": ""
+      },
+      {
+        "city": "Price",
+        "county": ""
+      },
+      {
+        "city": "Trenton",
+        "county": ""
+      },
+      {
+        "city": "Cottonwood",
+        "county": ""
+      },
+      {
+        "city": "Independence",
+        "county": ""
+      },
+      {
+        "city": "Cornish",
+        "county": ""
+      },
+      {
+        "city": "Highland",
+        "county": ""
+      },
+      {
+        "city": "Washington Terrace",
+        "county": ""
+      },
+      {
+        "city": "Deweyville",
+        "county": ""
+      },
+      {
+        "city": "Millville",
+        "county": ""
+      },
+      {
+        "city": "Midway",
+        "county": ""
+      },
+      {
+        "city": "Eagle Mountain",
+        "county": ""
+      },
+      {
+        "city": "Vineyard",
+        "county": ""
+      },
+      {
+        "city": "Henefer",
+        "county": ""
+      },
+      {
+        "city": "Nibley",
+        "county": ""
+      },
+      {
+        "city": "River Heights",
+        "county": ""
+      },
+      {
+        "city": "Bear River City",
+        "county": ""
+      },
+      {
+        "city": "Dutch John",
+        "county": ""
+      },
+      {
+        "city": "Pleasant View",
+        "county": ""
+      },
+      {
+        "city": "Cedar",
+        "county": ""
+      },
+      {
+        "city": "Portage",
+        "county": ""
+      },
+      {
+        "city": "Ballard",
+        "county": ""
+      },
+      {
+        "city": "Wellington",
+        "county": ""
+      },
+      {
+        "city": "Levan",
+        "county": ""
+      },
+      {
+        "city": "Wellsville",
+        "county": ""
+      },
+      {
+        "city": "Salem",
+        "county": ""
+      },
+      {
+        "city": "Oakley",
+        "county": ""
+      },
+      {
+        "city": "Garden",
+        "county": ""
+      },
+      {
+        "city": "Huntsville",
+        "county": ""
+      },
+      {
+        "city": "Rocky Ridge",
+        "county": ""
+      },
+      {
+        "city": "Woodruff",
+        "county": ""
+      },
+      {
+        "city": "Bluff",
+        "county": ""
+      },
+      {
+        "city": "Garden City",
+        "county": ""
+      },
+      {
+        "city": "Clarkston",
+        "county": ""
+      },
+      {
+        "city": "Heber City",
+        "county": ""
+      },
+      {
+        "city": "Marriott-Slaterville",
+        "county": ""
+      },
+      {
+        "city": "Randolph",
+        "county": ""
+      },
+      {
+        "city": "Woodland",
+        "county": ""
+      },
+      {
+        "city": "Daniel",
+        "county": ""
+      },
+      {
+        "city": "Hideout",
+        "county": ""
+      },
+      {
+        "city": "Mona",
+        "county": ""
+      },
+      {
+        "city": "Honeyville",
+        "county": ""
+      },
+      {
+        "city": "Alta",
+        "county": ""
+      },
+      {
+        "city": "Nephi",
+        "county": ""
+      },
+      {
+        "city": "Perry",
+        "county": ""
+      },
+      {
+        "city": "Amalga",
+        "county": ""
+      },
+      {
+        "city": "Woodland Hills",
+        "county": ""
+      },
+      {
+        "city": "Plain City",
+        "county": ""
+      },
+      {
+        "city": "Coalville",
+        "county": ""
+      },
+      {
+        "city": "Syracuse",
+        "county": ""
+      },
+      {
+        "city": "West Point",
+        "county": ""
+      },
+      {
+        "city": "Farr West",
+        "county": ""
+      },
+      {
+        "city": "Fruit Heights",
+        "county": ""
+      },
+      {
+        "city": "Mantua",
+        "county": ""
+      },
+      {
+        "city": "Tabiona",
+        "county": ""
+      },
+      {
+        "city": "Willard",
+        "county": ""
+      },
+      {
+        "city": "Lewiston",
+        "county": ""
+      },
+      {
+        "city": "Lindon",
+        "county": ""
+      },
+      {
+        "city": "Stockton",
+        "county": ""
+      },
+      {
+        "city": "Herriman",
+        "county": ""
+      },
+      {
+        "city": "Garland",
+        "county": ""
+      },
+      {
+        "city": "Plymouth",
+        "county": ""
+      },
+      {
+        "city": "Duchesne",
+        "county": ""
+      },
+      {
+        "city": "Riverdale",
+        "county": ""
+      },
+      {
+        "city": "Elwood",
+        "county": ""
+      },
+      {
+        "city": "South Weber",
+        "county": ""
+      },
+      {
+        "city": "Snowville",
+        "county": ""
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "region": "UT - South",
+    "cities": [
+      {
+        "city": "Castle Dale",
+        "county": ""
+      },
+      {
+        "city": "Cedar City",
+        "county": ""
+      },
+      {
+        "city": "Ivins",
+        "county": ""
+      },
+      {
+        "city": "Moab",
+        "county": ""
+      },
+      {
+        "city": "Monticello",
+        "county": ""
+      },
+      {
+        "city": "Panguitch",
+        "county": ""
+      },
+      {
+        "city": "Hildale",
+        "county": ""
+      },
+      {
+        "city": "Central Valley",
+        "county": ""
+      },
+      {
+        "city": "Minersville",
+        "county": ""
+      },
+      {
+        "city": "Enoch",
+        "county": ""
+      },
+      {
+        "city": "Tropic",
+        "county": ""
+      },
+      {
+        "city": "Kanarraville",
+        "county": ""
+      },
+      {
+        "city": "Big Water",
+        "county": ""
+      },
+      {
+        "city": "Mount Pleasant",
+        "county": ""
+      },
+      {
+        "city": "Wales",
+        "county": ""
+      },
+      {
+        "city": "Clawson",
+        "county": ""
+      },
+      {
+        "city": "New Harmony",
+        "county": ""
+      },
+      {
+        "city": "Hinckley",
+        "county": ""
+      },
+      {
+        "city": "Marysvale",
+        "county": ""
+      },
+      {
+        "city": "Oak City",
+        "county": ""
+      },
+      {
+        "city": "Hurricane",
+        "county": ""
+      },
+      {
+        "city": "Toquerville",
+        "county": ""
+      },
+      {
+        "city": "Emery",
+        "county": ""
+      },
+      {
+        "city": "Monroe",
+        "county": ""
+      },
+      {
+        "city": "Sigurd",
+        "county": ""
+      },
+      {
+        "city": "Lyman",
+        "county": ""
+      },
+      {
+        "city": "Apple Valley",
+        "county": ""
+      },
+      {
+        "city": "Green River",
+        "county": ""
+      },
+      {
+        "city": "Spring City",
+        "county": ""
+      },
+      {
+        "city": "Moroni",
+        "county": ""
+      },
+      {
+        "city": "Joseph",
+        "county": ""
+      },
+      {
+        "city": "Hatch",
+        "county": ""
+      },
+      {
+        "city": "Scipio",
+        "county": ""
+      },
+      {
+        "city": "Junction",
+        "county": ""
+      },
+      {
+        "city": "Manti",
+        "county": ""
+      },
+      {
+        "city": "Fountain Green",
+        "county": ""
+      },
+      {
+        "city": "Orangeville",
+        "county": ""
+      },
+      {
+        "city": "Huntington",
+        "county": ""
+      },
+      {
+        "city": "Glendale",
+        "county": ""
+      },
+      {
+        "city": "Fayette",
+        "county": ""
+      },
+      {
+        "city": "Delta",
+        "county": ""
+      },
+      {
+        "city": "Rockville",
+        "county": ""
+      },
+      {
+        "city": "Bryce Canyon City",
+        "county": ""
+      },
+      {
+        "city": "Escalante",
+        "county": ""
+      },
+      {
+        "city": "Enterprise",
+        "county": ""
+      },
+      {
+        "city": "Ephraim",
+        "county": ""
+      },
+      {
+        "city": "Alton",
+        "county": ""
+      },
+      {
+        "city": "Kanosh",
+        "county": ""
+      },
+      {
+        "city": "Lynn",
+        "county": ""
+      },
+      {
+        "city": "Kingston",
+        "county": ""
+      },
+      {
+        "city": "Glenwood",
+        "county": ""
+      },
+      {
+        "city": "Parowan",
+        "county": ""
+      },
+      {
+        "city": "Gunnison",
+        "county": ""
+      },
+      {
+        "city": "Redmond",
+        "county": ""
+      },
+      {
+        "city": "Leamington",
+        "county": ""
+      },
+      {
+        "city": "Aurora",
+        "county": ""
+      },
+      {
+        "city": "Leeds",
+        "county": ""
+      },
+      {
+        "city": "Paragonah",
+        "county": ""
+      },
+      {
+        "city": "Sterling",
+        "county": ""
+      },
+      {
+        "city": "Central",
+        "county": ""
+      },
+      {
+        "city": "Circleville",
+        "county": ""
+      },
+      {
+        "city": "Meadow",
+        "county": ""
+      },
+      {
+        "city": "Beaver",
+        "county": ""
+      },
+      {
+        "city": "Loa",
+        "county": ""
+      },
+      {
+        "city": "Santa Clara",
+        "county": ""
+      },
+      {
+        "city": "Fillmore",
+        "county": ""
+      },
+      {
+        "city": "Cleveland",
+        "county": ""
+      },
+      {
+        "city": "Castle Valley",
+        "county": ""
+      },
+      {
+        "city": "Blanding",
+        "county": ""
+      },
+      {
+        "city": "Fairview",
+        "county": ""
+      },
+      {
+        "city": "Centerfield",
+        "county": ""
+      },
+      {
+        "city": "Henrieville",
+        "county": ""
+      },
+      {
+        "city": "Hanksville",
+        "county": ""
+      },
+      {
+        "city": "Milford",
+        "county": ""
+      },
+      {
+        "city": "Torrey",
+        "county": ""
+      },
+      {
+        "city": "Elmo",
+        "county": ""
+      },
+      {
+        "city": "Holden",
+        "county": ""
+      },
+      {
+        "city": "Annabella",
+        "county": ""
+      },
+      {
+        "city": "Brian Head",
+        "county": ""
+      },
+      {
+        "city": "Cannonville",
+        "county": ""
+      },
+      {
+        "city": "Antimony",
+        "county": ""
+      },
+      {
+        "city": "Salina",
+        "county": ""
+      },
+      {
+        "city": "Bryce Canyon",
+        "county": ""
+      },
+      {
+        "city": "Orderville",
+        "county": ""
+      },
+      {
+        "city": "Richfield",
+        "county": ""
+      },
+      {
+        "city": "Ferron",
+        "county": ""
+      },
+      {
+        "city": "Koosharem",
+        "county": ""
+      },
+      {
+        "city": "Bicknell",
+        "county": ""
+      },
+      {
+        "city": "Lynndyl",
+        "county": ""
+      },
+      {
+        "city": "Springdale",
+        "county": ""
+      },
+      {
+        "city": "Virgin",
+        "county": ""
+      },
+      {
+        "city": "Elsinore",
+        "county": ""
+      },
+      {
+        "city": "Morgan",
+        "county": ""
+      },
+      {
+        "city": "Kanab",
+        "county": ""
+      },
+      {
+        "city": "Mayfield",
+        "county": ""
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "region": "ID",
+    "cities": [
+      {
+        "city": "Blackfoot",
+        "county": ""
+      },
+      {
+        "city": "Boise",
+        "county": ""
+      },
+      {
+        "city": "Boise City",
+        "county": ""
+      },
+      {
+        "city": "Boulder Hill",
+        "county": ""
+      },
+      {
+        "city": "Burley",
+        "county": ""
+      },
+      {
+        "city": "Caldwell",
+        "county": ""
+      },
+      {
+        "city": "Coeur d'Alene",
+        "county": ""
+      },
+      {
+        "city": "Eagle",
+        "county": ""
+      },
+      {
+        "city": "Garden City",
+        "county": ""
+      },
+      {
+        "city": "Idaho Falls",
+        "county": ""
+      },
+      {
+        "city": "Lewiston",
+        "county": ""
+      },
+      {
+        "city": "Meridian",
+        "county": ""
+      },
+      {
+        "city": "Moscow",
+        "county": ""
+      },
+      {
+        "city": "Mountain Home",
+        "county": ""
+      },
+      {
+        "city": "Nampa",
+        "county": ""
+      },
+      {
+        "city": "Payette",
+        "county": ""
+      },
+      {
+        "city": "Pocatello",
+        "county": ""
+      },
+      {
+        "city": "Post Falls",
+        "county": ""
+      },
+      {
+        "city": "Preston",
+        "county": ""
+      },
+      {
+        "city": "Rexburg",
+        "county": ""
+      },
+      {
+        "city": "Rigby",
+        "county": ""
+      },
+      {
+        "city": "Sandpoint",
+        "county": ""
+      },
+      {
+        "city": "Troy",
+        "county": ""
+      },
+      {
+        "city": "Twin Falls",
+        "county": ""
+      },
+      {
+        "city": "Porthill",
+        "county": ""
+      },
+      {
+        "city": "Strevell",
+        "county": ""
+      },
+      {
+        "city": "Clover",
+        "county": ""
+      },
+      {
+        "city": "Saint Maries",
+        "county": ""
+      },
+      {
+        "city": "Kellogg",
+        "county": ""
+      },
+      {
+        "city": "Berenice",
+        "county": ""
+      },
+      {
+        "city": "Atlanta",
+        "county": ""
+      },
+      {
+        "city": "Nordman",
+        "county": ""
+      },
+      {
+        "city": "Lemhi",
+        "county": ""
+      },
+      {
+        "city": "Chilly",
+        "county": ""
+      },
+      {
+        "city": "Henry",
+        "county": ""
+      },
+      {
+        "city": "Chesterfield",
+        "county": ""
+      },
+      {
+        "city": "Parker",
+        "county": ""
+      },
+      {
+        "city": "Sugar City",
+        "county": ""
+      },
+      {
+        "city": "Murtaugh",
+        "county": ""
+      },
+      {
+        "city": "Challis",
+        "county": ""
+      },
+      {
+        "city": "Lakeview",
+        "county": ""
+      },
+      {
+        "city": "Notus",
+        "county": ""
+      },
+      {
+        "city": "Winchester",
+        "county": ""
+      },
+      {
+        "city": "Malad City",
+        "county": ""
+      },
+      {
+        "city": "Riggins",
+        "county": ""
+      },
+      {
+        "city": "Eden",
+        "county": ""
+      },
+      {
+        "city": "Avery",
+        "county": ""
+      },
+      {
+        "city": "Hailey",
+        "county": ""
+      },
+      {
+        "city": "Rockland",
+        "county": ""
+      },
+      {
+        "city": "Greer",
+        "county": ""
+      },
+      {
+        "city": "Freedom",
+        "county": ""
+      },
+      {
+        "city": "Thama",
+        "county": ""
+      },
+      {
+        "city": "Craigmont",
+        "county": ""
+      },
+      {
+        "city": "Irwin",
+        "county": ""
+      },
+      {
+        "city": "Ucon",
+        "county": ""
+      },
+      {
+        "city": "Sunbeam",
+        "county": ""
+      },
+      {
+        "city": "Spencer",
+        "county": ""
+      },
+      {
+        "city": "Rockford Bay",
+        "county": ""
+      },
+      {
+        "city": "Blanchard",
+        "county": ""
+      },
+      {
+        "city": "Greenleaf",
+        "county": ""
+      },
+      {
+        "city": "Border",
+        "county": ""
+      },
+      {
+        "city": "Wardner",
+        "county": ""
+      },
+      {
+        "city": "Victor",
+        "county": ""
+      },
+      {
+        "city": "Copeland",
+        "county": ""
+      },
+      {
+        "city": "Thornton",
+        "county": ""
+      },
+      {
+        "city": "Daniels",
+        "county": ""
+      },
+      {
+        "city": "Ellis",
+        "county": ""
+      },
+      {
+        "city": "Basin",
+        "county": ""
+      },
+      {
+        "city": "Crouch",
+        "county": ""
+      },
+      {
+        "city": "Felt",
+        "county": ""
+      },
+      {
+        "city": "Deary",
+        "county": ""
+      },
+      {
+        "city": "State Line Village",
+        "county": ""
+      },
+      {
+        "city": "Gannett",
+        "county": ""
+      },
+      {
+        "city": "Edmonds",
+        "county": ""
+      },
+      {
+        "city": "Hill City",
+        "county": ""
+      },
+      {
+        "city": "Swan Valley",
+        "county": ""
+      },
+      {
+        "city": "Priest River",
+        "county": ""
+      },
+      {
+        "city": "Menan",
+        "county": ""
+      },
+      {
+        "city": "Albion",
+        "county": ""
+      },
+      {
+        "city": "Kootenai",
+        "county": ""
+      },
+      {
+        "city": "Clark Fork",
+        "county": ""
+      },
+      {
+        "city": "Three Creek",
+        "county": ""
+      },
+      {
+        "city": "Lund",
+        "county": ""
+      },
+      {
+        "city": "Sharon",
+        "county": ""
+      },
+      {
+        "city": "Samaria",
+        "county": ""
+      },
+      {
+        "city": "Smelterville",
+        "county": ""
+      },
+      {
+        "city": "Roseworth",
+        "county": ""
+      },
+      {
+        "city": "Raymond",
+        "county": ""
+      },
+      {
+        "city": "Clayton",
+        "county": ""
+      },
+      {
+        "city": "Almo",
+        "county": ""
+      },
+      {
+        "city": "Tetonia",
+        "county": ""
+      },
+      {
+        "city": "Hamer",
+        "county": ""
+      },
+      {
+        "city": "Kendrick",
+        "county": ""
+      },
+      {
+        "city": "Kooskia",
+        "county": ""
+      },
+      {
+        "city": "Sweet",
+        "county": ""
+      },
+      {
+        "city": "Acequia",
+        "county": ""
+      },
+      {
+        "city": "Butte City",
+        "county": ""
+      },
+      {
+        "city": "Grangeville",
+        "county": ""
+      },
+      {
+        "city": "Leslie",
+        "county": ""
+      },
+      {
+        "city": "Smiths Ferry",
+        "county": ""
+      },
+      {
+        "city": "Myrtle",
+        "county": ""
+      },
+      {
+        "city": "Pinehurst",
+        "county": ""
+      },
+      {
+        "city": "Helmer",
+        "county": ""
+      },
+      {
+        "city": "Chatcolet",
+        "county": ""
+      },
+      {
+        "city": "Tyhee",
+        "county": ""
+      },
+      {
+        "city": "Buist",
+        "county": ""
+      },
+      {
+        "city": "Weippe",
+        "county": ""
+      },
+      {
+        "city": "Lewiston Orchards",
+        "county": ""
+      },
+      {
+        "city": "Huston",
+        "county": ""
+      },
+      {
+        "city": "Burgdorf",
+        "county": ""
+      },
+      {
+        "city": "McCall",
+        "county": ""
+      },
+      {
+        "city": "Barber",
+        "county": ""
+      },
+      {
+        "city": "Whitney",
+        "county": ""
+      },
+      {
+        "city": "Grace",
+        "county": ""
+      },
+      {
+        "city": "Horseshoe Bend",
+        "county": ""
+      },
+      {
+        "city": "Robin",
+        "county": ""
+      },
+      {
+        "city": "Lost River",
+        "county": ""
+      },
+      {
+        "city": "Lake Fork",
+        "county": ""
+      },
+      {
+        "city": "Holbrook",
+        "county": ""
+      },
+      {
+        "city": "Montpelier",
+        "county": ""
+      },
+      {
+        "city": "Bancroft",
+        "county": ""
+      },
+      {
+        "city": "Council",
+        "county": ""
+      },
+      {
+        "city": "Hayden Lake",
+        "county": ""
+      },
+      {
+        "city": "Stanley",
+        "county": ""
+      },
+      {
+        "city": "Fruitland",
+        "county": ""
+      },
+      {
+        "city": "Sublett",
+        "county": ""
+      },
+      {
+        "city": "Rathdrum",
+        "county": ""
+      },
+      {
+        "city": "Hatch",
+        "county": ""
+      },
+      {
+        "city": "Juliaetta",
+        "county": ""
+      },
+      {
+        "city": "White Bird",
+        "county": ""
+      },
+      {
+        "city": "Hot Springs",
+        "county": ""
+      },
+      {
+        "city": "Gilmore",
+        "county": ""
+      },
+      {
+        "city": "De Smet",
+        "county": ""
+      },
+      {
+        "city": "Homedale",
+        "county": ""
+      },
+      {
+        "city": "Stone",
+        "county": ""
+      },
+      {
+        "city": "New Meadows",
+        "county": ""
+      },
+      {
+        "city": "Spirit Lake",
+        "county": ""
+      },
+      {
+        "city": "Moyie Springs",
+        "county": ""
+      },
+      {
+        "city": "Lucile",
+        "county": ""
+      },
+      {
+        "city": "Hollister",
+        "county": ""
+      },
+      {
+        "city": "Paul",
+        "county": ""
+      },
+      {
+        "city": "Harpster",
+        "county": ""
+      },
+      {
+        "city": "Ammon",
+        "county": ""
+      },
+      {
+        "city": "Middleton",
+        "county": ""
+      },
+      {
+        "city": "Careywood",
+        "county": ""
+      },
+      {
+        "city": "Fernan Lake Village",
+        "county": ""
+      },
+      {
+        "city": "Bliss",
+        "county": ""
+      },
+      {
+        "city": "Elk River",
+        "county": ""
+      },
+      {
+        "city": "Bowmont",
+        "county": ""
+      },
+      {
+        "city": "Byrne",
+        "county": ""
+      },
+      {
+        "city": "Hammett",
+        "county": ""
+      },
+      {
+        "city": "Mesa",
+        "county": ""
+      },
+      {
+        "city": "Placerville",
+        "county": ""
+      },
+      {
+        "city": "Lincoln",
+        "county": ""
+      },
+      {
+        "city": "Pegram",
+        "county": ""
+      },
+      {
+        "city": "Lapwai",
+        "county": ""
+      },
+      {
+        "city": "Humphrey",
+        "county": ""
+      },
+      {
+        "city": "Grasmere",
+        "county": ""
+      },
+      {
+        "city": "Plummer",
+        "county": ""
+      },
+      {
+        "city": "Lava Hot Springs",
+        "county": ""
+      },
+      {
+        "city": "Gifford",
+        "county": ""
+      },
+      {
+        "city": "Red River Hot Springs",
+        "county": ""
+      },
+      {
+        "city": "Oldtown",
+        "county": ""
+      },
+      {
+        "city": "Fort Hall",
+        "county": ""
+      },
+      {
+        "city": "Bovill",
+        "county": ""
+      },
+      {
+        "city": "Letha",
+        "county": ""
+      },
+      {
+        "city": "Stites",
+        "county": ""
+      },
+      {
+        "city": "Kimberly",
+        "county": ""
+      },
+      {
+        "city": "Downey",
+        "county": ""
+      },
+      {
+        "city": "Parma",
+        "county": ""
+      },
+      {
+        "city": "Osgood",
+        "county": ""
+      },
+      {
+        "city": "Naples",
+        "county": ""
+      },
+      {
+        "city": "Coolin",
+        "county": ""
+      },
+      {
+        "city": "Patterson",
+        "county": ""
+      },
+      {
+        "city": "Moreland",
+        "county": ""
+      },
+      {
+        "city": "Murphy",
+        "county": ""
+      },
+      {
+        "city": "Virginia",
+        "county": ""
+      },
+      {
+        "city": "Santa",
+        "county": ""
+      },
+      {
+        "city": "Cambridge",
+        "county": ""
+      },
+      {
+        "city": "Leadore",
+        "county": ""
+      },
+      {
+        "city": "Pierce",
+        "county": ""
+      },
+      {
+        "city": "Featherville",
+        "county": ""
+      },
+      {
+        "city": "Fruitvale",
+        "county": ""
+      },
+      {
+        "city": "Bone",
+        "county": ""
+      },
+      {
+        "city": "Owyhee",
+        "county": ""
+      },
+      {
+        "city": "Bridge",
+        "county": ""
+      },
+      {
+        "city": "Midvale",
+        "county": ""
+      },
+      {
+        "city": "Groveland",
+        "county": ""
+      },
+      {
+        "city": "Sweetwater",
+        "county": ""
+      },
+      {
+        "city": "Algoma",
+        "county": ""
+      },
+      {
+        "city": "Weston",
+        "county": ""
+      },
+      {
+        "city": "Glenwood",
+        "county": ""
+      },
+      {
+        "city": "Cottonwood",
+        "county": ""
+      },
+      {
+        "city": "Rupert",
+        "county": ""
+      },
+      {
+        "city": "Emida",
+        "county": ""
+      },
+      {
+        "city": "Shoshone",
+        "county": ""
+      },
+      {
+        "city": "Paris",
+        "county": ""
+      },
+      {
+        "city": "Carey",
+        "county": ""
+      },
+      {
+        "city": "Idaho City",
+        "county": ""
+      },
+      {
+        "city": "Reubens",
+        "county": ""
+      },
+      {
+        "city": "Mink Creek",
+        "county": ""
+      },
+      {
+        "city": "Gibbonsville",
+        "county": ""
+      },
+      {
+        "city": "Big Springs",
+        "county": ""
+      },
+      {
+        "city": "Athol",
+        "county": ""
+      },
+      {
+        "city": "Lewisville",
+        "county": ""
+      },
+      {
+        "city": "North Fork",
+        "county": ""
+      },
+      {
+        "city": "Crystal",
+        "county": ""
+      },
+      {
+        "city": "Kuna",
+        "county": ""
+      },
+      {
+        "city": "Soda Springs",
+        "county": ""
+      },
+      {
+        "city": "Riddle",
+        "county": ""
+      },
+      {
+        "city": "Conkling Park",
+        "county": ""
+      },
+      {
+        "city": "Moore",
+        "county": ""
+      },
+      {
+        "city": "Kamiah",
+        "county": ""
+      },
+      {
+        "city": "Prairie",
+        "county": ""
+      },
+      {
+        "city": "Marion",
+        "county": ""
+      },
+      {
+        "city": "Palisades",
+        "county": ""
+      },
+      {
+        "city": "Darlington",
+        "county": ""
+      },
+      {
+        "city": "Jerome",
+        "county": ""
+      },
+      {
+        "city": "Grant",
+        "county": ""
+      },
+      {
+        "city": "Bennington",
+        "county": ""
+      },
+      {
+        "city": "Terreton",
+        "county": ""
+      },
+      {
+        "city": "Thatcher",
+        "county": ""
+      },
+      {
+        "city": "Arbon",
+        "county": ""
+      },
+      {
+        "city": "New Plymouth",
+        "county": ""
+      },
+      {
+        "city": "Basalt",
+        "county": ""
+      },
+      {
+        "city": "Drummond",
+        "county": ""
+      },
+      {
+        "city": "Tensed",
+        "county": ""
+      },
+      {
+        "city": "Peck",
+        "county": ""
+      },
+      {
+        "city": "Rockford",
+        "county": ""
+      },
+      {
+        "city": "Niter",
+        "county": ""
+      },
+      {
+        "city": "Big Creek",
+        "county": ""
+      },
+      {
+        "city": "Picabo",
+        "county": ""
+      },
+      {
+        "city": "Hansen",
+        "county": ""
+      },
+      {
+        "city": "Potlatch",
+        "county": ""
+      },
+      {
+        "city": "Donnelly",
+        "county": ""
+      },
+      {
+        "city": "Iona",
+        "county": ""
+      },
+      {
+        "city": "Ponderay",
+        "county": ""
+      },
+      {
+        "city": "Aberdeen",
+        "county": ""
+      },
+      {
+        "city": "McCammon",
+        "county": ""
+      },
+      {
+        "city": "Clementsville",
+        "county": ""
+      },
+      {
+        "city": "Gooding",
+        "county": ""
+      },
+      {
+        "city": "Pearl",
+        "county": ""
+      },
+      {
+        "city": "Shoup",
+        "county": ""
+      },
+      {
+        "city": "Firth",
+        "county": ""
+      },
+      {
+        "city": "Meadows",
+        "county": ""
+      },
+      {
+        "city": "Eastport",
+        "county": ""
+      },
+      {
+        "city": "Orofino",
+        "county": ""
+      },
+      {
+        "city": "Wendell",
+        "county": ""
+      },
+      {
+        "city": "Salmon",
+        "county": ""
+      },
+      {
+        "city": "Melba",
+        "county": ""
+      },
+      {
+        "city": "Warm River",
+        "county": ""
+      },
+      {
+        "city": "Gem",
+        "county": ""
+      },
+      {
+        "city": "Princeton",
+        "county": ""
+      },
+      {
+        "city": "Ovid",
+        "county": ""
+      },
+      {
+        "city": "Mayfield",
+        "county": ""
+      },
+      {
+        "city": "Huetter",
+        "county": ""
+      },
+      {
+        "city": "Glenns Ferry",
+        "county": ""
+      },
+      {
+        "city": "Ola",
+        "county": ""
+      },
+      {
+        "city": "Wilder",
+        "county": ""
+      },
+      {
+        "city": "Cobalt",
+        "county": ""
+      },
+      {
+        "city": "Harrison",
+        "county": ""
+      },
+      {
+        "city": "Cleveland",
+        "county": ""
+      },
+      {
+        "city": "Gwenford",
+        "county": ""
+      },
+      {
+        "city": "Elk City",
+        "county": ""
+      },
+      {
+        "city": "Elba",
+        "county": ""
+      },
+      {
+        "city": "Nezperce",
+        "county": ""
+      },
+      {
+        "city": "Fenn",
+        "county": ""
+      },
+      {
+        "city": "Oakley",
+        "county": ""
+      },
+      {
+        "city": "Rose Lake",
+        "county": ""
+      },
+      {
+        "city": "Hope",
+        "county": ""
+      },
+      {
+        "city": "Georgetown",
+        "county": ""
+      },
+      {
+        "city": "Montour",
+        "county": ""
+      },
+      {
+        "city": "Rogerson",
+        "county": ""
+      },
+      {
+        "city": "Woodruff",
+        "county": ""
+      },
+      {
+        "city": "Wayan",
+        "county": ""
+      },
+      {
+        "city": "Fairview",
+        "county": ""
+      },
+      {
+        "city": "Oxford",
+        "county": ""
+      },
+      {
+        "city": "Buhl",
+        "county": ""
+      },
+      {
+        "city": "East Hope",
+        "county": ""
+      },
+      {
+        "city": "Banks",
+        "county": ""
+      },
+      {
+        "city": "Carmen",
+        "county": ""
+      },
+      {
+        "city": "Mackay",
+        "county": ""
+      },
+      {
+        "city": "Geneva",
+        "county": ""
+      },
+      {
+        "city": "Spalding",
+        "county": ""
+      },
+      {
+        "city": "Hauser",
+        "county": ""
+      },
+      {
+        "city": "Lenore",
+        "county": ""
+      },
+      {
+        "city": "Pine",
+        "county": ""
+      },
+      {
+        "city": "Hayden",
+        "county": ""
+      },
+      {
+        "city": "Lorenzo",
+        "county": ""
+      },
+      {
+        "city": "Bloomington",
+        "county": ""
+      },
+      {
+        "city": "Sterling",
+        "county": ""
+      },
+      {
+        "city": "Filer",
+        "county": ""
+      },
+      {
+        "city": "Bellevue",
+        "county": ""
+      },
+      {
+        "city": "Cuprum",
+        "county": ""
+      },
+      {
+        "city": "Atomic City",
+        "county": ""
+      },
+      {
+        "city": "Inkom",
+        "county": ""
+      },
+      {
+        "city": "Cocolalla",
+        "county": ""
+      },
+      {
+        "city": "Heyburn",
+        "county": ""
+      },
+      {
+        "city": "Garden Valley",
+        "county": ""
+      },
+      {
+        "city": "Declo",
+        "county": ""
+      },
+      {
+        "city": "Headquarters",
+        "county": ""
+      },
+      {
+        "city": "Roberts",
+        "county": ""
+      },
+      {
+        "city": "Saint Joe",
+        "county": ""
+      },
+      {
+        "city": "Dubois",
+        "county": ""
+      },
+      {
+        "city": "Lowman",
+        "county": ""
+      },
+      {
+        "city": "Dalton Gardens",
+        "county": ""
+      },
+      {
+        "city": "Newdale",
+        "county": ""
+      },
+      {
+        "city": "American Falls",
+        "county": ""
+      },
+      {
+        "city": "Hagerman",
+        "county": ""
+      },
+      {
+        "city": "Warren",
+        "county": ""
+      },
+      {
+        "city": "Banida",
+        "county": ""
+      },
+      {
+        "city": "Enaville",
+        "county": ""
+      },
+      {
+        "city": "Swanlake",
+        "county": ""
+      },
+      {
+        "city": "Onaway",
+        "county": ""
+      },
+      {
+        "city": "Riverside",
+        "county": ""
+      },
+      {
+        "city": "Burke",
+        "county": ""
+      },
+      {
+        "city": "Lamont",
+        "county": ""
+      },
+      {
+        "city": "Teton",
+        "county": ""
+      },
+      {
+        "city": "Conda",
+        "county": ""
+      },
+      {
+        "city": "Tuttle",
+        "county": ""
+      },
+      {
+        "city": "King Hill",
+        "county": ""
+      },
+      {
+        "city": "Gray",
+        "county": ""
+      },
+      {
+        "city": "Orchard",
+        "county": ""
+      },
+      {
+        "city": "Yellow Pine",
+        "county": ""
+      },
+      {
+        "city": "Baker",
+        "county": ""
+      },
+      {
+        "city": "Cascade",
+        "county": ""
+      },
+      {
+        "city": "Chester",
+        "county": ""
+      },
+      {
+        "city": "Star",
+        "county": ""
+      },
+      {
+        "city": "Kilgore",
+        "county": ""
+      },
+      {
+        "city": "Parkline",
+        "county": ""
+      },
+      {
+        "city": "Castleford",
+        "county": ""
+      },
+      {
+        "city": "Camas",
+        "county": ""
+      },
+      {
+        "city": "Sun Valley",
+        "county": ""
+      },
+      {
+        "city": "Genesee",
+        "county": ""
+      },
+      {
+        "city": "Roy",
+        "county": ""
+      },
+      {
+        "city": "Fernwood",
+        "county": ""
+      },
+      {
+        "city": "Marsing",
+        "county": ""
+      },
+      {
+        "city": "Shelley",
+        "county": ""
+      },
+      {
+        "city": "Wallace",
+        "county": ""
+      },
+      {
+        "city": "Osburn",
+        "county": ""
+      },
+      {
+        "city": "Fairfield",
+        "county": ""
+      },
+      {
+        "city": "Pollock",
+        "county": ""
+      },
+      {
+        "city": "Hazelton",
+        "county": ""
+      },
+      {
+        "city": "Island Park",
+        "county": ""
+      },
+      {
+        "city": "Richfield",
+        "county": ""
+      },
+      {
+        "city": "Ketchum",
+        "county": ""
+      },
+      {
+        "city": "Saint Anthony",
+        "county": ""
+      },
+      {
+        "city": "Arimo",
+        "county": ""
+      },
+      {
+        "city": "Colburn",
+        "county": ""
+      },
+      {
+        "city": "Dayton",
+        "county": ""
+      },
+      {
+        "city": "Dietrich",
+        "county": ""
+      },
+      {
+        "city": "Arco",
+        "county": ""
+      },
+      {
+        "city": "Mullan",
+        "county": ""
+      },
+      {
+        "city": "Bruneau",
+        "county": ""
+      },
+      {
+        "city": "Driggs",
+        "county": ""
+      },
+      {
+        "city": "Nounan",
+        "county": ""
+      },
+      {
+        "city": "Ririe",
+        "county": ""
+      },
+      {
+        "city": "Weiser",
+        "county": ""
+      },
+      {
+        "city": "Franklin",
+        "county": ""
+      },
+      {
+        "city": "Bayview",
+        "county": ""
+      },
+      {
+        "city": "Ashton",
+        "county": ""
+      },
+      {
+        "city": "Dixie",
+        "county": ""
+      },
+      {
+        "city": "Murray",
+        "county": ""
+      },
+      {
+        "city": "Silver City",
+        "county": ""
+      },
+      {
+        "city": "Grand View",
+        "county": ""
+      },
+      {
+        "city": "Idmon",
+        "county": ""
+      },
+      {
+        "city": "Heglar",
+        "county": ""
+      },
+      {
+        "city": "Worley",
+        "county": ""
+      },
+      {
+        "city": "Springdale",
+        "county": ""
+      },
+      {
+        "city": "Chubbuck",
+        "county": ""
+      },
+      {
+        "city": "Malta",
+        "county": ""
+      },
+      {
+        "city": "Ferdinand",
+        "county": ""
+      },
+      {
+        "city": "Springfield",
+        "county": ""
+      },
+      {
+        "city": "Elmira",
+        "county": ""
+      },
+      {
+        "city": "Saint Charles",
+        "county": ""
+      },
+      {
+        "city": "May",
+        "county": ""
+      },
+      {
+        "city": "Fish Haven",
+        "county": ""
+      },
+      {
+        "city": "Bonners Ferry",
+        "county": ""
+      },
+      {
+        "city": "Monteview",
+        "county": ""
+      },
+      {
+        "city": "Mud Lake",
+        "county": ""
+      },
+      {
+        "city": "Gardena",
+        "county": ""
+      },
+      {
+        "city": "Culdesac",
+        "county": ""
+      },
+      {
+        "city": "Emmett",
+        "county": ""
+      },
+      {
+        "city": "Dover",
+        "county": ""
+      },
+      {
+        "city": "Indian Valley",
+        "county": ""
+      },
+      {
+        "city": "Grouse",
+        "county": ""
+      },
+      {
+        "city": "Minidoka",
+        "county": ""
+      },
+      {
+        "city": "Clifton",
+        "county": ""
+      },
+      {
+        "city": "Oreana",
+        "county": ""
+      },
+      {
+        "city": "Turner",
+        "county": ""
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "region": "CO",
+    "cities": [
+      {
+        "city": "Air Force Academy",
+        "county": ""
+      },
+      {
+        "city": "Alamosa",
+        "county": ""
+      },
+      {
+        "city": "Applewood",
+        "county": ""
+      },
+      {
+        "city": "Arvada",
+        "county": ""
+      },
+      {
+        "city": "Aspen",
+        "county": ""
+      },
+      {
+        "city": "Aurora",
+        "county": ""
+      },
+      {
+        "city": "Avon",
+        "county": ""
+      },
+      {
+        "city": "Basalt",
+        "county": ""
+      },
+      {
+        "city": "Bellvue",
+        "county": ""
+      },
+      {
+        "city": "Black Forest",
+        "county": ""
+      },
+      {
+        "city": "Boulder",
+        "county": ""
+      },
+      {
+        "city": "Brighton",
+        "county": ""
+      },
+      {
+        "city": "Broomfield",
+        "county": ""
+      },
+      {
+        "city": "Canon City",
+        "county": ""
+      },
+      {
+        "city": "Carbondale",
+        "county": ""
+      },
+      {
+        "city": "Castle Rock",
+        "county": ""
+      },
+      {
+        "city": "Castlewood",
+        "county": ""
+      },
+      {
+        "city": "Centennial",
+        "county": ""
+      },
+      {
+        "city": "Cimarron Hills",
+        "county": ""
+      },
+      {
+        "city": "Clifton",
+        "county": ""
+      },
+      {
+        "city": "Colorado Springs",
+        "county": ""
+      },
+      {
+        "city": "Columbine",
+        "county": ""
+      },
+      {
+        "city": "Commerce City",
+        "county": ""
+      },
+      {
+        "city": "Cortez",
+        "county": ""
+      },
+      {
+        "city": "Crawford",
+        "county": ""
+      },
+      {
+        "city": "Denver",
+        "county": ""
+      },
+      {
+        "city": "Durango",
+        "county": ""
+      },
+      {
+        "city": "Edwards",
+        "county": ""
+      },
+      {
+        "city": "Elizabeth",
+        "county": ""
+      },
+      {
+        "city": "Englewood",
+        "county": ""
+      },
+      {
+        "city": "Estes Park",
+        "county": ""
+      },
+      {
+        "city": "Evergreen",
+        "county": ""
+      },
+      {
+        "city": "Federal Heights",
+        "county": ""
+      },
+      {
+        "city": "Fort Carson",
+        "county": ""
+      },
+      {
+        "city": "Fort Collins",
+        "county": ""
+      },
+      {
+        "city": "Fort Morgan",
+        "county": ""
+      },
+      {
+        "city": "Fountain",
+        "county": ""
+      },
+      {
+        "city": "Golden",
+        "county": ""
+      },
+      {
+        "city": "Grand Junction",
+        "county": ""
+      },
+      {
+        "city": "Greeley",
+        "county": ""
+      },
+      {
+        "city": "Greenwood Village",
+        "county": ""
+      },
+      {
+        "city": "Gunbarrel",
+        "county": ""
+      },
+      {
+        "city": "Highlands Ranch",
+        "county": ""
+      },
+      {
+        "city": "Holly",
+        "county": ""
+      },
+      {
+        "city": "Ken Caryl",
+        "county": ""
+      },
+      {
+        "city": "Lafayette",
+        "county": ""
+      },
+      {
+        "city": "Lakewood",
+        "county": ""
+      },
+      {
+        "city": "Littleton",
+        "county": ""
+      },
+      {
+        "city": "Longmont",
+        "county": ""
+      },
+      {
+        "city": "Louisville",
+        "county": ""
+      },
+      {
+        "city": "Loveland",
+        "county": ""
+      },
+      {
+        "city": "Lyons",
+        "county": ""
+      },
+      {
+        "city": "Montrose",
+        "county": ""
+      },
+      {
+        "city": "Monument",
+        "county": ""
+      },
+      {
+        "city": "Nederland",
+        "county": ""
+      },
+      {
+        "city": "Niwot",
+        "county": ""
+      },
+      {
+        "city": "Northglenn",
+        "county": ""
+      },
+      {
+        "city": "Pagosa Springs",
+        "county": ""
+      },
+      {
+        "city": "Parker",
+        "county": ""
+      },
+      {
+        "city": "Penrose",
+        "county": ""
+      },
+      {
+        "city": "Peyton",
+        "county": ""
+      },
+      {
+        "city": "Pueblo",
+        "county": ""
+      },
+      {
+        "city": "Redlands",
+        "county": ""
+      },
+      {
+        "city": "Ridgway",
+        "county": ""
+      },
+      {
+        "city": "Rifle",
+        "county": ""
+      },
+      {
+        "city": "Rocky Ford",
+        "county": ""
+      },
+      {
+        "city": "Sanford",
+        "county": ""
+      },
+      {
+        "city": "Security-Widefield",
+        "county": ""
+      },
+      {
+        "city": "Sherrelwood",
+        "county": ""
+      },
+      {
+        "city": "Silver Cliff",
+        "county": ""
+      },
+      {
+        "city": "Snowmass Village",
+        "county": ""
+      },
+      {
+        "city": "Southglenn",
+        "county": ""
+      },
+      {
+        "city": "Steamboat Springs",
+        "county": ""
+      },
+      {
+        "city": "Sterling",
+        "county": ""
+      },
+      {
+        "city": "Superior",
+        "county": ""
+      },
+      {
+        "city": "Telluride",
+        "county": ""
+      },
+      {
+        "city": "Thornton",
+        "county": ""
+      },
+      {
+        "city": "Vail",
+        "county": ""
+      },
+      {
+        "city": "Welby",
+        "county": ""
+      },
+      {
+        "city": "Westcliffe",
+        "county": ""
+      },
+      {
+        "city": "Westminster",
+        "county": ""
+      },
+      {
+        "city": "Wheat Ridge",
+        "county": ""
+      },
+      {
+        "city": "Woodland Park",
+        "county": ""
+      },
+      {
+        "city": "Aspen Park",
+        "county": ""
+      },
+      {
+        "city": "Gilman",
+        "county": ""
+      },
+      {
+        "city": "Milner",
+        "county": ""
+      },
+      {
+        "city": "Platner",
+        "county": ""
+      },
+      {
+        "city": "Red Cliff",
+        "county": ""
+      },
+      {
+        "city": "New Raymer",
+        "county": ""
+      },
+      {
+        "city": "Bailey",
+        "county": ""
+      },
+      {
+        "city": "Redvale",
+        "county": ""
+      },
+      {
+        "city": "Lake City",
+        "county": ""
+      },
+      {
+        "city": "Platteville",
+        "county": ""
+      },
+      {
+        "city": "Arboles",
+        "county": ""
+      },
+      {
+        "city": "Dailey",
+        "county": ""
+      },
+      {
+        "city": "Raymer",
+        "county": ""
+      },
+      {
+        "city": "Poncha Springs",
+        "county": ""
+      },
+      {
+        "city": "Black Hawk",
+        "county": ""
+      },
+      {
+        "city": "Castle Pines",
+        "county": ""
+      },
+      {
+        "city": "Palisade",
+        "county": ""
+      },
+      {
+        "city": "Fowler",
+        "county": ""
+      },
+      {
+        "city": "Wild Horse",
+        "county": ""
+      },
+      {
+        "city": "Avondale",
+        "county": ""
+      },
+      {
+        "city": "Goodrich",
+        "county": ""
+      },
+      {
+        "city": "Stoner",
+        "county": ""
+      },
+      {
+        "city": "Sugar City",
+        "county": ""
+      },
+      {
+        "city": "Capulin",
+        "county": ""
+      },
+      {
+        "city": "Battlement Mesa",
+        "county": ""
+      },
+      {
+        "city": "Kline",
+        "county": ""
+      },
+      {
+        "city": "Trimble",
+        "county": ""
+      },
+      {
+        "city": "Rockvale",
+        "county": ""
+      },
+      {
+        "city": "Frisco",
+        "county": ""
+      },
+      {
+        "city": "Hereford",
+        "county": ""
+      },
+      {
+        "city": "Branson",
+        "county": ""
+      },
+      {
+        "city": "Windsor",
+        "county": ""
+      },
+      {
+        "city": "Utleyville",
+        "county": ""
+      },
+      {
+        "city": "Rosita",
+        "county": ""
+      },
+      {
+        "city": "Woodmoor",
+        "county": ""
+      },
+      {
+        "city": "Severance",
+        "county": ""
+      },
+      {
+        "city": "Goldfield",
+        "county": ""
+      },
+      {
+        "city": "Rico",
+        "county": ""
+      },
+      {
+        "city": "Arriba",
+        "county": ""
+      },
+      {
+        "city": "Burlington",
+        "county": ""
+      },
+      {
+        "city": "Andrix",
+        "county": ""
+      },
+      {
+        "city": "Massadona",
+        "county": ""
+      },
+      {
+        "city": "Somerset",
+        "county": ""
+      },
+      {
+        "city": "Hartman",
+        "county": ""
+      },
+      {
+        "city": "Dove Creek",
+        "county": ""
+      },
+      {
+        "city": "Mogote",
+        "county": ""
+      },
+      {
+        "city": "Blende",
+        "county": ""
+      },
+      {
+        "city": "Chimney Rock",
+        "county": ""
+      },
+      {
+        "city": "Buckingham",
+        "county": ""
+      },
+      {
+        "city": "Pueblo West",
+        "county": ""
+      },
+      {
+        "city": "Hamilton",
+        "county": ""
+      },
+      {
+        "city": "Rock Creek Park",
+        "county": ""
+      },
+      {
+        "city": "Hooper",
+        "county": ""
+      },
+      {
+        "city": "Calhan",
+        "county": ""
+      },
+      {
+        "city": "Rush",
+        "county": ""
+      },
+      {
+        "city": "Vilas",
+        "county": ""
+      },
+      {
+        "city": "Lone Tree",
+        "county": ""
+      },
+      {
+        "city": "Dupont",
+        "county": ""
+      },
+      {
+        "city": "Wetmore",
+        "county": ""
+      },
+      {
+        "city": "Edgewater",
+        "county": ""
+      },
+      {
+        "city": "Ohio",
+        "county": ""
+      },
+      {
+        "city": "Manassa",
+        "county": ""
+      },
+      {
+        "city": "Iliff",
+        "county": ""
+      },
+      {
+        "city": "Edler",
+        "county": ""
+      },
+      {
+        "city": "Moffat",
+        "county": ""
+      },
+      {
+        "city": "Gold Hill",
+        "county": ""
+      },
+      {
+        "city": "Crisman",
+        "county": ""
+      },
+      {
+        "city": "El Moro",
+        "county": ""
+      },
+      {
+        "city": "Limon",
+        "county": ""
+      },
+      {
+        "city": "Almont",
+        "county": ""
+      },
+      {
+        "city": "Victor",
+        "county": ""
+      },
+      {
+        "city": "Greystone",
+        "county": ""
+      },
+      {
+        "city": "Collbran",
+        "county": ""
+      },
+      {
+        "city": "Texas Creek",
+        "county": ""
+      },
+      {
+        "city": "Seibert",
+        "county": ""
+      },
+      {
+        "city": "Elbert",
+        "county": ""
+      },
+      {
+        "city": "Livermore",
+        "county": ""
+      },
+      {
+        "city": "Kirk",
+        "county": ""
+      },
+      {
+        "city": "Mountain Village",
+        "county": ""
+      },
+      {
+        "city": "Mountain Meadows",
+        "county": ""
+      },
+      {
+        "city": "Buena Vista",
+        "county": ""
+      },
+      {
+        "city": "Segundo",
+        "county": ""
+      },
+      {
+        "city": "Mountain View",
+        "county": ""
+      },
+      {
+        "city": "Kit Carson",
+        "county": ""
+      },
+      {
+        "city": "Vernon",
+        "county": ""
+      },
+      {
+        "city": "Cedaredge",
+        "county": ""
+      },
+      {
+        "city": "Akron",
+        "county": ""
+      },
+      {
+        "city": "Ninaview",
+        "county": ""
+      },
+      {
+        "city": "Mulford",
+        "county": ""
+      },
+      {
+        "city": "Laporte",
+        "county": ""
+      },
+      {
+        "city": "Sheridan Lake",
+        "county": ""
+      },
+      {
+        "city": "Crowley",
+        "county": ""
+      },
+      {
+        "city": "Dotsero",
+        "county": ""
+      },
+      {
+        "city": "Phippsburg",
+        "county": ""
+      },
+      {
+        "city": "Genoa",
+        "county": ""
+      },
+      {
+        "city": "Wellington",
+        "county": ""
+      },
+      {
+        "city": "Tyrone",
+        "county": ""
+      },
+      {
+        "city": "Tiffany",
+        "county": ""
+      },
+      {
+        "city": "Fraser",
+        "county": ""
+      },
+      {
+        "city": "Wray",
+        "county": ""
+      },
+      {
+        "city": "Walsh",
+        "county": ""
+      },
+      {
+        "city": "Buckeye",
+        "county": ""
+      },
+      {
+        "city": "Cathedral",
+        "county": ""
+      },
+      {
+        "city": "Tabernash",
+        "county": ""
+      },
+      {
+        "city": "Chromo",
+        "county": ""
+      },
+      {
+        "city": "East Portal",
+        "county": ""
+      },
+      {
+        "city": "Genesee",
+        "county": ""
+      },
+      {
+        "city": "Lycan",
+        "county": ""
+      },
+      {
+        "city": "Johnson Village",
+        "county": ""
+      },
+      {
+        "city": "Eagle",
+        "county": ""
+      },
+      {
+        "city": "Broadmoor",
+        "county": ""
+      },
+      {
+        "city": "Tarryall",
+        "county": ""
+      },
+      {
+        "city": "Idalia",
+        "county": ""
+      },
+      {
+        "city": "Gardner",
+        "county": ""
+      },
+      {
+        "city": "Falcon",
+        "county": ""
+      },
+      {
+        "city": "Ponderosa Park",
+        "county": ""
+      },
+      {
+        "city": "Lochbuie",
+        "county": ""
+      },
+      {
+        "city": "Glen Haven",
+        "county": ""
+      },
+      {
+        "city": "Gulnare",
+        "county": ""
+      },
+      {
+        "city": "Prospect Heights",
+        "county": ""
+      },
+      {
+        "city": "Dinosaur",
+        "county": ""
+      },
+      {
+        "city": "Lawson",
+        "county": ""
+      },
+      {
+        "city": "Joes",
+        "county": ""
+      },
+      {
+        "city": "Lazear",
+        "county": ""
+      },
+      {
+        "city": "Model",
+        "county": ""
+      },
+      {
+        "city": "Cuchara",
+        "county": ""
+      },
+      {
+        "city": "Hidden Lake",
+        "county": ""
+      },
+      {
+        "city": "Dillon",
+        "county": ""
+      },
+      {
+        "city": "Manitou Springs",
+        "county": ""
+      },
+      {
+        "city": "Silverthorne",
+        "county": ""
+      },
+      {
+        "city": "Jaroso",
+        "county": ""
+      },
+      {
+        "city": "Hartsel",
+        "county": ""
+      },
+      {
+        "city": "Copper Mountain",
+        "county": ""
+      },
+      {
+        "city": "Arlington",
+        "county": ""
+      },
+      {
+        "city": "Mancos",
+        "county": ""
+      },
+      {
+        "city": "Twin Lakes",
+        "county": ""
+      },
+      {
+        "city": "Yuma",
+        "county": ""
+      },
+      {
+        "city": "Briggsdale",
+        "county": ""
+      },
+      {
+        "city": "Two Buttes",
+        "county": ""
+      },
+      {
+        "city": "Vona",
+        "county": ""
+      },
+      {
+        "city": "Castle Pines Village",
+        "county": ""
+      },
+      {
+        "city": "El Rancho",
+        "county": ""
+      },
+      {
+        "city": "Nucla",
+        "county": ""
+      },
+      {
+        "city": "Delhi",
+        "county": ""
+      },
+      {
+        "city": "Columbine Valley",
+        "county": ""
+      },
+      {
+        "city": "Western Hills",
+        "county": ""
+      },
+      {
+        "city": "Yoder",
+        "county": ""
+      },
+      {
+        "city": "Loma",
+        "county": ""
+      },
+      {
+        "city": "Buffalo Creek",
+        "county": ""
+      },
+      {
+        "city": "Laird",
+        "county": ""
+      },
+      {
+        "city": "Del Norte",
+        "county": ""
+      },
+      {
+        "city": "Oxford",
+        "county": ""
+      },
+      {
+        "city": "Manzanola",
+        "county": ""
+      },
+      {
+        "city": "Agate",
+        "county": ""
+      },
+      {
+        "city": "Aristocrat Ranchettes",
+        "county": ""
+      },
+      {
+        "city": "Haxtun",
+        "county": ""
+      },
+      {
+        "city": "Garo",
+        "county": ""
+      },
+      {
+        "city": "Stoneham",
+        "county": ""
+      },
+      {
+        "city": "Parachute",
+        "county": ""
+      },
+      {
+        "city": "Walden",
+        "county": ""
+      },
+      {
+        "city": "Merino",
+        "county": ""
+      },
+      {
+        "city": "Timnath",
+        "county": ""
+      },
+      {
+        "city": "Silverton",
+        "county": ""
+      },
+      {
+        "city": "Snyder",
+        "county": ""
+      },
+      {
+        "city": "Willard",
+        "county": ""
+      },
+      {
+        "city": "Flagler",
+        "county": ""
+      },
+      {
+        "city": "Axial",
+        "county": ""
+      },
+      {
+        "city": "Coalmont",
+        "county": ""
+      },
+      {
+        "city": "Jamestown",
+        "county": ""
+      },
+      {
+        "city": "Alma",
+        "county": ""
+      },
+      {
+        "city": "Galeton",
+        "county": ""
+      },
+      {
+        "city": "Marshdale",
+        "county": ""
+      },
+      {
+        "city": "Cimarron",
+        "county": ""
+      },
+      {
+        "city": "Romeo",
+        "county": ""
+      },
+      {
+        "city": "Ward",
+        "county": ""
+      },
+      {
+        "city": "Alpine",
+        "county": ""
+      },
+      {
+        "city": "Granby",
+        "county": ""
+      },
+      {
+        "city": "The Pinery",
+        "county": ""
+      },
+      {
+        "city": "Glendevey",
+        "county": ""
+      },
+      {
+        "city": "Redmesa",
+        "county": ""
+      },
+      {
+        "city": "Pikeview",
+        "county": ""
+      },
+      {
+        "city": "Log Lane Village",
+        "county": ""
+      },
+      {
+        "city": "Ault",
+        "county": ""
+      },
+      {
+        "city": "Evans",
+        "county": ""
+      },
+      {
+        "city": "Garcia",
+        "county": ""
+      },
+      {
+        "city": "Pitkin",
+        "county": ""
+      },
+      {
+        "city": "Pine Grove",
+        "county": ""
+      },
+      {
+        "city": "Eads",
+        "county": ""
+      },
+      {
+        "city": "Lindon",
+        "county": ""
+      },
+      {
+        "city": "Beulah Valley",
+        "county": ""
+      },
+      {
+        "city": "Franktown",
+        "county": ""
+      },
+      {
+        "city": "Erie",
+        "county": ""
+      },
+      {
+        "city": "San Pablo",
+        "county": ""
+      },
+      {
+        "city": "Aroya",
+        "county": ""
+      },
+      {
+        "city": "Kersey",
+        "county": ""
+      },
+      {
+        "city": "Blanca",
+        "county": ""
+      },
+      {
+        "city": "Hugo",
+        "county": ""
+      },
+      {
+        "city": "Firestone",
+        "county": ""
+      },
+      {
+        "city": "Towaoc",
+        "county": ""
+      },
+      {
+        "city": "Bedrock",
+        "county": ""
+      },
+      {
+        "city": "Coaldale",
+        "county": ""
+      },
+      {
+        "city": "Caddoa",
+        "county": ""
+      },
+      {
+        "city": "Kings Canyon",
+        "county": ""
+      },
+      {
+        "city": "Proctor",
+        "county": ""
+      },
+      {
+        "city": "North Washington",
+        "county": ""
+      },
+      {
+        "city": "Orchard City",
+        "county": ""
+      },
+      {
+        "city": "Wondervu",
+        "county": ""
+      },
+      {
+        "city": "Howard",
+        "county": ""
+      },
+      {
+        "city": "Delta",
+        "county": ""
+      },
+      {
+        "city": "Dumont",
+        "county": ""
+      },
+      {
+        "city": "Mesa",
+        "county": ""
+      },
+      {
+        "city": "Placerville",
+        "county": ""
+      },
+      {
+        "city": "Silver Plume",
+        "county": ""
+      },
+      {
+        "city": "Eldorado Springs",
+        "county": ""
+      },
+      {
+        "city": "Paoli",
+        "county": ""
+      },
+      {
+        "city": "Vineland",
+        "county": ""
+      },
+      {
+        "city": "Meredith",
+        "county": ""
+      },
+      {
+        "city": "Ophir",
+        "county": ""
+      },
+      {
+        "city": "Atwood",
+        "county": ""
+      },
+      {
+        "city": "Boyero",
+        "county": ""
+      },
+      {
+        "city": "Guffey",
+        "county": ""
+      },
+      {
+        "city": "Crested Butte",
+        "county": ""
+      },
+      {
+        "city": "Chama",
+        "county": ""
+      },
+      {
+        "city": "Whitewater",
+        "county": ""
+      },
+      {
+        "city": "Craig",
+        "county": ""
+      },
+      {
+        "city": "Stanley Park",
+        "county": ""
+      },
+      {
+        "city": "Hillside",
+        "county": ""
+      },
+      {
+        "city": "Crook",
+        "county": ""
+      },
+      {
+        "city": "Berthoud",
+        "county": ""
+      },
+      {
+        "city": "Trinidad",
+        "county": ""
+      },
+      {
+        "city": "Mosca",
+        "county": ""
+      },
+      {
+        "city": "Anton",
+        "county": ""
+      },
+      {
+        "city": "Kittredge",
+        "county": ""
+      },
+      {
+        "city": "North La Junta",
+        "county": ""
+      },
+      {
+        "city": "Stratmoor",
+        "county": ""
+      },
+      {
+        "city": "Norwood",
+        "county": ""
+      },
+      {
+        "city": "Rand",
+        "county": ""
+      },
+      {
+        "city": "Estrella",
+        "county": ""
+      },
+      {
+        "city": "Bark Ranch",
+        "county": ""
+      },
+      {
+        "city": "La Junta",
+        "county": ""
+      },
+      {
+        "city": "Hale",
+        "county": ""
+      },
+      {
+        "city": "Brookvale",
+        "county": ""
+      },
+      {
+        "city": "Foxfield",
+        "county": ""
+      },
+      {
+        "city": "Lynn",
+        "county": ""
+      },
+      {
+        "city": "Pierce",
+        "county": ""
+      },
+      {
+        "city": "Fort Garland",
+        "county": ""
+      },
+      {
+        "city": "Villegreen",
+        "county": ""
+      },
+      {
+        "city": "Frederick",
+        "county": ""
+      },
+      {
+        "city": "Ludlow",
+        "county": ""
+      },
+      {
+        "city": "Allison",
+        "county": ""
+      },
+      {
+        "city": "Mead",
+        "county": ""
+      },
+      {
+        "city": "Pandora",
+        "county": ""
+      },
+      {
+        "city": "Sedalia",
+        "county": ""
+      },
+      {
+        "city": "Fruitvale",
+        "county": ""
+      },
+      {
+        "city": "Last Chance",
+        "county": ""
+      },
+      {
+        "city": "Wah Keeney Park",
+        "county": ""
+      },
+      {
+        "city": "Mesita",
+        "county": ""
+      },
+      {
+        "city": "Peetz",
+        "county": ""
+      },
+      {
+        "city": "Lakeside",
+        "county": ""
+      },
+      {
+        "city": "Lewis",
+        "county": ""
+      },
+      {
+        "city": "Weston",
+        "county": ""
+      },
+      {
+        "city": "Garfield",
+        "county": ""
+      },
+      {
+        "city": "Powderhorn",
+        "county": ""
+      },
+      {
+        "city": "Herzman Mesa",
+        "county": ""
+      },
+      {
+        "city": "Winter Park",
+        "county": ""
+      },
+      {
+        "city": "Minturn",
+        "county": ""
+      },
+      {
+        "city": "Powder Wash",
+        "county": ""
+      },
+      {
+        "city": "Roggen",
+        "county": ""
+      },
+      {
+        "city": "Dolores",
+        "county": ""
+      },
+      {
+        "city": "Norrie",
+        "county": ""
+      },
+      {
+        "city": "Gunnison",
+        "county": ""
+      },
+      {
+        "city": "Eastlake",
+        "county": ""
+      },
+      {
+        "city": "La Salle",
+        "county": ""
+      },
+      {
+        "city": "Henderson",
+        "county": ""
+      },
+      {
+        "city": "Perry Park",
+        "county": ""
+      },
+      {
+        "city": "Cornish",
+        "county": ""
+      },
+      {
+        "city": "Ramah",
+        "county": ""
+      },
+      {
+        "city": "Allenspark",
+        "county": ""
+      },
+      {
+        "city": "Bowie",
+        "county": ""
+      },
+      {
+        "city": "Adams City",
+        "county": ""
+      },
+      {
+        "city": "Fairplay",
+        "county": ""
+      },
+      {
+        "city": "Acres Green",
+        "county": ""
+      },
+      {
+        "city": "Beulah",
+        "county": ""
+      },
+      {
+        "city": "Marvel",
+        "county": ""
+      },
+      {
+        "city": "Masonville",
+        "county": ""
+      },
+      {
+        "city": "Masters",
+        "county": ""
+      },
+      {
+        "city": "Stonewall Gap",
+        "county": ""
+      },
+      {
+        "city": "Holly Hills",
+        "county": ""
+      },
+      {
+        "city": "Kiowa",
+        "county": ""
+      },
+      {
+        "city": "Eaton",
+        "county": ""
+      },
+      {
+        "city": "Lincoln Park",
+        "county": ""
+      },
+      {
+        "city": "Gem Village",
+        "county": ""
+      },
+      {
+        "city": "Hot Sulphur Springs",
+        "county": ""
+      },
+      {
+        "city": "Sargents",
+        "county": ""
+      },
+      {
+        "city": "Grand Mesa",
+        "county": ""
+      },
+      {
+        "city": "Chacra",
+        "county": ""
+      },
+      {
+        "city": "Lazy Acres",
+        "county": ""
+      },
+      {
+        "city": "Gilcrest",
+        "county": ""
+      },
+      {
+        "city": "McCoy",
+        "county": ""
+      },
+      {
+        "city": "Pritchett",
+        "county": ""
+      },
+      {
+        "city": "Fulford",
+        "county": ""
+      },
+      {
+        "city": "Wiggins",
+        "county": ""
+      },
+      {
+        "city": "Grant",
+        "county": ""
+      },
+      {
+        "city": "Roxborough Park",
+        "county": ""
+      },
+      {
+        "city": "Bayfield",
+        "county": ""
+      },
+      {
+        "city": "Larkspur",
+        "county": ""
+      },
+      {
+        "city": "Leyden",
+        "county": ""
+      },
+      {
+        "city": "Morrison",
+        "county": ""
+      },
+      {
+        "city": "Vollmar",
+        "county": ""
+      },
+      {
+        "city": "Crestone",
+        "county": ""
+      },
+      {
+        "city": "Stone City",
+        "county": ""
+      },
+      {
+        "city": "San Antonio",
+        "county": ""
+      },
+      {
+        "city": "Rangely",
+        "county": ""
+      },
+      {
+        "city": "Campo",
+        "county": ""
+      },
+      {
+        "city": "Stonewall",
+        "county": ""
+      },
+      {
+        "city": "Starkville",
+        "county": ""
+      },
+      {
+        "city": "San Pedro",
+        "county": ""
+      },
+      {
+        "city": "Hawley",
+        "county": ""
+      },
+      {
+        "city": "Dacono",
+        "county": ""
+      },
+      {
+        "city": "Meeker",
+        "county": ""
+      },
+      {
+        "city": "Shaw Heights",
+        "county": ""
+      },
+      {
+        "city": "Yellow Jacket",
+        "county": ""
+      },
+      {
+        "city": "Mineral Hot Springs",
+        "county": ""
+      },
+      {
+        "city": "El Jebel",
+        "county": ""
+      },
+      {
+        "city": "Chivington",
+        "county": ""
+      },
+      {
+        "city": "Cherry Creek",
+        "county": ""
+      },
+      {
+        "city": "Palmer Lake",
+        "county": ""
+      },
+      {
+        "city": "Holyoke",
+        "county": ""
+      },
+      {
+        "city": "Idaho Springs",
+        "county": ""
+      },
+      {
+        "city": "Brush",
+        "county": ""
+      },
+      {
+        "city": "Chipita Park",
+        "county": ""
+      },
+      {
+        "city": "Lake George",
+        "county": ""
+      },
+      {
+        "city": "Las Animas",
+        "county": ""
+      },
+      {
+        "city": "Cahone",
+        "county": ""
+      },
+      {
+        "city": "Tacoma",
+        "county": ""
+      },
+      {
+        "city": "Pleasant View",
+        "county": ""
+      },
+      {
+        "city": "La Garita",
+        "county": ""
+      },
+      {
+        "city": "Parshall",
+        "county": ""
+      },
+      {
+        "city": "Westcreek",
+        "county": ""
+      },
+      {
+        "city": "Camp Bird",
+        "county": ""
+      },
+      {
+        "city": "Saguache",
+        "county": ""
+      },
+      {
+        "city": "Blue Mountain",
+        "county": ""
+      },
+      {
+        "city": "Bow Mar",
+        "county": ""
+      },
+      {
+        "city": "Lamar",
+        "county": ""
+      },
+      {
+        "city": "Snowmass",
+        "county": ""
+      },
+      {
+        "city": "Stonington",
+        "county": ""
+      },
+      {
+        "city": "Todd Creek",
+        "county": ""
+      },
+      {
+        "city": "Carr",
+        "county": ""
+      },
+      {
+        "city": "Valmont",
+        "county": ""
+      },
+      {
+        "city": "Mack",
+        "county": ""
+      },
+      {
+        "city": "Grand View Estates",
+        "county": ""
+      },
+      {
+        "city": "Rye",
+        "county": ""
+      },
+      {
+        "city": "Center",
+        "county": ""
+      },
+      {
+        "city": "Montezuma",
+        "county": ""
+      },
+      {
+        "city": "Ovid",
+        "county": ""
+      },
+      {
+        "city": "Gerrard",
+        "county": ""
+      },
+      {
+        "city": "Cotopaxi",
+        "county": ""
+      },
+      {
+        "city": "Byers",
+        "county": ""
+      },
+      {
+        "city": "Stratton",
+        "county": ""
+      },
+      {
+        "city": "Burns",
+        "county": ""
+      },
+      {
+        "city": "Divide",
+        "county": ""
+      },
+      {
+        "city": "Marshall",
+        "county": ""
+      },
+      {
+        "city": "South Fork",
+        "county": ""
+      },
+      {
+        "city": "Creede",
+        "county": ""
+      },
+      {
+        "city": "Smeltertown",
+        "county": ""
+      },
+      {
+        "city": "Sugarloaf",
+        "county": ""
+      },
+      {
+        "city": "Nunn",
+        "county": ""
+      },
+      {
+        "city": "Wattenberg",
+        "county": ""
+      },
+      {
+        "city": "Bethune",
+        "county": ""
+      },
+      {
+        "city": "Ignacio",
+        "county": ""
+      },
+      {
+        "city": "Gypsum",
+        "county": ""
+      },
+      {
+        "city": "Glenwood Springs",
+        "county": ""
+      },
+      {
+        "city": "Rollinsville",
+        "county": ""
+      },
+      {
+        "city": "Otis",
+        "county": ""
+      },
+      {
+        "city": "Wigwam",
+        "county": ""
+      },
+      {
+        "city": "Crystola",
+        "county": ""
+      },
+      {
+        "city": "Egnar",
+        "county": ""
+      },
+      {
+        "city": "Georgetown",
+        "county": ""
+      },
+      {
+        "city": "Hoyt",
+        "county": ""
+      },
+      {
+        "city": "Cope",
+        "county": ""
+      },
+      {
+        "city": "Bonanza Mountain Estates",
+        "county": ""
+      },
+      {
+        "city": "Bondad",
+        "county": ""
+      },
+      {
+        "city": "Grand Lake",
+        "county": ""
+      },
+      {
+        "city": "Keota",
+        "county": ""
+      },
+      {
+        "city": "Garden City",
+        "county": ""
+      },
+      {
+        "city": "Blue River",
+        "county": ""
+      },
+      {
+        "city": "Greenhorn",
+        "county": ""
+      },
+      {
+        "city": "Strasburg",
+        "county": ""
+      },
+      {
+        "city": "Hasty",
+        "county": ""
+      },
+      {
+        "city": "Castle Pines North",
+        "county": ""
+      },
+      {
+        "city": "Grover",
+        "county": ""
+      },
+      {
+        "city": "Bristol",
+        "county": ""
+      },
+      {
+        "city": "Glendale",
+        "county": ""
+      },
+      {
+        "city": "No Name",
+        "county": ""
+      },
+      {
+        "city": "La Veta",
+        "county": ""
+      },
+      {
+        "city": "Cheyenne Wells",
+        "county": ""
+      },
+      {
+        "city": "Cattle Creek",
+        "county": ""
+      },
+      {
+        "city": "San Acacio",
+        "county": ""
+      },
+      {
+        "city": "Cheraw",
+        "county": ""
+      },
+      {
+        "city": "Coal Creek",
+        "county": ""
+      },
+      {
+        "city": "Lucerne",
+        "county": ""
+      },
+      {
+        "city": "Portland",
+        "county": ""
+      },
+      {
+        "city": "Salt Creek",
+        "county": ""
+      },
+      {
+        "city": "Williamsburg",
+        "county": ""
+      },
+      {
+        "city": "Saint Ann Highlands",
+        "county": ""
+      },
+      {
+        "city": "Saint Marys",
+        "county": ""
+      },
+      {
+        "city": "Hayden",
+        "county": ""
+      },
+      {
+        "city": "Mayday",
+        "county": ""
+      },
+      {
+        "city": "Hesperus",
+        "county": ""
+      },
+      {
+        "city": "Bergen Park",
+        "county": ""
+      },
+      {
+        "city": "Gill",
+        "county": ""
+      },
+      {
+        "city": "Gleneagle",
+        "county": ""
+      },
+      {
+        "city": "Timpas",
+        "county": ""
+      },
+      {
+        "city": "Eckley",
+        "county": ""
+      },
+      {
+        "city": "Greenwood",
+        "county": ""
+      },
+      {
+        "city": "Kim",
+        "county": ""
+      },
+      {
+        "city": "Ca√±on City",
+        "county": ""
+      },
+      {
+        "city": "Pinecliffe",
+        "county": ""
+      },
+      {
+        "city": "Drake",
+        "county": ""
+      },
+      {
+        "city": "Fenders",
+        "county": ""
+      },
+      {
+        "city": "Idledale",
+        "county": ""
+      },
+      {
+        "city": "Simla",
+        "county": ""
+      },
+      {
+        "city": "Woody Creek",
+        "county": ""
+      },
+      {
+        "city": "Sedgwick",
+        "county": ""
+      },
+      {
+        "city": "Hoehne",
+        "county": ""
+      },
+      {
+        "city": "Hotchkiss",
+        "county": ""
+      },
+      {
+        "city": "Salida",
+        "county": ""
+      },
+      {
+        "city": "Ouray",
+        "county": ""
+      },
+      {
+        "city": "Brookside",
+        "county": ""
+      },
+      {
+        "city": "Poudre Park",
+        "county": ""
+      },
+      {
+        "city": "Maybell",
+        "county": ""
+      },
+      {
+        "city": "Colona",
+        "county": ""
+      },
+      {
+        "city": "Elk Springs",
+        "county": ""
+      },
+      {
+        "city": "Padroni",
+        "county": ""
+      },
+      {
+        "city": "Trinchera",
+        "county": ""
+      },
+      {
+        "city": "Colorado City",
+        "county": ""
+      },
+      {
+        "city": "Sheridan",
+        "county": ""
+      },
+      {
+        "city": "Brandon",
+        "county": ""
+      },
+      {
+        "city": "Breckenridge",
+        "county": ""
+      },
+      {
+        "city": "Bonanza",
+        "county": ""
+      },
+      {
+        "city": "Conifer",
+        "county": ""
+      },
+      {
+        "city": "Loghill Village",
+        "county": ""
+      },
+      {
+        "city": "Meridian",
+        "county": ""
+      },
+      {
+        "city": "Cedarwood",
+        "county": ""
+      },
+      {
+        "city": "Ordway",
+        "county": ""
+      },
+      {
+        "city": "Peoria",
+        "county": ""
+      },
+      {
+        "city": "Wiley",
+        "county": ""
+      },
+      {
+        "city": "Louviers",
+        "county": ""
+      },
+      {
+        "city": "Woodrow",
+        "county": ""
+      },
+      {
+        "city": "Naturita",
+        "county": ""
+      },
+      {
+        "city": "Dunton",
+        "county": ""
+      },
+      {
+        "city": "Peconic",
+        "county": ""
+      },
+      {
+        "city": "Monte Vista",
+        "county": ""
+      },
+      {
+        "city": "Yampa",
+        "county": ""
+      },
+      {
+        "city": "Fort Lupton",
+        "county": ""
+      },
+      {
+        "city": "Fruita",
+        "county": ""
+      },
+      {
+        "city": "Orchard",
+        "county": ""
+      },
+      {
+        "city": "Aguilar",
+        "county": ""
+      },
+      {
+        "city": "Weldona",
+        "county": ""
+      },
+      {
+        "city": "Cascade",
+        "county": ""
+      },
+      {
+        "city": "Pine Brook Hill",
+        "county": ""
+      },
+      {
+        "city": "Deer Trail",
+        "county": ""
+      },
+      {
+        "city": "Berkley",
+        "county": ""
+      },
+      {
+        "city": "Towner",
+        "county": ""
+      },
+      {
+        "city": "Singleton",
+        "county": ""
+      },
+      {
+        "city": "Sequndo",
+        "county": ""
+      },
+      {
+        "city": "La Junta Gardens",
+        "county": ""
+      },
+      {
+        "city": "Oak Creek",
+        "county": ""
+      },
+      {
+        "city": "Silt",
+        "county": ""
+      },
+      {
+        "city": "Catherine",
+        "county": ""
+      },
+      {
+        "city": "Inverness",
+        "county": ""
+      },
+      {
+        "city": "Molina",
+        "county": ""
+      },
+      {
+        "city": "Amherst",
+        "county": ""
+      },
+      {
+        "city": "Redstone",
+        "county": ""
+      },
+      {
+        "city": "Dove Valley",
+        "county": ""
+      },
+      {
+        "city": "Wolcott",
+        "county": ""
+      },
+      {
+        "city": "Altona",
+        "county": ""
+      },
+      {
+        "city": "Boone",
+        "county": ""
+      },
+      {
+        "city": "Midland",
+        "county": ""
+      },
+      {
+        "city": "Haswell",
+        "county": ""
+      },
+      {
+        "city": "Prospect Valley",
+        "county": ""
+      },
+      {
+        "city": "Derby",
+        "county": ""
+      },
+      {
+        "city": "Valdez",
+        "county": ""
+      },
+      {
+        "city": "Toponas",
+        "county": ""
+      },
+      {
+        "city": "Keystone",
+        "county": ""
+      },
+      {
+        "city": "Sawpit",
+        "county": ""
+      },
+      {
+        "city": "Florissant",
+        "county": ""
+      },
+      {
+        "city": "Paragon Estates",
+        "county": ""
+      },
+      {
+        "city": "De Beque",
+        "county": ""
+      },
+      {
+        "city": "Seven Hills",
+        "county": ""
+      },
+      {
+        "city": "Kremmling",
+        "county": ""
+      },
+      {
+        "city": "Como",
+        "county": ""
+      },
+      {
+        "city": "Conejos",
+        "county": ""
+      },
+      {
+        "city": "Olathe",
+        "county": ""
+      },
+      {
+        "city": "Bond",
+        "county": ""
+      },
+      {
+        "city": "Villa Grove",
+        "county": ""
+      },
+      {
+        "city": "Cherry Hills Village",
+        "county": ""
+      },
+      {
+        "city": "Toonerville",
+        "county": ""
+      },
+      {
+        "city": "Deora",
+        "county": ""
+      },
+      {
+        "city": "Leadville",
+        "county": ""
+      },
+      {
+        "city": "McClave",
+        "county": ""
+      },
+      {
+        "city": "Irondale",
+        "county": ""
+      },
+      {
+        "city": "Uravan",
+        "county": ""
+      },
+      {
+        "city": "Antonito",
+        "county": ""
+      },
+      {
+        "city": "Milliken",
+        "county": ""
+      },
+      {
+        "city": "Green Mountain Falls",
+        "county": ""
+      },
+      {
+        "city": "Rio Blanco",
+        "county": ""
+      },
+      {
+        "city": "Bennett",
+        "county": ""
+      },
+      {
+        "city": "La Jara",
+        "county": ""
+      },
+      {
+        "city": "Julesburg",
+        "county": ""
+      },
+      {
+        "city": "Paonia",
+        "county": ""
+      },
+      {
+        "city": "Jefferson",
+        "county": ""
+      },
+      {
+        "city": "Keenesburg",
+        "county": ""
+      },
+      {
+        "city": "Heeney",
+        "county": ""
+      },
+      {
+        "city": "Florence",
+        "county": ""
+      },
+      {
+        "city": "Parlin",
+        "county": ""
+      },
+      {
+        "city": "Granada",
+        "county": ""
+      },
+      {
+        "city": "Boncarbo",
+        "county": ""
+      },
+      {
+        "city": "Cowdrey",
+        "county": ""
+      },
+      {
+        "city": "Hudson",
+        "county": ""
+      },
+      {
+        "city": "Walsenburg",
+        "county": ""
+      },
+      {
+        "city": "Central City",
+        "county": ""
+      },
+      {
+        "city": "San Luis",
+        "county": ""
+      },
+      {
+        "city": "Tall Timber",
+        "county": ""
+      },
+      {
+        "city": "Granite",
+        "county": ""
+      },
+      {
+        "city": "Fleming",
+        "county": ""
+      },
+      {
+        "city": "Ellicott",
+        "county": ""
+      },
+      {
+        "city": "Springfield",
+        "county": ""
+      },
+      {
+        "city": "Stonegate",
+        "county": ""
+      },
+      {
+        "city": "South Platte",
+        "county": ""
+      },
+      {
+        "city": "Jansen",
+        "county": ""
+      },
+      {
+        "city": "Swink",
+        "county": ""
+      },
+      {
+        "city": "Mount Crested Butte",
+        "county": ""
+      },
+      {
+        "city": "Sunshine",
+        "county": ""
+      },
+      {
+        "city": "Olney Springs",
+        "county": ""
+      },
+      {
+        "city": "Lay",
+        "county": ""
+      },
+      {
+        "city": "Vigil",
+        "county": ""
+      },
+      {
+        "city": "Arapahoe",
+        "county": ""
+      },
+      {
+        "city": "Johnstown",
+        "county": ""
+      },
+      {
+        "city": "State Bridge",
+        "county": ""
+      },
+      {
+        "city": "Hillrose",
+        "county": ""
+      },
+      {
+        "city": "Maysville",
+        "county": ""
+      },
+      {
+        "city": "Indian Hills",
+        "county": ""
+      },
+      {
+        "city": "Matheson",
+        "county": ""
+      },
+      {
+        "city": "Orchard Mesa",
+        "county": ""
+      },
+      {
+        "city": "Eldora",
+        "county": ""
+      },
+      {
+        "city": "Leyner",
+        "county": ""
+      },
+      {
+        "city": "Cripple Creek",
+        "county": ""
+      },
+      {
+        "city": "Marble",
+        "county": ""
+      },
+      {
+        "city": "New Castle",
+        "county": ""
+      },
+      {
+        "city": "Karval",
+        "county": ""
+      },
+      {
+        "city": "Doyleville",
+        "county": ""
+      },
+      {
+        "city": "Gateway",
+        "county": ""
+      },
+      {
+        "city": "Hygiene",
+        "county": ""
+      },
+      {
+        "city": "Hiawatha",
+        "county": ""
+      },
+      {
+        "city": "Crescent",
+        "county": ""
+      },
+      {
+        "city": "Pagosa Junction",
+        "county": ""
+      },
+      {
+        "city": "Cardiff",
+        "county": ""
+      },
+      {
+        "city": "Empire",
+        "county": ""
+      },
+      {
+        "city": "Wallstreet",
+        "county": ""
+      },
+      {
+        "city": "Red Feather Lakes",
+        "county": ""
+      },
+      {
+        "city": "Cokedale",
+        "county": ""
+      },
+      {
+        "city": "Watkins",
+        "county": ""
+      }
+    ]
+  }
+]
