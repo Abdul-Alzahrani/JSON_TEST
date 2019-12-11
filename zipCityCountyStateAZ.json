@@ -1,0 +1,5520 @@
+[
+  {
+    "state_id": "AZ",
+    "state": "Arizona",
+    "regions": [
+      {
+        "region": "AZ",
+        "cities": [
+          {
+            "city": "Freedom Acres",
+            "county": "Gila",
+            "population": 113,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Teec Nos Pos",
+            "county": "Apache",
+            "population": 711,
+            "zip_codes": [
+              {
+                "zip_codes": "86514"
+              }
+            ]
+          },
+          {
+            "city": "Crozier",
+            "county": "Mohave",
+            "population": 25,
+            "zip_codes": [
+              {
+                "zip_codes": "86437"
+              },
+              {
+                "zip_codes": "86434"
+              }
+            ]
+          },
+          {
+            "city": "Avondale",
+            "county": "Maricopa",
+            "population": 217192,
+            "zip_codes": [
+              {
+                "zip_codes": "85323"
+              },
+              {
+                "zip_codes": "85392"
+              },
+              {
+                "zip_codes": "85329"
+              }
+            ]
+          },
+          {
+            "city": "Alpine",
+            "county": "Apache",
+            "population": 86,
+            "zip_codes": [
+              {
+                "zip_codes": "85920"
+              }
+            ]
+          },
+          {
+            "city": "Elfrida",
+            "county": "Cochise",
+            "population": 347,
+            "zip_codes": [
+              {
+                "zip_codes": "85610"
+              }
+            ]
+          },
+          {
+            "city": "North Fork",
+            "county": "Navajo",
+            "population": 1634,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Kaibito",
+            "county": "Coconino",
+            "population": 1712,
+            "zip_codes": [
+              {
+                "zip_codes": "86053"
+              }
+            ]
+          },
+          {
+            "city": "Lower Santan Village",
+            "county": "Pinal",
+            "population": 395,
+            "zip_codes": [
+              {
+                "zip_codes": "85147"
+              }
+            ]
+          },
+          {
+            "city": "St. David",
+            "county": "Cochise",
+            "population": 1667,
+            "zip_codes": [
+              {
+                "zip_codes": "85630"
+              }
+            ]
+          },
+          {
+            "city": "Ash Fork",
+            "county": "Yavapai",
+            "population": 824,
+            "zip_codes": [
+              {
+                "zip_codes": "86320"
+              }
+            ]
+          },
+          {
+            "city": "Poston",
+            "county": "La Paz",
+            "population": 312,
+            "zip_codes": [
+              {
+                "zip_codes": "85371"
+              }
+            ]
+          },
+          {
+            "city": "Drysdale",
+            "county": "Yuma",
+            "population": 449,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Heber-Overgaard",
+            "county": "Navajo",
+            "population": 2408,
+            "zip_codes": [
+              {
+                "zip_codes": "85933"
+              },
+              {
+                "zip_codes": "85928"
+              }
+            ]
+          },
+          {
+            "city": "Three Points",
+            "county": "Pima",
+            "population": 5453,
+            "zip_codes": [
+              {
+                "zip_codes": "85735"
+              },
+              {
+                "zip_codes": "85736"
+              }
+            ]
+          },
+          {
+            "city": "Seligman",
+            "county": "Yavapai",
+            "population": 471,
+            "zip_codes": [
+              {
+                "zip_codes": "86337"
+              }
+            ]
+          },
+          {
+            "city": "Sacate Village",
+            "county": "Pinal",
+            "population": 177,
+            "zip_codes": [
+              {
+                "zip_codes": "85339"
+              },
+              {
+                "zip_codes": "85121"
+              }
+            ]
+          },
+          {
+            "city": "Burnside",
+            "county": "Apache",
+            "population": 629,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Tuba City",
+            "county": "Coconino",
+            "population": 9022,
+            "zip_codes": [
+              {
+                "zip_codes": "86045"
+              }
+            ]
+          },
+          {
+            "city": "Roosevelt",
+            "county": "Gila",
+            "population": 60,
+            "zip_codes": [
+              {
+                "zip_codes": "85545"
+              }
+            ]
+          },
+          {
+            "city": "Winslow",
+            "county": "Navajo",
+            "population": 9508,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Crystal Beach",
+            "county": "Mohave",
+            "population": 135,
+            "zip_codes": [
+              {
+                "zip_codes": "86404"
+              }
+            ]
+          },
+          {
+            "city": "Scottsdale",
+            "county": "Maricopa",
+            "population": 249950,
+            "zip_codes": [
+              {
+                "zip_codes": "85259"
+              },
+              {
+                "zip_codes": "85258"
+              },
+              {
+                "zip_codes": "85251"
+              },
+              {
+                "zip_codes": "85250"
+              },
+              {
+                "zip_codes": "85257"
+              },
+              {
+                "zip_codes": "85255"
+              },
+              {
+                "zip_codes": "85254"
+              },
+              {
+                "zip_codes": "85266"
+              },
+              {
+                "zip_codes": "85262"
+              },
+              {
+                "zip_codes": "85260"
+              },
+              {
+                "zip_codes": "85252"
+              },
+              {
+                "zip_codes": "85261"
+              },
+              {
+                "zip_codes": "85267"
+              },
+              {
+                "zip_codes": "85271"
+              }
+            ]
+          },
+          {
+            "city": "Mesa",
+            "county": "Maricopa",
+            "population": 496401,
+            "zip_codes": [
+              {
+                "zip_codes": "85208"
+              },
+              {
+                "zip_codes": "85209"
+              },
+              {
+                "zip_codes": "85201"
+              },
+              {
+                "zip_codes": "85202"
+              },
+              {
+                "zip_codes": "85203"
+              },
+              {
+                "zip_codes": "85204"
+              },
+              {
+                "zip_codes": "85205"
+              },
+              {
+                "zip_codes": "85206"
+              },
+              {
+                "zip_codes": "85207"
+              },
+              {
+                "zip_codes": "85215"
+              },
+              {
+                "zip_codes": "85213"
+              },
+              {
+                "zip_codes": "85212"
+              },
+              {
+                "zip_codes": "85210"
+              },
+              {
+                "zip_codes": "85211"
+              },
+              {
+                "zip_codes": "85214"
+              },
+              {
+                "zip_codes": "85216"
+              },
+              {
+                "zip_codes": "85274"
+              },
+              {
+                "zip_codes": "85275"
+              },
+              {
+                "zip_codes": "85277"
+              }
+            ]
+          },
+          {
+            "city": "Greer",
+            "county": "Apache",
+            "population": 40,
+            "zip_codes": [
+              {
+                "zip_codes": "85927"
+              }
+            ]
+          },
+          {
+            "city": "Kohls Ranch",
+            "county": "Gila",
+            "population": 106,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Tolleson",
+            "county": "Maricopa",
+            "population": 7205,
+            "zip_codes": [
+              {
+                "zip_codes": "85353"
+              }
+            ]
+          },
+          {
+            "city": "Maricopa",
+            "county": "Pinal",
+            "population": 46741,
+            "zip_codes": [
+              {
+                "zip_codes": "85138"
+              },
+              {
+                "zip_codes": "85139"
+              }
+            ]
+          },
+          {
+            "city": "Canyon Day",
+            "county": "Gila",
+            "population": 1293,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Chiawuli Tak",
+            "county": "Pima",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Black Canyon City",
+            "county": "Yavapai",
+            "population": 2892,
+            "zip_codes": [
+              {
+                "zip_codes": "85324"
+              }
+            ]
+          },
+          {
+            "city": "Hackberry",
+            "county": "Mohave",
+            "population": 101,
+            "zip_codes": [
+              {
+                "zip_codes": "86411"
+              },
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "New Kingman-Butler",
+            "county": "Mohave",
+            "population": 13060,
+            "zip_codes": [
+              {
+                "zip_codes": "86409"
+              }
+            ]
+          },
+          {
+            "city": "Ajo",
+            "county": "Pima",
+            "population": 3525,
+            "zip_codes": [
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Surprise",
+            "county": "Maricopa",
+            "population": 134085,
+            "zip_codes": [
+              {
+                "zip_codes": "85361"
+              },
+              {
+                "zip_codes": "85379"
+              },
+              {
+                "zip_codes": "85388"
+              },
+              {
+                "zip_codes": "85387"
+              },
+              {
+                "zip_codes": "85374"
+              },
+              {
+                "zip_codes": "85375"
+              },
+              {
+                "zip_codes": "85378"
+              }
+            ]
+          },
+          {
+            "city": "Sun City West",
+            "county": "Maricopa",
+            "population": 25085,
+            "zip_codes": [
+              {
+                "zip_codes": "85375"
+              },
+              {
+                "zip_codes": "85376"
+              }
+            ]
+          },
+          {
+            "city": "Dolan Springs",
+            "county": "Mohave",
+            "population": 2479,
+            "zip_codes": [
+              {
+                "zip_codes": "86441"
+              }
+            ]
+          },
+          {
+            "city": "Marana",
+            "county": "Pima",
+            "population": 44792,
+            "zip_codes": [
+              {
+                "zip_codes": "85653"
+              },
+              {
+                "zip_codes": "85741"
+              },
+              {
+                "zip_codes": "85743"
+              },
+              {
+                "zip_codes": "85742"
+              },
+              {
+                "zip_codes": "85658"
+              },
+              {
+                "zip_codes": "85652"
+              },
+              {
+                "zip_codes": "85740"
+              }
+            ]
+          },
+          {
+            "city": "San Miguel",
+            "county": "Pima",
+            "population": 297,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Tusayan",
+            "county": "Coconino",
+            "population": 583,
+            "zip_codes": [
+              {
+                "zip_codes": "86023"
+              }
+            ]
+          },
+          {
+            "city": "Holbrook",
+            "county": "Navajo",
+            "population": 3797,
+            "zip_codes": [
+              {
+                "zip_codes": "86025"
+              }
+            ]
+          },
+          {
+            "city": "Seven Mile",
+            "county": "Navajo",
+            "population": 748,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              },
+              {
+                "zip_codes": "85926"
+              }
+            ]
+          },
+          {
+            "city": "Wet Camp Village",
+            "county": "Pinal",
+            "population": 351,
+            "zip_codes": [
+              {
+                "zip_codes": "85121"
+              }
+            ]
+          },
+          {
+            "city": "Gilbert",
+            "county": "Maricopa",
+            "population": 242354,
+            "zip_codes": [
+              {
+                "zip_codes": "85233"
+              },
+              {
+                "zip_codes": "85234"
+              },
+              {
+                "zip_codes": "85297"
+              },
+              {
+                "zip_codes": "85296"
+              },
+              {
+                "zip_codes": "85295"
+              },
+              {
+                "zip_codes": "85298"
+              },
+              {
+                "zip_codes": "85236"
+              },
+              {
+                "zip_codes": "85299"
+              }
+            ]
+          },
+          {
+            "city": "Winkelman",
+            "county": "Gila",
+            "population": 347,
+            "zip_codes": [
+              {
+                "zip_codes": "85192"
+              }
+            ]
+          },
+          {
+            "city": "Round Rock",
+            "county": "Apache",
+            "population": 725,
+            "zip_codes": [
+              {
+                "zip_codes": "86547"
+              }
+            ]
+          },
+          {
+            "city": "St. Johns",
+            "county": "Apache",
+            "population": 2571,
+            "zip_codes": [
+              {
+                "zip_codes": "85936"
+              }
+            ]
+          },
+          {
+            "city": "Six Shooter Canyon",
+            "county": "Gila",
+            "population": 963,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Aztec",
+            "county": "Yuma",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85333"
+              }
+            ]
+          },
+          {
+            "city": "Solomon",
+            "county": "Graham",
+            "population": 424,
+            "zip_codes": [
+              {
+                "zip_codes": "85546"
+              },
+              {
+                "zip_codes": "85551"
+              }
+            ]
+          },
+          {
+            "city": "First Mesa",
+            "county": "Navajo",
+            "population": 1928,
+            "zip_codes": [
+              {
+                "zip_codes": "86042"
+              }
+            ]
+          },
+          {
+            "city": "Rock House",
+            "county": "Gila",
+            "population": 61,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Springerville",
+            "county": "Apache",
+            "population": 1956,
+            "zip_codes": [
+              {
+                "zip_codes": "85938"
+              }
+            ]
+          },
+          {
+            "city": "Steamboat",
+            "county": "Apache",
+            "population": 299,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Morristown",
+            "county": "Maricopa",
+            "population": 158,
+            "zip_codes": [
+              {
+                "zip_codes": "85342"
+              }
+            ]
+          },
+          {
+            "city": "Snowflake",
+            "county": "Navajo",
+            "population": 6461,
+            "zip_codes": [
+              {
+                "zip_codes": "85937"
+              }
+            ]
+          },
+          {
+            "city": "Corona de Tucson",
+            "county": "Pima",
+            "population": 7583,
+            "zip_codes": [
+              {
+                "zip_codes": "85641"
+              }
+            ]
+          },
+          {
+            "city": "Chuichu",
+            "county": "Pinal",
+            "population": 414,
+            "zip_codes": [
+              {
+                "zip_codes": "85193"
+              }
+            ]
+          },
+          {
+            "city": "Sunizona",
+            "county": "Cochise",
+            "population": 196,
+            "zip_codes": [
+              {
+                "zip_codes": "85625"
+              }
+            ]
+          },
+          {
+            "city": "Fort Valley",
+            "county": "Coconino",
+            "population": 1195,
+            "zip_codes": [
+              {
+                "zip_codes": "86001"
+              }
+            ]
+          },
+          {
+            "city": "Paulden",
+            "county": "Yavapai",
+            "population": 5064,
+            "zip_codes": [
+              {
+                "zip_codes": "86323"
+              },
+              {
+                "zip_codes": "86334"
+              }
+            ]
+          },
+          {
+            "city": "Sedona",
+            "county": "Coconino",
+            "population": 6967,
+            "zip_codes": [
+              {
+                "zip_codes": "86336"
+              },
+              {
+                "zip_codes": "86339"
+              },
+              {
+                "zip_codes": "86340"
+              }
+            ]
+          },
+          {
+            "city": "Kaka",
+            "county": "Maricopa",
+            "population": 114,
+            "zip_codes": [
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Flowing Springs",
+            "county": "Gila",
+            "population": 44,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Village of Oak Creek",
+            "county": "Yavapai",
+            "population": 6436,
+            "zip_codes": [
+              {
+                "zip_codes": "86351"
+              },
+              {
+                "zip_codes": "86341"
+              }
+            ]
+          },
+          {
+            "city": "Bear Flat",
+            "county": "Gila",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Concho",
+            "county": "Apache",
+            "population": 146,
+            "zip_codes": [
+              {
+                "zip_codes": "85924"
+              }
+            ]
+          },
+          {
+            "city": "Queen Valley",
+            "county": "Pinal",
+            "population": 654,
+            "zip_codes": [
+              {
+                "zip_codes": "85118"
+              }
+            ]
+          },
+          {
+            "city": "Pinon",
+            "county": "Navajo",
+            "population": 830,
+            "zip_codes": [
+              {
+                "zip_codes": "86510"
+              }
+            ]
+          },
+          {
+            "city": "Beaver Valley",
+            "county": "Gila",
+            "population": 166,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Vernon",
+            "county": "Apache",
+            "population": 38,
+            "zip_codes": [
+              {
+                "zip_codes": "85940"
+              }
+            ]
+          },
+          {
+            "city": "Pinal",
+            "county": "Gila",
+            "population": 660,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Lake Havasu City",
+            "county": "Mohave",
+            "population": 55341,
+            "zip_codes": [
+              {
+                "zip_codes": "86403"
+              },
+              {
+                "zip_codes": "86406"
+              },
+              {
+                "zip_codes": "86404"
+              },
+              {
+                "zip_codes": "86405"
+              }
+            ]
+          },
+          {
+            "city": "Dripping Springs",
+            "county": "Gila",
+            "population": 165,
+            "zip_codes": [
+              {
+                "zip_codes": "85192"
+              }
+            ]
+          },
+          {
+            "city": "Vail",
+            "county": "Pima",
+            "population": 11735,
+            "zip_codes": [
+              {
+                "zip_codes": "85641"
+              },
+              {
+                "zip_codes": "85744"
+              }
+            ]
+          },
+          {
+            "city": "Tolani Lake",
+            "county": "Coconino",
+            "population": 330,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Parker Strip",
+            "county": "La Paz",
+            "population": 652,
+            "zip_codes": [
+              {
+                "zip_codes": "85344"
+              }
+            ]
+          },
+          {
+            "city": "Woodruff",
+            "county": "Navajo",
+            "population": 126,
+            "zip_codes": [
+              {
+                "zip_codes": "85942"
+              },
+              {
+                "zip_codes": "86025"
+              }
+            ]
+          },
+          {
+            "city": "Sonoita",
+            "county": "Santa Cruz",
+            "population": 850,
+            "zip_codes": [
+              {
+                "zip_codes": "85637"
+              }
+            ]
+          },
+          {
+            "city": "Ali Molina",
+            "county": "Pima",
+            "population": 63,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Tacna",
+            "county": "Yuma",
+            "population": 742,
+            "zip_codes": [
+              {
+                "zip_codes": "85352"
+              },
+              {
+                "zip_codes": "85347"
+              }
+            ]
+          },
+          {
+            "city": "Whiteriver",
+            "county": "Navajo",
+            "population": 4198,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Leupp",
+            "county": "Coconino",
+            "population": 1295,
+            "zip_codes": [
+              {
+                "zip_codes": "86035"
+              },
+              {
+                "zip_codes": "86004"
+              }
+            ]
+          },
+          {
+            "city": "Wenden",
+            "county": "La Paz",
+            "population": 360,
+            "zip_codes": [
+              {
+                "zip_codes": "85357"
+              }
+            ]
+          },
+          {
+            "city": "Topawa",
+            "county": "Pima",
+            "population": 143,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              },
+              {
+                "zip_codes": "85639"
+              }
+            ]
+          },
+          {
+            "city": "Patagonia",
+            "county": "Santa Cruz",
+            "population": 880,
+            "zip_codes": [
+              {
+                "zip_codes": "85624"
+              }
+            ]
+          },
+          {
+            "city": "Tombstone",
+            "county": "Cochise",
+            "population": 1296,
+            "zip_codes": [
+              {
+                "zip_codes": "85638"
+              }
+            ]
+          },
+          {
+            "city": "Top-of-the-World",
+            "county": "Pinal",
+            "population": 325,
+            "zip_codes": [
+              {
+                "zip_codes": "85539"
+              },
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Rincon Valley",
+            "county": "Pima",
+            "population": 6151,
+            "zip_codes": [
+              {
+                "zip_codes": "85747"
+              },
+              {
+                "zip_codes": "85641"
+              }
+            ]
+          },
+          {
+            "city": "Ak Chin",
+            "county": "Pima",
+            "population": 33,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Valencia West",
+            "county": "Pima",
+            "population": 11468,
+            "zip_codes": [
+              {
+                "zip_codes": "85757"
+              }
+            ]
+          },
+          {
+            "city": "Willow Canyon",
+            "county": "Pima",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85619"
+              }
+            ]
+          },
+          {
+            "city": "Ko Vaya",
+            "county": "Pima",
+            "population": 8,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Dewey-Humboldt",
+            "county": "Yavapai",
+            "population": 4064,
+            "zip_codes": [
+              {
+                "zip_codes": "86329"
+              },
+              {
+                "zip_codes": "86327"
+              }
+            ]
+          },
+          {
+            "city": "Mescal",
+            "county": "Cochise",
+            "population": 1509,
+            "zip_codes": [
+              {
+                "zip_codes": "85602"
+              }
+            ]
+          },
+          {
+            "city": "Del Muerto",
+            "county": "Apache",
+            "population": 341,
+            "zip_codes": [
+              {
+                "zip_codes": "86503"
+              }
+            ]
+          },
+          {
+            "city": "Colorado City",
+            "county": "Mohave",
+            "population": 8259,
+            "zip_codes": [
+              {
+                "zip_codes": "86021"
+              }
+            ]
+          },
+          {
+            "city": "Morenci",
+            "county": "Greenlee",
+            "population": 1689,
+            "zip_codes": [
+              {
+                "zip_codes": "85540"
+              }
+            ]
+          },
+          {
+            "city": "Fort Apache",
+            "county": "Navajo",
+            "population": 186,
+            "zip_codes": [
+              {
+                "zip_codes": "85926"
+              }
+            ]
+          },
+          {
+            "city": "Nazlini",
+            "county": "Apache",
+            "population": 469,
+            "zip_codes": [
+              {
+                "zip_codes": "86540"
+              }
+            ]
+          },
+          {
+            "city": "Bylas",
+            "county": "Graham",
+            "population": 1834,
+            "zip_codes": [
+              {
+                "zip_codes": "85530"
+              }
+            ]
+          },
+          {
+            "city": "Picture Rocks",
+            "county": "Pima",
+            "population": 8666,
+            "zip_codes": [
+              {
+                "zip_codes": "85653"
+              },
+              {
+                "zip_codes": "85743"
+              }
+            ]
+          },
+          {
+            "city": "Wittmann",
+            "county": "Maricopa",
+            "population": 607,
+            "zip_codes": [
+              {
+                "zip_codes": "85361"
+              }
+            ]
+          },
+          {
+            "city": "Wheatfields",
+            "county": "Gila",
+            "population": 466,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Sun City",
+            "county": "Maricopa",
+            "population": 39000,
+            "zip_codes": [
+              {
+                "zip_codes": "85351"
+              },
+              {
+                "zip_codes": "85373"
+              },
+              {
+                "zip_codes": "85372"
+              }
+            ]
+          },
+          {
+            "city": "Tucson",
+            "county": "Pima",
+            "population": 868391,
+            "zip_codes": [
+              {
+                "zip_codes": "85705"
+              },
+              {
+                "zip_codes": "85707"
+              },
+              {
+                "zip_codes": "85706"
+              },
+              {
+                "zip_codes": "85756"
+              },
+              {
+                "zip_codes": "85723"
+              },
+              {
+                "zip_codes": "85726"
+              },
+              {
+                "zip_codes": "85724"
+              },
+              {
+                "zip_codes": "85701"
+              },
+              {
+                "zip_codes": "85708"
+              },
+              {
+                "zip_codes": "85711"
+              },
+              {
+                "zip_codes": "85748"
+              },
+              {
+                "zip_codes": "85745"
+              },
+              {
+                "zip_codes": "85747"
+              },
+              {
+                "zip_codes": "85716"
+              },
+              {
+                "zip_codes": "85714"
+              },
+              {
+                "zip_codes": "85715"
+              },
+              {
+                "zip_codes": "85712"
+              },
+              {
+                "zip_codes": "85713"
+              },
+              {
+                "zip_codes": "85710"
+              },
+              {
+                "zip_codes": "85719"
+              },
+              {
+                "zip_codes": "85730"
+              },
+              {
+                "zip_codes": "85702"
+              },
+              {
+                "zip_codes": "85703"
+              },
+              {
+                "zip_codes": "85709"
+              },
+              {
+                "zip_codes": "85717"
+              },
+              {
+                "zip_codes": "85720"
+              },
+              {
+                "zip_codes": "85721"
+              },
+              {
+                "zip_codes": "85722"
+              },
+              {
+                "zip_codes": "85725"
+              },
+              {
+                "zip_codes": "85731"
+              },
+              {
+                "zip_codes": "85732"
+              },
+              {
+                "zip_codes": "85738"
+              },
+              {
+                "zip_codes": "85751"
+              },
+              {
+                "zip_codes": "85754"
+              },
+              {
+                "zip_codes": "85775"
+              }
+            ]
+          },
+          {
+            "city": "Quartzsite",
+            "county": "La Paz",
+            "population": 3357,
+            "zip_codes": [
+              {
+                "zip_codes": "85346"
+              },
+              {
+                "zip_codes": "85359"
+              }
+            ]
+          },
+          {
+            "city": "Eloy",
+            "county": "Pinal",
+            "population": 19168,
+            "zip_codes": [
+              {
+                "zip_codes": "85131"
+              },
+              {
+                "zip_codes": "85194"
+              },
+              {
+                "zip_codes": "85193"
+              },
+              {
+                "zip_codes": "85123"
+              }
+            ]
+          },
+          {
+            "city": "Hotevilla-Bacavi",
+            "county": "Navajo",
+            "population": 1250,
+            "zip_codes": [
+              {
+                "zip_codes": "86030"
+              }
+            ]
+          },
+          {
+            "city": "Second Mesa",
+            "county": "Navajo",
+            "population": 1695,
+            "zip_codes": [
+              {
+                "zip_codes": "86043"
+              }
+            ]
+          },
+          {
+            "city": "Cactus Flats",
+            "county": "Graham",
+            "population": 1423,
+            "zip_codes": [
+              {
+                "zip_codes": "85546"
+              },
+              {
+                "zip_codes": "85548"
+              }
+            ]
+          },
+          {
+            "city": "St. Michaels",
+            "county": "Apache",
+            "population": 1245,
+            "zip_codes": [
+              {
+                "zip_codes": "86511"
+              }
+            ]
+          },
+          {
+            "city": "Phoenix",
+            "county": "Maricopa",
+            "population": 4081849,
+            "zip_codes": [
+              {
+                "zip_codes": "85008"
+              },
+              {
+                "zip_codes": "85009"
+              },
+              {
+                "zip_codes": "85006"
+              },
+              {
+                "zip_codes": "85007"
+              },
+              {
+                "zip_codes": "85004"
+              },
+              {
+                "zip_codes": "85083"
+              },
+              {
+                "zip_codes": "85086"
+              },
+              {
+                "zip_codes": "85087"
+              },
+              {
+                "zip_codes": "85085"
+              },
+              {
+                "zip_codes": "85383"
+              },
+              {
+                "zip_codes": "85033"
+              },
+              {
+                "zip_codes": "85304"
+              },
+              {
+                "zip_codes": "85306"
+              },
+              {
+                "zip_codes": "85308"
+              },
+              {
+                "zip_codes": "85020"
+              },
+              {
+                "zip_codes": "85021"
+              },
+              {
+                "zip_codes": "85022"
+              },
+              {
+                "zip_codes": "85023"
+              },
+              {
+                "zip_codes": "85024"
+              },
+              {
+                "zip_codes": "85027"
+              },
+              {
+                "zip_codes": "85028"
+              },
+              {
+                "zip_codes": "85029"
+              },
+              {
+                "zip_codes": "85353"
+              },
+              {
+                "zip_codes": "85019"
+              },
+              {
+                "zip_codes": "85018"
+              },
+              {
+                "zip_codes": "85013"
+              },
+              {
+                "zip_codes": "85012"
+              },
+              {
+                "zip_codes": "85015"
+              },
+              {
+                "zip_codes": "85014"
+              },
+              {
+                "zip_codes": "85017"
+              },
+              {
+                "zip_codes": "85016"
+              },
+              {
+                "zip_codes": "85254"
+              },
+              {
+                "zip_codes": "85003"
+              },
+              {
+                "zip_codes": "85044"
+              },
+              {
+                "zip_codes": "85045"
+              },
+              {
+                "zip_codes": "85042"
+              },
+              {
+                "zip_codes": "85043"
+              },
+              {
+                "zip_codes": "85040"
+              },
+              {
+                "zip_codes": "85041"
+              },
+              {
+                "zip_codes": "85048"
+              },
+              {
+                "zip_codes": "85054"
+              },
+              {
+                "zip_codes": "85037"
+              },
+              {
+                "zip_codes": "85035"
+              },
+              {
+                "zip_codes": "85034"
+              },
+              {
+                "zip_codes": "85032"
+              },
+              {
+                "zip_codes": "85031"
+              },
+              {
+                "zip_codes": "85307"
+              },
+              {
+                "zip_codes": "85310"
+              },
+              {
+                "zip_codes": "85051"
+              },
+              {
+                "zip_codes": "85050"
+              },
+              {
+                "zip_codes": "85053"
+              },
+              {
+                "zip_codes": "85001"
+              },
+              {
+                "zip_codes": "85002"
+              },
+              {
+                "zip_codes": "85005"
+              },
+              {
+                "zip_codes": "85010"
+              },
+              {
+                "zip_codes": "85011"
+              },
+              {
+                "zip_codes": "85026"
+              },
+              {
+                "zip_codes": "85030"
+              },
+              {
+                "zip_codes": "85036"
+              },
+              {
+                "zip_codes": "85038"
+              },
+              {
+                "zip_codes": "85046"
+              },
+              {
+                "zip_codes": "85060"
+              },
+              {
+                "zip_codes": "85061"
+              },
+              {
+                "zip_codes": "85062"
+              },
+              {
+                "zip_codes": "85063"
+              },
+              {
+                "zip_codes": "85064"
+              },
+              {
+                "zip_codes": "85065"
+              },
+              {
+                "zip_codes": "85066"
+              },
+              {
+                "zip_codes": "85067"
+              },
+              {
+                "zip_codes": "85068"
+              },
+              {
+                "zip_codes": "85069"
+              },
+              {
+                "zip_codes": "85070"
+              },
+              {
+                "zip_codes": "85071"
+              },
+              {
+                "zip_codes": "85072"
+              },
+              {
+                "zip_codes": "85073"
+              },
+              {
+                "zip_codes": "85074"
+              },
+              {
+                "zip_codes": "85075"
+              },
+              {
+                "zip_codes": "85076"
+              },
+              {
+                "zip_codes": "85078"
+              },
+              {
+                "zip_codes": "85079"
+              },
+              {
+                "zip_codes": "85080"
+              },
+              {
+                "zip_codes": "85082"
+              }
+            ]
+          },
+          {
+            "city": "Cane Beds",
+            "county": "Mohave",
+            "population": 395,
+            "zip_codes": [
+              {
+                "zip_codes": "86022"
+              }
+            ]
+          },
+          {
+            "city": "Kykotsmovi Village",
+            "county": "Navajo",
+            "population": 791,
+            "zip_codes": [
+              {
+                "zip_codes": "86039"
+              },
+              {
+                "zip_codes": "86030"
+              }
+            ]
+          },
+          {
+            "city": "Cornville",
+            "county": "Yavapai",
+            "population": 3167,
+            "zip_codes": [
+              {
+                "zip_codes": "86325"
+              }
+            ]
+          },
+          {
+            "city": "Doney Park",
+            "county": "Coconino",
+            "population": 5522,
+            "zip_codes": [
+              {
+                "zip_codes": "86004"
+              }
+            ]
+          },
+          {
+            "city": "Deer Creek",
+            "county": "Gila",
+            "population": 185,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Catalina",
+            "county": "Pima",
+            "population": 7751,
+            "zip_codes": [
+              {
+                "zip_codes": "85739"
+              }
+            ]
+          },
+          {
+            "city": "Goodyear",
+            "county": "Maricopa",
+            "population": 79858,
+            "zip_codes": [
+              {
+                "zip_codes": "85139"
+              },
+              {
+                "zip_codes": "85338"
+              },
+              {
+                "zip_codes": "85326"
+              },
+              {
+                "zip_codes": "85340"
+              },
+              {
+                "zip_codes": "85395"
+              }
+            ]
+          },
+          {
+            "city": "Youngtown",
+            "county": "Maricopa",
+            "population": 6760,
+            "zip_codes": [
+              {
+                "zip_codes": "85363"
+              }
+            ]
+          },
+          {
+            "city": "Fort Mohave",
+            "county": "Mohave",
+            "population": 14583,
+            "zip_codes": [
+              {
+                "zip_codes": "86426"
+              },
+              {
+                "zip_codes": "86427"
+              }
+            ]
+          },
+          {
+            "city": "Payson",
+            "county": "Gila",
+            "population": 14412,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              },
+              {
+                "zip_codes": "85547"
+              }
+            ]
+          },
+          {
+            "city": "Wahak Hotrontk",
+            "county": "Pima",
+            "population": 122,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Shongopovi",
+            "county": "Navajo",
+            "population": 1067,
+            "zip_codes": [
+              {
+                "zip_codes": "86043"
+              }
+            ]
+          },
+          {
+            "city": "Pine",
+            "county": "Gila",
+            "population": 1591,
+            "zip_codes": [
+              {
+                "zip_codes": "85544"
+              }
+            ]
+          },
+          {
+            "city": "Indian Wells",
+            "county": "Navajo",
+            "population": 275,
+            "zip_codes": [
+              {
+                "zip_codes": "86031"
+              }
+            ]
+          },
+          {
+            "city": "Benson",
+            "county": "Cochise",
+            "population": 3824,
+            "zip_codes": [
+              {
+                "zip_codes": "85602"
+              },
+              {
+                "zip_codes": "85630"
+              }
+            ]
+          },
+          {
+            "city": "Franklin",
+            "county": "Greenlee",
+            "population": 37,
+            "zip_codes": [
+              {
+                "zip_codes": "85534"
+              }
+            ]
+          },
+          {
+            "city": "Yarnell",
+            "county": "Yavapai",
+            "population": 658,
+            "zip_codes": [
+              {
+                "zip_codes": "85362"
+              }
+            ]
+          },
+          {
+            "city": "Blackwater",
+            "county": "Pinal",
+            "population": 1653,
+            "zip_codes": [
+              {
+                "zip_codes": "85128"
+              }
+            ]
+          },
+          {
+            "city": "Vicksburg",
+            "county": "La Paz",
+            "population": 963,
+            "zip_codes": [
+              {
+                "zip_codes": "85325"
+              },
+              {
+                "zip_codes": "85348"
+              }
+            ]
+          },
+          {
+            "city": "Low Mountain",
+            "county": "Navajo",
+            "population": 623,
+            "zip_codes": [
+              {
+                "zip_codes": "86520"
+              },
+              {
+                "zip_codes": "86510"
+              },
+              {
+                "zip_codes": "86034"
+              }
+            ]
+          },
+          {
+            "city": "Wikieup",
+            "county": "Mohave",
+            "population": 134,
+            "zip_codes": [
+              {
+                "zip_codes": "85360"
+              }
+            ]
+          },
+          {
+            "city": "Moccasin",
+            "county": "Mohave",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "86022"
+              }
+            ]
+          },
+          {
+            "city": "Valle",
+            "county": "Coconino",
+            "population": 185,
+            "zip_codes": [
+              {
+                "zip_codes": "86046"
+              }
+            ]
+          },
+          {
+            "city": "Pirtleville",
+            "county": "Cochise",
+            "population": 1838,
+            "zip_codes": [
+              {
+                "zip_codes": "85626"
+              },
+              {
+                "zip_codes": "85607"
+              }
+            ]
+          },
+          {
+            "city": "Whitecone",
+            "county": "Navajo",
+            "population": 847,
+            "zip_codes": [
+              {
+                "zip_codes": "86031"
+              },
+              {
+                "zip_codes": "86034"
+              }
+            ]
+          },
+          {
+            "city": "Green Valley",
+            "county": "Pima",
+            "population": 21912,
+            "zip_codes": [
+              {
+                "zip_codes": "85622"
+              },
+              {
+                "zip_codes": "85614"
+              }
+            ]
+          },
+          {
+            "city": "Beyerville",
+            "county": "Santa Cruz",
+            "population": 219,
+            "zip_codes": [
+              {
+                "zip_codes": "85621"
+              }
+            ]
+          },
+          {
+            "city": "Tubac",
+            "county": "Santa Cruz",
+            "population": 1365,
+            "zip_codes": [
+              {
+                "zip_codes": "85640"
+              },
+              {
+                "zip_codes": "85646"
+              }
+            ]
+          },
+          {
+            "city": "San Manuel",
+            "county": "Pinal",
+            "population": 3714,
+            "zip_codes": [
+              {
+                "zip_codes": "85631"
+              }
+            ]
+          },
+          {
+            "city": "Fort Defiance",
+            "county": "Apache",
+            "population": 4118,
+            "zip_codes": [
+              {
+                "zip_codes": "86504"
+              }
+            ]
+          },
+          {
+            "city": "Cutter",
+            "county": "Gila",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85550"
+              }
+            ]
+          },
+          {
+            "city": "Tonto Village",
+            "county": "Gila",
+            "population": 368,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Casa Grande",
+            "county": "Pinal",
+            "population": 58632,
+            "zip_codes": [
+              {
+                "zip_codes": "85194"
+              },
+              {
+                "zip_codes": "85193"
+              },
+              {
+                "zip_codes": "85122"
+              },
+              {
+                "zip_codes": "85130"
+              }
+            ]
+          },
+          {
+            "city": "Star Valley",
+            "county": "Gila",
+            "population": 2287,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Casa Blanca",
+            "county": "Pinal",
+            "population": 1189,
+            "zip_codes": [
+              {
+                "zip_codes": "85121"
+              }
+            ]
+          },
+          {
+            "city": "Cornfields",
+            "county": "Apache",
+            "population": 373,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Avenue B and C",
+            "county": "Yuma",
+            "population": 3444,
+            "zip_codes": [
+              {
+                "zip_codes": "85364"
+              }
+            ]
+          },
+          {
+            "city": "El Mirage",
+            "county": "Maricopa",
+            "population": 35216,
+            "zip_codes": [
+              {
+                "zip_codes": "85335"
+              }
+            ]
+          },
+          {
+            "city": "Kohatk",
+            "county": "Pinal",
+            "population": 20,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Summerhaven",
+            "county": "Pima",
+            "population": 189,
+            "zip_codes": [
+              {
+                "zip_codes": "85619"
+              }
+            ]
+          },
+          {
+            "city": "Dennehotso",
+            "county": "Apache",
+            "population": 792,
+            "zip_codes": [
+              {
+                "zip_codes": "86535"
+              }
+            ]
+          },
+          {
+            "city": "Hard Rock",
+            "county": "Navajo",
+            "population": 85,
+            "zip_codes": [
+              {
+                "zip_codes": "86039"
+              }
+            ]
+          },
+          {
+            "city": "Guadalupe",
+            "county": "Maricopa",
+            "population": 6525,
+            "zip_codes": [
+              {
+                "zip_codes": "85283"
+              }
+            ]
+          },
+          {
+            "city": "Williams",
+            "county": "Coconino",
+            "population": 2757,
+            "zip_codes": [
+              {
+                "zip_codes": "86046"
+              }
+            ]
+          },
+          {
+            "city": "Wilhoit",
+            "county": "Yavapai",
+            "population": 870,
+            "zip_codes": [
+              {
+                "zip_codes": "86332"
+              }
+            ]
+          },
+          {
+            "city": "Kachina Village",
+            "county": "Coconino",
+            "population": 3013,
+            "zip_codes": [
+              {
+                "zip_codes": "86001"
+              }
+            ]
+          },
+          {
+            "city": "La Paz Valley",
+            "county": "La Paz",
+            "population": 497,
+            "zip_codes": [
+              {
+                "zip_codes": "85346"
+              }
+            ]
+          },
+          {
+            "city": "Theba",
+            "county": "Maricopa",
+            "population": 75,
+            "zip_codes": [
+              {
+                "zip_codes": "85337"
+              }
+            ]
+          },
+          {
+            "city": "Greasewood",
+            "county": "Navajo",
+            "population": 502,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Santa Rosa",
+            "county": "Pima",
+            "population": 390,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Icehouse Canyon",
+            "county": "Gila",
+            "population": 453,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Sells",
+            "county": "Pima",
+            "population": 2688,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "El Prado Estates",
+            "county": "Yuma",
+            "population": 665,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Mayer",
+            "county": "Yavapai",
+            "population": 1948,
+            "zip_codes": [
+              {
+                "zip_codes": "86333"
+              }
+            ]
+          },
+          {
+            "city": "Spring Valley",
+            "county": "Yavapai",
+            "population": 1404,
+            "zip_codes": [
+              {
+                "zip_codes": "86333"
+              }
+            ]
+          },
+          {
+            "city": "Tucson Estates",
+            "county": "Pima",
+            "population": 12047,
+            "zip_codes": [
+              {
+                "zip_codes": "85713"
+              },
+              {
+                "zip_codes": "85735"
+              }
+            ]
+          },
+          {
+            "city": "San Carlos",
+            "county": "Gila",
+            "population": 4395,
+            "zip_codes": [
+              {
+                "zip_codes": "85550"
+              }
+            ]
+          },
+          {
+            "city": "Queen Creek",
+            "county": "Maricopa",
+            "population": 39184,
+            "zip_codes": [
+              {
+                "zip_codes": "85142"
+              }
+            ]
+          },
+          {
+            "city": "Dateland",
+            "county": "Yuma",
+            "population": 356,
+            "zip_codes": [
+              {
+                "zip_codes": "85333"
+              },
+              {
+                "zip_codes": "85347"
+              }
+            ]
+          },
+          {
+            "city": "Lake Montezuma",
+            "county": "Yavapai",
+            "population": 5013,
+            "zip_codes": [
+              {
+                "zip_codes": "86335"
+              },
+              {
+                "zip_codes": "86342"
+              }
+            ]
+          },
+          {
+            "city": "Sacaton Flats Village",
+            "county": "Pinal",
+            "population": 457,
+            "zip_codes": [
+              {
+                "zip_codes": "85147"
+              },
+              {
+                "zip_codes": "85128"
+              }
+            ]
+          },
+          {
+            "city": "Ventana",
+            "county": "Pima",
+            "population": 87,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              },
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Cedar Creek",
+            "county": "Gila",
+            "population": 605,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Pima",
+            "county": "Graham",
+            "population": 2513,
+            "zip_codes": [
+              {
+                "zip_codes": "85543"
+              }
+            ]
+          },
+          {
+            "city": "San Simon",
+            "county": "Cochise",
+            "population": 132,
+            "zip_codes": [
+              {
+                "zip_codes": "85632"
+              }
+            ]
+          },
+          {
+            "city": "Stotonic Village",
+            "county": "Pinal",
+            "population": 379,
+            "zip_codes": [
+              {
+                "zip_codes": "85248"
+              },
+              {
+                "zip_codes": "85147"
+              }
+            ]
+          },
+          {
+            "city": "Jakes Corner",
+            "county": "Gila",
+            "population": 32,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Tees Toh",
+            "county": "Navajo",
+            "population": 529,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Yuma",
+            "county": "Yuma",
+            "population": 138802,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              },
+              {
+                "zip_codes": "85364"
+              },
+              {
+                "zip_codes": "85369"
+              }
+            ]
+          },
+          {
+            "city": "McNary",
+            "county": "Apache",
+            "population": 673,
+            "zip_codes": [
+              {
+                "zip_codes": "85935"
+              },
+              {
+                "zip_codes": "85930"
+              }
+            ]
+          },
+          {
+            "city": "Avra Valley",
+            "county": "Pima",
+            "population": 5227,
+            "zip_codes": [
+              {
+                "zip_codes": "85653"
+              }
+            ]
+          },
+          {
+            "city": "Ak-Chin Village",
+            "county": "Pinal",
+            "population": 1101,
+            "zip_codes": [
+              {
+                "zip_codes": "85139"
+              }
+            ]
+          },
+          {
+            "city": "Verde Village",
+            "county": "Yavapai",
+            "population": 12584,
+            "zip_codes": [
+              {
+                "zip_codes": "86326"
+              }
+            ]
+          },
+          {
+            "city": "Nogales",
+            "county": "Santa Cruz",
+            "population": 30876,
+            "zip_codes": [
+              {
+                "zip_codes": "85621"
+              }
+            ]
+          },
+          {
+            "city": "Sunwest",
+            "county": "La Paz",
+            "population": 22,
+            "zip_codes": [
+              {
+                "zip_codes": "85348"
+              }
+            ]
+          },
+          {
+            "city": "Elgin",
+            "county": "Santa Cruz",
+            "population": 112,
+            "zip_codes": [
+              {
+                "zip_codes": "85611"
+              }
+            ]
+          },
+          {
+            "city": "Window Rock",
+            "county": "Apache",
+            "population": 3282,
+            "zip_codes": [
+              {
+                "zip_codes": "86515"
+              }
+            ]
+          },
+          {
+            "city": "Bryce",
+            "county": "Graham",
+            "population": 69,
+            "zip_codes": [
+              {
+                "zip_codes": "85543"
+              }
+            ]
+          },
+          {
+            "city": "Dilkon",
+            "county": "Navajo",
+            "population": 1320,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Bowie",
+            "county": "Cochise",
+            "population": 337,
+            "zip_codes": [
+              {
+                "zip_codes": "85605"
+              }
+            ]
+          },
+          {
+            "city": "Arivaca Junction",
+            "county": "Pima",
+            "population": 1187,
+            "zip_codes": [
+              {
+                "zip_codes": "85645"
+              }
+            ]
+          },
+          {
+            "city": "Arizona City",
+            "county": "Pinal",
+            "population": 11030,
+            "zip_codes": [
+              {
+                "zip_codes": "85193"
+              },
+              {
+                "zip_codes": "85123"
+              }
+            ]
+          },
+          {
+            "city": "Meadview",
+            "county": "Mohave",
+            "population": 857,
+            "zip_codes": [
+              {
+                "zip_codes": "86444"
+              }
+            ]
+          },
+          {
+            "city": "Walnut Creek",
+            "county": "Mohave",
+            "population": 528,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              }
+            ]
+          },
+          {
+            "city": "Fort Thomas",
+            "county": "Graham",
+            "population": 577,
+            "zip_codes": [
+              {
+                "zip_codes": "85536"
+              }
+            ]
+          },
+          {
+            "city": "Sun Lakes",
+            "county": "Maricopa",
+            "population": 14800,
+            "zip_codes": [
+              {
+                "zip_codes": "85248"
+              }
+            ]
+          },
+          {
+            "city": "San Jose",
+            "county": "Graham",
+            "population": 599,
+            "zip_codes": [
+              {
+                "zip_codes": "85546"
+              }
+            ]
+          },
+          {
+            "city": "Mead Ranch",
+            "county": "Gila",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Central",
+            "county": "Graham",
+            "population": 369,
+            "zip_codes": [
+              {
+                "zip_codes": "85531"
+              },
+              {
+                "zip_codes": "85543"
+              }
+            ]
+          },
+          {
+            "city": "White Mountain Lake",
+            "county": "Navajo",
+            "population": 2476,
+            "zip_codes": [
+              {
+                "zip_codes": "85912"
+              },
+              {
+                "zip_codes": "85901"
+              }
+            ]
+          },
+          {
+            "city": "Ganado",
+            "county": "Apache",
+            "population": 1035,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Kino Springs",
+            "county": "Santa Cruz",
+            "population": 400,
+            "zip_codes": [
+              {
+                "zip_codes": "85621"
+              }
+            ]
+          },
+          {
+            "city": "Cibecue",
+            "county": "Navajo",
+            "population": 2218,
+            "zip_codes": [
+              {
+                "zip_codes": "85911"
+              }
+            ]
+          },
+          {
+            "city": "Donovan Estates",
+            "county": "Yuma",
+            "population": 1373,
+            "zip_codes": [
+              {
+                "zip_codes": "85364"
+              }
+            ]
+          },
+          {
+            "city": "Salome",
+            "county": "La Paz",
+            "population": 1296,
+            "zip_codes": [
+              {
+                "zip_codes": "85348"
+              }
+            ]
+          },
+          {
+            "city": "Tanque Verde",
+            "county": "Pima",
+            "population": 16197,
+            "zip_codes": [
+              {
+                "zip_codes": "85749"
+              },
+              {
+                "zip_codes": "85748"
+              }
+            ]
+          },
+          {
+            "city": "Picacho",
+            "county": "Pinal",
+            "population": 427,
+            "zip_codes": [
+              {
+                "zip_codes": "85141"
+              }
+            ]
+          },
+          {
+            "city": "Catalina Foothills",
+            "county": "Pima",
+            "population": 50202,
+            "zip_codes": [
+              {
+                "zip_codes": "85718"
+              },
+              {
+                "zip_codes": "85750"
+              },
+              {
+                "zip_codes": "85715"
+              },
+              {
+                "zip_codes": "85728"
+              }
+            ]
+          },
+          {
+            "city": "Taylor",
+            "county": "Navajo",
+            "population": 4185,
+            "zip_codes": [
+              {
+                "zip_codes": "85939"
+              }
+            ]
+          },
+          {
+            "city": "Congress",
+            "county": "Yavapai",
+            "population": 1454,
+            "zip_codes": [
+              {
+                "zip_codes": "85332"
+              }
+            ]
+          },
+          {
+            "city": "Swift Trail Junction",
+            "county": "Graham",
+            "population": 3304,
+            "zip_codes": [
+              {
+                "zip_codes": "85546"
+              }
+            ]
+          },
+          {
+            "city": "Oracle",
+            "county": "Pinal",
+            "population": 3729,
+            "zip_codes": [
+              {
+                "zip_codes": "85623"
+              }
+            ]
+          },
+          {
+            "city": "Supai",
+            "county": "Coconino",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "86435"
+              }
+            ]
+          },
+          {
+            "city": "Truxton",
+            "county": "Mohave",
+            "population": 121,
+            "zip_codes": [
+              {
+                "zip_codes": "86411"
+              },
+              {
+                "zip_codes": "86434"
+              }
+            ]
+          },
+          {
+            "city": "Nelson",
+            "county": "Pima",
+            "population": 473,
+            "zip_codes": [
+              {
+                "zip_codes": "85653"
+              }
+            ]
+          },
+          {
+            "city": "Stanfield",
+            "county": "Pinal",
+            "population": 405,
+            "zip_codes": [
+              {
+                "zip_codes": "85172"
+              }
+            ]
+          },
+          {
+            "city": "Hunter Creek",
+            "county": "Gila",
+            "population": 19,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Cameron",
+            "county": "Coconino",
+            "population": 1178,
+            "zip_codes": [
+              {
+                "zip_codes": "86020"
+              }
+            ]
+          },
+          {
+            "city": "Jerome",
+            "county": "Yavapai",
+            "population": 455,
+            "zip_codes": [
+              {
+                "zip_codes": "86331"
+              }
+            ]
+          },
+          {
+            "city": "Alamo Lake",
+            "county": "La Paz",
+            "population": 3,
+            "zip_codes": [
+              {
+                "zip_codes": "85357"
+              }
+            ]
+          },
+          {
+            "city": "Coolidge",
+            "county": "Pinal",
+            "population": 11725,
+            "zip_codes": [
+              {
+                "zip_codes": "85194"
+              },
+              {
+                "zip_codes": "85128"
+              }
+            ]
+          },
+          {
+            "city": "Carefree",
+            "county": "Maricopa",
+            "population": 3783,
+            "zip_codes": [
+              {
+                "zip_codes": "85377"
+              }
+            ]
+          },
+          {
+            "city": "Pinedale",
+            "county": "Navajo",
+            "population": 320,
+            "zip_codes": [
+              {
+                "zip_codes": "85934"
+              }
+            ]
+          },
+          {
+            "city": "Huachuca City",
+            "county": "Cochise",
+            "population": 1729,
+            "zip_codes": [
+              {
+                "zip_codes": "85616"
+              }
+            ]
+          },
+          {
+            "city": "Topock",
+            "county": "Mohave",
+            "population": 14,
+            "zip_codes": [
+              {
+                "zip_codes": "86436"
+              }
+            ]
+          },
+          {
+            "city": "Mojave Ranch Estates",
+            "county": "Mohave",
+            "population": 21,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              }
+            ]
+          },
+          {
+            "city": "Wagon Wheel",
+            "county": "Navajo",
+            "population": 1259,
+            "zip_codes": [
+              {
+                "zip_codes": "85929"
+              },
+              {
+                "zip_codes": "85901"
+              }
+            ]
+          },
+          {
+            "city": "San Luis",
+            "county": "Yuma",
+            "population": 30647,
+            "zip_codes": [
+              {
+                "zip_codes": "85350"
+              },
+              {
+                "zip_codes": "85349"
+              }
+            ]
+          },
+          {
+            "city": "Cottonwood",
+            "county": "Yavapai",
+            "population": 12023,
+            "zip_codes": [
+              {
+                "zip_codes": "86326"
+              }
+            ]
+          },
+          {
+            "city": "Golden Valley",
+            "county": "Mohave",
+            "population": 8694,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              }
+            ]
+          },
+          {
+            "city": "Paradise Valley",
+            "county": "Maricopa",
+            "population": 14293,
+            "zip_codes": [
+              {
+                "zip_codes": "85253"
+              }
+            ]
+          },
+          {
+            "city": "Palominas",
+            "county": "Cochise",
+            "population": 249,
+            "zip_codes": [
+              {
+                "zip_codes": "85615"
+              }
+            ]
+          },
+          {
+            "city": "Oak Springs",
+            "county": "Apache",
+            "population": 84,
+            "zip_codes": [
+              {
+                "zip_codes": "86511"
+              }
+            ]
+          },
+          {
+            "city": "East Verde Estates",
+            "county": "Gila",
+            "population": 167,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Thatcher",
+            "county": "Graham",
+            "population": 5021,
+            "zip_codes": [
+              {
+                "zip_codes": "85552"
+              }
+            ]
+          },
+          {
+            "city": "Florence",
+            "county": "Pinal",
+            "population": 16935,
+            "zip_codes": [
+              {
+                "zip_codes": "85132"
+              }
+            ]
+          },
+          {
+            "city": "Charco",
+            "county": "Pima",
+            "population": 12,
+            "zip_codes": [
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Linden",
+            "county": "Navajo",
+            "population": 2856,
+            "zip_codes": [
+              {
+                "zip_codes": "85901"
+              }
+            ]
+          },
+          {
+            "city": "So-Hi",
+            "county": "Mohave",
+            "population": 223,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              }
+            ]
+          },
+          {
+            "city": "Valle Vista",
+            "county": "Mohave",
+            "population": 1959,
+            "zip_codes": [
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Rillito",
+            "county": "Pima",
+            "population": 51,
+            "zip_codes": [
+              {
+                "zip_codes": "85654"
+              },
+              {
+                "zip_codes": "85653"
+              }
+            ]
+          },
+          {
+            "city": "Safford",
+            "county": "Graham",
+            "population": 19302,
+            "zip_codes": [
+              {
+                "zip_codes": "85546"
+              }
+            ]
+          },
+          {
+            "city": "Rye",
+            "county": "Gila",
+            "population": 108,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Gisela",
+            "county": "Gila",
+            "population": 642,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Claypool",
+            "county": "Gila",
+            "population": 1428,
+            "zip_codes": [
+              {
+                "zip_codes": "85539"
+              }
+            ]
+          },
+          {
+            "city": "South Tucson",
+            "county": "Pima",
+            "population": 5643,
+            "zip_codes": [
+              {
+                "zip_codes": "85713"
+              }
+            ]
+          },
+          {
+            "city": "Chilchinbito",
+            "county": "Navajo",
+            "population": 887,
+            "zip_codes": [
+              {
+                "zip_codes": "86033"
+              }
+            ]
+          },
+          {
+            "city": "Chinle",
+            "county": "Apache",
+            "population": 5698,
+            "zip_codes": [
+              {
+                "zip_codes": "86503"
+              }
+            ]
+          },
+          {
+            "city": "Rock Point",
+            "county": "Apache",
+            "population": 484,
+            "zip_codes": [
+              {
+                "zip_codes": "86545"
+              }
+            ]
+          },
+          {
+            "city": "Santa Cruz",
+            "county": "Pinal",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85339"
+              }
+            ]
+          },
+          {
+            "city": "Peeples Valley",
+            "county": "Yavapai",
+            "population": 474,
+            "zip_codes": [
+              {
+                "zip_codes": "85362"
+              },
+              {
+                "zip_codes": "86332"
+              }
+            ]
+          },
+          {
+            "city": "Camp Verde",
+            "county": "Yavapai",
+            "population": 11201,
+            "zip_codes": [
+              {
+                "zip_codes": "86322"
+              }
+            ]
+          },
+          {
+            "city": "Douglas",
+            "county": "Cochise",
+            "population": 16438,
+            "zip_codes": [
+              {
+                "zip_codes": "85608"
+              },
+              {
+                "zip_codes": "85607"
+              },
+              {
+                "zip_codes": "85655"
+              }
+            ]
+          },
+          {
+            "city": "Beaver Dam",
+            "county": "Mohave",
+            "population": 1587,
+            "zip_codes": [
+              {
+                "zip_codes": "86432"
+              }
+            ]
+          },
+          {
+            "city": "Many Farms",
+            "county": "Apache",
+            "population": 1322,
+            "zip_codes": [
+              {
+                "zip_codes": "86538"
+              },
+              {
+                "zip_codes": "86503"
+              }
+            ]
+          },
+          {
+            "city": "Hayden",
+            "county": "Gila",
+            "population": 631,
+            "zip_codes": [
+              {
+                "zip_codes": "85135"
+              },
+              {
+                "zip_codes": "85192"
+              }
+            ]
+          },
+          {
+            "city": "Cibola",
+            "county": "La Paz",
+            "population": 414,
+            "zip_codes": [
+              {
+                "zip_codes": "85334"
+              },
+              {
+                "zip_codes": "85328"
+              }
+            ]
+          },
+          {
+            "city": "Pinetop-Lakeside",
+            "county": "Navajo",
+            "population": 4361,
+            "zip_codes": [
+              {
+                "zip_codes": "85935"
+              },
+              {
+                "zip_codes": "85929"
+              }
+            ]
+          },
+          {
+            "city": "Pine Lake",
+            "county": "Mohave",
+            "population": 50,
+            "zip_codes": [
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "El Capitan",
+            "county": "Gila",
+            "population": 121,
+            "zip_codes": [
+              {
+                "zip_codes": "85192"
+              },
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Naco",
+            "county": "Cochise",
+            "population": 833,
+            "zip_codes": [
+              {
+                "zip_codes": "85603"
+              },
+              {
+                "zip_codes": "85620"
+              }
+            ]
+          },
+          {
+            "city": "Valentine",
+            "county": "Mohave",
+            "population": 60,
+            "zip_codes": [
+              {
+                "zip_codes": "86437"
+              }
+            ]
+          },
+          {
+            "city": "Ali Chukson",
+            "county": "Pima",
+            "population": 107,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Arlington",
+            "county": "Maricopa",
+            "population": 97,
+            "zip_codes": [
+              {
+                "zip_codes": "85322"
+              }
+            ]
+          },
+          {
+            "city": "Oljato-Monument Valley",
+            "county": "Navajo",
+            "population": 202,
+            "zip_codes": [
+              {
+                "zip_codes": "84536"
+              }
+            ]
+          },
+          {
+            "city": "Red Mesa",
+            "county": "Apache",
+            "population": 367,
+            "zip_codes": [
+              {
+                "zip_codes": "86514"
+              }
+            ]
+          },
+          {
+            "city": "Whetstone",
+            "county": "Cochise",
+            "population": 2191,
+            "zip_codes": [
+              {
+                "zip_codes": "85616"
+              }
+            ]
+          },
+          {
+            "city": "Tsaile",
+            "county": "Apache",
+            "population": 1308,
+            "zip_codes": [
+              {
+                "zip_codes": "86556"
+              },
+              {
+                "zip_codes": "86507"
+              }
+            ]
+          },
+          {
+            "city": "Mohave Valley",
+            "county": "Mohave",
+            "population": 2984,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              }
+            ]
+          },
+          {
+            "city": "Prescott",
+            "county": "Yavapai",
+            "population": 42731,
+            "zip_codes": [
+              {
+                "zip_codes": "86305"
+              },
+              {
+                "zip_codes": "86301"
+              },
+              {
+                "zip_codes": "86303"
+              },
+              {
+                "zip_codes": "86313"
+              },
+              {
+                "zip_codes": "86302"
+              },
+              {
+                "zip_codes": "86304"
+              }
+            ]
+          },
+          {
+            "city": "Clay Springs",
+            "county": "Navajo",
+            "population": 392,
+            "zip_codes": [
+              {
+                "zip_codes": "85923"
+              }
+            ]
+          },
+          {
+            "city": "Pinetop Country Club",
+            "county": "Navajo",
+            "population": 1677,
+            "zip_codes": [
+              {
+                "zip_codes": "85935"
+              }
+            ]
+          },
+          {
+            "city": "Centennial Park",
+            "county": "Mohave",
+            "population": 1550,
+            "zip_codes": [
+              {
+                "zip_codes": "86021"
+              },
+              {
+                "zip_codes": "86022"
+              }
+            ]
+          },
+          {
+            "city": "Somerton",
+            "county": "Yuma",
+            "population": 19168,
+            "zip_codes": [
+              {
+                "zip_codes": "85350"
+              }
+            ]
+          },
+          {
+            "city": "Gadsden",
+            "county": "Yuma",
+            "population": 502,
+            "zip_codes": [
+              {
+                "zip_codes": "85336"
+              }
+            ]
+          },
+          {
+            "city": "Kayenta",
+            "county": "Navajo",
+            "population": 4630,
+            "zip_codes": [
+              {
+                "zip_codes": "86033"
+              }
+            ]
+          },
+          {
+            "city": "Mammoth",
+            "county": "Pinal",
+            "population": 1611,
+            "zip_codes": [
+              {
+                "zip_codes": "85623"
+              }
+            ]
+          },
+          {
+            "city": "Anthem",
+            "county": "Maricopa",
+            "population": 22980,
+            "zip_codes": [
+              {
+                "zip_codes": "85086"
+              }
+            ]
+          },
+          {
+            "city": "Christopher Creek",
+            "county": "Gila",
+            "population": 86,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Duncan",
+            "county": "Greenlee",
+            "population": 788,
+            "zip_codes": [
+              {
+                "zip_codes": "85534"
+              }
+            ]
+          },
+          {
+            "city": "Goodyear Village",
+            "county": "Pinal",
+            "population": 236,
+            "zip_codes": [
+              {
+                "zip_codes": "85248"
+              },
+              {
+                "zip_codes": "85121"
+              }
+            ]
+          },
+          {
+            "city": "Utting",
+            "county": "La Paz",
+            "population": 83,
+            "zip_codes": [
+              {
+                "zip_codes": "85325"
+              }
+            ]
+          },
+          {
+            "city": "Saddlebrooke",
+            "county": "Pinal",
+            "population": 10300,
+            "zip_codes": [
+              {
+                "zip_codes": "85739"
+              }
+            ]
+          },
+          {
+            "city": "Padre Ranchitos",
+            "county": "Yuma",
+            "population": 253,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Jeddito",
+            "county": "Navajo",
+            "population": 326,
+            "zip_codes": [
+              {
+                "zip_codes": "86034"
+              }
+            ]
+          },
+          {
+            "city": "Nutrioso",
+            "county": "Apache",
+            "population": 59,
+            "zip_codes": [
+              {
+                "zip_codes": "85932"
+              }
+            ]
+          },
+          {
+            "city": "New River",
+            "county": "Maricopa",
+            "population": 14847,
+            "zip_codes": [
+              {
+                "zip_codes": "85086"
+              },
+              {
+                "zip_codes": "85087"
+              }
+            ]
+          },
+          {
+            "city": "Anegam",
+            "county": "Pima",
+            "population": 86,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Joseph City",
+            "county": "Navajo",
+            "population": 1260,
+            "zip_codes": [
+              {
+                "zip_codes": "86032"
+              }
+            ]
+          },
+          {
+            "city": "Whispering Pines",
+            "county": "Gila",
+            "population": 106,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Tonto Basin",
+            "county": "Gila",
+            "population": 1601,
+            "zip_codes": [
+              {
+                "zip_codes": "85553"
+              }
+            ]
+          },
+          {
+            "city": "Chandler",
+            "county": "Maricopa",
+            "population": 253458,
+            "zip_codes": [
+              {
+                "zip_codes": "85248"
+              },
+              {
+                "zip_codes": "85249"
+              },
+              {
+                "zip_codes": "85226"
+              },
+              {
+                "zip_codes": "85224"
+              },
+              {
+                "zip_codes": "85225"
+              },
+              {
+                "zip_codes": "85286"
+              },
+              {
+                "zip_codes": "85246"
+              }
+            ]
+          },
+          {
+            "city": "Sanders",
+            "county": "Apache",
+            "population": 541,
+            "zip_codes": [
+              {
+                "zip_codes": "86512"
+              }
+            ]
+          },
+          {
+            "city": "Clarkdale",
+            "county": "Yavapai",
+            "population": 4330,
+            "zip_codes": [
+              {
+                "zip_codes": "86326"
+              },
+              {
+                "zip_codes": "86324"
+              }
+            ]
+          },
+          {
+            "city": "Elephant Head",
+            "county": "Pima",
+            "population": 735,
+            "zip_codes": [
+              {
+                "zip_codes": "85645"
+              }
+            ]
+          },
+          {
+            "city": "Katherine",
+            "county": "Mohave",
+            "population": 80,
+            "zip_codes": [
+              {
+                "zip_codes": "86429"
+              }
+            ]
+          },
+          {
+            "city": "Moenkopi",
+            "county": "Coconino",
+            "population": 1273,
+            "zip_codes": [
+              {
+                "zip_codes": "86045"
+              }
+            ]
+          },
+          {
+            "city": "South Komelik",
+            "county": "Pima",
+            "population": 308,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Oxbow Estates",
+            "county": "Gila",
+            "population": 197,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Oatman",
+            "county": "Mohave",
+            "population": 48,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              },
+              {
+                "zip_codes": "86433"
+              }
+            ]
+          },
+          {
+            "city": "Chino Valley",
+            "county": "Yavapai",
+            "population": 11667,
+            "zip_codes": [
+              {
+                "zip_codes": "86323"
+              }
+            ]
+          },
+          {
+            "city": "Buckeye",
+            "county": "Maricopa",
+            "population": 68453,
+            "zip_codes": [
+              {
+                "zip_codes": "85326"
+              },
+              {
+                "zip_codes": "85396"
+              }
+            ]
+          },
+          {
+            "city": "Aguila",
+            "county": "Maricopa",
+            "population": 1240,
+            "zip_codes": [
+              {
+                "zip_codes": "85320"
+              }
+            ]
+          },
+          {
+            "city": "Bluewater",
+            "county": "La Paz",
+            "population": 875,
+            "zip_codes": [
+              {
+                "zip_codes": "85344"
+              }
+            ]
+          },
+          {
+            "city": "Klagetoh",
+            "county": "Apache",
+            "population": 203,
+            "zip_codes": [
+              {
+                "zip_codes": "86502"
+              },
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Yucca",
+            "county": "Mohave",
+            "population": 61,
+            "zip_codes": [
+              {
+                "zip_codes": "86438"
+              }
+            ]
+          },
+          {
+            "city": "Haigler Creek",
+            "county": "Gila",
+            "population": 29,
+            "zip_codes": [
+              {
+                "zip_codes": "85554"
+              }
+            ]
+          },
+          {
+            "city": "Wall Lane",
+            "county": "Yuma",
+            "population": 365,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Gu Oidak",
+            "county": "Pima",
+            "population": 98,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Bullhead City",
+            "county": "Mohave",
+            "population": 49531,
+            "zip_codes": [
+              {
+                "zip_codes": "86442"
+              },
+              {
+                "zip_codes": "86429"
+              },
+              {
+                "zip_codes": "86430"
+              },
+              {
+                "zip_codes": "86439"
+              }
+            ]
+          },
+          {
+            "city": "Gold Canyon",
+            "county": "Pinal",
+            "population": 10684,
+            "zip_codes": [
+              {
+                "zip_codes": "85118"
+              },
+              {
+                "zip_codes": "85119"
+              }
+            ]
+          },
+          {
+            "city": "Fortuna Foothills",
+            "county": "Yuma",
+            "population": 28200,
+            "zip_codes": [
+              {
+                "zip_codes": "85367"
+              }
+            ]
+          },
+          {
+            "city": "Vaiva Vo",
+            "county": "Pinal",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85193"
+              }
+            ]
+          },
+          {
+            "city": "Pisinemo",
+            "county": "Pima",
+            "population": 356,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "McNeal",
+            "county": "Cochise",
+            "population": 167,
+            "zip_codes": [
+              {
+                "zip_codes": "85617"
+              }
+            ]
+          },
+          {
+            "city": "Ali Chuk",
+            "county": "Pima",
+            "population": 120,
+            "zip_codes": [
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Bouse",
+            "county": "La Paz",
+            "population": 927,
+            "zip_codes": [
+              {
+                "zip_codes": "85325"
+              }
+            ]
+          },
+          {
+            "city": "Kearny",
+            "county": "Pinal",
+            "population": 2095,
+            "zip_codes": [
+              {
+                "zip_codes": "85137"
+              }
+            ]
+          },
+          {
+            "city": "Ehrenberg",
+            "county": "La Paz",
+            "population": 844,
+            "zip_codes": [
+              {
+                "zip_codes": "85334"
+              },
+              {
+                "zip_codes": "85346"
+              }
+            ]
+          },
+          {
+            "city": "Amado",
+            "county": "Santa Cruz",
+            "population": 104,
+            "zip_codes": [
+              {
+                "zip_codes": "85645"
+              },
+              {
+                "zip_codes": "85646"
+              }
+            ]
+          },
+          {
+            "city": "Cave Creek",
+            "county": "Maricopa",
+            "population": 5622,
+            "zip_codes": [
+              {
+                "zip_codes": "85087"
+              },
+              {
+                "zip_codes": "85331"
+              },
+              {
+                "zip_codes": "85327"
+              }
+            ]
+          },
+          {
+            "city": "Wide Ruins",
+            "county": "Apache",
+            "population": 84,
+            "zip_codes": [
+              {
+                "zip_codes": "86502"
+              }
+            ]
+          },
+          {
+            "city": "East Globe",
+            "county": "Gila",
+            "population": 258,
+            "zip_codes": [
+              {
+                "zip_codes": "85550"
+              }
+            ]
+          },
+          {
+            "city": "Litchfield Park",
+            "county": "Maricopa",
+            "population": 6009,
+            "zip_codes": [
+              {
+                "zip_codes": "85340"
+              }
+            ]
+          },
+          {
+            "city": "Gila Crossing",
+            "county": "Maricopa",
+            "population": 810,
+            "zip_codes": [
+              {
+                "zip_codes": "85339"
+              }
+            ]
+          },
+          {
+            "city": "Kaibab",
+            "county": "Mohave",
+            "population": 162,
+            "zip_codes": [
+              {
+                "zip_codes": "86022"
+              }
+            ]
+          },
+          {
+            "city": "Haivana Nakya",
+            "county": "Pima",
+            "population": 143,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Houck",
+            "county": "Apache",
+            "population": 1030,
+            "zip_codes": [
+              {
+                "zip_codes": "86512"
+              },
+              {
+                "zip_codes": "86506"
+              }
+            ]
+          },
+          {
+            "city": "Rio Rico",
+            "county": "Santa Cruz",
+            "population": 18891,
+            "zip_codes": [
+              {
+                "zip_codes": "85640"
+              },
+              {
+                "zip_codes": "85648"
+              }
+            ]
+          },
+          {
+            "city": "Wickenburg",
+            "county": "Maricopa",
+            "population": 4220,
+            "zip_codes": [
+              {
+                "zip_codes": "85390"
+              },
+              {
+                "zip_codes": "85358"
+              }
+            ]
+          },
+          {
+            "city": "Buckshot",
+            "county": "Yuma",
+            "population": 27,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Lake of the Woods",
+            "county": "Navajo",
+            "population": 3975,
+            "zip_codes": [
+              {
+                "zip_codes": "85929"
+              }
+            ]
+          },
+          {
+            "city": "Willcox",
+            "county": "Cochise",
+            "population": 3420,
+            "zip_codes": [
+              {
+                "zip_codes": "85643"
+              },
+              {
+                "zip_codes": "85644"
+              }
+            ]
+          },
+          {
+            "city": "Antares",
+            "county": "Mohave",
+            "population": 147,
+            "zip_codes": [
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Miracle Valley",
+            "county": "Cochise",
+            "population": 759,
+            "zip_codes": [
+              {
+                "zip_codes": "85615"
+              }
+            ]
+          },
+          {
+            "city": "Summit",
+            "county": "Pima",
+            "population": 5349,
+            "zip_codes": [
+              {
+                "zip_codes": "85756"
+              }
+            ]
+          },
+          {
+            "city": "Cienega Springs",
+            "county": "La Paz",
+            "population": 1926,
+            "zip_codes": [
+              {
+                "zip_codes": "85344"
+              }
+            ]
+          },
+          {
+            "city": "Oro Valley",
+            "county": "Pima",
+            "population": 44350,
+            "zip_codes": [
+              {
+                "zip_codes": "85755"
+              },
+              {
+                "zip_codes": "85704"
+              },
+              {
+                "zip_codes": "85737"
+              }
+            ]
+          },
+          {
+            "city": "Young",
+            "county": "Gila",
+            "population": 421,
+            "zip_codes": [
+              {
+                "zip_codes": "85554"
+              }
+            ]
+          },
+          {
+            "city": "Munds Park",
+            "county": "Coconino",
+            "population": 726,
+            "zip_codes": [
+              {
+                "zip_codes": "86017"
+              },
+              {
+                "zip_codes": "86336"
+              }
+            ]
+          },
+          {
+            "city": "Peach Springs",
+            "county": "Mohave",
+            "population": 1228,
+            "zip_codes": [
+              {
+                "zip_codes": "86434"
+              }
+            ]
+          },
+          {
+            "city": "San Tan Valley",
+            "county": "Pinal",
+            "population": 90665,
+            "zip_codes": [
+              {
+                "zip_codes": "85143"
+              },
+              {
+                "zip_codes": "85140"
+              }
+            ]
+          },
+          {
+            "city": "Peridot",
+            "county": "Gila",
+            "population": 1648,
+            "zip_codes": [
+              {
+                "zip_codes": "85542"
+              }
+            ]
+          },
+          {
+            "city": "Cowlic",
+            "county": "Pima",
+            "population": 189,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Golden Shores",
+            "county": "Mohave",
+            "population": 1294,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              },
+              {
+                "zip_codes": "86436"
+              }
+            ]
+          },
+          {
+            "city": "Arivaca",
+            "county": "Pima",
+            "population": 627,
+            "zip_codes": [
+              {
+                "zip_codes": "85601"
+              }
+            ]
+          },
+          {
+            "city": "Dudleyville",
+            "county": "Pinal",
+            "population": 568,
+            "zip_codes": [
+              {
+                "zip_codes": "85192"
+              }
+            ]
+          },
+          {
+            "city": "Lazy Y U",
+            "county": "Mohave",
+            "population": 468,
+            "zip_codes": [
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Chloride",
+            "county": "Mohave",
+            "population": 297,
+            "zip_codes": [
+              {
+                "zip_codes": "86431"
+              }
+            ]
+          },
+          {
+            "city": "Mesquite Creek",
+            "county": "Mohave",
+            "population": 470,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              }
+            ]
+          },
+          {
+            "city": "Washington Park",
+            "county": "Gila",
+            "population": 137,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Campo Bonito",
+            "county": "Pinal",
+            "population": 58,
+            "zip_codes": [
+              {
+                "zip_codes": "85623"
+              }
+            ]
+          },
+          {
+            "city": "Nolic",
+            "county": "Pima",
+            "population": 63,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Bagdad",
+            "county": "Yavapai",
+            "population": 1737,
+            "zip_codes": [
+              {
+                "zip_codes": "86321"
+              }
+            ]
+          },
+          {
+            "city": "Wintersburg",
+            "county": "Maricopa",
+            "population": 43,
+            "zip_codes": [
+              {
+                "zip_codes": "85354"
+              }
+            ]
+          },
+          {
+            "city": "Komatke",
+            "county": "Maricopa",
+            "population": 1283,
+            "zip_codes": [
+              {
+                "zip_codes": "85339"
+              }
+            ]
+          },
+          {
+            "city": "LeChee",
+            "county": "Coconino",
+            "population": 1527,
+            "zip_codes": [
+              {
+                "zip_codes": "86040"
+              }
+            ]
+          },
+          {
+            "city": "Fredonia",
+            "county": "Coconino",
+            "population": 1304,
+            "zip_codes": [
+              {
+                "zip_codes": "86022"
+              }
+            ]
+          },
+          {
+            "city": "Lukachukai",
+            "county": "Apache",
+            "population": 1660,
+            "zip_codes": [
+              {
+                "zip_codes": "86507"
+              }
+            ]
+          },
+          {
+            "city": "Comobabi",
+            "county": "Pima",
+            "population": 43,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Cordes Lakes",
+            "county": "Yavapai",
+            "population": 2328,
+            "zip_codes": [
+              {
+                "zip_codes": "86333"
+              }
+            ]
+          },
+          {
+            "city": "Scenic",
+            "county": "Mohave",
+            "population": 1608,
+            "zip_codes": [
+              {
+                "zip_codes": "86432"
+              }
+            ]
+          },
+          {
+            "city": "Sehili",
+            "county": "Apache",
+            "population": 107,
+            "zip_codes": [
+              {
+                "zip_codes": "86556"
+              },
+              {
+                "zip_codes": "86507"
+              }
+            ]
+          },
+          {
+            "city": "Wellton",
+            "county": "Yuma",
+            "population": 2989,
+            "zip_codes": [
+              {
+                "zip_codes": "85356"
+              }
+            ]
+          },
+          {
+            "city": "Globe",
+            "county": "Gila",
+            "population": 13198,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              },
+              {
+                "zip_codes": "85502"
+              },
+              {
+                "zip_codes": "85532"
+              }
+            ]
+          },
+          {
+            "city": "Sahuarita",
+            "county": "Pima",
+            "population": 47229,
+            "zip_codes": [
+              {
+                "zip_codes": "85629"
+              },
+              {
+                "zip_codes": "85614"
+              }
+            ]
+          },
+          {
+            "city": "White Hills",
+            "county": "Mohave",
+            "population": 222,
+            "zip_codes": [
+              {
+                "zip_codes": "86445"
+              },
+              {
+                "zip_codes": "86441"
+              }
+            ]
+          },
+          {
+            "city": "Tempe",
+            "county": "Maricopa",
+            "population": 185038,
+            "zip_codes": [
+              {
+                "zip_codes": "85281"
+              },
+              {
+                "zip_codes": "85282"
+              },
+              {
+                "zip_codes": "85283"
+              },
+              {
+                "zip_codes": "85284"
+              },
+              {
+                "zip_codes": "85280"
+              },
+              {
+                "zip_codes": "85285"
+              },
+              {
+                "zip_codes": "85287"
+              }
+            ]
+          },
+          {
+            "city": "Arizona Village",
+            "county": "Mohave",
+            "population": 1129,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              }
+            ]
+          },
+          {
+            "city": "York",
+            "county": "Greenlee",
+            "population": 620,
+            "zip_codes": [
+              {
+                "zip_codes": "85534"
+              }
+            ]
+          },
+          {
+            "city": "Tat Momoli",
+            "county": "Pinal",
+            "population": 54,
+            "zip_codes": [
+              {
+                "zip_codes": "85193"
+              }
+            ]
+          },
+          {
+            "city": "Bisbee",
+            "county": "Cochise",
+            "population": 5160,
+            "zip_codes": [
+              {
+                "zip_codes": "85603"
+              }
+            ]
+          },
+          {
+            "city": "Kingman",
+            "county": "Mohave",
+            "population": 44212,
+            "zip_codes": [
+              {
+                "zip_codes": "86409"
+              },
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Desert Hills",
+            "county": "Mohave",
+            "population": 2838,
+            "zip_codes": [
+              {
+                "zip_codes": "86404"
+              }
+            ]
+          },
+          {
+            "city": "Peoria",
+            "county": "Maricopa",
+            "population": 168181,
+            "zip_codes": [
+              {
+                "zip_codes": "85381"
+              },
+              {
+                "zip_codes": "85383"
+              },
+              {
+                "zip_codes": "85382"
+              },
+              {
+                "zip_codes": "85373"
+              },
+              {
+                "zip_codes": "85345"
+              },
+              {
+                "zip_codes": "85342"
+              },
+              {
+                "zip_codes": "85380"
+              },
+              {
+                "zip_codes": "85385"
+              }
+            ]
+          },
+          {
+            "city": "Upper Santan Village",
+            "county": "Pinal",
+            "population": 391,
+            "zip_codes": [
+              {
+                "zip_codes": "85147"
+              }
+            ]
+          },
+          {
+            "city": "Grand Canyon Village",
+            "county": "Coconino",
+            "population": 1438,
+            "zip_codes": [
+              {
+                "zip_codes": "86023"
+              }
+            ]
+          },
+          {
+            "city": "Williamson",
+            "county": "Yavapai",
+            "population": 5108,
+            "zip_codes": [
+              {
+                "zip_codes": "86323"
+              },
+              {
+                "zip_codes": "86305"
+              }
+            ]
+          },
+          {
+            "city": "Rio Verde",
+            "county": "Maricopa",
+            "population": 2028,
+            "zip_codes": [
+              {
+                "zip_codes": "85263"
+              }
+            ]
+          },
+          {
+            "city": "Prescott Valley",
+            "county": "Yavapai",
+            "population": 97066,
+            "zip_codes": [
+              {
+                "zip_codes": "86327"
+              },
+              {
+                "zip_codes": "86315"
+              },
+              {
+                "zip_codes": "86314"
+              },
+              {
+                "zip_codes": "86312"
+              }
+            ]
+          },
+          {
+            "city": "Keams Canyon",
+            "county": "Navajo",
+            "population": 262,
+            "zip_codes": [
+              {
+                "zip_codes": "86034"
+              }
+            ]
+          },
+          {
+            "city": "Parks",
+            "county": "Coconino",
+            "population": 1652,
+            "zip_codes": [
+              {
+                "zip_codes": "86046"
+              },
+              {
+                "zip_codes": "86018"
+              }
+            ]
+          },
+          {
+            "city": "Sawmill",
+            "county": "Apache",
+            "population": 706,
+            "zip_codes": [
+              {
+                "zip_codes": "86504"
+              }
+            ]
+          },
+          {
+            "city": "Tumacacori-Carmen",
+            "county": "Santa Cruz",
+            "population": 281,
+            "zip_codes": [
+              {
+                "zip_codes": "85640"
+              }
+            ]
+          },
+          {
+            "city": "Bitter Springs",
+            "county": "Coconino",
+            "population": 417,
+            "zip_codes": [
+              {
+                "zip_codes": "86040"
+              },
+              {
+                "zip_codes": "86036"
+              }
+            ]
+          },
+          {
+            "city": "Why",
+            "county": "Pima",
+            "population": 150,
+            "zip_codes": [
+              {
+                "zip_codes": "85321"
+              }
+            ]
+          },
+          {
+            "city": "Littlefield",
+            "county": "Mohave",
+            "population": 505,
+            "zip_codes": [
+              {
+                "zip_codes": "86432"
+              }
+            ]
+          },
+          {
+            "city": "Carrizo",
+            "county": "Gila",
+            "population": 191,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Fountain Hills",
+            "county": "Maricopa",
+            "population": 24583,
+            "zip_codes": [
+              {
+                "zip_codes": "85268"
+              },
+              {
+                "zip_codes": "85269"
+              }
+            ]
+          },
+          {
+            "city": "Parker",
+            "county": "La Paz",
+            "population": 4730,
+            "zip_codes": [
+              {
+                "zip_codes": "85344"
+              },
+              {
+                "zip_codes": "85346"
+              }
+            ]
+          },
+          {
+            "city": "Hondah",
+            "county": "Navajo",
+            "population": 991,
+            "zip_codes": [
+              {
+                "zip_codes": "85935"
+              },
+              {
+                "zip_codes": "85930"
+              }
+            ]
+          },
+          {
+            "city": "Brenda",
+            "county": "La Paz",
+            "population": 392,
+            "zip_codes": [
+              {
+                "zip_codes": "85348"
+              }
+            ]
+          },
+          {
+            "city": "Seba Dalkai",
+            "county": "Navajo",
+            "population": 144,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Rough Rock",
+            "county": "Apache",
+            "population": 585,
+            "zip_codes": [
+              {
+                "zip_codes": "86503"
+              }
+            ]
+          },
+          {
+            "city": "Tonopah",
+            "county": "Maricopa",
+            "population": 65,
+            "zip_codes": [
+              {
+                "zip_codes": "85354"
+              }
+            ]
+          },
+          {
+            "city": "Pinion Pines",
+            "county": "Mohave",
+            "population": 181,
+            "zip_codes": [
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Show Low",
+            "county": "Navajo",
+            "population": 10837,
+            "zip_codes": [
+              {
+                "zip_codes": "85901"
+              },
+              {
+                "zip_codes": "85902"
+              }
+            ]
+          },
+          {
+            "city": "Winslow West",
+            "county": "Navajo",
+            "population": 757,
+            "zip_codes": [
+              {
+                "zip_codes": "86047"
+              }
+            ]
+          },
+          {
+            "city": "Clacks Canyon",
+            "county": "Mohave",
+            "population": 322,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              },
+              {
+                "zip_codes": "86409"
+              },
+              {
+                "zip_codes": "86402"
+              }
+            ]
+          },
+          {
+            "city": "Tonalea",
+            "county": "Coconino",
+            "population": 335,
+            "zip_codes": [
+              {
+                "zip_codes": "86044"
+              }
+            ]
+          },
+          {
+            "city": "Glendale",
+            "county": "Maricopa",
+            "population": 246709,
+            "zip_codes": [
+              {
+                "zip_codes": "85301"
+              },
+              {
+                "zip_codes": "85303"
+              },
+              {
+                "zip_codes": "85302"
+              },
+              {
+                "zip_codes": "85304"
+              },
+              {
+                "zip_codes": "85306"
+              },
+              {
+                "zip_codes": "85308"
+              },
+              {
+                "zip_codes": "85305"
+              },
+              {
+                "zip_codes": "85307"
+              },
+              {
+                "zip_codes": "85309"
+              },
+              {
+                "zip_codes": "85310"
+              },
+              {
+                "zip_codes": "85311"
+              },
+              {
+                "zip_codes": "85312"
+              },
+              {
+                "zip_codes": "85318"
+              }
+            ]
+          },
+          {
+            "city": "McConnico",
+            "county": "Mohave",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "86413"
+              },
+              {
+                "zip_codes": "86401"
+              }
+            ]
+          },
+          {
+            "city": "Apache Junction",
+            "county": "Pinal",
+            "population": 40538,
+            "zip_codes": [
+              {
+                "zip_codes": "85119"
+              },
+              {
+                "zip_codes": "85120"
+              },
+              {
+                "zip_codes": "85117"
+              },
+              {
+                "zip_codes": "85178"
+              }
+            ]
+          },
+          {
+            "city": "Strawberry",
+            "county": "Gila",
+            "population": 714,
+            "zip_codes": [
+              {
+                "zip_codes": "85544"
+              }
+            ]
+          },
+          {
+            "city": "Martinez Lake",
+            "county": "Yuma",
+            "population": 81,
+            "zip_codes": [
+              {
+                "zip_codes": "85365"
+              }
+            ]
+          },
+          {
+            "city": "Grand Canyon West",
+            "county": "Mohave",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "86434"
+              }
+            ]
+          },
+          {
+            "city": "Sweet Water Village",
+            "county": "Pinal",
+            "population": 152,
+            "zip_codes": [
+              {
+                "zip_codes": "85121"
+              }
+            ]
+          },
+          {
+            "city": "Superior",
+            "county": "Pinal",
+            "population": 3074,
+            "zip_codes": [
+              {
+                "zip_codes": "85173"
+              }
+            ]
+          },
+          {
+            "city": "Red Rock",
+            "county": "Pinal",
+            "population": 3046,
+            "zip_codes": [
+              {
+                "zip_codes": "85131"
+              },
+              {
+                "zip_codes": "85145"
+              },
+              {
+                "zip_codes": "85658"
+              }
+            ]
+          },
+          {
+            "city": "Sierra Vista",
+            "county": "Cochise",
+            "population": 51571,
+            "zip_codes": [
+              {
+                "zip_codes": "85650"
+              },
+              {
+                "zip_codes": "85635"
+              },
+              {
+                "zip_codes": "85613"
+              },
+              {
+                "zip_codes": "85670"
+              },
+              {
+                "zip_codes": "85671"
+              }
+            ]
+          },
+          {
+            "city": "Rainbow City",
+            "county": "Navajo",
+            "population": 1114,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Sierra Vista Southeast",
+            "county": "Cochise",
+            "population": 15591,
+            "zip_codes": [
+              {
+                "zip_codes": "85650"
+              },
+              {
+                "zip_codes": "85615"
+              },
+              {
+                "zip_codes": "85636"
+              }
+            ]
+          },
+          {
+            "city": "Willow Valley",
+            "county": "Mohave",
+            "population": 869,
+            "zip_codes": [
+              {
+                "zip_codes": "86440"
+              }
+            ]
+          },
+          {
+            "city": "Cactus Forest",
+            "county": "Pinal",
+            "population": 872,
+            "zip_codes": [
+              {
+                "zip_codes": "85132"
+              }
+            ]
+          },
+          {
+            "city": "East Fork",
+            "county": "Navajo",
+            "population": 699,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Lupton",
+            "county": "Apache",
+            "population": 19,
+            "zip_codes": [
+              {
+                "zip_codes": "86508"
+              }
+            ]
+          },
+          {
+            "city": "Gila Bend",
+            "county": "Maricopa",
+            "population": 2069,
+            "zip_codes": [
+              {
+                "zip_codes": "85337"
+              }
+            ]
+          },
+          {
+            "city": "Wellton Hills",
+            "county": "Yuma",
+            "population": 386,
+            "zip_codes": [
+              {
+                "zip_codes": "85356"
+              }
+            ]
+          },
+          {
+            "city": "Citrus Park",
+            "county": "Maricopa",
+            "population": 4924,
+            "zip_codes": [
+              {
+                "zip_codes": "85355"
+              },
+              {
+                "zip_codes": "85340"
+              }
+            ]
+          },
+          {
+            "city": "Casas Adobes",
+            "county": "Pima",
+            "population": 68919,
+            "zip_codes": [
+              {
+                "zip_codes": "85704"
+              },
+              {
+                "zip_codes": "85741"
+              },
+              {
+                "zip_codes": "85742"
+              },
+              {
+                "zip_codes": "85752"
+              }
+            ]
+          },
+          {
+            "city": "Turkey Creek",
+            "county": "Navajo",
+            "population": 489,
+            "zip_codes": [
+              {
+                "zip_codes": "85941"
+              }
+            ]
+          },
+          {
+            "city": "Mountainaire",
+            "county": "Coconino",
+            "population": 993,
+            "zip_codes": [
+              {
+                "zip_codes": "86001"
+              }
+            ]
+          },
+          {
+            "city": "Drexel Heights",
+            "county": "Pima",
+            "population": 28187,
+            "zip_codes": [
+              {
+                "zip_codes": "85757"
+              },
+              {
+                "zip_codes": "85746"
+              }
+            ]
+          },
+          {
+            "city": "Central Heights-Midland City",
+            "county": "Gila",
+            "population": 2752,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          },
+          {
+            "city": "Maish Vaya",
+            "county": "Pima",
+            "population": 188,
+            "zip_codes": [
+              {
+                "zip_codes": "85634"
+              }
+            ]
+          },
+          {
+            "city": "Toyei",
+            "county": "Apache",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "86505"
+              }
+            ]
+          },
+          {
+            "city": "Sacaton",
+            "county": "Pinal",
+            "population": 2338,
+            "zip_codes": [
+              {
+                "zip_codes": "85147"
+              }
+            ]
+          },
+          {
+            "city": "Miami",
+            "county": "Gila",
+            "population": 1771,
+            "zip_codes": [
+              {
+                "zip_codes": "85539"
+              }
+            ]
+          },
+          {
+            "city": "Sun Valley",
+            "county": "Navajo",
+            "population": 195,
+            "zip_codes": [
+              {
+                "zip_codes": "86029"
+              }
+            ]
+          },
+          {
+            "city": "Rancho Mesa Verde",
+            "county": "Yuma",
+            "population": 909,
+            "zip_codes": [
+              {
+                "zip_codes": "85350"
+              }
+            ]
+          },
+          {
+            "city": "Page",
+            "county": "Coconino",
+            "population": 6946,
+            "zip_codes": [
+              {
+                "zip_codes": "86040"
+              },
+              {
+                "zip_codes": "86036"
+              }
+            ]
+          },
+          {
+            "city": "Pimaco Two",
+            "county": "Pima",
+            "population": 669,
+            "zip_codes": [
+              {
+                "zip_codes": "85602"
+              }
+            ]
+          },
+          {
+            "city": "Shonto",
+            "county": "Navajo",
+            "population": 543,
+            "zip_codes": [
+              {
+                "zip_codes": "86054"
+              }
+            ]
+          },
+          {
+            "city": "Geronimo Estates",
+            "county": "Gila",
+            "population": 92,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Clifton",
+            "county": "Greenlee",
+            "population": 5010,
+            "zip_codes": [
+              {
+                "zip_codes": "85533"
+              }
+            ]
+          },
+          {
+            "city": "Flowing Wells",
+            "county": "Pima",
+            "population": 14972,
+            "zip_codes": [
+              {
+                "zip_codes": "85705"
+              }
+            ]
+          },
+          {
+            "city": "Maricopa Colony",
+            "county": "Maricopa",
+            "population": 791,
+            "zip_codes": [
+              {
+                "zip_codes": "85339"
+              }
+            ]
+          },
+          {
+            "city": "Eagar",
+            "county": "Apache",
+            "population": 6089,
+            "zip_codes": [
+              {
+                "zip_codes": "85938"
+              },
+              {
+                "zip_codes": "85925"
+              }
+            ]
+          },
+          {
+            "city": "Mesa del Caballo",
+            "county": "Gila",
+            "population": 569,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Round Valley",
+            "county": "Gila",
+            "population": 832,
+            "zip_codes": [
+              {
+                "zip_codes": "85541"
+              }
+            ]
+          },
+          {
+            "city": "Flagstaff",
+            "county": "Coconino",
+            "population": 78628,
+            "zip_codes": [
+              {
+                "zip_codes": "86001"
+              },
+              {
+                "zip_codes": "86011"
+              },
+              {
+                "zip_codes": "86004"
+              },
+              {
+                "zip_codes": "86002"
+              },
+              {
+                "zip_codes": "86005"
+              }
+            ]
+          },
+          {
+            "city": "Dragoon",
+            "county": "Cochise",
+            "population": 48,
+            "zip_codes": [
+              {
+                "zip_codes": "85609"
+              }
+            ]
+          },
+          {
+            "city": "Copper Hill",
+            "county": "Gila",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "85501"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
