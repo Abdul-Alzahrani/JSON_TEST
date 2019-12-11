@@ -1,0 +1,3937 @@
+[
+    {
+      "state_id": "CO",
+      "state": "Colorado",
+      "regions": [
+        {
+          "region": "CO",
+          "cities": [
+            {
+              "city": "Air Force Academy",
+              "county": "El Paso",
+              "population": 6098,
+              "zip_codes": []
+            },
+            {
+              "city": "Alamosa",
+              "county": "Alamosa",
+              "population": 10963,
+              "zip_codes": []
+            },
+            {
+              "city": "Applewood",
+              "county": "Jefferson",
+              "population": 8173,
+              "zip_codes": []
+            },
+            {
+              "city": "Arvada",
+              "county": "Jefferson",
+              "population": 118807,
+              "zip_codes": []
+            },
+            {
+              "city": "Aspen",
+              "county": "Pitkin",
+              "population": 8521,
+              "zip_codes": []
+            },
+            {
+              "city": "Aurora",
+              "county": "Adams",
+              "population": 366623,
+              "zip_codes": []
+            },
+            {
+              "city": "Avon",
+              "county": "Eagle",
+              "population": 6541,
+              "zip_codes": []
+            },
+            {
+              "city": "Basalt",
+              "county": "Eagle",
+              "population": 9222,
+              "zip_codes": []
+            },
+            {
+              "city": "Bellvue",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Black Forest",
+              "county": "El Paso",
+              "population": 14188,
+              "zip_codes": []
+            },
+            {
+              "city": "Boulder",
+              "county": "Boulder",
+              "population": 126054,
+              "zip_codes": []
+            },
+            {
+              "city": "Brighton",
+              "county": "Adams",
+              "population": 40562,
+              "zip_codes": []
+            },
+            {
+              "city": "Broomfield",
+              "county": "Broomfield",
+              "population": 68341,
+              "zip_codes": []
+            },
+            {
+              "city": "Canon City",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Carbondale",
+              "county": "Garfield",
+              "population": 7597,
+              "zip_codes": []
+            },
+            {
+              "city": "Castle Rock",
+              "county": "Douglas",
+              "population": 62276,
+              "zip_codes": []
+            },
+            {
+              "city": "Castlewood",
+              "county": "Arapahoe",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Centennial",
+              "county": "Arapahoe",
+              "population": 110250,
+              "zip_codes": []
+            },
+            {
+              "city": "Cimarron Hills",
+              "county": "El Paso",
+              "population": 17744,
+              "zip_codes": []
+            },
+            {
+              "city": "Clifton",
+              "county": "Mesa",
+              "population": 20045,
+              "zip_codes": [
+                {
+                  "zip_code": "83228"
+                }
+              ]
+            },
+            {
+              "city": "Colorado Springs",
+              "county": "El Paso",
+              "population": 623946,
+              "zip_codes": []
+            },
+            {
+              "city": "Columbine",
+              "county": "Routt",
+              "population": 25060,
+              "zip_codes": []
+            },
+            {
+              "city": "Commerce City",
+              "county": "Adams",
+              "population": 55923,
+              "zip_codes": []
+            },
+            {
+              "city": "Cortez",
+              "county": "Montezuma",
+              "population": 8603,
+              "zip_codes": []
+            },
+            {
+              "city": "Crawford",
+              "county": "Delta",
+              "population": 422,
+              "zip_codes": []
+            },
+            {
+              "city": "Denver",
+              "county": "Denver",
+              "population": 2787266,
+              "zip_codes": []
+            },
+            {
+              "city": "Durango",
+              "county": "La Plata",
+              "population": 19662,
+              "zip_codes": []
+            },
+            {
+              "city": "Edwards",
+              "county": "Eagle",
+              "population": 9202,
+              "zip_codes": []
+            },
+            {
+              "city": "Elizabeth",
+              "county": "Elbert",
+              "population": 1409,
+              "zip_codes": []
+            },
+            {
+              "city": "Englewood",
+              "county": "Arapahoe",
+              "population": 34407,
+              "zip_codes": []
+            },
+            {
+              "city": "Estes Park",
+              "county": "Larimer",
+              "population": 7664,
+              "zip_codes": []
+            },
+            {
+              "city": "Evergreen",
+              "county": "Jefferson",
+              "population": 8516,
+              "zip_codes": []
+            },
+            {
+              "city": "Federal Heights",
+              "county": "Adams",
+              "population": 12744,
+              "zip_codes": []
+            },
+            {
+              "city": "Fort Carson",
+              "county": "El Paso",
+              "population": 15015,
+              "zip_codes": []
+            },
+            {
+              "city": "Fort Collins",
+              "county": "Larimer",
+              "population": 303184,
+              "zip_codes": []
+            },
+            {
+              "city": "Fort Morgan",
+              "county": "Morgan",
+              "population": 13137,
+              "zip_codes": []
+            },
+            {
+              "city": "Fountain",
+              "county": "El Paso",
+              "population": 29804,
+              "zip_codes": []
+            },
+            {
+              "city": "Golden",
+              "county": "Jefferson",
+              "population": 20571,
+              "zip_codes": []
+            },
+            {
+              "city": "Grand Junction",
+              "county": "Mesa",
+              "population": 136688,
+              "zip_codes": []
+            },
+            {
+              "city": "Greeley",
+              "county": "Weld",
+              "population": 133750,
+              "zip_codes": []
+            },
+            {
+              "city": "Greenwood Village",
+              "county": "Arapahoe",
+              "population": 15721,
+              "zip_codes": []
+            },
+            {
+              "city": "Gunbarrel",
+              "county": "Boulder",
+              "population": 9321,
+              "zip_codes": []
+            },
+            {
+              "city": "Highlands Ranch",
+              "county": "Douglas",
+              "population": 105264,
+              "zip_codes": []
+            },
+            {
+              "city": "Holly",
+              "county": "Prowers",
+              "population": 768,
+              "zip_codes": []
+            },
+            {
+              "city": "Ken Caryl",
+              "county": "Jefferson",
+              "population": 33087,
+              "zip_codes": []
+            },
+            {
+              "city": "Lafayette",
+              "county": "Boulder",
+              "population": 91985,
+              "zip_codes": []
+            },
+            {
+              "city": "Lakewood",
+              "county": "Jefferson",
+              "population": 154958,
+              "zip_codes": []
+            },
+            {
+              "city": "Littleton",
+              "county": "Arapahoe",
+              "population": 47734,
+              "zip_codes": []
+            },
+            {
+              "city": "Longmont",
+              "county": "Boulder",
+              "population": 99398,
+              "zip_codes": []
+            },
+            {
+              "city": "Louisville",
+              "county": "Boulder",
+              "population": 21128,
+              "zip_codes": []
+            },
+            {
+              "city": "Loveland",
+              "county": "Larimer",
+              "population": 76701,
+              "zip_codes": []
+            },
+            {
+              "city": "Lyons",
+              "county": "Boulder",
+              "population": 2053,
+              "zip_codes": []
+            },
+            {
+              "city": "Montrose",
+              "county": "Montrose",
+              "population": 22912,
+              "zip_codes": []
+            },
+            {
+              "city": "Monument",
+              "county": "El Paso",
+              "population": 7380,
+              "zip_codes": []
+            },
+            {
+              "city": "Nederland",
+              "county": "Boulder",
+              "population": 1541,
+              "zip_codes": []
+            },
+            {
+              "city": "Niwot",
+              "county": "Boulder",
+              "population": 4445,
+              "zip_codes": []
+            },
+            {
+              "city": "Northglenn",
+              "county": "Adams",
+              "population": 38928,
+              "zip_codes": []
+            },
+            {
+              "city": "Pagosa Springs",
+              "county": "Archuleta",
+              "population": 5514,
+              "zip_codes": []
+            },
+            {
+              "city": "Parker",
+              "county": "Douglas",
+              "population": 54202,
+              "zip_codes": []
+            },
+            {
+              "city": "Penrose",
+              "county": "Fremont",
+              "population": 3176,
+              "zip_codes": []
+            },
+            {
+              "city": "Peyton",
+              "county": "El Paso",
+              "population": 254,
+              "zip_codes": []
+            },
+            {
+              "city": "Pueblo",
+              "county": "Pueblo",
+              "population": 142351,
+              "zip_codes": []
+            },
+            {
+              "city": "Redlands",
+              "county": "Mesa",
+              "population": 9367,
+              "zip_codes": []
+            },
+            {
+              "city": "Ridgway",
+              "county": "Ouray",
+              "population": 973,
+              "zip_codes": []
+            },
+            {
+              "city": "Rifle",
+              "county": "Garfield",
+              "population": 11038,
+              "zip_codes": []
+            },
+            {
+              "city": "Rocky Ford",
+              "county": "Otero",
+              "population": 4023,
+              "zip_codes": []
+            },
+            {
+              "city": "Sanford",
+              "county": "Conejos",
+              "population": 876,
+              "zip_codes": []
+            },
+            {
+              "city": "Security-Widefield",
+              "county": "El Paso",
+              "population": 37325,
+              "zip_codes": []
+            },
+            {
+              "city": "Sherrelwood",
+              "county": "Adams",
+              "population": 18616,
+              "zip_codes": []
+            },
+            {
+              "city": "Silver Cliff",
+              "county": "Custer",
+              "population": 644,
+              "zip_codes": []
+            },
+            {
+              "city": "Snowmass Village",
+              "county": "Pitkin",
+              "population": 2769,
+              "zip_codes": []
+            },
+            {
+              "city": "Southglenn",
+              "county": "Arapahoe",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Steamboat Springs",
+              "county": "Routt",
+              "population": 13822,
+              "zip_codes": []
+            },
+            {
+              "city": "Sterling",
+              "county": "Logan",
+              "population": 15199,
+              "zip_codes": [
+                {
+                  "zip_code": "83210"
+                }
+              ]
+            },
+            {
+              "city": "Superior",
+              "county": "Boulder",
+              "population": 12951,
+              "zip_codes": []
+            },
+            {
+              "city": "Telluride",
+              "county": "San Miguel",
+              "population": 2426,
+              "zip_codes": []
+            },
+            {
+              "city": "Thornton",
+              "county": "Adams",
+              "population": 136978,
+              "zip_codes": []
+            },
+            {
+              "city": "Vail",
+              "county": "Eagle",
+              "population": 6017,
+              "zip_codes": []
+            },
+            {
+              "city": "Welby",
+              "county": "Adams",
+              "population": 16002,
+              "zip_codes": []
+            },
+            {
+              "city": "Westcliffe",
+              "county": "Custer",
+              "population": 615,
+              "zip_codes": []
+            },
+            {
+              "city": "Westminster",
+              "county": "Adams",
+              "population": 112812,
+              "zip_codes": []
+            },
+            {
+              "city": "Wheat Ridge",
+              "county": "Jefferson",
+              "population": 31294,
+              "zip_codes": []
+            },
+            {
+              "city": "Woodland Park",
+              "county": "Teller",
+              "population": 11174,
+              "zip_codes": []
+            },
+            {
+              "city": "Aspen Park",
+              "county": "Jefferson",
+              "population": 754,
+              "zip_codes": []
+            },
+            {
+              "city": "Gilman",
+              "county": "Eagle",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Milner",
+              "county": "Routt",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Platner",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Red Cliff",
+              "county": "Eagle",
+              "population": 273,
+              "zip_codes": []
+            },
+            {
+              "city": "New Raymer",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bailey",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Redvale",
+              "county": "Montrose",
+              "population": 258,
+              "zip_codes": []
+            },
+            {
+              "city": "Lake City",
+              "county": "Hinsdale",
+              "population": 379,
+              "zip_codes": []
+            },
+            {
+              "city": "Platteville",
+              "county": "Weld",
+              "population": 2743,
+              "zip_codes": []
+            },
+            {
+              "city": "Arboles",
+              "county": "Archuleta",
+              "population": 299,
+              "zip_codes": []
+            },
+            {
+              "city": "Dailey",
+              "county": "Logan",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Raymer",
+              "county": "Weld",
+              "population": 109,
+              "zip_codes": []
+            },
+            {
+              "city": "Poncha Springs",
+              "county": "Chaffee",
+              "population": 862,
+              "zip_codes": []
+            },
+            {
+              "city": "Black Hawk",
+              "county": "Gilpin",
+              "population": 127,
+              "zip_codes": []
+            },
+            {
+              "city": "Castle Pines",
+              "county": "Douglas",
+              "population": 10523,
+              "zip_codes": []
+            },
+            {
+              "city": "Palisade",
+              "county": "Mesa",
+              "population": 2686,
+              "zip_codes": []
+            },
+            {
+              "city": "Fowler",
+              "county": "Otero",
+              "population": 1144,
+              "zip_codes": []
+            },
+            {
+              "city": "Wild Horse",
+              "county": "Cheyenne",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Avondale",
+              "county": "Pueblo",
+              "population": 795,
+              "zip_codes": []
+            },
+            {
+              "city": "Goodrich",
+              "county": "Morgan",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Stoner",
+              "county": "Montezuma",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Sugar City",
+              "county": "Crowley",
+              "population": 242,
+              "zip_codes": [
+                {
+                  "zip_code": "83448"
+                }
+              ]
+            },
+            {
+              "city": "Capulin",
+              "county": "Conejos",
+              "population": 113,
+              "zip_codes": []
+            },
+            {
+              "city": "Battlement Mesa",
+              "county": "Garfield",
+              "population": 5072,
+              "zip_codes": []
+            },
+            {
+              "city": "Kline",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Trimble",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Rockvale",
+              "county": "Fremont",
+              "population": 509,
+              "zip_codes": []
+            },
+            {
+              "city": "Frisco",
+              "county": "Summit",
+              "population": 3129,
+              "zip_codes": []
+            },
+            {
+              "city": "Hereford",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Branson",
+              "county": "Las Animas",
+              "population": 68,
+              "zip_codes": []
+            },
+            {
+              "city": "Windsor",
+              "county": "Weld",
+              "population": 25330,
+              "zip_codes": []
+            },
+            {
+              "city": "Utleyville",
+              "county": "Baca",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Rosita",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Woodmoor",
+              "county": "El Paso",
+              "population": 9264,
+              "zip_codes": []
+            },
+            {
+              "city": "Severance",
+              "county": "Weld",
+              "population": 3606,
+              "zip_codes": []
+            },
+            {
+              "city": "Goldfield",
+              "county": "Teller",
+              "population": 33,
+              "zip_codes": []
+            },
+            {
+              "city": "Rico",
+              "county": "Dolores",
+              "population": 266,
+              "zip_codes": []
+            },
+            {
+              "city": "Arriba",
+              "county": "Lincoln",
+              "population": 201,
+              "zip_codes": []
+            },
+            {
+              "city": "Burlington",
+              "county": "Kit Carson",
+              "population": 3170,
+              "zip_codes": []
+            },
+            {
+              "city": "Andrix",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Massadona",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Somerset",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hartman",
+              "county": "Prowers",
+              "population": 74,
+              "zip_codes": []
+            },
+            {
+              "city": "Dove Creek",
+              "county": "Dolores",
+              "population": 733,
+              "zip_codes": []
+            },
+            {
+              "city": "Mogote",
+              "county": "Conejos",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Blende",
+              "county": "Pueblo",
+              "population": 824,
+              "zip_codes": []
+            },
+            {
+              "city": "Chimney Rock",
+              "county": "Archuleta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Buckingham",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pueblo West",
+              "county": "Pueblo",
+              "population": 30901,
+              "zip_codes": []
+            },
+            {
+              "city": "Hamilton",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Rock Creek Park",
+              "county": "El Paso",
+              "population": 91,
+              "zip_codes": []
+            },
+            {
+              "city": "Hooper",
+              "county": "Alamosa",
+              "population": 102,
+              "zip_codes": []
+            },
+            {
+              "city": "Calhan",
+              "county": "El Paso",
+              "population": 829,
+              "zip_codes": []
+            },
+            {
+              "city": "Rush",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Vilas",
+              "county": "Baca",
+              "population": 107,
+              "zip_codes": []
+            },
+            {
+              "city": "Lone Tree",
+              "county": "Douglas",
+              "population": 13566,
+              "zip_codes": []
+            },
+            {
+              "city": "Dupont",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Wetmore",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Edgewater",
+              "county": "Jefferson",
+              "population": 5308,
+              "zip_codes": []
+            },
+            {
+              "city": "Ohio",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Manassa",
+              "county": "Conejos",
+              "population": 990,
+              "zip_codes": []
+            },
+            {
+              "city": "Iliff",
+              "county": "Logan",
+              "population": 263,
+              "zip_codes": []
+            },
+            {
+              "city": "Edler",
+              "county": "Baca",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Moffat",
+              "county": "Saguache",
+              "population": 119,
+              "zip_codes": []
+            },
+            {
+              "city": "Gold Hill",
+              "county": "Boulder",
+              "population": 153,
+              "zip_codes": []
+            },
+            {
+              "city": "Crisman",
+              "county": "Boulder",
+              "population": 344,
+              "zip_codes": []
+            },
+            {
+              "city": "El Moro",
+              "county": "Las Animas",
+              "population": 268,
+              "zip_codes": []
+            },
+            {
+              "city": "Limon",
+              "county": "Lincoln",
+              "population": 1930,
+              "zip_codes": []
+            },
+            {
+              "city": "Almont",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Victor",
+              "county": "Teller",
+              "population": 410,
+              "zip_codes": [
+                {
+                  "zip_code": "83455"
+                }
+              ]
+            },
+            {
+              "city": "Greystone",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Collbran",
+              "county": "Mesa",
+              "population": 702,
+              "zip_codes": []
+            },
+            {
+              "city": "Texas Creek",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Seibert",
+              "county": "Kit Carson",
+              "population": 216,
+              "zip_codes": []
+            },
+            {
+              "city": "Elbert",
+              "county": "Elbert",
+              "population": 154,
+              "zip_codes": []
+            },
+            {
+              "city": "Livermore",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kirk",
+              "county": "Yuma",
+              "population": 74,
+              "zip_codes": []
+            },
+            {
+              "city": "Mountain Village",
+              "county": "San Miguel",
+              "population": 1393,
+              "zip_codes": []
+            },
+            {
+              "city": "Mountain Meadows",
+              "county": "Boulder",
+              "population": 119,
+              "zip_codes": []
+            },
+            {
+              "city": "Buena Vista",
+              "county": "Chaffee",
+              "population": 4807,
+              "zip_codes": []
+            },
+            {
+              "city": "Segundo",
+              "county": "Las Animas",
+              "population": 127,
+              "zip_codes": []
+            },
+            {
+              "city": "Mountain View",
+              "county": "Jefferson",
+              "population": 537,
+              "zip_codes": []
+            },
+            {
+              "city": "Kit Carson",
+              "county": "Cheyenne",
+              "population": 234,
+              "zip_codes": []
+            },
+            {
+              "city": "Vernon",
+              "county": "Yuma",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Cedaredge",
+              "county": "Delta",
+              "population": 3511,
+              "zip_codes": []
+            },
+            {
+              "city": "Akron",
+              "county": "Washington",
+              "population": 1734,
+              "zip_codes": []
+            },
+            {
+              "city": "Ninaview",
+              "county": "Bent",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mulford",
+              "county": "Garfield",
+              "population": 392,
+              "zip_codes": []
+            },
+            {
+              "city": "Laporte",
+              "county": "Larimer",
+              "population": 2357,
+              "zip_codes": []
+            },
+            {
+              "city": "Sheridan Lake",
+              "county": "Kiowa",
+              "population": 86,
+              "zip_codes": []
+            },
+            {
+              "city": "Crowley",
+              "county": "Crowley",
+              "population": 164,
+              "zip_codes": []
+            },
+            {
+              "city": "Dotsero",
+              "county": "Eagle",
+              "population": 892,
+              "zip_codes": []
+            },
+            {
+              "city": "Phippsburg",
+              "county": "Routt",
+              "population": 227,
+              "zip_codes": []
+            },
+            {
+              "city": "Genoa",
+              "county": "Lincoln",
+              "population": 145,
+              "zip_codes": []
+            },
+            {
+              "city": "Wellington",
+              "county": "Larimer",
+              "population": 9429,
+              "zip_codes": []
+            },
+            {
+              "city": "Tyrone",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Tiffany",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fraser",
+              "county": "Grand",
+              "population": 2693,
+              "zip_codes": []
+            },
+            {
+              "city": "Wray",
+              "county": "Yuma",
+              "population": 2367,
+              "zip_codes": []
+            },
+            {
+              "city": "Walsh",
+              "county": "Baca",
+              "population": 514,
+              "zip_codes": []
+            },
+            {
+              "city": "Buckeye",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cathedral",
+              "county": "Hinsdale",
+              "population": 28,
+              "zip_codes": []
+            },
+            {
+              "city": "Tabernash",
+              "county": "Grand",
+              "population": 386,
+              "zip_codes": []
+            },
+            {
+              "city": "Chromo",
+              "county": "Archuleta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "East Portal",
+              "county": "Gilpin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Genesee",
+              "county": "Jefferson",
+              "population": 3670,
+              "zip_codes": [
+                {
+                  "zip_code": "83832"
+                }
+              ]
+            },
+            {
+              "city": "Lycan",
+              "county": "Baca",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Johnson Village",
+              "county": "Chaffee",
+              "population": 484,
+              "zip_codes": []
+            },
+            {
+              "city": "Eagle",
+              "county": "Eagle",
+              "population": 6408,
+              "zip_codes": [
+                {
+                  "zip_code": "83616"
+                }
+              ]
+            },
+            {
+              "city": "Broadmoor",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Tarryall",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Idalia",
+              "county": "Yuma",
+              "population": 39,
+              "zip_codes": []
+            },
+            {
+              "city": "Gardner",
+              "county": "Huerfano",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Falcon",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ponderosa Park",
+              "county": "Elbert",
+              "population": 3455,
+              "zip_codes": []
+            },
+            {
+              "city": "Lochbuie",
+              "county": "Weld",
+              "population": 5537,
+              "zip_codes": []
+            },
+            {
+              "city": "Glen Haven",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gulnare",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Prospect Heights",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Dinosaur",
+              "county": "Moffat",
+              "population": 325,
+              "zip_codes": []
+            },
+            {
+              "city": "Lawson",
+              "county": "Clear Creek",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Joes",
+              "county": "Yuma",
+              "population": 56,
+              "zip_codes": []
+            },
+            {
+              "city": "Lazear",
+              "county": "Delta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Model",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cuchara",
+              "county": "Huerfano",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hidden Lake",
+              "county": "Boulder",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Dillon",
+              "county": "Summit",
+              "population": 963,
+              "zip_codes": []
+            },
+            {
+              "city": "Manitou Springs",
+              "county": "El Paso",
+              "population": 5322,
+              "zip_codes": []
+            },
+            {
+              "city": "Silverthorne",
+              "county": "Summit",
+              "population": 18396,
+              "zip_codes": []
+            },
+            {
+              "city": "Jaroso",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hartsel",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Copper Mountain",
+              "county": "Summit",
+              "population": 465,
+              "zip_codes": []
+            },
+            {
+              "city": "Arlington",
+              "county": "Kiowa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mancos",
+              "county": "Montezuma",
+              "population": 1415,
+              "zip_codes": []
+            },
+            {
+              "city": "Twin Lakes",
+              "county": "Lake",
+              "population": 6767,
+              "zip_codes": []
+            },
+            {
+              "city": "Yuma",
+              "county": "Yuma",
+              "population": 3510,
+              "zip_codes": []
+            },
+            {
+              "city": "Briggsdale",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Two Buttes",
+              "county": "Baca",
+              "population": 40,
+              "zip_codes": []
+            },
+            {
+              "city": "Vona",
+              "county": "Kit Carson",
+              "population": 104,
+              "zip_codes": []
+            },
+            {
+              "city": "Castle Pines Village",
+              "county": "Douglas",
+              "population": 4325,
+              "zip_codes": []
+            },
+            {
+              "city": "El Rancho",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Nucla",
+              "county": "Montrose",
+              "population": 717,
+              "zip_codes": []
+            },
+            {
+              "city": "Delhi",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Columbine Valley",
+              "county": "Arapahoe",
+              "population": 1441,
+              "zip_codes": []
+            },
+            {
+              "city": "Western Hills",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Yoder",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Loma",
+              "county": "Mesa",
+              "population": 1185,
+              "zip_codes": []
+            },
+            {
+              "city": "Buffalo Creek",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Laird",
+              "county": "Yuma",
+              "population": 54,
+              "zip_codes": []
+            },
+            {
+              "city": "Del Norte",
+              "county": "Rio Grande",
+              "population": 1578,
+              "zip_codes": []
+            },
+            {
+              "city": "Oxford",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Manzanola",
+              "county": "Otero",
+              "population": 423,
+              "zip_codes": []
+            },
+            {
+              "city": "Agate",
+              "county": "Elbert",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Aristocrat Ranchettes",
+              "county": "Weld",
+              "population": 1150,
+              "zip_codes": []
+            },
+            {
+              "city": "Haxtun",
+              "county": "Phillips",
+              "population": 914,
+              "zip_codes": []
+            },
+            {
+              "city": "Garo",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Stoneham",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Parachute",
+              "county": "Garfield",
+              "population": 1115,
+              "zip_codes": []
+            },
+            {
+              "city": "Walden",
+              "county": "Jackson",
+              "population": 598,
+              "zip_codes": []
+            },
+            {
+              "city": "Merino",
+              "county": "Logan",
+              "population": 281,
+              "zip_codes": []
+            },
+            {
+              "city": "Timnath",
+              "county": "Larimer",
+              "population": 3295,
+              "zip_codes": []
+            },
+            {
+              "city": "Silverton",
+              "county": "San Juan",
+              "population": 650,
+              "zip_codes": []
+            },
+            {
+              "city": "Snyder",
+              "county": "Morgan",
+              "population": 118,
+              "zip_codes": []
+            },
+            {
+              "city": "Willard",
+              "county": "Logan",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Flagler",
+              "county": "Kit Carson",
+              "population": 549,
+              "zip_codes": []
+            },
+            {
+              "city": "Axial",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Coalmont",
+              "county": "Jackson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Jamestown",
+              "county": "Boulder",
+              "population": 269,
+              "zip_codes": []
+            },
+            {
+              "city": "Alma",
+              "county": "Park",
+              "population": 298,
+              "zip_codes": []
+            },
+            {
+              "city": "Galeton",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Marshdale",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cimarron",
+              "county": "Montrose",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Romeo",
+              "county": "Conejos",
+              "population": 406,
+              "zip_codes": []
+            },
+            {
+              "city": "Ward",
+              "county": "Boulder",
+              "population": 155,
+              "zip_codes": []
+            },
+            {
+              "city": "Alpine",
+              "county": "Rio Grande",
+              "population": 244,
+              "zip_codes": []
+            },
+            {
+              "city": "Granby",
+              "county": "Grand",
+              "population": 2074,
+              "zip_codes": []
+            },
+            {
+              "city": "The Pinery",
+              "county": "Douglas",
+              "population": 11720,
+              "zip_codes": []
+            },
+            {
+              "city": "Glendevey",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Redmesa",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pikeview",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Log Lane Village",
+              "county": "Morgan",
+              "population": 868,
+              "zip_codes": []
+            },
+            {
+              "city": "Ault",
+              "county": "Weld",
+              "population": 1757,
+              "zip_codes": []
+            },
+            {
+              "city": "Evans",
+              "county": "Weld",
+              "population": 20470,
+              "zip_codes": []
+            },
+            {
+              "city": "Garcia",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pitkin",
+              "county": "Gunnison",
+              "population": 71,
+              "zip_codes": []
+            },
+            {
+              "city": "Pine Grove",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Eads",
+              "county": "Kiowa",
+              "population": 590,
+              "zip_codes": []
+            },
+            {
+              "city": "Lindon",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Beulah Valley",
+              "county": "Pueblo",
+              "population": 845,
+              "zip_codes": []
+            },
+            {
+              "city": "Franktown",
+              "county": "Douglas",
+              "population": 233,
+              "zip_codes": []
+            },
+            {
+              "city": "Erie",
+              "county": "Boulder",
+              "population": 24234,
+              "zip_codes": []
+            },
+            {
+              "city": "San Pablo",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Aroya",
+              "county": "Cheyenne",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kersey",
+              "county": "Weld",
+              "population": 1611,
+              "zip_codes": []
+            },
+            {
+              "city": "Blanca",
+              "county": "Costilla",
+              "population": 392,
+              "zip_codes": []
+            },
+            {
+              "city": "Hugo",
+              "county": "Lincoln",
+              "population": 744,
+              "zip_codes": []
+            },
+            {
+              "city": "Firestone",
+              "county": "Weld",
+              "population": 29254,
+              "zip_codes": []
+            },
+            {
+              "city": "Towaoc",
+              "county": "Montezuma",
+              "population": 1025,
+              "zip_codes": []
+            },
+            {
+              "city": "Bedrock",
+              "county": "Montrose",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Coaldale",
+              "county": "Fremont",
+              "population": 436,
+              "zip_codes": []
+            },
+            {
+              "city": "Caddoa",
+              "county": "Bent",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kings Canyon",
+              "county": "Jackson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Proctor",
+              "county": "Logan",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "North Washington",
+              "county": "Adams",
+              "population": 588,
+              "zip_codes": []
+            },
+            {
+              "city": "Orchard City",
+              "county": "Delta",
+              "population": 3096,
+              "zip_codes": []
+            },
+            {
+              "city": "Wondervu",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Howard",
+              "county": "Fremont",
+              "population": 882,
+              "zip_codes": []
+            },
+            {
+              "city": "Delta",
+              "county": "Delta",
+              "population": 7767,
+              "zip_codes": []
+            },
+            {
+              "city": "Dumont",
+              "county": "Clear Creek",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mesa",
+              "county": "Mesa",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83643"
+                }
+              ]
+            },
+            {
+              "city": "Placerville",
+              "county": "San Miguel",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Silver Plume",
+              "county": "Clear Creek",
+              "population": 177,
+              "zip_codes": []
+            },
+            {
+              "city": "Eldorado Springs",
+              "county": "Boulder",
+              "population": 750,
+              "zip_codes": []
+            },
+            {
+              "city": "Paoli",
+              "county": "Phillips",
+              "population": 34,
+              "zip_codes": []
+            },
+            {
+              "city": "Vineland",
+              "county": "Pueblo",
+              "population": 227,
+              "zip_codes": []
+            },
+            {
+              "city": "Meredith",
+              "county": "Pitkin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ophir",
+              "county": "San Miguel",
+              "population": 171,
+              "zip_codes": []
+            },
+            {
+              "city": "Atwood",
+              "county": "Logan",
+              "population": 191,
+              "zip_codes": []
+            },
+            {
+              "city": "Boyero",
+              "county": "Lincoln",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Guffey",
+              "county": "Park",
+              "population": 31,
+              "zip_codes": []
+            },
+            {
+              "city": "Crested Butte",
+              "county": "Gunnison",
+              "population": 1643,
+              "zip_codes": []
+            },
+            {
+              "city": "Chama",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Whitewater",
+              "county": "Mesa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Craig",
+              "county": "Moffat",
+              "population": 9447,
+              "zip_codes": []
+            },
+            {
+              "city": "Stanley Park",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hillside",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Crook",
+              "county": "Logan",
+              "population": 107,
+              "zip_codes": []
+            },
+            {
+              "city": "Berthoud",
+              "county": "Larimer",
+              "population": 8889,
+              "zip_codes": []
+            },
+            {
+              "city": "Trinidad",
+              "county": "Las Animas",
+              "population": 8148,
+              "zip_codes": []
+            },
+            {
+              "city": "Mosca",
+              "county": "Alamosa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Anton",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kittredge",
+              "county": "Jefferson",
+              "population": 853,
+              "zip_codes": []
+            },
+            {
+              "city": "North La Junta",
+              "county": "Otero",
+              "population": 334,
+              "zip_codes": []
+            },
+            {
+              "city": "Stratmoor",
+              "county": "El Paso",
+              "population": 5763,
+              "zip_codes": []
+            },
+            {
+              "city": "Norwood",
+              "county": "San Miguel",
+              "population": 573,
+              "zip_codes": []
+            },
+            {
+              "city": "Rand",
+              "county": "Jackson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Estrella",
+              "county": "Alamosa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bark Ranch",
+              "county": "Boulder",
+              "population": 187,
+              "zip_codes": []
+            },
+            {
+              "city": "La Junta",
+              "county": "Otero",
+              "population": 7983,
+              "zip_codes": []
+            },
+            {
+              "city": "Hale",
+              "county": "Yuma",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Brookvale",
+              "county": "Clear Creek",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Foxfield",
+              "county": "Arapahoe",
+              "population": 787,
+              "zip_codes": []
+            },
+            {
+              "city": "Lynn",
+              "county": "Las Animas",
+              "population": 59,
+              "zip_codes": []
+            },
+            {
+              "city": "Pierce",
+              "county": "Weld",
+              "population": 1113,
+              "zip_codes": [
+                {
+                  "zip_code": "83546"
+                }
+              ]
+            },
+            {
+              "city": "Fort Garland",
+              "county": "Costilla",
+              "population": 439,
+              "zip_codes": []
+            },
+            {
+              "city": "Villegreen",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Frederick",
+              "county": "Weld",
+              "population": 12687,
+              "zip_codes": []
+            },
+            {
+              "city": "Ludlow",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Allison",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mead",
+              "county": "Weld",
+              "population": 4575,
+              "zip_codes": []
+            },
+            {
+              "city": "Pandora",
+              "county": "San Miguel",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Sedalia",
+              "county": "Douglas",
+              "population": 161,
+              "zip_codes": []
+            },
+            {
+              "city": "Fruitvale",
+              "county": "Mesa",
+              "population": 7785,
+              "zip_codes": []
+            },
+            {
+              "city": "Last Chance",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Wah Keeney Park",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mesita",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Peetz",
+              "county": "Logan",
+              "population": 236,
+              "zip_codes": []
+            },
+            {
+              "city": "Lakeside",
+              "county": "Jefferson",
+              "population": 8,
+              "zip_codes": []
+            },
+            {
+              "city": "Lewis",
+              "county": "Montezuma",
+              "population": 140,
+              "zip_codes": []
+            },
+            {
+              "city": "Weston",
+              "county": "Las Animas",
+              "population": 63,
+              "zip_codes": [
+                {
+                  "zip_code": "83286"
+                }
+              ]
+            },
+            {
+              "city": "Garfield",
+              "county": "Chaffee",
+              "population": 5,
+              "zip_codes": []
+            },
+            {
+              "city": "Powderhorn",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Herzman Mesa",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Winter Park",
+              "county": "Grand",
+              "population": 1030,
+              "zip_codes": []
+            },
+            {
+              "city": "Minturn",
+              "county": "Eagle",
+              "population": 1066,
+              "zip_codes": []
+            },
+            {
+              "city": "Powder Wash",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Roggen",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Dolores",
+              "county": "Montezuma",
+              "population": 959,
+              "zip_codes": []
+            },
+            {
+              "city": "Norrie",
+              "county": "Pitkin",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Gunnison",
+              "county": "Gunnison",
+              "population": 7075,
+              "zip_codes": []
+            },
+            {
+              "city": "Eastlake",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "La Salle",
+              "county": "Weld",
+              "population": 2327,
+              "zip_codes": []
+            },
+            {
+              "city": "Henderson",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Perry Park",
+              "county": "Douglas",
+              "population": 1871,
+              "zip_codes": []
+            },
+            {
+              "city": "Cornish",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ramah",
+              "county": "El Paso",
+              "population": 129,
+              "zip_codes": []
+            },
+            {
+              "city": "Allenspark",
+              "county": "Boulder",
+              "population": 503,
+              "zip_codes": []
+            },
+            {
+              "city": "Bowie",
+              "county": "Delta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Adams City",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fairplay",
+              "county": "Park",
+              "population": 734,
+              "zip_codes": []
+            },
+            {
+              "city": "Acres Green",
+              "county": "Douglas",
+              "population": 2824,
+              "zip_codes": []
+            },
+            {
+              "city": "Beulah",
+              "county": "Pueblo",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Marvel",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Masonville",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Masters",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Stonewall Gap",
+              "county": "Las Animas",
+              "population": 35,
+              "zip_codes": []
+            },
+            {
+              "city": "Holly Hills",
+              "county": "Arapahoe",
+              "population": 2797,
+              "zip_codes": []
+            },
+            {
+              "city": "Kiowa",
+              "county": "Elbert",
+              "population": 753,
+              "zip_codes": []
+            },
+            {
+              "city": "Eaton",
+              "county": "Weld",
+              "population": 5256,
+              "zip_codes": []
+            },
+            {
+              "city": "Lincoln Park",
+              "county": "Fremont",
+              "population": 3035,
+              "zip_codes": []
+            },
+            {
+              "city": "Gem Village",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hot Sulphur Springs",
+              "county": "Grand",
+              "population": 708,
+              "zip_codes": []
+            },
+            {
+              "city": "Sargents",
+              "county": "Saguache",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grand Mesa",
+              "county": "Delta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Chacra",
+              "county": "Garfield",
+              "population": 531,
+              "zip_codes": []
+            },
+            {
+              "city": "Lazy Acres",
+              "county": "Boulder",
+              "population": 923,
+              "zip_codes": []
+            },
+            {
+              "city": "Gilcrest",
+              "county": "Weld",
+              "population": 1098,
+              "zip_codes": []
+            },
+            {
+              "city": "McCoy",
+              "county": "Eagle",
+              "population": 33,
+              "zip_codes": []
+            },
+            {
+              "city": "Pritchett",
+              "county": "Baca",
+              "population": 131,
+              "zip_codes": []
+            },
+            {
+              "city": "Fulford",
+              "county": "Eagle",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Wiggins",
+              "county": "Morgan",
+              "population": 887,
+              "zip_codes": []
+            },
+            {
+              "city": "Grant",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Roxborough Park",
+              "county": "Douglas",
+              "population": 9588,
+              "zip_codes": []
+            },
+            {
+              "city": "Bayfield",
+              "county": "La Plata",
+              "population": 2968,
+              "zip_codes": []
+            },
+            {
+              "city": "Larkspur",
+              "county": "Douglas",
+              "population": 203,
+              "zip_codes": []
+            },
+            {
+              "city": "Leyden",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Morrison",
+              "county": "Jefferson",
+              "population": 434,
+              "zip_codes": []
+            },
+            {
+              "city": "Vollmar",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Crestone",
+              "county": "Saguache",
+              "population": 143,
+              "zip_codes": []
+            },
+            {
+              "city": "Stone City",
+              "county": "Pueblo",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "San Antonio",
+              "county": "Conejos",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Rangely",
+              "county": "Rio Blanco",
+              "population": 2332,
+              "zip_codes": []
+            },
+            {
+              "city": "Campo",
+              "county": "Baca",
+              "population": 102,
+              "zip_codes": []
+            },
+            {
+              "city": "Stonewall",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Starkville",
+              "county": "Las Animas",
+              "population": 52,
+              "zip_codes": []
+            },
+            {
+              "city": "San Pedro",
+              "county": "Costilla",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hawley",
+              "county": "Otero",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Dacono",
+              "county": "Weld",
+              "population": 5545,
+              "zip_codes": []
+            },
+            {
+              "city": "Meeker",
+              "county": "Rio Blanco",
+              "population": 2295,
+              "zip_codes": []
+            },
+            {
+              "city": "Shaw Heights",
+              "county": "Adams",
+              "population": 5534,
+              "zip_codes": []
+            },
+            {
+              "city": "Yellow Jacket",
+              "county": "Montezuma",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Mineral Hot Springs",
+              "county": "Saguache",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "El Jebel",
+              "county": "Eagle",
+              "population": 4062,
+              "zip_codes": []
+            },
+            {
+              "city": "Chivington",
+              "county": "Kiowa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cherry Creek",
+              "county": "Arapahoe",
+              "population": 12310,
+              "zip_codes": []
+            },
+            {
+              "city": "Palmer Lake",
+              "county": "El Paso",
+              "population": 2728,
+              "zip_codes": []
+            },
+            {
+              "city": "Holyoke",
+              "county": "Phillips",
+              "population": 2215,
+              "zip_codes": []
+            },
+            {
+              "city": "Idaho Springs",
+              "county": "Clear Creek",
+              "population": 1782,
+              "zip_codes": []
+            },
+            {
+              "city": "Brush",
+              "county": "Morgan",
+              "population": 5710,
+              "zip_codes": []
+            },
+            {
+              "city": "Chipita Park",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Lake George",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Las Animas",
+              "county": "Bent",
+              "population": 3692,
+              "zip_codes": []
+            },
+            {
+              "city": "Cahone",
+              "county": "Dolores",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Tacoma",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pleasant View",
+              "county": "Montezuma",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "La Garita",
+              "county": "Saguache",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Parshall",
+              "county": "Grand",
+              "population": 35,
+              "zip_codes": []
+            },
+            {
+              "city": "Westcreek",
+              "county": "Douglas",
+              "population": 129,
+              "zip_codes": []
+            },
+            {
+              "city": "Camp Bird",
+              "county": "Ouray",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Saguache",
+              "county": "Saguache",
+              "population": 498,
+              "zip_codes": []
+            },
+            {
+              "city": "Blue Mountain",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bow Mar",
+              "county": "Arapahoe",
+              "population": 967,
+              "zip_codes": []
+            },
+            {
+              "city": "Lamar",
+              "county": "Prowers",
+              "population": 7592,
+              "zip_codes": []
+            },
+            {
+              "city": "Snowmass",
+              "county": "Pitkin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Stonington",
+              "county": "Baca",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Todd Creek",
+              "county": "Adams",
+              "population": 4012,
+              "zip_codes": []
+            },
+            {
+              "city": "Carr",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Valmont",
+              "county": "Boulder",
+              "population": 38,
+              "zip_codes": []
+            },
+            {
+              "city": "Mack",
+              "county": "Mesa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grand View Estates",
+              "county": "Douglas",
+              "population": 568,
+              "zip_codes": []
+            },
+            {
+              "city": "Rye",
+              "county": "Pueblo",
+              "population": 160,
+              "zip_codes": []
+            },
+            {
+              "city": "Center",
+              "county": "Saguache",
+              "population": 2277,
+              "zip_codes": []
+            },
+            {
+              "city": "Montezuma",
+              "county": "Summit",
+              "population": 69,
+              "zip_codes": []
+            },
+            {
+              "city": "Ovid",
+              "county": "Sedgwick",
+              "population": 314,
+              "zip_codes": [
+                {
+                  "zip_code": "83260"
+                }
+              ]
+            },
+            {
+              "city": "Gerrard",
+              "county": "Rio Grande",
+              "population": 105,
+              "zip_codes": []
+            },
+            {
+              "city": "Cotopaxi",
+              "county": "Fremont",
+              "population": 7,
+              "zip_codes": []
+            },
+            {
+              "city": "Byers",
+              "county": "Arapahoe",
+              "population": 1212,
+              "zip_codes": []
+            },
+            {
+              "city": "Stratton",
+              "county": "Kit Carson",
+              "population": 652,
+              "zip_codes": []
+            },
+            {
+              "city": "Burns",
+              "county": "Eagle",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Divide",
+              "county": "Teller",
+              "population": 56,
+              "zip_codes": []
+            },
+            {
+              "city": "Marshall",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "South Fork",
+              "county": "Rio Grande",
+              "population": 356,
+              "zip_codes": []
+            },
+            {
+              "city": "Creede",
+              "county": "Mineral",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Smeltertown",
+              "county": "Chaffee",
+              "population": 98,
+              "zip_codes": []
+            },
+            {
+              "city": "Sugarloaf",
+              "county": "Boulder",
+              "population": 359,
+              "zip_codes": []
+            },
+            {
+              "city": "Nunn",
+              "county": "Weld",
+              "population": 456,
+              "zip_codes": []
+            },
+            {
+              "city": "Wattenberg",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bethune",
+              "county": "Kit Carson",
+              "population": 234,
+              "zip_codes": []
+            },
+            {
+              "city": "Ignacio",
+              "county": "La Plata",
+              "population": 730,
+              "zip_codes": []
+            },
+            {
+              "city": "Gypsum",
+              "county": "Eagle",
+              "population": 6552,
+              "zip_codes": []
+            },
+            {
+              "city": "Glenwood Springs",
+              "county": "Garfield",
+              "population": 12000,
+              "zip_codes": []
+            },
+            {
+              "city": "Rollinsville",
+              "county": "Gilpin",
+              "population": 152,
+              "zip_codes": []
+            },
+            {
+              "city": "Otis",
+              "county": "Washington",
+              "population": 487,
+              "zip_codes": []
+            },
+            {
+              "city": "Wigwam",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Crystola",
+              "county": "Teller",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Egnar",
+              "county": "San Miguel",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Georgetown",
+              "county": "Clear Creek",
+              "population": 1072,
+              "zip_codes": []
+            },
+            {
+              "city": "Hoyt",
+              "county": "Morgan",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cope",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bonanza Mountain Estates",
+              "county": "Boulder",
+              "population": 195,
+              "zip_codes": []
+            },
+            {
+              "city": "Bondad",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grand Lake",
+              "county": "Grand",
+              "population": 498,
+              "zip_codes": []
+            },
+            {
+              "city": "Keota",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Garden City",
+              "county": "Weld",
+              "population": 265,
+              "zip_codes": [
+                {
+                  "zip_code": "83714"
+                }
+              ]
+            },
+            {
+              "city": "Blue River",
+              "county": "Summit",
+              "population": 917,
+              "zip_codes": []
+            },
+            {
+              "city": "Greenhorn",
+              "county": "Pueblo",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Strasburg",
+              "county": "Adams",
+              "population": 2888,
+              "zip_codes": []
+            },
+            {
+              "city": "Hasty",
+              "county": "Bent",
+              "population": 150,
+              "zip_codes": []
+            },
+            {
+              "city": "Castle Pines North",
+              "county": "Douglas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grover",
+              "county": "Weld",
+              "population": 150,
+              "zip_codes": []
+            },
+            {
+              "city": "Bristol",
+              "county": "Prowers",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Glendale",
+              "county": "Arapahoe",
+              "population": 5158,
+              "zip_codes": []
+            },
+            {
+              "city": "No Name",
+              "county": "Garfield",
+              "population": 98,
+              "zip_codes": []
+            },
+            {
+              "city": "La Veta",
+              "county": "Huerfano",
+              "population": 779,
+              "zip_codes": []
+            },
+            {
+              "city": "Cheyenne Wells",
+              "county": "Cheyenne",
+              "population": 841,
+              "zip_codes": []
+            },
+            {
+              "city": "Cattle Creek",
+              "county": "Garfield",
+              "population": 777,
+              "zip_codes": []
+            },
+            {
+              "city": "San Acacio",
+              "county": "Costilla",
+              "population": 56,
+              "zip_codes": []
+            },
+            {
+              "city": "Cheraw",
+              "county": "Otero",
+              "population": 250,
+              "zip_codes": []
+            },
+            {
+              "city": "Coal Creek",
+              "county": "Fremont",
+              "population": 344,
+              "zip_codes": []
+            },
+            {
+              "city": "Lucerne",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Portland",
+              "county": "Ouray",
+              "population": 95,
+              "zip_codes": []
+            },
+            {
+              "city": "Salt Creek",
+              "county": "Pueblo",
+              "population": 670,
+              "zip_codes": []
+            },
+            {
+              "city": "Williamsburg",
+              "county": "Fremont",
+              "population": 688,
+              "zip_codes": []
+            },
+            {
+              "city": "Saint Ann Highlands",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Saint Marys",
+              "county": "Clear Creek",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hayden",
+              "county": "Routt",
+              "population": 1932,
+              "zip_codes": []
+            },
+            {
+              "city": "Mayday",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hesperus",
+              "county": "La Plata",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bergen Park",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gill",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gleneagle",
+              "county": "El Paso",
+              "population": 6706,
+              "zip_codes": []
+            },
+            {
+              "city": "Timpas",
+              "county": "Otero",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Eckley",
+              "county": "Yuma",
+              "population": 259,
+              "zip_codes": []
+            },
+            {
+              "city": "Greenwood",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kim",
+              "county": "Las Animas",
+              "population": 68,
+              "zip_codes": []
+            },
+            {
+              "city": "Cañon City",
+              "county": "Fremont",
+              "population": 27368,
+              "zip_codes": []
+            },
+            {
+              "city": "Pinecliffe",
+              "county": "Gilpin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Drake",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fenders",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Idledale",
+              "county": "Jefferson",
+              "population": 400,
+              "zip_codes": []
+            },
+            {
+              "city": "Simla",
+              "county": "Elbert",
+              "population": 638,
+              "zip_codes": []
+            },
+            {
+              "city": "Woody Creek",
+              "county": "Pitkin",
+              "population": 217,
+              "zip_codes": []
+            },
+            {
+              "city": "Sedgwick",
+              "county": "Sedgwick",
+              "population": 143,
+              "zip_codes": []
+            },
+            {
+              "city": "Hoehne",
+              "county": "Las Animas",
+              "population": 86,
+              "zip_codes": []
+            },
+            {
+              "city": "Hotchkiss",
+              "county": "Delta",
+              "population": 924,
+              "zip_codes": []
+            },
+            {
+              "city": "Salida",
+              "county": "Chaffee",
+              "population": 7452,
+              "zip_codes": []
+            },
+            {
+              "city": "Ouray",
+              "county": "Ouray",
+              "population": 1013,
+              "zip_codes": []
+            },
+            {
+              "city": "Brookside",
+              "county": "Fremont",
+              "population": 255,
+              "zip_codes": []
+            },
+            {
+              "city": "Poudre Park",
+              "county": "Larimer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Maybell",
+              "county": "Moffat",
+              "population": 33,
+              "zip_codes": []
+            },
+            {
+              "city": "Colona",
+              "county": "Ouray",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Elk Springs",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Padroni",
+              "county": "Logan",
+              "population": 89,
+              "zip_codes": []
+            },
+            {
+              "city": "Trinchera",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Colorado City",
+              "county": "Pueblo",
+              "population": 2316,
+              "zip_codes": []
+            },
+            {
+              "city": "Sheridan",
+              "county": "Arapahoe",
+              "population": 6098,
+              "zip_codes": []
+            },
+            {
+              "city": "Brandon",
+              "county": "Kiowa",
+              "population": 27,
+              "zip_codes": []
+            },
+            {
+              "city": "Breckenridge",
+              "county": "Summit",
+              "population": 7791,
+              "zip_codes": []
+            },
+            {
+              "city": "Bonanza",
+              "county": "Saguache",
+              "population": 18,
+              "zip_codes": []
+            },
+            {
+              "city": "Conifer",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Loghill Village",
+              "county": "Ouray",
+              "population": 508,
+              "zip_codes": []
+            },
+            {
+              "city": "Meridian",
+              "county": "Douglas",
+              "population": 3382,
+              "zip_codes": [
+                {
+                  "zip_code": "83642"
+                }
+              ]
+            },
+            {
+              "city": "Cedarwood",
+              "county": "Pueblo",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ordway",
+              "county": "Crowley",
+              "population": 1009,
+              "zip_codes": []
+            },
+            {
+              "city": "Peoria",
+              "county": "Arapahoe",
+              "population": 236,
+              "zip_codes": []
+            },
+            {
+              "city": "Wiley",
+              "county": "Prowers",
+              "population": 390,
+              "zip_codes": []
+            },
+            {
+              "city": "Louviers",
+              "county": "Douglas",
+              "population": 279,
+              "zip_codes": []
+            },
+            {
+              "city": "Woodrow",
+              "county": "Washington",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Naturita",
+              "county": "Montrose",
+              "population": 539,
+              "zip_codes": []
+            },
+            {
+              "city": "Dunton",
+              "county": "Dolores",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Peconic",
+              "county": "Kit Carson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Monte Vista",
+              "county": "Rio Grande",
+              "population": 4216,
+              "zip_codes": []
+            },
+            {
+              "city": "Yampa",
+              "county": "Routt",
+              "population": 457,
+              "zip_codes": []
+            },
+            {
+              "city": "Fort Lupton",
+              "county": "Weld",
+              "population": 10019,
+              "zip_codes": []
+            },
+            {
+              "city": "Fruita",
+              "county": "Mesa",
+              "population": 13294,
+              "zip_codes": []
+            },
+            {
+              "city": "Orchard",
+              "county": "Morgan",
+              "population": 109,
+              "zip_codes": []
+            },
+            {
+              "city": "Aguilar",
+              "county": "Las Animas",
+              "population": 476,
+              "zip_codes": []
+            },
+            {
+              "city": "Weldona",
+              "county": "Morgan",
+              "population": 130,
+              "zip_codes": []
+            },
+            {
+              "city": "Cascade",
+              "county": "El Paso",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pine Brook Hill",
+              "county": "Boulder",
+              "population": 1070,
+              "zip_codes": []
+            },
+            {
+              "city": "Deer Trail",
+              "county": "Arapahoe",
+              "population": 700,
+              "zip_codes": []
+            },
+            {
+              "city": "Berkley",
+              "county": "Adams",
+              "population": 11868,
+              "zip_codes": []
+            },
+            {
+              "city": "Towner",
+              "county": "Kiowa",
+              "population": 13,
+              "zip_codes": []
+            },
+            {
+              "city": "Singleton",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Sequndo",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "La Junta Gardens",
+              "county": "Otero",
+              "population": 58,
+              "zip_codes": []
+            },
+            {
+              "city": "Oak Creek",
+              "county": "Routt",
+              "population": 926,
+              "zip_codes": []
+            },
+            {
+              "city": "Silt",
+              "county": "Garfield",
+              "population": 3166,
+              "zip_codes": []
+            },
+            {
+              "city": "Catherine",
+              "county": "Garfield",
+              "population": 269,
+              "zip_codes": []
+            },
+            {
+              "city": "Inverness",
+              "county": "Arapahoe",
+              "population": 1808,
+              "zip_codes": []
+            },
+            {
+              "city": "Molina",
+              "county": "Mesa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Amherst",
+              "county": "Phillips",
+              "population": 221,
+              "zip_codes": []
+            },
+            {
+              "city": "Redstone",
+              "county": "Pitkin",
+              "population": 39,
+              "zip_codes": []
+            },
+            {
+              "city": "Dove Valley",
+              "county": "Arapahoe",
+              "population": 5409,
+              "zip_codes": []
+            },
+            {
+              "city": "Wolcott",
+              "county": "Eagle",
+              "population": 0,
+              "zip_codes": []
+            },
+            {
+              "city": "Altona",
+              "county": "Boulder",
+              "population": 385,
+              "zip_codes": []
+            },
+            {
+              "city": "Boone",
+              "county": "Pueblo",
+              "population": 358,
+              "zip_codes": []
+            },
+            {
+              "city": "Midland",
+              "county": "Teller",
+              "population": 201,
+              "zip_codes": []
+            },
+            {
+              "city": "Haswell",
+              "county": "Kiowa",
+              "population": 67,
+              "zip_codes": []
+            },
+            {
+              "city": "Prospect Valley",
+              "county": "Weld",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Derby",
+              "county": "Adams",
+              "population": 9365,
+              "zip_codes": []
+            },
+            {
+              "city": "Valdez",
+              "county": "Las Animas",
+              "population": 12,
+              "zip_codes": []
+            },
+            {
+              "city": "Toponas",
+              "county": "Routt",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Keystone",
+              "county": "Summit",
+              "population": 1187,
+              "zip_codes": []
+            },
+            {
+              "city": "Sawpit",
+              "county": "San Miguel",
+              "population": 42,
+              "zip_codes": []
+            },
+            {
+              "city": "Florissant",
+              "county": "Teller",
+              "population": 81,
+              "zip_codes": []
+            },
+            {
+              "city": "Paragon Estates",
+              "county": "Boulder",
+              "population": 817,
+              "zip_codes": []
+            },
+            {
+              "city": "De Beque",
+              "county": "Mesa",
+              "population": 500,
+              "zip_codes": []
+            },
+            {
+              "city": "Seven Hills",
+              "county": "Boulder",
+              "population": 81,
+              "zip_codes": []
+            },
+            {
+              "city": "Kremmling",
+              "county": "Grand",
+              "population": 1484,
+              "zip_codes": []
+            },
+            {
+              "city": "Como",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Conejos",
+              "county": "Conejos",
+              "population": 52,
+              "zip_codes": []
+            },
+            {
+              "city": "Olathe",
+              "county": "Montrose",
+              "population": 1813,
+              "zip_codes": []
+            },
+            {
+              "city": "Bond",
+              "county": "Eagle",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Villa Grove",
+              "county": "Saguache",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cherry Hills Village",
+              "county": "Arapahoe",
+              "population": 6644,
+              "zip_codes": []
+            },
+            {
+              "city": "Toonerville",
+              "county": "Bent",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Deora",
+              "county": "Baca",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Leadville",
+              "county": "Lake",
+              "population": 5343,
+              "zip_codes": []
+            },
+            {
+              "city": "McClave",
+              "county": "Bent",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Irondale",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Uravan",
+              "county": "Montrose",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Antonito",
+              "county": "Conejos",
+              "population": 755,
+              "zip_codes": []
+            },
+            {
+              "city": "Milliken",
+              "county": "Weld",
+              "population": 7014,
+              "zip_codes": []
+            },
+            {
+              "city": "Green Mountain Falls",
+              "county": "Teller",
+              "population": 692,
+              "zip_codes": []
+            },
+            {
+              "city": "Rio Blanco",
+              "county": "Rio Blanco",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bennett",
+              "county": "Adams",
+              "population": 2471,
+              "zip_codes": []
+            },
+            {
+              "city": "La Jara",
+              "county": "Conejos",
+              "population": 800,
+              "zip_codes": []
+            },
+            {
+              "city": "Julesburg",
+              "county": "Sedgwick",
+              "population": 1201,
+              "zip_codes": []
+            },
+            {
+              "city": "Paonia",
+              "county": "Delta",
+              "population": 1421,
+              "zip_codes": []
+            },
+            {
+              "city": "Jefferson",
+              "county": "Park",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Keenesburg",
+              "county": "Weld",
+              "population": 1212,
+              "zip_codes": []
+            },
+            {
+              "city": "Heeney",
+              "county": "Summit",
+              "population": 430,
+              "zip_codes": []
+            },
+            {
+              "city": "Florence",
+              "county": "Fremont",
+              "population": 7376,
+              "zip_codes": []
+            },
+            {
+              "city": "Parlin",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Granada",
+              "county": "Prowers",
+              "population": 496,
+              "zip_codes": []
+            },
+            {
+              "city": "Boncarbo",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cowdrey",
+              "county": "Jackson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hudson",
+              "county": "Weld",
+              "population": 1638,
+              "zip_codes": []
+            },
+            {
+              "city": "Walsenburg",
+              "county": "Huerfano",
+              "population": 2839,
+              "zip_codes": []
+            },
+            {
+              "city": "Central City",
+              "county": "Gilpin",
+              "population": 736,
+              "zip_codes": []
+            },
+            {
+              "city": "San Luis",
+              "county": "Costilla",
+              "population": 636,
+              "zip_codes": []
+            },
+            {
+              "city": "Tall Timber",
+              "county": "Boulder",
+              "population": 174,
+              "zip_codes": []
+            },
+            {
+              "city": "Granite",
+              "county": "Chaffee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fleming",
+              "county": "Logan",
+              "population": 407,
+              "zip_codes": []
+            },
+            {
+              "city": "Ellicott",
+              "county": "El Paso",
+              "population": 809,
+              "zip_codes": []
+            },
+            {
+              "city": "Springfield",
+              "county": "Baca",
+              "population": 1370,
+              "zip_codes": []
+            },
+            {
+              "city": "Stonegate",
+              "county": "Douglas",
+              "population": 9379,
+              "zip_codes": []
+            },
+            {
+              "city": "South Platte",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Jansen",
+              "county": "Las Animas",
+              "population": 105,
+              "zip_codes": []
+            },
+            {
+              "city": "Swink",
+              "county": "Otero",
+              "population": 596,
+              "zip_codes": []
+            },
+            {
+              "city": "Mount Crested Butte",
+              "county": "Gunnison",
+              "population": 842,
+              "zip_codes": []
+            },
+            {
+              "city": "Sunshine",
+              "county": "Boulder",
+              "population": 215,
+              "zip_codes": []
+            },
+            {
+              "city": "Olney Springs",
+              "county": "Crowley",
+              "population": 323,
+              "zip_codes": []
+            },
+            {
+              "city": "Lay",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Vigil",
+              "county": "Las Animas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Arapahoe",
+              "county": "Cheyenne",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Johnstown",
+              "county": "Weld",
+              "population": 21436,
+              "zip_codes": []
+            },
+            {
+              "city": "State Bridge",
+              "county": "Eagle",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hillrose",
+              "county": "Morgan",
+              "population": 251,
+              "zip_codes": []
+            },
+            {
+              "city": "Maysville",
+              "county": "Chaffee",
+              "population": 121,
+              "zip_codes": []
+            },
+            {
+              "city": "Indian Hills",
+              "county": "Jefferson",
+              "population": 1381,
+              "zip_codes": []
+            },
+            {
+              "city": "Matheson",
+              "county": "Elbert",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Orchard Mesa",
+              "county": "Mesa",
+              "population": 6380,
+              "zip_codes": []
+            },
+            {
+              "city": "Eldora",
+              "county": "Boulder",
+              "population": 41,
+              "zip_codes": []
+            },
+            {
+              "city": "Leyner",
+              "county": "Boulder",
+              "population": 24,
+              "zip_codes": []
+            },
+            {
+              "city": "Cripple Creek",
+              "county": "Teller",
+              "population": 1204,
+              "zip_codes": []
+            },
+            {
+              "city": "Marble",
+              "county": "Gunnison",
+              "population": 138,
+              "zip_codes": []
+            },
+            {
+              "city": "New Castle",
+              "county": "Garfield",
+              "population": 5807,
+              "zip_codes": []
+            },
+            {
+              "city": "Karval",
+              "county": "Lincoln",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Doyleville",
+              "county": "Gunnison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gateway",
+              "county": "Mesa",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hygiene",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hiawatha",
+              "county": "Moffat",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Crescent",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pagosa Junction",
+              "county": "Archuleta",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cardiff",
+              "county": "Garfield",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Empire",
+              "county": "Clear Creek",
+              "population": 301,
+              "zip_codes": []
+            },
+            {
+              "city": "Wallstreet",
+              "county": "Boulder",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Red Feather Lakes",
+              "county": "Larimer",
+              "population": 329,
+              "zip_codes": []
+            },
+            {
+              "city": "Cokedale",
+              "county": "Las Animas",
+              "population": 117,
+              "zip_codes": []
+            },
+            {
+              "city": "Watkins",
+              "county": "Adams",
+              "population": 643,
+              "zip_codes": []
+            }
+          ]
+        }
+      ]
+    }
+]
