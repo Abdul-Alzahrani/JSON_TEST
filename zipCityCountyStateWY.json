@@ -1,0 +1,2134 @@
+[
+  {
+    "state_id": "WY",
+    "state": "Wyoming",
+    "regions": [
+      {
+        "region": "WY",
+        "cities": [
+          {
+            "city": "Whiting",
+            "county": "Platte",
+            "population": 78,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Hawk Springs",
+            "county": "Goshen",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82244"
+              },
+              {
+                "zip_codes": "82217"
+              }
+            ]
+          },
+          {
+            "city": "Laramie",
+            "county": "Albany",
+            "population": 33508,
+            "zip_codes": [
+              {
+                "zip_codes": "82072"
+              },
+              {
+                "zip_codes": "82070"
+              }
+            ]
+          },
+          {
+            "city": "Lonetree",
+            "county": "Uinta",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82936"
+              }
+            ]
+          },
+          {
+            "city": "Cody",
+            "county": "Park",
+            "population": 9696,
+            "zip_codes": [
+              {
+                "zip_codes": "82414"
+              }
+            ]
+          },
+          {
+            "city": "Y-O Ranch",
+            "county": "Platte",
+            "population": 62,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Afton",
+            "county": "Lincoln",
+            "population": 2005,
+            "zip_codes": [
+              {
+                "zip_codes": "83110"
+              }
+            ]
+          },
+          {
+            "city": "Kemmerer",
+            "county": "Lincoln",
+            "population": 3233,
+            "zip_codes": [
+              {
+                "zip_codes": "83101"
+              },
+              {
+                "zip_codes": "83121"
+              },
+              {
+                "zip_codes": "83116"
+              }
+            ]
+          },
+          {
+            "city": "Burlington",
+            "county": "Big Horn",
+            "population": 337,
+            "zip_codes": [
+              {
+                "zip_codes": "82411"
+              }
+            ]
+          },
+          {
+            "city": "Midwest",
+            "county": "Natrona",
+            "population": 395,
+            "zip_codes": [
+              {
+                "zip_codes": "82643"
+              }
+            ]
+          },
+          {
+            "city": "Fort Washakie",
+            "county": "Fremont",
+            "population": 1928,
+            "zip_codes": [
+              {
+                "zip_codes": "82514"
+              },
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Antelope Hills",
+            "county": "Natrona",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82601"
+              }
+            ]
+          },
+          {
+            "city": "Boulder Flats",
+            "county": "Fremont",
+            "population": 387,
+            "zip_codes": [
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "North Rock Springs",
+            "county": "Sweetwater",
+            "population": 2027,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "James Town",
+            "county": "Sweetwater",
+            "population": 516,
+            "zip_codes": [
+              {
+                "zip_codes": "82935"
+              }
+            ]
+          },
+          {
+            "city": "Pinedale",
+            "county": "Sublette",
+            "population": 1890,
+            "zip_codes": [
+              {
+                "zip_codes": "82941"
+              }
+            ]
+          },
+          {
+            "city": "Edgerton",
+            "county": "Natrona",
+            "population": 198,
+            "zip_codes": [
+              {
+                "zip_codes": "82635"
+              }
+            ]
+          },
+          {
+            "city": "Alpine",
+            "county": "Lincoln",
+            "population": 866,
+            "zip_codes": [
+              {
+                "zip_codes": "83128"
+              }
+            ]
+          },
+          {
+            "city": "Turnerville",
+            "county": "Lincoln",
+            "population": 112,
+            "zip_codes": [
+              {
+                "zip_codes": "83112"
+              }
+            ]
+          },
+          {
+            "city": "Pine Haven",
+            "county": "Crook",
+            "population": 522,
+            "zip_codes": [
+              {
+                "zip_codes": "82721"
+              }
+            ]
+          },
+          {
+            "city": "Grover",
+            "county": "Lincoln",
+            "population": 295,
+            "zip_codes": [
+              {
+                "zip_codes": "83122"
+              }
+            ]
+          },
+          {
+            "city": "Slater",
+            "county": "Platte",
+            "population": 81,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Alta",
+            "county": "Teton",
+            "population": 478,
+            "zip_codes": [
+              {
+                "zip_codes": "83414"
+              }
+            ]
+          },
+          {
+            "city": "Glenrock",
+            "county": "Converse",
+            "population": 2591,
+            "zip_codes": [
+              {
+                "zip_codes": "82637"
+              }
+            ]
+          },
+          {
+            "city": "Van Tassell",
+            "county": "Niobrara",
+            "population": 14,
+            "zip_codes": [
+              {
+                "zip_codes": "82242"
+              }
+            ]
+          },
+          {
+            "city": "Hudson",
+            "county": "Fremont",
+            "population": 452,
+            "zip_codes": [
+              {
+                "zip_codes": "82515"
+              },
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Robertson",
+            "county": "Uinta",
+            "population": 95,
+            "zip_codes": [
+              {
+                "zip_codes": "82944"
+              }
+            ]
+          },
+          {
+            "city": "Lander",
+            "county": "Fremont",
+            "population": 7287,
+            "zip_codes": [
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Rolling Hills",
+            "county": "Converse",
+            "population": 419,
+            "zip_codes": [
+              {
+                "zip_codes": "82637"
+              }
+            ]
+          },
+          {
+            "city": "Alcova",
+            "county": "Natrona",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82620"
+              }
+            ]
+          },
+          {
+            "city": "Cokeville",
+            "county": "Lincoln",
+            "population": 551,
+            "zip_codes": [
+              {
+                "zip_codes": "83114"
+              }
+            ]
+          },
+          {
+            "city": "Arrowhead Springs",
+            "county": "Sweetwater",
+            "population": 97,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "Bedford",
+            "county": "Lincoln",
+            "population": 223,
+            "zip_codes": [
+              {
+                "zip_codes": "83127"
+              },
+              {
+                "zip_codes": "83112"
+              }
+            ]
+          },
+          {
+            "city": "Farson",
+            "county": "Sweetwater",
+            "population": 114,
+            "zip_codes": [
+              {
+                "zip_codes": "82932"
+              }
+            ]
+          },
+          {
+            "city": "Purple Sage",
+            "county": "Sweetwater",
+            "population": 1019,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "Osage",
+            "county": "Weston",
+            "population": 229,
+            "zip_codes": [
+              {
+                "zip_codes": "82723"
+              }
+            ]
+          },
+          {
+            "city": "Medicine Bow",
+            "county": "Carbon",
+            "population": 267,
+            "zip_codes": [
+              {
+                "zip_codes": "82329"
+              }
+            ]
+          },
+          {
+            "city": "Lost Springs",
+            "county": "Converse",
+            "population": 4,
+            "zip_codes": [
+              {
+                "zip_codes": "82229"
+              }
+            ]
+          },
+          {
+            "city": "Sundance",
+            "county": "Crook",
+            "population": 1265,
+            "zip_codes": [
+              {
+                "zip_codes": "82729"
+              }
+            ]
+          },
+          {
+            "city": "Little America",
+            "county": "Sweetwater",
+            "population": 92,
+            "zip_codes": [
+              {
+                "zip_codes": "82929"
+              }
+            ]
+          },
+          {
+            "city": "Smoot",
+            "county": "Lincoln",
+            "population": 259,
+            "zip_codes": [
+              {
+                "zip_codes": "83126"
+              }
+            ]
+          },
+          {
+            "city": "Hulett",
+            "county": "Crook",
+            "population": 416,
+            "zip_codes": [
+              {
+                "zip_codes": "82720"
+              }
+            ]
+          },
+          {
+            "city": "Bear River",
+            "county": "Uinta",
+            "population": 518,
+            "zip_codes": [
+              {
+                "zip_codes": "82930"
+              }
+            ]
+          },
+          {
+            "city": "Bairoil",
+            "county": "Sweetwater",
+            "population": 100,
+            "zip_codes": [
+              {
+                "zip_codes": "82322"
+              }
+            ]
+          },
+          {
+            "city": "Rock River",
+            "county": "Albany",
+            "population": 249,
+            "zip_codes": [
+              {
+                "zip_codes": "82083"
+              }
+            ]
+          },
+          {
+            "city": "Auburn",
+            "county": "Lincoln",
+            "population": 222,
+            "zip_codes": [
+              {
+                "zip_codes": "83111"
+              }
+            ]
+          },
+          {
+            "city": "Sinclair",
+            "county": "Carbon",
+            "population": 407,
+            "zip_codes": [
+              {
+                "zip_codes": "82334"
+              }
+            ]
+          },
+          {
+            "city": "Superior",
+            "county": "Sweetwater",
+            "population": 316,
+            "zip_codes": [
+              {
+                "zip_codes": "82945"
+              }
+            ]
+          },
+          {
+            "city": "Oakley",
+            "county": "Lincoln",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "83101"
+              }
+            ]
+          },
+          {
+            "city": "Deaver",
+            "county": "Big Horn",
+            "population": 185,
+            "zip_codes": [
+              {
+                "zip_codes": "82421"
+              }
+            ]
+          },
+          {
+            "city": "Cheyenne",
+            "county": "Laramie",
+            "population": 78728,
+            "zip_codes": [
+              {
+                "zip_codes": "82009"
+              },
+              {
+                "zip_codes": "82007"
+              },
+              {
+                "zip_codes": "82001"
+              },
+              {
+                "zip_codes": "82002"
+              },
+              {
+                "zip_codes": "82003"
+              }
+            ]
+          },
+          {
+            "city": "Big Piney",
+            "county": "Sublette",
+            "population": 524,
+            "zip_codes": [
+              {
+                "zip_codes": "83113"
+              }
+            ]
+          },
+          {
+            "city": "Parkman",
+            "county": "Sheridan",
+            "population": 108,
+            "zip_codes": [
+              {
+                "zip_codes": "82838"
+              }
+            ]
+          },
+          {
+            "city": "Encampment",
+            "county": "Carbon",
+            "population": 436,
+            "zip_codes": [
+              {
+                "zip_codes": "82325"
+              }
+            ]
+          },
+          {
+            "city": "Big Horn",
+            "county": "Sheridan",
+            "population": 512,
+            "zip_codes": [
+              {
+                "zip_codes": "82801"
+              }
+            ]
+          },
+          {
+            "city": "Fort Laramie",
+            "county": "Goshen",
+            "population": 229,
+            "zip_codes": [
+              {
+                "zip_codes": "82212"
+              }
+            ]
+          },
+          {
+            "city": "Jackson",
+            "county": "Teton",
+            "population": 12543,
+            "zip_codes": [
+              {
+                "zip_codes": "83001"
+              },
+              {
+                "zip_codes": "83002"
+              }
+            ]
+          },
+          {
+            "city": "Douglas",
+            "county": "Converse",
+            "population": 6407,
+            "zip_codes": [
+              {
+                "zip_codes": "82633"
+              }
+            ]
+          },
+          {
+            "city": "Daniel",
+            "county": "Sublette",
+            "population": 143,
+            "zip_codes": [
+              {
+                "zip_codes": "83115"
+              }
+            ]
+          },
+          {
+            "city": "Ethete",
+            "county": "Fremont",
+            "population": 1747,
+            "zip_codes": [
+              {
+                "zip_codes": "82510"
+              },
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Fontenelle",
+            "county": "Lincoln",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "83101"
+              }
+            ]
+          },
+          {
+            "city": "Jeffrey City",
+            "county": "Fremont",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Owl Creek",
+            "county": "Hot Springs",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82443"
+              }
+            ]
+          },
+          {
+            "city": "Torrington",
+            "county": "Goshen",
+            "population": 7363,
+            "zip_codes": [
+              {
+                "zip_codes": "82240"
+              }
+            ]
+          },
+          {
+            "city": "Arlington",
+            "county": "Carbon",
+            "population": 8,
+            "zip_codes": [
+              {
+                "zip_codes": "82083"
+              }
+            ]
+          },
+          {
+            "city": "Hill View Heights",
+            "county": "Weston",
+            "population": 41,
+            "zip_codes": [
+              {
+                "zip_codes": "82701"
+              }
+            ]
+          },
+          {
+            "city": "Lucerne",
+            "county": "Hot Springs",
+            "population": 486,
+            "zip_codes": [
+              {
+                "zip_codes": "82443"
+              }
+            ]
+          },
+          {
+            "city": "Wamsutter",
+            "county": "Sweetwater",
+            "population": 484,
+            "zip_codes": [
+              {
+                "zip_codes": "82336"
+              }
+            ]
+          },
+          {
+            "city": "Story",
+            "county": "Sheridan",
+            "population": 883,
+            "zip_codes": [
+              {
+                "zip_codes": "82842"
+              }
+            ]
+          },
+          {
+            "city": "Urie",
+            "county": "Uinta",
+            "population": 561,
+            "zip_codes": [
+              {
+                "zip_codes": "82937"
+              }
+            ]
+          },
+          {
+            "city": "Pavillion",
+            "county": "Fremont",
+            "population": 234,
+            "zip_codes": [
+              {
+                "zip_codes": "82523"
+              }
+            ]
+          },
+          {
+            "city": "Evansville",
+            "county": "Natrona",
+            "population": 2950,
+            "zip_codes": [
+              {
+                "zip_codes": "82636"
+              }
+            ]
+          },
+          {
+            "city": "Bessemer Bend",
+            "county": "Natrona",
+            "population": 244,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              }
+            ]
+          },
+          {
+            "city": "Shell",
+            "county": "Big Horn",
+            "population": 169,
+            "zip_codes": [
+              {
+                "zip_codes": "82441"
+              }
+            ]
+          },
+          {
+            "city": "Veteran",
+            "county": "Goshen",
+            "population": 71,
+            "zip_codes": [
+              {
+                "zip_codes": "82243"
+              }
+            ]
+          },
+          {
+            "city": "Meeteetse",
+            "county": "Park",
+            "population": 335,
+            "zip_codes": [
+              {
+                "zip_codes": "82433"
+              }
+            ]
+          },
+          {
+            "city": "Hartville",
+            "county": "Platte",
+            "population": 61,
+            "zip_codes": [
+              {
+                "zip_codes": "82215"
+              }
+            ]
+          },
+          {
+            "city": "Yoder",
+            "county": "Goshen",
+            "population": 156,
+            "zip_codes": [
+              {
+                "zip_codes": "82244"
+              }
+            ]
+          },
+          {
+            "city": "Hyattville",
+            "county": "Big Horn",
+            "population": 81,
+            "zip_codes": [
+              {
+                "zip_codes": "82428"
+              }
+            ]
+          },
+          {
+            "city": "Ryan Park",
+            "county": "Carbon",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82331"
+              }
+            ]
+          },
+          {
+            "city": "Homa Hills",
+            "county": "Natrona",
+            "population": 280,
+            "zip_codes": [
+              {
+                "zip_codes": "82601"
+              }
+            ]
+          },
+          {
+            "city": "Wilson",
+            "county": "Teton",
+            "population": 1991,
+            "zip_codes": [
+              {
+                "zip_codes": "83014"
+              }
+            ]
+          },
+          {
+            "city": "Chugcreek",
+            "county": "Platte",
+            "population": 281,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Mills",
+            "county": "Natrona",
+            "population": 3899,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              },
+              {
+                "zip_codes": "82601"
+              },
+              {
+                "zip_codes": "82644"
+              }
+            ]
+          },
+          {
+            "city": "Brookhurst",
+            "county": "Natrona",
+            "population": 195,
+            "zip_codes": [
+              {
+                "zip_codes": "82636"
+              }
+            ]
+          },
+          {
+            "city": "Reliance",
+            "county": "Sweetwater",
+            "population": 521,
+            "zip_codes": [
+              {
+                "zip_codes": "82943"
+              },
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "Washam",
+            "county": "Sweetwater",
+            "population": 69,
+            "zip_codes": [
+              {
+                "zip_codes": "82938"
+              }
+            ]
+          },
+          {
+            "city": "Meadow Acres",
+            "county": "Natrona",
+            "population": 135,
+            "zip_codes": [
+              {
+                "zip_codes": "82636"
+              }
+            ]
+          },
+          {
+            "city": "Manville",
+            "county": "Niobrara",
+            "population": 88,
+            "zip_codes": [
+              {
+                "zip_codes": "82227"
+              }
+            ]
+          },
+          {
+            "city": "Hanna",
+            "county": "Carbon",
+            "population": 793,
+            "zip_codes": [
+              {
+                "zip_codes": "82327"
+              }
+            ]
+          },
+          {
+            "city": "Huntley",
+            "county": "Goshen",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82240"
+              },
+              {
+                "zip_codes": "82218"
+              }
+            ]
+          },
+          {
+            "city": "Mammoth",
+            "county": "Park",
+            "population": 57,
+            "zip_codes": [
+              {
+                "zip_codes": "82190"
+              }
+            ]
+          },
+          {
+            "city": "Point of Rocks",
+            "county": "Sweetwater",
+            "population": 81,
+            "zip_codes": [
+              {
+                "zip_codes": "82942"
+              }
+            ]
+          },
+          {
+            "city": "Chugwater",
+            "county": "Platte",
+            "population": 203,
+            "zip_codes": [
+              {
+                "zip_codes": "82210"
+              }
+            ]
+          },
+          {
+            "city": "Ten Sleep",
+            "county": "Washakie",
+            "population": 257,
+            "zip_codes": [
+              {
+                "zip_codes": "82442"
+              }
+            ]
+          },
+          {
+            "city": "Thermopolis",
+            "county": "Hot Springs",
+            "population": 3210,
+            "zip_codes": [
+              {
+                "zip_codes": "82443"
+              }
+            ]
+          },
+          {
+            "city": "Hartrandt",
+            "county": "Natrona",
+            "population": 583,
+            "zip_codes": [
+              {
+                "zip_codes": "82601"
+              }
+            ]
+          },
+          {
+            "city": "East Thermopolis",
+            "county": "Hot Springs",
+            "population": 249,
+            "zip_codes": [
+              {
+                "zip_codes": "82443"
+              }
+            ]
+          },
+          {
+            "city": "Boulder",
+            "county": "Sublette",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82923"
+              }
+            ]
+          },
+          {
+            "city": "Ralston",
+            "county": "Park",
+            "population": 438,
+            "zip_codes": [
+              {
+                "zip_codes": "82440"
+              },
+              {
+                "zip_codes": "82435"
+              }
+            ]
+          },
+          {
+            "city": "Fairview",
+            "county": "Lincoln",
+            "population": 293,
+            "zip_codes": [
+              {
+                "zip_codes": "83110"
+              },
+              {
+                "zip_codes": "83119"
+              }
+            ]
+          },
+          {
+            "city": "Lance Creek",
+            "county": "Niobrara",
+            "population": 10,
+            "zip_codes": [
+              {
+                "zip_codes": "82225"
+              },
+              {
+                "zip_codes": "82224"
+              },
+              {
+                "zip_codes": "82222"
+              }
+            ]
+          },
+          {
+            "city": "Thayne",
+            "county": "Lincoln",
+            "population": 382,
+            "zip_codes": [
+              {
+                "zip_codes": "83127"
+              }
+            ]
+          },
+          {
+            "city": "Atlantic City",
+            "county": "Fremont",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82520"
+              }
+            ]
+          },
+          {
+            "city": "Byron",
+            "county": "Big Horn",
+            "population": 616,
+            "zip_codes": [
+              {
+                "zip_codes": "82412"
+              },
+              {
+                "zip_codes": "82431"
+              }
+            ]
+          },
+          {
+            "city": "Ranchettes",
+            "county": "Laramie",
+            "population": 6001,
+            "zip_codes": [
+              {
+                "zip_codes": "82009"
+              }
+            ]
+          },
+          {
+            "city": "Ranchester",
+            "county": "Sheridan",
+            "population": 974,
+            "zip_codes": [
+              {
+                "zip_codes": "82839"
+              }
+            ]
+          },
+          {
+            "city": "Westview Circle",
+            "county": "Platte",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Worland",
+            "county": "Washakie",
+            "population": 5167,
+            "zip_codes": [
+              {
+                "zip_codes": "82401"
+              }
+            ]
+          },
+          {
+            "city": "Carter",
+            "county": "Uinta",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82937"
+              }
+            ]
+          },
+          {
+            "city": "Etna",
+            "county": "Lincoln",
+            "population": 210,
+            "zip_codes": [
+              {
+                "zip_codes": "83118"
+              }
+            ]
+          },
+          {
+            "city": "Saratoga",
+            "county": "Carbon",
+            "population": 1655,
+            "zip_codes": [
+              {
+                "zip_codes": "82331"
+              }
+            ]
+          },
+          {
+            "city": "Diamondville",
+            "county": "Lincoln",
+            "population": 758,
+            "zip_codes": [
+              {
+                "zip_codes": "83116"
+              }
+            ]
+          },
+          {
+            "city": "Opal",
+            "county": "Lincoln",
+            "population": 105,
+            "zip_codes": [
+              {
+                "zip_codes": "83124"
+              }
+            ]
+          },
+          {
+            "city": "Hillsdale",
+            "county": "Laramie",
+            "population": 139,
+            "zip_codes": [
+              {
+                "zip_codes": "82060"
+              }
+            ]
+          },
+          {
+            "city": "Clearmont",
+            "county": "Sheridan",
+            "population": 147,
+            "zip_codes": [
+              {
+                "zip_codes": "82835"
+              }
+            ]
+          },
+          {
+            "city": "Manderson",
+            "county": "Big Horn",
+            "population": 116,
+            "zip_codes": [
+              {
+                "zip_codes": "82432"
+              }
+            ]
+          },
+          {
+            "city": "Cowley",
+            "county": "Big Horn",
+            "population": 748,
+            "zip_codes": [
+              {
+                "zip_codes": "82420"
+              }
+            ]
+          },
+          {
+            "city": "Wheatland",
+            "county": "Platte",
+            "population": 3523,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Orin",
+            "county": "Converse",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82633"
+              }
+            ]
+          },
+          {
+            "city": "Gillette",
+            "county": "Campbell",
+            "population": 34378,
+            "zip_codes": [
+              {
+                "zip_codes": "82718"
+              },
+              {
+                "zip_codes": "82716"
+              }
+            ]
+          },
+          {
+            "city": "Lovell",
+            "county": "Big Horn",
+            "population": 2393,
+            "zip_codes": [
+              {
+                "zip_codes": "82431"
+              }
+            ]
+          },
+          {
+            "city": "Basin",
+            "county": "Big Horn",
+            "population": 1293,
+            "zip_codes": [
+              {
+                "zip_codes": "82410"
+              }
+            ]
+          },
+          {
+            "city": "Bar Nunn",
+            "county": "Natrona",
+            "population": 2781,
+            "zip_codes": [
+              {
+                "zip_codes": "82601"
+              }
+            ]
+          },
+          {
+            "city": "Green River",
+            "county": "Sweetwater",
+            "population": 12220,
+            "zip_codes": [
+              {
+                "zip_codes": "82935"
+              }
+            ]
+          },
+          {
+            "city": "Sheridan",
+            "county": "Sheridan",
+            "population": 19234,
+            "zip_codes": [
+              {
+                "zip_codes": "82801"
+              }
+            ]
+          },
+          {
+            "city": "Shoshoni",
+            "county": "Fremont",
+            "population": 652,
+            "zip_codes": [
+              {
+                "zip_codes": "82649"
+              }
+            ]
+          },
+          {
+            "city": "Eden",
+            "county": "Sweetwater",
+            "population": 184,
+            "zip_codes": [
+              {
+                "zip_codes": "82932"
+              }
+            ]
+          },
+          {
+            "city": "Lusk",
+            "county": "Niobrara",
+            "population": 1543,
+            "zip_codes": [
+              {
+                "zip_codes": "82225"
+              }
+            ]
+          },
+          {
+            "city": "Centennial",
+            "county": "Albany",
+            "population": 217,
+            "zip_codes": [
+              {
+                "zip_codes": "82055"
+              }
+            ]
+          },
+          {
+            "city": "Albany",
+            "county": "Albany",
+            "population": 24,
+            "zip_codes": [
+              {
+                "zip_codes": "82070"
+              }
+            ]
+          },
+          {
+            "city": "Greybull",
+            "county": "Big Horn",
+            "population": 1862,
+            "zip_codes": [
+              {
+                "zip_codes": "82426"
+              }
+            ]
+          },
+          {
+            "city": "Powell",
+            "county": "Park",
+            "population": 6516,
+            "zip_codes": [
+              {
+                "zip_codes": "82435"
+              }
+            ]
+          },
+          {
+            "city": "Powder River",
+            "county": "Natrona",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              },
+              {
+                "zip_codes": "82648"
+              }
+            ]
+          },
+          {
+            "city": "Albin",
+            "county": "Laramie",
+            "population": 204,
+            "zip_codes": [
+              {
+                "zip_codes": "82050"
+              }
+            ]
+          },
+          {
+            "city": "Nordic",
+            "county": "Lincoln",
+            "population": 420,
+            "zip_codes": [
+              {
+                "zip_codes": "83118"
+              }
+            ]
+          },
+          {
+            "city": "Guernsey",
+            "county": "Platte",
+            "population": 1151,
+            "zip_codes": [
+              {
+                "zip_codes": "82214"
+              }
+            ]
+          },
+          {
+            "city": "Kelly",
+            "county": "Teton",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "83011"
+              }
+            ]
+          },
+          {
+            "city": "Alpine Northeast",
+            "county": "Lincoln",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "83128"
+              }
+            ]
+          },
+          {
+            "city": "Lingle",
+            "county": "Goshen",
+            "population": 463,
+            "zip_codes": [
+              {
+                "zip_codes": "82223"
+              }
+            ]
+          },
+          {
+            "city": "La Barge",
+            "county": "Lincoln",
+            "population": 562,
+            "zip_codes": [
+              {
+                "zip_codes": "83123"
+              }
+            ]
+          },
+          {
+            "city": "Elk Mountain",
+            "county": "Carbon",
+            "population": 189,
+            "zip_codes": [
+              {
+                "zip_codes": "82324"
+              }
+            ]
+          },
+          {
+            "city": "Casper",
+            "county": "Natrona",
+            "population": 67462,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              },
+              {
+                "zip_codes": "82601"
+              },
+              {
+                "zip_codes": "82609"
+              },
+              {
+                "zip_codes": "82602"
+              },
+              {
+                "zip_codes": "82605"
+              }
+            ]
+          },
+          {
+            "city": "Upton",
+            "county": "Weston",
+            "population": 1060,
+            "zip_codes": [
+              {
+                "zip_codes": "82730"
+              }
+            ]
+          },
+          {
+            "city": "Mountain View",
+            "county": "Uinta",
+            "population": 1261,
+            "zip_codes": [
+              {
+                "zip_codes": "82939"
+              }
+            ]
+          },
+          {
+            "city": "Evanston",
+            "county": "Uinta",
+            "population": 11538,
+            "zip_codes": [
+              {
+                "zip_codes": "82930"
+              }
+            ]
+          },
+          {
+            "city": "Wright",
+            "county": "Campbell",
+            "population": 1742,
+            "zip_codes": [
+              {
+                "zip_codes": "82732"
+              }
+            ]
+          },
+          {
+            "city": "Dixon",
+            "county": "Carbon",
+            "population": 97,
+            "zip_codes": [
+              {
+                "zip_codes": "82323"
+              }
+            ]
+          },
+          {
+            "city": "Riverside",
+            "county": "Carbon",
+            "population": 53,
+            "zip_codes": [
+              {
+                "zip_codes": "82325"
+              }
+            ]
+          },
+          {
+            "city": "Marbleton",
+            "county": "Sublette",
+            "population": 1111,
+            "zip_codes": [
+              {
+                "zip_codes": "83113"
+              }
+            ]
+          },
+          {
+            "city": "Kirby",
+            "county": "Hot Springs",
+            "population": 90,
+            "zip_codes": [
+              {
+                "zip_codes": "82443"
+              },
+              {
+                "zip_codes": "82430"
+              }
+            ]
+          },
+          {
+            "city": "Newcastle",
+            "county": "Weston",
+            "population": 3144,
+            "zip_codes": [
+              {
+                "zip_codes": "82701"
+              }
+            ]
+          },
+          {
+            "city": "Arapahoe",
+            "county": "Fremont",
+            "population": 1586,
+            "zip_codes": [
+              {
+                "zip_codes": "82510"
+              },
+              {
+                "zip_codes": "82501"
+              },
+              {
+                "zip_codes": "82524"
+              }
+            ]
+          },
+          {
+            "city": "Burns",
+            "county": "Laramie",
+            "population": 311,
+            "zip_codes": [
+              {
+                "zip_codes": "82053"
+              }
+            ]
+          },
+          {
+            "city": "Moorcroft",
+            "county": "Crook",
+            "population": 1054,
+            "zip_codes": [
+              {
+                "zip_codes": "82721"
+              }
+            ]
+          },
+          {
+            "city": "Fox Farm-College",
+            "county": "Laramie",
+            "population": 4736,
+            "zip_codes": [
+              {
+                "zip_codes": "82007"
+              },
+              {
+                "zip_codes": "82010"
+              }
+            ]
+          },
+          {
+            "city": "Warren AFB",
+            "county": "Laramie",
+            "population": 2208,
+            "zip_codes": [
+              {
+                "zip_codes": "82005"
+              },
+              {
+                "zip_codes": "82001"
+              }
+            ]
+          },
+          {
+            "city": "Woods Landing-Jelm",
+            "county": "Albany",
+            "population": 56,
+            "zip_codes": [
+              {
+                "zip_codes": "82063"
+              },
+              {
+                "zip_codes": "82070"
+              }
+            ]
+          },
+          {
+            "city": "South Greeley",
+            "county": "Laramie",
+            "population": 4487,
+            "zip_codes": [
+              {
+                "zip_codes": "82007"
+              }
+            ]
+          },
+          {
+            "city": "Moose Wilson Road",
+            "county": "Teton",
+            "population": 1443,
+            "zip_codes": [
+              {
+                "zip_codes": "83014"
+              }
+            ]
+          },
+          {
+            "city": "Lakeview North",
+            "county": "Platte",
+            "population": 65,
+            "zip_codes": [
+              {
+                "zip_codes": "82201"
+              }
+            ]
+          },
+          {
+            "city": "Dayton",
+            "county": "Sheridan",
+            "population": 824,
+            "zip_codes": [
+              {
+                "zip_codes": "82836"
+              }
+            ]
+          },
+          {
+            "city": "Vista West",
+            "county": "Natrona",
+            "population": 1030,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              }
+            ]
+          },
+          {
+            "city": "Crowheart",
+            "county": "Fremont",
+            "population": 88,
+            "zip_codes": [
+              {
+                "zip_codes": "82512"
+              }
+            ]
+          },
+          {
+            "city": "Clearview Acres",
+            "county": "Sweetwater",
+            "population": 1416,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "Cora",
+            "county": "Sublette",
+            "population": 54,
+            "zip_codes": [
+              {
+                "zip_codes": "82941"
+              },
+              {
+                "zip_codes": "82925"
+              }
+            ]
+          },
+          {
+            "city": "Teton Village",
+            "county": "Teton",
+            "population": 132,
+            "zip_codes": [
+              {
+                "zip_codes": "83025"
+              }
+            ]
+          },
+          {
+            "city": "Johnstown",
+            "county": "Fremont",
+            "population": 194,
+            "zip_codes": [
+              {
+                "zip_codes": "82516"
+              },
+              {
+                "zip_codes": "82501"
+              }
+            ]
+          },
+          {
+            "city": "Lyman",
+            "county": "Uinta",
+            "population": 2067,
+            "zip_codes": [
+              {
+                "zip_codes": "82937"
+              }
+            ]
+          },
+          {
+            "city": "Freedom",
+            "county": "Lincoln",
+            "population": 356,
+            "zip_codes": [
+              {
+                "zip_codes": "83120"
+              }
+            ]
+          },
+          {
+            "city": "Casper Mountain",
+            "county": "Natrona",
+            "population": 628,
+            "zip_codes": [
+              {
+                "zip_codes": "82601"
+              }
+            ]
+          },
+          {
+            "city": "South Park",
+            "county": "Teton",
+            "population": 1579,
+            "zip_codes": [
+              {
+                "zip_codes": "83001"
+              }
+            ]
+          },
+          {
+            "city": "Bondurant",
+            "county": "Sublette",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82922"
+              }
+            ]
+          },
+          {
+            "city": "Dubois",
+            "county": "Fremont",
+            "population": 974,
+            "zip_codes": [
+              {
+                "zip_codes": "82513"
+              }
+            ]
+          },
+          {
+            "city": "Alpine Northwest",
+            "county": "Lincoln",
+            "population": 107,
+            "zip_codes": [
+              {
+                "zip_codes": "83128"
+              }
+            ]
+          },
+          {
+            "city": "Osmond",
+            "county": "Lincoln",
+            "population": 242,
+            "zip_codes": [
+              {
+                "zip_codes": "83110"
+              }
+            ]
+          },
+          {
+            "city": "Baggs",
+            "county": "Carbon",
+            "population": 428,
+            "zip_codes": [
+              {
+                "zip_codes": "82321"
+              }
+            ]
+          },
+          {
+            "city": "Frannie",
+            "county": "Big Horn",
+            "population": 158,
+            "zip_codes": [
+              {
+                "zip_codes": "82423"
+              }
+            ]
+          },
+          {
+            "city": "Arvada",
+            "county": "Sheridan",
+            "population": 38,
+            "zip_codes": [
+              {
+                "zip_codes": "82831"
+              }
+            ]
+          },
+          {
+            "city": "La Grange",
+            "county": "Goshen",
+            "population": 445,
+            "zip_codes": [
+              {
+                "zip_codes": "82221"
+              }
+            ]
+          },
+          {
+            "city": "Esterbrook",
+            "county": "Converse",
+            "population": 34,
+            "zip_codes": [
+              {
+                "zip_codes": "82633"
+              }
+            ]
+          },
+          {
+            "city": "Table Rock",
+            "county": "Sweetwater",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              }
+            ]
+          },
+          {
+            "city": "Sleepy Hollow",
+            "county": "Campbell",
+            "population": 952,
+            "zip_codes": [
+              {
+                "zip_codes": "82718"
+              }
+            ]
+          },
+          {
+            "city": "Granger",
+            "county": "Sweetwater",
+            "population": 133,
+            "zip_codes": [
+              {
+                "zip_codes": "82934"
+              }
+            ]
+          },
+          {
+            "city": "Rawlins",
+            "county": "Carbon",
+            "population": 8869,
+            "zip_codes": [
+              {
+                "zip_codes": "82301"
+              }
+            ]
+          },
+          {
+            "city": "Rafter J Ranch",
+            "county": "Teton",
+            "population": 1565,
+            "zip_codes": [
+              {
+                "zip_codes": "83001"
+              }
+            ]
+          },
+          {
+            "city": "Riverton",
+            "county": "Fremont",
+            "population": 12776,
+            "zip_codes": [
+              {
+                "zip_codes": "82501"
+              }
+            ]
+          },
+          {
+            "city": "Hoback",
+            "county": "Teton",
+            "population": 1409,
+            "zip_codes": [
+              {
+                "zip_codes": "83001"
+              }
+            ]
+          },
+          {
+            "city": "Glendo",
+            "county": "Platte",
+            "population": 204,
+            "zip_codes": [
+              {
+                "zip_codes": "82213"
+              }
+            ]
+          },
+          {
+            "city": "Kaycee",
+            "county": "Johnson",
+            "population": 269,
+            "zip_codes": [
+              {
+                "zip_codes": "82639"
+              }
+            ]
+          },
+          {
+            "city": "Taylor",
+            "county": "Lincoln",
+            "population": 76,
+            "zip_codes": [
+              {
+                "zip_codes": "83114"
+              }
+            ]
+          },
+          {
+            "city": "McKinnon",
+            "county": "Sweetwater",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "82938"
+              }
+            ]
+          },
+          {
+            "city": "Pine Bluffs",
+            "county": "Laramie",
+            "population": 1142,
+            "zip_codes": [
+              {
+                "zip_codes": "82082"
+              }
+            ]
+          },
+          {
+            "city": "Rock Springs",
+            "county": "Sweetwater",
+            "population": 26710,
+            "zip_codes": [
+              {
+                "zip_codes": "82901"
+              },
+              {
+                "zip_codes": "82902"
+              }
+            ]
+          },
+          {
+            "city": "Fort Bridger",
+            "county": "Uinta",
+            "population": 233,
+            "zip_codes": [
+              {
+                "zip_codes": "82933"
+              }
+            ]
+          },
+          {
+            "city": "Garland",
+            "county": "Park",
+            "population": 165,
+            "zip_codes": [
+              {
+                "zip_codes": "82435"
+              }
+            ]
+          },
+          {
+            "city": "Carpenter",
+            "county": "Laramie",
+            "population": 317,
+            "zip_codes": [
+              {
+                "zip_codes": "82054"
+              }
+            ]
+          },
+          {
+            "city": "Red Butte",
+            "county": "Natrona",
+            "population": 535,
+            "zip_codes": [
+              {
+                "zip_codes": "82604"
+              }
+            ]
+          },
+          {
+            "city": "Beulah",
+            "county": "Crook",
+            "population": 113,
+            "zip_codes": [
+              {
+                "zip_codes": "82712"
+              }
+            ]
+          },
+          {
+            "city": "Star Valley Ranch",
+            "county": "Lincoln",
+            "population": 1581,
+            "zip_codes": [
+              {
+                "zip_codes": "83127"
+              }
+            ]
+          },
+          {
+            "city": "Buffalo",
+            "county": "Johnson",
+            "population": 4367,
+            "zip_codes": [
+              {
+                "zip_codes": "82834"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
