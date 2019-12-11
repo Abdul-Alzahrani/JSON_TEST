@@ -1,0 +1,3206 @@
+[
+    {
+      "state_id": "ID",
+      "state": "Idaho",
+      "regions": [
+        {
+          "region": "ID",
+          "cities": [
+            {
+              "city": "Blackfoot",
+              "county": "Bingham",
+              "population": 15382,
+              "zip_codes": [
+                {
+                  "zip_code": "83221"
+                }
+              ]
+            },
+            {
+              "city": "Boise",
+              "county": "Ada",
+              "population": 385218,
+              "zip_codes": [
+                {
+                  "zip_code": "83702"
+                },
+                {
+                  "zip_code": "83703"
+                },
+                {
+                  "zip_code": "83704"
+                },
+                {
+                  "zip_code": "83705"
+                },
+                {
+                  "zip_code": "83706"
+                },
+                {
+                  "zip_code": "83709"
+                },
+                {
+                  "zip_code": "83712"
+                }
+              ]
+            },
+            {
+              "city": "Burley",
+              "county": "Cassia",
+              "population": 16175,
+              "zip_codes": [
+                {
+                  "zip_code": "83318"
+                }
+              ]
+            },
+            {
+              "city": "Caldwell",
+              "county": "Canyon",
+              "population": 54660,
+              "zip_codes": [
+                {
+                  "zip_code": "83605"
+                }
+              ]
+            },
+            {
+              "city": "Coeur d'Alene",
+              "county": "Kootenai",
+              "population": 112935,
+              "zip_codes": []
+            },
+            {
+              "city": "Eagle",
+              "county": "Ada",
+              "population": 26089,
+              "zip_codes": [
+                {
+                  "zip_code": "83616"
+                }
+              ]
+            },
+            {
+              "city": "Garden City",
+              "county": "Ada",
+              "population": 11890,
+              "zip_codes": [
+                {
+                  "zip_code": "83714"
+                }
+              ]
+            },
+            {
+              "city": "Idaho Falls",
+              "county": "Bonneville",
+              "population": 97548,
+              "zip_codes": [
+                {
+                  "zip_code": "83402"
+                },
+                {
+                  "zip_code": "83404"
+                },
+                {
+                  "zip_code": "83406"
+                }
+              ]
+            },
+            {
+              "city": "Lewiston",
+              "county": "Nez Perce",
+              "population": 53436,
+              "zip_codes": []
+            },
+            {
+              "city": "Meridian",
+              "county": "Ada",
+              "population": 99926,
+              "zip_codes": [
+                {
+                  "zip_code": "83642"
+                }
+              ]
+            },
+            {
+              "city": "Moscow",
+              "county": "Latah",
+              "population": 25579,
+              "zip_codes": [
+                {
+                  "zip_code": "83843"
+                }
+              ]
+            },
+            {
+              "city": "Mountain Home",
+              "county": "Elmore",
+              "population": 16552,
+              "zip_codes": [
+                {
+                  "zip_code": "83647"
+                }
+              ]
+            },
+            {
+              "city": "Nampa",
+              "county": "Canyon",
+              "population": 173863,
+              "zip_codes": [
+                {
+                  "zip_code": "83651"
+                },
+                {
+                  "zip_code": "83686"
+                },
+                {
+                  "zip_code": "83687"
+                }
+              ]
+            },
+            {
+              "city": "Payette",
+              "county": "Payette",
+              "population": 7434,
+              "zip_codes": [
+                {
+                  "zip_code": "83661"
+                }
+              ]
+            },
+            {
+              "city": "Pocatello",
+              "county": "Bannock",
+              "population": 71020,
+              "zip_codes": [
+                {
+                  "zip_code": "83201"
+                },
+                {
+                  "zip_code": "83204"
+                }
+              ]
+            },
+            {
+              "city": "Post Falls",
+              "county": "Kootenai",
+              "population": 33290,
+              "zip_codes": [
+                {
+                  "zip_code": "83854"
+                }
+              ]
+            },
+            {
+              "city": "Preston",
+              "county": "Franklin",
+              "population": 4477,
+              "zip_codes": [
+                {
+                  "zip_code": "83263"
+                }
+              ]
+            },
+            {
+              "city": "Rexburg",
+              "county": "Madison",
+              "population": 29859,
+              "zip_codes": [
+                {
+                  "zip_code": "83440"
+                }
+              ]
+            },
+            {
+              "city": "Rigby",
+              "county": "Jefferson",
+              "population": 8987,
+              "zip_codes": [
+                {
+                  "zip_code": "83442"
+                }
+              ]
+            },
+            {
+              "city": "Sandpoint",
+              "county": "Bonner",
+              "population": 12349,
+              "zip_codes": [
+                {
+                  "zip_code": "83864"
+                }
+              ]
+            },
+            {
+              "city": "Troy",
+              "county": "Latah",
+              "population": 896,
+              "zip_codes": [
+                {
+                  "zip_code": "83871"
+                }
+              ]
+            },
+            {
+              "city": "Twin Falls",
+              "county": "Twin Falls",
+              "population": 54455,
+              "zip_codes": [
+                {
+                  "zip_code": "83301"
+                }
+              ]
+            },
+            {
+              "city": "Porthill",
+              "county": "Boundary",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83853"
+                }
+              ]
+            },
+            {
+              "city": "Strevell",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Clover",
+              "county": "Twin Falls",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Saint Maries",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83861"
+                }
+              ]
+            },
+            {
+              "city": "Kellogg",
+              "county": "Shoshone",
+              "population": 3033,
+              "zip_codes": [
+                {
+                  "zip_code": "83837"
+                }
+              ]
+            },
+            {
+              "city": "Berenice",
+              "county": "Butte",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Atlanta",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83601"
+                }
+              ]
+            },
+            {
+              "city": "Nordman",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83848"
+                }
+              ]
+            },
+            {
+              "city": "Lemhi",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Chilly",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Henry",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Chesterfield",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Parker",
+              "county": "Fremont",
+              "population": 297,
+              "zip_codes": []
+            },
+            {
+              "city": "Sugar City",
+              "county": "Madison",
+              "population": 1361,
+              "zip_codes": [
+                {
+                  "zip_code": "83448"
+                }
+              ]
+            },
+            {
+              "city": "Murtaugh",
+              "county": "Twin Falls",
+              "population": 160,
+              "zip_codes": [
+                {
+                  "zip_code": "83344"
+                }
+              ]
+            },
+            {
+              "city": "Challis",
+              "county": "Custer",
+              "population": 1062,
+              "zip_codes": [
+                {
+                  "zip_code": "83226"
+                }
+              ]
+            },
+            {
+              "city": "Lakeview",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Notus",
+              "county": "Canyon",
+              "population": 621,
+              "zip_codes": []
+            },
+            {
+              "city": "Winchester",
+              "county": "Lewis",
+              "population": 374,
+              "zip_codes": [
+                {
+                  "zip_code": "83555"
+                }
+              ]
+            },
+            {
+              "city": "Malad City",
+              "county": "Oneida",
+              "population": 2104,
+              "zip_codes": [
+                {
+                  "zip_code": "83252"
+                }
+              ]
+            },
+            {
+              "city": "Riggins",
+              "county": "Idaho",
+              "population": 413,
+              "zip_codes": [
+                {
+                  "zip_code": "83549"
+                }
+              ]
+            },
+            {
+              "city": "Eden",
+              "county": "Jerome",
+              "population": 416,
+              "zip_codes": [
+                {
+                  "zip_code": "83325"
+                }
+              ]
+            },
+            {
+              "city": "Avery",
+              "county": "Shoshone",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83802"
+                }
+              ]
+            },
+            {
+              "city": "Hailey",
+              "county": "Blaine",
+              "population": 10875,
+              "zip_codes": [
+                {
+                  "zip_code": "83333"
+                }
+              ]
+            },
+            {
+              "city": "Rockland",
+              "county": "Power",
+              "population": 283,
+              "zip_codes": [
+                {
+                  "zip_code": "83271"
+                }
+              ]
+            },
+            {
+              "city": "Greer",
+              "county": "Clearwater",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Freedom",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Thama",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Craigmont",
+              "county": "Lewis",
+              "population": 503,
+              "zip_codes": [
+                {
+                  "zip_code": "83523"
+                }
+              ]
+            },
+            {
+              "city": "Irwin",
+              "county": "Bonneville",
+              "population": 248,
+              "zip_codes": []
+            },
+            {
+              "city": "Ucon",
+              "county": "Bonneville",
+              "population": 1144,
+              "zip_codes": []
+            },
+            {
+              "city": "Sunbeam",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Spencer",
+              "county": "Clark",
+              "population": 33,
+              "zip_codes": [
+                {
+                  "zip_code": "83446"
+                }
+              ]
+            },
+            {
+              "city": "Rockford Bay",
+              "county": "Kootenai",
+              "population": 331,
+              "zip_codes": []
+            },
+            {
+              "city": "Blanchard",
+              "county": "Bonner",
+              "population": 216,
+              "zip_codes": [
+                {
+                  "zip_code": "83804"
+                }
+              ]
+            },
+            {
+              "city": "Greenleaf",
+              "county": "Canyon",
+              "population": 880,
+              "zip_codes": []
+            },
+            {
+              "city": "Border",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Wardner",
+              "county": "Shoshone",
+              "population": 173,
+              "zip_codes": []
+            },
+            {
+              "city": "Victor",
+              "county": "Teton",
+              "population": 2145,
+              "zip_codes": [
+                {
+                  "zip_code": "83455"
+                }
+              ]
+            },
+            {
+              "city": "Copeland",
+              "county": "Boundary",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Thornton",
+              "county": "Madison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Daniels",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ellis",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83235"
+                }
+              ]
+            },
+            {
+              "city": "Basin",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Crouch",
+              "county": "Boise",
+              "population": 170,
+              "zip_codes": []
+            },
+            {
+              "city": "Felt",
+              "county": "Teton",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83424"
+                }
+              ]
+            },
+            {
+              "city": "Deary",
+              "county": "Latah",
+              "population": 520,
+              "zip_codes": [
+                {
+                  "zip_code": "83823"
+                }
+              ]
+            },
+            {
+              "city": "State Line Village",
+              "county": "Kootenai",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gannett",
+              "county": "Blaine",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Edmonds",
+              "county": "Madison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hill City",
+              "county": "Camas",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Swan Valley",
+              "county": "Bonneville",
+              "population": 225,
+              "zip_codes": [
+                {
+                  "zip_code": "83449"
+                }
+              ]
+            },
+            {
+              "city": "Priest River",
+              "county": "Bonner",
+              "population": 1811,
+              "zip_codes": [
+                {
+                  "zip_code": "83856"
+                }
+              ]
+            },
+            {
+              "city": "Menan",
+              "county": "Jefferson",
+              "population": 794,
+              "zip_codes": [
+                {
+                  "zip_code": "83434"
+                }
+              ]
+            },
+            {
+              "city": "Albion",
+              "county": "Cassia",
+              "population": 272,
+              "zip_codes": []
+            },
+            {
+              "city": "Kootenai",
+              "county": "Bonner",
+              "population": 834,
+              "zip_codes": []
+            },
+            {
+              "city": "Clark Fork",
+              "county": "Bonner",
+              "population": 561,
+              "zip_codes": [
+                {
+                  "zip_code": "83811"
+                }
+              ]
+            },
+            {
+              "city": "Three Creek",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Lund",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Sharon",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Samaria",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Smelterville",
+              "county": "Shoshone",
+              "population": 604,
+              "zip_codes": [
+                {
+                  "zip_code": "83868"
+                }
+              ]
+            },
+            {
+              "city": "Roseworth",
+              "county": "Twin Falls",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Raymond",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Clayton",
+              "county": "Custer",
+              "population": 7,
+              "zip_codes": [
+                {
+                  "zip_code": "83227"
+                }
+              ]
+            },
+            {
+              "city": "Almo",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Tetonia",
+              "county": "Teton",
+              "population": 281,
+              "zip_codes": [
+                {
+                  "zip_code": "83452"
+                }
+              ]
+            },
+            {
+              "city": "Hamer",
+              "county": "Jefferson",
+              "population": 96,
+              "zip_codes": [
+                {
+                  "zip_code": "83425"
+                }
+              ]
+            },
+            {
+              "city": "Kendrick",
+              "county": "Latah",
+              "population": 307,
+              "zip_codes": [
+                {
+                  "zip_code": "83537"
+                }
+              ]
+            },
+            {
+              "city": "Kooskia",
+              "county": "Idaho",
+              "population": 663,
+              "zip_codes": []
+            },
+            {
+              "city": "Sweet",
+              "county": "Gem",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83670"
+                }
+              ]
+            },
+            {
+              "city": "Acequia",
+              "county": "Minidoka",
+              "population": 127,
+              "zip_codes": [
+                {
+                  "zip_code": "83350"
+                }
+              ]
+            },
+            {
+              "city": "Butte City",
+              "county": "Butte",
+              "population": 67,
+              "zip_codes": []
+            },
+            {
+              "city": "Grangeville",
+              "county": "Idaho",
+              "population": 3174,
+              "zip_codes": [
+                {
+                  "zip_code": "83530"
+                }
+              ]
+            },
+            {
+              "city": "Leslie",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Smiths Ferry",
+              "county": "Valley",
+              "population": 145,
+              "zip_codes": []
+            },
+            {
+              "city": "Myrtle",
+              "county": "Nez Perce",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Pinehurst",
+              "county": "Shoshone",
+              "population": 1585,
+              "zip_codes": [
+                {
+                  "zip_code": "83850"
+                }
+              ]
+            },
+            {
+              "city": "Helmer",
+              "county": "Latah",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Chatcolet",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Tyhee",
+              "county": "Bannock",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Buist",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Weippe",
+              "county": "Clearwater",
+              "population": 437,
+              "zip_codes": [
+                {
+                  "zip_code": "83553"
+                }
+              ]
+            },
+            {
+              "city": "Lewiston Orchards",
+              "county": "Nez Perce",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Huston",
+              "county": "Canyon",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Burgdorf",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "McCall",
+              "county": "Valley",
+              "population": 3351,
+              "zip_codes": []
+            },
+            {
+              "city": "Barber",
+              "county": "Ada",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Whitney",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grace",
+              "county": "Caribou",
+              "population": 921,
+              "zip_codes": [
+                {
+                  "zip_code": "83241"
+                }
+              ]
+            },
+            {
+              "city": "Horseshoe Bend",
+              "county": "Boise",
+              "population": 716,
+              "zip_codes": [
+                {
+                  "zip_code": "83629"
+                }
+              ]
+            },
+            {
+              "city": "Robin",
+              "county": "Bannock",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Lost River",
+              "county": "Custer",
+              "population": 12,
+              "zip_codes": []
+            },
+            {
+              "city": "Lake Fork",
+              "county": "Valley",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Holbrook",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83243"
+                }
+              ]
+            },
+            {
+              "city": "Montpelier",
+              "county": "Bear Lake",
+              "population": 2526,
+              "zip_codes": [
+                {
+                  "zip_code": "83254"
+                }
+              ]
+            },
+            {
+              "city": "Bancroft",
+              "county": "Caribou",
+              "population": 381,
+              "zip_codes": [
+                {
+                  "zip_code": "83217"
+                }
+              ]
+            },
+            {
+              "city": "Council",
+              "county": "Adams",
+              "population": 865,
+              "zip_codes": [
+                {
+                  "zip_code": "83612"
+                }
+              ]
+            },
+            {
+              "city": "Hayden Lake",
+              "county": "Kootenai",
+              "population": 613,
+              "zip_codes": [
+                {
+                  "zip_code": "83835"
+                }
+              ]
+            },
+            {
+              "city": "Stanley",
+              "county": "Custer",
+              "population": 68,
+              "zip_codes": [
+                {
+                  "zip_code": "83278"
+                }
+              ]
+            },
+            {
+              "city": "Fruitland",
+              "county": "Payette",
+              "population": 5234,
+              "zip_codes": [
+                {
+                  "zip_code": "83619"
+                }
+              ]
+            },
+            {
+              "city": "Sublett",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Rathdrum",
+              "county": "Kootenai",
+              "population": 7932,
+              "zip_codes": [
+                {
+                  "zip_code": "83858"
+                }
+              ]
+            },
+            {
+              "city": "Hatch",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Juliaetta",
+              "county": "Latah",
+              "population": 595,
+              "zip_codes": [
+                {
+                  "zip_code": "83535"
+                }
+              ]
+            },
+            {
+              "city": "White Bird",
+              "county": "Idaho",
+              "population": 90,
+              "zip_codes": [
+                {
+                  "zip_code": "83554"
+                }
+              ]
+            },
+            {
+              "city": "Hot Springs",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gilmore",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "De Smet",
+              "county": "Benewah",
+              "population": 172,
+              "zip_codes": []
+            },
+            {
+              "city": "Homedale",
+              "county": "Owyhee",
+              "population": 2740,
+              "zip_codes": [
+                {
+                  "zip_code": "83628"
+                }
+              ]
+            },
+            {
+              "city": "Stone",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83280"
+                }
+              ]
+            },
+            {
+              "city": "New Meadows",
+              "county": "Adams",
+              "population": 513,
+              "zip_codes": [
+                {
+                  "zip_code": "83654"
+                }
+              ]
+            },
+            {
+              "city": "Spirit Lake",
+              "county": "Kootenai",
+              "population": 2318,
+              "zip_codes": [
+                {
+                  "zip_code": "83869"
+                }
+              ]
+            },
+            {
+              "city": "Moyie Springs",
+              "county": "Boundary",
+              "population": 750,
+              "zip_codes": [
+                {
+                  "zip_code": "83845"
+                }
+              ]
+            },
+            {
+              "city": "Lucile",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83542"
+                }
+              ]
+            },
+            {
+              "city": "Hollister",
+              "county": "Twin Falls",
+              "population": 286,
+              "zip_codes": []
+            },
+            {
+              "city": "Paul",
+              "county": "Minidoka",
+              "population": 1312,
+              "zip_codes": [
+                {
+                  "zip_code": "83347"
+                }
+              ]
+            },
+            {
+              "city": "Harpster",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ammon",
+              "county": "Bonneville",
+              "population": 15540,
+              "zip_codes": [
+                {
+                  "zip_code": "83401"
+                }
+              ]
+            },
+            {
+              "city": "Middleton",
+              "county": "Canyon",
+              "population": 7439,
+              "zip_codes": [
+                {
+                  "zip_code": "83644"
+                }
+              ]
+            },
+            {
+              "city": "Careywood",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83809"
+                }
+              ]
+            },
+            {
+              "city": "Fernan Lake Village",
+              "county": "Kootenai",
+              "population": 171,
+              "zip_codes": []
+            },
+            {
+              "city": "Bliss",
+              "county": "Gooding",
+              "population": 306,
+              "zip_codes": [
+                {
+                  "zip_code": "83314"
+                }
+              ]
+            },
+            {
+              "city": "Elk River",
+              "county": "Clearwater",
+              "population": 122,
+              "zip_codes": [
+                {
+                  "zip_code": "83827"
+                }
+              ]
+            },
+            {
+              "city": "Bowmont",
+              "county": "Canyon",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Byrne",
+              "county": "Madison",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hammett",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83627"
+                }
+              ]
+            },
+            {
+              "city": "Mesa",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83643"
+                }
+              ]
+            },
+            {
+              "city": "Placerville",
+              "county": "Boise",
+              "population": 53,
+              "zip_codes": []
+            },
+            {
+              "city": "Lincoln",
+              "county": "Bonneville",
+              "population": 3331,
+              "zip_codes": []
+            },
+            {
+              "city": "Pegram",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Lapwai",
+              "county": "Nez Perce",
+              "population": 1142,
+              "zip_codes": [
+                {
+                  "zip_code": "83540"
+                }
+              ]
+            },
+            {
+              "city": "Humphrey",
+              "county": "Clark",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grasmere",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83604"
+                }
+              ]
+            },
+            {
+              "city": "Plummer",
+              "county": "Benewah",
+              "population": 1024,
+              "zip_codes": [
+                {
+                  "zip_code": "83851"
+                }
+              ]
+            },
+            {
+              "city": "Lava Hot Springs",
+              "county": "Bannock",
+              "population": 419,
+              "zip_codes": [
+                {
+                  "zip_code": "83246"
+                }
+              ]
+            },
+            {
+              "city": "Gifford",
+              "county": "Nez Perce",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Red River Hot Springs",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Oldtown",
+              "county": "Bonner",
+              "population": 194,
+              "zip_codes": []
+            },
+            {
+              "city": "Fort Hall",
+              "county": "Bingham",
+              "population": 3589,
+              "zip_codes": [
+                {
+                  "zip_code": "83203"
+                }
+              ]
+            },
+            {
+              "city": "Bovill",
+              "county": "Latah",
+              "population": 257,
+              "zip_codes": []
+            },
+            {
+              "city": "Letha",
+              "county": "Gem",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83636"
+                }
+              ]
+            },
+            {
+              "city": "Stites",
+              "county": "Idaho",
+              "population": 228,
+              "zip_codes": []
+            },
+            {
+              "city": "Kimberly",
+              "county": "Twin Falls",
+              "population": 3858,
+              "zip_codes": [
+                {
+                  "zip_code": "83341"
+                }
+              ]
+            },
+            {
+              "city": "Downey",
+              "county": "Bannock",
+              "population": 621,
+              "zip_codes": [
+                {
+                  "zip_code": "83234"
+                }
+              ]
+            },
+            {
+              "city": "Parma",
+              "county": "Canyon",
+              "population": 2104,
+              "zip_codes": [
+                {
+                  "zip_code": "83660"
+                }
+              ]
+            },
+            {
+              "city": "Osgood",
+              "county": "Bonneville",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Naples",
+              "county": "Boundary",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83847"
+                }
+              ]
+            },
+            {
+              "city": "Coolin",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83821"
+                }
+              ]
+            },
+            {
+              "city": "Patterson",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83253"
+                }
+              ]
+            },
+            {
+              "city": "Moreland",
+              "county": "Bingham",
+              "population": 1262,
+              "zip_codes": []
+            },
+            {
+              "city": "Murphy",
+              "county": "Owyhee",
+              "population": 92,
+              "zip_codes": []
+            },
+            {
+              "city": "Virginia",
+              "county": "Bannock",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Santa",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cambridge",
+              "county": "Washington",
+              "population": 318,
+              "zip_codes": [
+                {
+                  "zip_code": "83610"
+                }
+              ]
+            },
+            {
+              "city": "Leadore",
+              "county": "Lemhi",
+              "population": 103,
+              "zip_codes": [
+                {
+                  "zip_code": "83464"
+                }
+              ]
+            },
+            {
+              "city": "Pierce",
+              "county": "Clearwater",
+              "population": 483,
+              "zip_codes": [
+                {
+                  "zip_code": "83546"
+                }
+              ]
+            },
+            {
+              "city": "Featherville",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fruitvale",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bone",
+              "county": "Bonneville",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Owyhee",
+              "county": "Ada",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bridge",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Midvale",
+              "county": "Washington",
+              "population": 157,
+              "zip_codes": [
+                {
+                  "zip_code": "83645"
+                }
+              ]
+            },
+            {
+              "city": "Groveland",
+              "county": "Bingham",
+              "population": 955,
+              "zip_codes": []
+            },
+            {
+              "city": "Sweetwater",
+              "county": "Nez Perce",
+              "population": 271,
+              "zip_codes": []
+            },
+            {
+              "city": "Algoma",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Weston",
+              "county": "Franklin",
+              "population": 461,
+              "zip_codes": [
+                {
+                  "zip_code": "83286"
+                }
+              ]
+            },
+            {
+              "city": "Glenwood",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cottonwood",
+              "county": "Idaho",
+              "population": 923,
+              "zip_codes": [
+                {
+                  "zip_code": "83522"
+                }
+              ]
+            },
+            {
+              "city": "Rupert",
+              "county": "Minidoka",
+              "population": 6643,
+              "zip_codes": []
+            },
+            {
+              "city": "Emida",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Shoshone",
+              "county": "Lincoln",
+              "population": 1502,
+              "zip_codes": [
+                {
+                  "zip_code": "83352"
+                }
+              ]
+            },
+            {
+              "city": "Paris",
+              "county": "Bear Lake",
+              "population": 517,
+              "zip_codes": [
+                {
+                  "zip_code": "83261"
+                }
+              ]
+            },
+            {
+              "city": "Carey",
+              "county": "Blaine",
+              "population": 615,
+              "zip_codes": [
+                {
+                  "zip_code": "83320"
+                }
+              ]
+            },
+            {
+              "city": "Idaho City",
+              "county": "Boise",
+              "population": 452,
+              "zip_codes": [
+                {
+                  "zip_code": "83631"
+                }
+              ]
+            },
+            {
+              "city": "Reubens",
+              "county": "Lewis",
+              "population": 65,
+              "zip_codes": [
+                {
+                  "zip_code": "83548"
+                }
+              ]
+            },
+            {
+              "city": "Mink Creek",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gibbonsville",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83463"
+                }
+              ]
+            },
+            {
+              "city": "Big Springs",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Athol",
+              "county": "Kootenai",
+              "population": 757,
+              "zip_codes": [
+                {
+                  "zip_code": "83801"
+                }
+              ]
+            },
+            {
+              "city": "Lewisville",
+              "county": "Jefferson",
+              "population": 494,
+              "zip_codes": [
+                {
+                  "zip_code": "83431"
+                }
+              ]
+            },
+            {
+              "city": "North Fork",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83466"
+                }
+              ]
+            },
+            {
+              "city": "Crystal",
+              "county": "Power",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Kuna",
+              "county": "Ada",
+              "population": 19230,
+              "zip_codes": [
+                {
+                  "zip_code": "83634"
+                }
+              ]
+            },
+            {
+              "city": "Soda Springs",
+              "county": "Caribou",
+              "population": 2774,
+              "zip_codes": [
+                {
+                  "zip_code": "83276"
+                }
+              ]
+            },
+            {
+              "city": "Riddle",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Conkling Park",
+              "county": "Kootenai",
+              "population": 75,
+              "zip_codes": []
+            },
+            {
+              "city": "Moore",
+              "county": "Butte",
+              "population": 170,
+              "zip_codes": [
+                {
+                  "zip_code": "83255"
+                }
+              ]
+            },
+            {
+              "city": "Kamiah",
+              "county": "Lewis",
+              "population": 1290,
+              "zip_codes": [
+                {
+                  "zip_code": "83536"
+                }
+              ]
+            },
+            {
+              "city": "Prairie",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Marion",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Palisades",
+              "county": "Bonneville",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Darlington",
+              "county": "Butte",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83231"
+                }
+              ]
+            },
+            {
+              "city": "Jerome",
+              "county": "Jerome",
+              "population": 11638,
+              "zip_codes": [
+                {
+                  "zip_code": "83338"
+                }
+              ]
+            },
+            {
+              "city": "Grant",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bennington",
+              "county": "Bear Lake",
+              "population": 253,
+              "zip_codes": []
+            },
+            {
+              "city": "Terreton",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83450"
+                }
+              ]
+            },
+            {
+              "city": "Thatcher",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83283"
+                }
+              ]
+            },
+            {
+              "city": "Arbon",
+              "county": "Power",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83212"
+                }
+              ]
+            },
+            {
+              "city": "New Plymouth",
+              "county": "Payette",
+              "population": 1515,
+              "zip_codes": [
+                {
+                  "zip_code": "83655"
+                }
+              ]
+            },
+            {
+              "city": "Basalt",
+              "county": "Bingham",
+              "population": 399,
+              "zip_codes": []
+            },
+            {
+              "city": "Drummond",
+              "county": "Fremont",
+              "population": 17,
+              "zip_codes": []
+            },
+            {
+              "city": "Tensed",
+              "county": "Benewah",
+              "population": 119,
+              "zip_codes": [
+                {
+                  "zip_code": "83870"
+                }
+              ]
+            },
+            {
+              "city": "Peck",
+              "county": "Nez Perce",
+              "population": 197,
+              "zip_codes": [
+                {
+                  "zip_code": "83545"
+                }
+              ]
+            },
+            {
+              "city": "Rockford",
+              "county": "Bingham",
+              "population": 276,
+              "zip_codes": []
+            },
+            {
+              "city": "Niter",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Big Creek",
+              "county": "Valley",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Picabo",
+              "county": "Blaine",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83348"
+                }
+              ]
+            },
+            {
+              "city": "Hansen",
+              "county": "Twin Falls",
+              "population": 1279,
+              "zip_codes": [
+                {
+                  "zip_code": "83334"
+                }
+              ]
+            },
+            {
+              "city": "Potlatch",
+              "county": "Latah",
+              "population": 817,
+              "zip_codes": [
+                {
+                  "zip_code": "83855"
+                }
+              ]
+            },
+            {
+              "city": "Donnelly",
+              "county": "Valley",
+              "population": 151,
+              "zip_codes": [
+                {
+                  "zip_code": "83615"
+                }
+              ]
+            },
+            {
+              "city": "Iona",
+              "county": "Bonneville",
+              "population": 2282,
+              "zip_codes": [
+                {
+                  "zip_code": "83427"
+                }
+              ]
+            },
+            {
+              "city": "Ponderay",
+              "county": "Bonner",
+              "population": 1107,
+              "zip_codes": []
+            },
+            {
+              "city": "Aberdeen",
+              "county": "Bingham",
+              "population": 1950,
+              "zip_codes": []
+            },
+            {
+              "city": "McCammon",
+              "county": "Bannock",
+              "population": 821,
+              "zip_codes": []
+            },
+            {
+              "city": "Clementsville",
+              "county": "Teton",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gooding",
+              "county": "Gooding",
+              "population": 3606,
+              "zip_codes": [
+                {
+                  "zip_code": "83330"
+                }
+              ]
+            },
+            {
+              "city": "Pearl",
+              "county": "Gem",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Shoup",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83469"
+                }
+              ]
+            },
+            {
+              "city": "Firth",
+              "county": "Bingham",
+              "population": 482,
+              "zip_codes": [
+                {
+                  "zip_code": "83236"
+                }
+              ]
+            },
+            {
+              "city": "Meadows",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Eastport",
+              "county": "Boundary",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Orofino",
+              "county": "Clearwater",
+              "population": 3503,
+              "zip_codes": [
+                {
+                  "zip_code": "83544"
+                }
+              ]
+            },
+            {
+              "city": "Wendell",
+              "county": "Gooding",
+              "population": 2677,
+              "zip_codes": [
+                {
+                  "zip_code": "83355"
+                }
+              ]
+            },
+            {
+              "city": "Salmon",
+              "county": "Lemhi",
+              "population": 3079,
+              "zip_codes": [
+                {
+                  "zip_code": "83467"
+                }
+              ]
+            },
+            {
+              "city": "Melba",
+              "county": "Canyon",
+              "population": 533,
+              "zip_codes": [
+                {
+                  "zip_code": "83641"
+                }
+              ]
+            },
+            {
+              "city": "Warm River",
+              "county": "Fremont",
+              "population": 3,
+              "zip_codes": []
+            },
+            {
+              "city": "Gem",
+              "county": "Shoshone",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Princeton",
+              "county": "Latah",
+              "population": 86,
+              "zip_codes": [
+                {
+                  "zip_code": "83857"
+                }
+              ]
+            },
+            {
+              "city": "Ovid",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83260"
+                }
+              ]
+            },
+            {
+              "city": "Mayfield",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Huetter",
+              "county": "Kootenai",
+              "population": 109,
+              "zip_codes": []
+            },
+            {
+              "city": "Glenns Ferry",
+              "county": "Elmore",
+              "population": 1278,
+              "zip_codes": [
+                {
+                  "zip_code": "83623"
+                }
+              ]
+            },
+            {
+              "city": "Ola",
+              "county": "Gem",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83657"
+                }
+              ]
+            },
+            {
+              "city": "Wilder",
+              "county": "Canyon",
+              "population": 1720,
+              "zip_codes": [
+                {
+                  "zip_code": "83676"
+                }
+              ]
+            },
+            {
+              "city": "Cobalt",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Harrison",
+              "county": "Kootenai",
+              "population": 217,
+              "zip_codes": [
+                {
+                  "zip_code": "83833"
+                }
+              ]
+            },
+            {
+              "city": "Cleveland",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Gwenford",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Elk City",
+              "county": "Idaho",
+              "population": 74,
+              "zip_codes": []
+            },
+            {
+              "city": "Elba",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83326"
+                }
+              ]
+            },
+            {
+              "city": "Nezperce",
+              "county": "Lewis",
+              "population": 476,
+              "zip_codes": [
+                {
+                  "zip_code": "83543"
+                }
+              ]
+            },
+            {
+              "city": "Fenn",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Oakley",
+              "county": "Cassia",
+              "population": 797,
+              "zip_codes": [
+                {
+                  "zip_code": "83346"
+                }
+              ]
+            },
+            {
+              "city": "Rose Lake",
+              "county": "Kootenai",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hope",
+              "county": "Bonner",
+              "population": 90,
+              "zip_codes": [
+                {
+                  "zip_code": "83836"
+                }
+              ]
+            },
+            {
+              "city": "Georgetown",
+              "county": "Bear Lake",
+              "population": 501,
+              "zip_codes": []
+            },
+            {
+              "city": "Montour",
+              "county": "Gem",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83617"
+                }
+              ]
+            },
+            {
+              "city": "Rogerson",
+              "county": "Twin Falls",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83302"
+                }
+              ]
+            },
+            {
+              "city": "Woodruff",
+              "county": "Oneida",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Wayan",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83285"
+                }
+              ]
+            },
+            {
+              "city": "Fairview",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Oxford",
+              "county": "Franklin",
+              "population": 52,
+              "zip_codes": []
+            },
+            {
+              "city": "Buhl",
+              "county": "Twin Falls",
+              "population": 4382,
+              "zip_codes": [
+                {
+                  "zip_code": "83316"
+                }
+              ]
+            },
+            {
+              "city": "East Hope",
+              "county": "Bonner",
+              "population": 218,
+              "zip_codes": []
+            },
+            {
+              "city": "Banks",
+              "county": "Boise",
+              "population": 0,
+              "zip_codes": [
+                {
+                  "zip_code": "83602"
+                }
+              ]
+            },
+            {
+              "city": "Carmen",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83462"
+                }
+              ]
+            },
+            {
+              "city": "Mackay",
+              "county": "Custer",
+              "population": 487,
+              "zip_codes": [
+                {
+                  "zip_code": "83251"
+                }
+              ]
+            },
+            {
+              "city": "Geneva",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83238"
+                }
+              ]
+            },
+            {
+              "city": "Spalding",
+              "county": "Nez Perce",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hauser",
+              "county": "Kootenai",
+              "population": 732,
+              "zip_codes": []
+            },
+            {
+              "city": "Lenore",
+              "county": "Nez Perce",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83541"
+                }
+              ]
+            },
+            {
+              "city": "Pine",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Hayden",
+              "county": "Kootenai",
+              "population": 14693,
+              "zip_codes": []
+            },
+            {
+              "city": "Lorenzo",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Bloomington",
+              "county": "Bear Lake",
+              "population": 210,
+              "zip_codes": []
+            },
+            {
+              "city": "Sterling",
+              "county": "Bingham",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83210"
+                }
+              ]
+            },
+            {
+              "city": "Filer",
+              "county": "Twin Falls",
+              "population": 2920,
+              "zip_codes": [
+                {
+                  "zip_code": "83328"
+                }
+              ]
+            },
+            {
+              "city": "Bellevue",
+              "county": "Blaine",
+              "population": 2362,
+              "zip_codes": [
+                {
+                  "zip_code": "83313"
+                }
+              ]
+            },
+            {
+              "city": "Cuprum",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Atomic City",
+              "county": "Bingham",
+              "population": 26,
+              "zip_codes": []
+            },
+            {
+              "city": "Inkom",
+              "county": "Bannock",
+              "population": 887,
+              "zip_codes": [
+                {
+                  "zip_code": "83245"
+                }
+              ]
+            },
+            {
+              "city": "Cocolalla",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83813"
+                }
+              ]
+            },
+            {
+              "city": "Heyburn",
+              "county": "Minidoka",
+              "population": 3329,
+              "zip_codes": [
+                {
+                  "zip_code": "83336"
+                }
+              ]
+            },
+            {
+              "city": "Garden Valley",
+              "county": "Boise",
+              "population": 345,
+              "zip_codes": [
+                {
+                  "zip_code": "83622"
+                }
+              ]
+            },
+            {
+              "city": "Declo",
+              "county": "Cassia",
+              "population": 359,
+              "zip_codes": [
+                {
+                  "zip_code": "83323"
+                }
+              ]
+            },
+            {
+              "city": "Headquarters",
+              "county": "Clearwater",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Roberts",
+              "county": "Jefferson",
+              "population": 592,
+              "zip_codes": [
+                {
+                  "zip_code": "83444"
+                }
+              ]
+            },
+            {
+              "city": "Saint Joe",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Dubois",
+              "county": "Clark",
+              "population": 602,
+              "zip_codes": [
+                {
+                  "zip_code": "83423"
+                }
+              ]
+            },
+            {
+              "city": "Lowman",
+              "county": "Boise",
+              "population": 22,
+              "zip_codes": [
+                {
+                  "zip_code": "83637"
+                }
+              ]
+            },
+            {
+              "city": "Dalton Gardens",
+              "county": "Kootenai",
+              "population": 2389,
+              "zip_codes": []
+            },
+            {
+              "city": "Newdale",
+              "county": "Fremont",
+              "population": 316,
+              "zip_codes": [
+                {
+                  "zip_code": "83436"
+                }
+              ]
+            },
+            {
+              "city": "American Falls",
+              "county": "Power",
+              "population": 4310,
+              "zip_codes": [
+                {
+                  "zip_code": "83211"
+                }
+              ]
+            },
+            {
+              "city": "Hagerman",
+              "county": "Gooding",
+              "population": 872,
+              "zip_codes": [
+                {
+                  "zip_code": "83332"
+                }
+              ]
+            },
+            {
+              "city": "Warren",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Banida",
+              "county": "Franklin",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Enaville",
+              "county": "Shoshone",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Swanlake",
+              "county": "Bannock",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Onaway",
+              "county": "Latah",
+              "population": 189,
+              "zip_codes": []
+            },
+            {
+              "city": "Riverside",
+              "county": "Bingham",
+              "population": 1187,
+              "zip_codes": []
+            },
+            {
+              "city": "Burke",
+              "county": "Shoshone",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Lamont",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Teton",
+              "county": "Fremont",
+              "population": 731,
+              "zip_codes": [
+                {
+                  "zip_code": "83451"
+                }
+              ]
+            },
+            {
+              "city": "Conda",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83230"
+                }
+              ]
+            },
+            {
+              "city": "Tuttle",
+              "county": "Gooding",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "King Hill",
+              "county": "Elmore",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83633"
+                }
+              ]
+            },
+            {
+              "city": "Gray",
+              "county": "Bonneville",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Orchard",
+              "county": "Ada",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Yellow Pine",
+              "county": "Valley",
+              "population": 0,
+              "zip_codes": [
+                {
+                  "zip_code": "83677"
+                }
+              ]
+            },
+            {
+              "city": "Baker",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Cascade",
+              "county": "Valley",
+              "population": 981,
+              "zip_codes": []
+            },
+            {
+              "city": "Chester",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Star",
+              "county": "Ada",
+              "population": 9009,
+              "zip_codes": [
+                {
+                  "zip_code": "83669"
+                }
+              ]
+            },
+            {
+              "city": "Kilgore",
+              "county": "Clark",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Parkline",
+              "county": "Benewah",
+              "population": 47,
+              "zip_codes": []
+            },
+            {
+              "city": "Castleford",
+              "county": "Twin Falls",
+              "population": 245,
+              "zip_codes": [
+                {
+                  "zip_code": "83321"
+                }
+              ]
+            },
+            {
+              "city": "Camas",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Sun Valley",
+              "county": "Blaine",
+              "population": 1438,
+              "zip_codes": []
+            },
+            {
+              "city": "Genesee",
+              "county": "Latah",
+              "population": 968,
+              "zip_codes": [
+                {
+                  "zip_code": "83832"
+                }
+              ]
+            },
+            {
+              "city": "Roy",
+              "county": "Power",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fernwood",
+              "county": "Benewah",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83830"
+                }
+              ]
+            },
+            {
+              "city": "Marsing",
+              "county": "Owyhee",
+              "population": 1298,
+              "zip_codes": [
+                {
+                  "zip_code": "83639"
+                }
+              ]
+            },
+            {
+              "city": "Shelley",
+              "county": "Bingham",
+              "population": 4704,
+              "zip_codes": [
+                {
+                  "zip_code": "83274"
+                }
+              ]
+            },
+            {
+              "city": "Wallace",
+              "county": "Shoshone",
+              "population": 761,
+              "zip_codes": [
+                {
+                  "zip_code": "83873"
+                }
+              ]
+            },
+            {
+              "city": "Osburn",
+              "county": "Shoshone",
+              "population": 2463,
+              "zip_codes": []
+            },
+            {
+              "city": "Fairfield",
+              "county": "Camas",
+              "population": 402,
+              "zip_codes": [
+                {
+                  "zip_code": "83327"
+                }
+              ]
+            },
+            {
+              "city": "Pollock",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83547"
+                }
+              ]
+            },
+            {
+              "city": "Hazelton",
+              "county": "Jerome",
+              "population": 809,
+              "zip_codes": [
+                {
+                  "zip_code": "83335"
+                }
+              ]
+            },
+            {
+              "city": "Island Park",
+              "county": "Fremont",
+              "population": 272,
+              "zip_codes": [
+                {
+                  "zip_code": "83429"
+                }
+              ]
+            },
+            {
+              "city": "Richfield",
+              "county": "Lincoln",
+              "population": 486,
+              "zip_codes": [
+                {
+                  "zip_code": "83349"
+                }
+              ]
+            },
+            {
+              "city": "Ketchum",
+              "county": "Blaine",
+              "population": 4026,
+              "zip_codes": []
+            },
+            {
+              "city": "Saint Anthony",
+              "county": "Fremont",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83445"
+                }
+              ]
+            },
+            {
+              "city": "Arimo",
+              "county": "Bannock",
+              "population": 363,
+              "zip_codes": [
+                {
+                  "zip_code": "83214"
+                }
+              ]
+            },
+            {
+              "city": "Colburn",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Dayton",
+              "county": "Franklin",
+              "population": 480,
+              "zip_codes": [
+                {
+                  "zip_code": "83232"
+                }
+              ]
+            },
+            {
+              "city": "Dietrich",
+              "county": "Lincoln",
+              "population": 341,
+              "zip_codes": [
+                {
+                  "zip_code": "83324"
+                }
+              ]
+            },
+            {
+              "city": "Arco",
+              "county": "Butte",
+              "population": 880,
+              "zip_codes": [
+                {
+                  "zip_code": "83213"
+                }
+              ]
+            },
+            {
+              "city": "Mullan",
+              "county": "Shoshone",
+              "population": 675,
+              "zip_codes": [
+                {
+                  "zip_code": "83846"
+                }
+              ]
+            },
+            {
+              "city": "Bruneau",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Driggs",
+              "county": "Teton",
+              "population": 1805,
+              "zip_codes": [
+                {
+                  "zip_code": "83422"
+                }
+              ]
+            },
+            {
+              "city": "Nounan",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Ririe",
+              "county": "Jefferson",
+              "population": 649,
+              "zip_codes": [
+                {
+                  "zip_code": "83443"
+                }
+              ]
+            },
+            {
+              "city": "Weiser",
+              "county": "Washington",
+              "population": 5513,
+              "zip_codes": [
+                {
+                  "zip_code": "83672"
+                }
+              ]
+            },
+            {
+              "city": "Franklin",
+              "county": "Franklin",
+              "population": 820,
+              "zip_codes": [
+                {
+                  "zip_code": "83237"
+                }
+              ]
+            },
+            {
+              "city": "Bayview",
+              "county": "Kootenai",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83803"
+                }
+              ]
+            },
+            {
+              "city": "Ashton",
+              "county": "Fremont",
+              "population": 1063,
+              "zip_codes": [
+                {
+                  "zip_code": "83420"
+                }
+              ]
+            },
+            {
+              "city": "Dixie",
+              "county": "Idaho",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83525"
+                }
+              ]
+            },
+            {
+              "city": "Murray",
+              "county": "Shoshone",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Silver City",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Grand View",
+              "county": "Owyhee",
+              "population": 457,
+              "zip_codes": [
+                {
+                  "zip_code": "83624"
+                }
+              ]
+            },
+            {
+              "city": "Idmon",
+              "county": "Clark",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Heglar",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Worley",
+              "county": "Kootenai",
+              "population": 261,
+              "zip_codes": [
+                {
+                  "zip_code": "83876"
+                }
+              ]
+            },
+            {
+              "city": "Springdale",
+              "county": "Cassia",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Chubbuck",
+              "county": "Bannock",
+              "population": 14869,
+              "zip_codes": [
+                {
+                  "zip_code": "83202"
+                }
+              ]
+            },
+            {
+              "city": "Malta",
+              "county": "Cassia",
+              "population": 200,
+              "zip_codes": []
+            },
+            {
+              "city": "Ferdinand",
+              "county": "Idaho",
+              "population": 160,
+              "zip_codes": [
+                {
+                  "zip_code": "83526"
+                }
+              ]
+            },
+            {
+              "city": "Springfield",
+              "county": "Bingham",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Elmira",
+              "county": "Bonner",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Saint Charles",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83272"
+                }
+              ]
+            },
+            {
+              "city": "May",
+              "county": "Lemhi",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Fish Haven",
+              "county": "Bear Lake",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83287"
+                }
+              ]
+            },
+            {
+              "city": "Bonners Ferry",
+              "county": "Boundary",
+              "population": 2675,
+              "zip_codes": [
+                {
+                  "zip_code": "83805"
+                }
+              ]
+            },
+            {
+              "city": "Monteview",
+              "county": "Jefferson",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83435"
+                }
+              ]
+            },
+            {
+              "city": "Mud Lake",
+              "county": "Jefferson",
+              "population": 397,
+              "zip_codes": []
+            },
+            {
+              "city": "Gardena",
+              "county": "Boise",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Culdesac",
+              "county": "Nez Perce",
+              "population": 382,
+              "zip_codes": [
+                {
+                  "zip_code": "83524"
+                }
+              ]
+            },
+            {
+              "city": "Emmett",
+              "county": "Gem",
+              "population": 9573,
+              "zip_codes": []
+            },
+            {
+              "city": "Dover",
+              "county": "Bonner",
+              "population": 735,
+              "zip_codes": []
+            },
+            {
+              "city": "Indian Valley",
+              "county": "Adams",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83632"
+                }
+              ]
+            },
+            {
+              "city": "Grouse",
+              "county": "Custer",
+              "population": "",
+              "zip_codes": []
+            },
+            {
+              "city": "Minidoka",
+              "county": "Minidoka",
+              "population": 113,
+              "zip_codes": [
+                {
+                  "zip_code": "83343"
+                }
+              ]
+            },
+            {
+              "city": "Clifton",
+              "county": "Franklin",
+              "population": 296,
+              "zip_codes": [
+                {
+                  "zip_code": "83228"
+                }
+              ]
+            },
+            {
+              "city": "Oreana",
+              "county": "Owyhee",
+              "population": "",
+              "zip_codes": [
+                {
+                  "zip_code": "83650"
+                }
+              ]
+            },
+            {
+              "city": "Turner",
+              "county": "Caribou",
+              "population": "",
+              "zip_codes": []
+            }
+          ]
+        }
+      ]
+    }
+]
