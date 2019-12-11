@@ -1,0 +1,7365 @@
+[
+  {
+    "state_id": "WA",
+    "state": "Washington",
+    "regions": [
+      {
+        "region": "WA",
+        "cities": [
+          {
+            "city": "South Creek",
+            "county": "Pierce",
+            "population": 2500,
+            "zip_codes": [
+              {
+                "zip_codes": "98580"
+              },
+              {
+                "zip_codes": "98387"
+              },
+              {
+                "zip_codes": "98338"
+              }
+            ]
+          },
+          {
+            "city": "Roslyn",
+            "county": "Kittitas",
+            "population": 947,
+            "zip_codes": [
+              {
+                "zip_codes": "98941"
+              },
+              {
+                "zip_codes": "98068"
+              },
+              {
+                "zip_codes": "98925"
+              }
+            ]
+          },
+          {
+            "city": "Sprague",
+            "county": "Lincoln",
+            "population": 441,
+            "zip_codes": [
+              {
+                "zip_codes": "99032"
+              }
+            ]
+          },
+          {
+            "city": "Gig Harbor",
+            "county": "Pierce",
+            "population": 9507,
+            "zip_codes": [
+              {
+                "zip_codes": "98332"
+              },
+              {
+                "zip_codes": "98335"
+              }
+            ]
+          },
+          {
+            "city": "Lake Cassidy",
+            "county": "Snohomish",
+            "population": 3591,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              },
+              {
+                "zip_codes": "98258"
+              },
+              {
+                "zip_codes": "98270"
+              }
+            ]
+          },
+          {
+            "city": "Tenino",
+            "county": "Thurston",
+            "population": 1830,
+            "zip_codes": [
+              {
+                "zip_codes": "98589"
+              }
+            ]
+          },
+          {
+            "city": "Jamestown",
+            "county": "Clallam",
+            "population": 289,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Three Lakes",
+            "county": "Snohomish",
+            "population": 3390,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              }
+            ]
+          },
+          {
+            "city": "Curlew Lake",
+            "county": "Ferry",
+            "population": 573,
+            "zip_codes": [
+              {
+                "zip_codes": "99166"
+              }
+            ]
+          },
+          {
+            "city": "Chain Lake",
+            "county": "Snohomish",
+            "population": 4280,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              }
+            ]
+          },
+          {
+            "city": "Pateros",
+            "county": "Okanogan",
+            "population": 701,
+            "zip_codes": [
+              {
+                "zip_codes": "98846"
+              }
+            ]
+          },
+          {
+            "city": "Rosburg",
+            "county": "Wahkiakum",
+            "population": 385,
+            "zip_codes": [
+              {
+                "zip_codes": "98643"
+              }
+            ]
+          },
+          {
+            "city": "Parkland",
+            "county": "Pierce",
+            "population": 37019,
+            "zip_codes": [
+              {
+                "zip_codes": "98444"
+              },
+              {
+                "zip_codes": "98445"
+              },
+              {
+                "zip_codes": "98447"
+              },
+              {
+                "zip_codes": "98448"
+              }
+            ]
+          },
+          {
+            "city": "Birch Bay",
+            "county": "Whatcom",
+            "population": 8642,
+            "zip_codes": [
+              {
+                "zip_codes": "98230"
+              }
+            ]
+          },
+          {
+            "city": "Ashford",
+            "county": "Pierce",
+            "population": 162,
+            "zip_codes": [
+              {
+                "zip_codes": "98304"
+              }
+            ]
+          },
+          {
+            "city": "Navy Yard City",
+            "county": "Kitsap",
+            "population": 3154,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              }
+            ]
+          },
+          {
+            "city": "Omak",
+            "county": "Okanogan",
+            "population": 8130,
+            "zip_codes": [
+              {
+                "zip_codes": "98841"
+              }
+            ]
+          },
+          {
+            "city": "Farmington",
+            "county": "Whitman",
+            "population": 154,
+            "zip_codes": [
+              {
+                "zip_codes": "99128"
+              }
+            ]
+          },
+          {
+            "city": "Buckley",
+            "county": "Pierce",
+            "population": 4819,
+            "zip_codes": [
+              {
+                "zip_codes": "98321"
+              }
+            ]
+          },
+          {
+            "city": "Cathcart",
+            "county": "Snohomish",
+            "population": 2506,
+            "zip_codes": [
+              {
+                "zip_codes": "98296"
+              }
+            ]
+          },
+          {
+            "city": "Poulsbo",
+            "county": "Kitsap",
+            "population": 10670,
+            "zip_codes": [
+              {
+                "zip_codes": "98370"
+              }
+            ]
+          },
+          {
+            "city": "Anacortes",
+            "county": "Skagit",
+            "population": 17955,
+            "zip_codes": [
+              {
+                "zip_codes": "98221"
+              }
+            ]
+          },
+          {
+            "city": "Maplewood",
+            "county": "Pierce",
+            "population": 5340,
+            "zip_codes": [
+              {
+                "zip_codes": "98332"
+              }
+            ]
+          },
+          {
+            "city": "Creston",
+            "county": "Lincoln",
+            "population": 226,
+            "zip_codes": [
+              {
+                "zip_codes": "99117"
+              }
+            ]
+          },
+          {
+            "city": "Rockford",
+            "county": "Spokane",
+            "population": 477,
+            "zip_codes": [
+              {
+                "zip_codes": "99030"
+              }
+            ]
+          },
+          {
+            "city": "Wishram",
+            "county": "Klickitat",
+            "population": 438,
+            "zip_codes": [
+              {
+                "zip_codes": "98673"
+              }
+            ]
+          },
+          {
+            "city": "Centralia",
+            "county": "Lewis",
+            "population": 41643,
+            "zip_codes": [
+              {
+                "zip_codes": "98531"
+              }
+            ]
+          },
+          {
+            "city": "South Hill",
+            "county": "Pierce",
+            "population": 56379,
+            "zip_codes": [
+              {
+                "zip_codes": "98375"
+              },
+              {
+                "zip_codes": "98374"
+              },
+              {
+                "zip_codes": "98373"
+              }
+            ]
+          },
+          {
+            "city": "Longview Heights",
+            "county": "Cowlitz",
+            "population": 3678,
+            "zip_codes": [
+              {
+                "zip_codes": "98632"
+              }
+            ]
+          },
+          {
+            "city": "Erlands Point-Kitsap Lake",
+            "county": "Kitsap",
+            "population": 2973,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              }
+            ]
+          },
+          {
+            "city": "Amboy",
+            "county": "Clark",
+            "population": 2027,
+            "zip_codes": [
+              {
+                "zip_codes": "98601"
+              },
+              {
+                "zip_codes": "98675"
+              }
+            ]
+          },
+          {
+            "city": "St. John",
+            "county": "Whitman",
+            "population": 561,
+            "zip_codes": [
+              {
+                "zip_codes": "99171"
+              }
+            ]
+          },
+          {
+            "city": "Dallesport",
+            "county": "Klickitat",
+            "population": 1739,
+            "zip_codes": [
+              {
+                "zip_codes": "98617"
+              },
+              {
+                "zip_codes": "98635"
+              }
+            ]
+          },
+          {
+            "city": "Ketron Island",
+            "county": "Pierce",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98388"
+              }
+            ]
+          },
+          {
+            "city": "Mesa",
+            "county": "Franklin",
+            "population": 503,
+            "zip_codes": [
+              {
+                "zip_codes": "99326"
+              },
+              {
+                "zip_codes": "99343"
+              }
+            ]
+          },
+          {
+            "city": "Fife",
+            "county": "Pierce",
+            "population": 10154,
+            "zip_codes": [
+              {
+                "zip_codes": "98424"
+              }
+            ]
+          },
+          {
+            "city": "Moses Lake North",
+            "county": "Grant",
+            "population": 3787,
+            "zip_codes": [
+              {
+                "zip_codes": "98837"
+              }
+            ]
+          },
+          {
+            "city": "Chewelah",
+            "county": "Stevens",
+            "population": 2637,
+            "zip_codes": [
+              {
+                "zip_codes": "99109"
+              }
+            ]
+          },
+          {
+            "city": "Grayland",
+            "county": "Grays Harbor",
+            "population": 756,
+            "zip_codes": [
+              {
+                "zip_codes": "98547"
+              }
+            ]
+          },
+          {
+            "city": "Kittitas",
+            "county": "Kittitas",
+            "population": 1491,
+            "zip_codes": [
+              {
+                "zip_codes": "98934"
+              },
+              {
+                "zip_codes": "98926"
+              }
+            ]
+          },
+          {
+            "city": "Camano",
+            "county": "Island",
+            "population": 15989,
+            "zip_codes": [
+              {
+                "zip_codes": "98282"
+              }
+            ]
+          },
+          {
+            "city": "Monroe North",
+            "county": "Snohomish",
+            "population": 1704,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              },
+              {
+                "zip_codes": "98272"
+              }
+            ]
+          },
+          {
+            "city": "North Bonneville",
+            "county": "Skamania",
+            "population": 999,
+            "zip_codes": [
+              {
+                "zip_codes": "98648"
+              },
+              {
+                "zip_codes": "98639"
+              }
+            ]
+          },
+          {
+            "city": "Klickitat",
+            "county": "Klickitat",
+            "population": 358,
+            "zip_codes": [
+              {
+                "zip_codes": "98628"
+              }
+            ]
+          },
+          {
+            "city": "Loon Lake",
+            "county": "Stevens",
+            "population": 784,
+            "zip_codes": [
+              {
+                "zip_codes": "99148"
+              }
+            ]
+          },
+          {
+            "city": "Newport",
+            "county": "Pend Oreille",
+            "population": 2635,
+            "zip_codes": [
+              {
+                "zip_codes": "99156"
+              }
+            ]
+          },
+          {
+            "city": "Mead",
+            "county": "Spokane",
+            "population": 6859,
+            "zip_codes": [
+              {
+                "zip_codes": "99021"
+              }
+            ]
+          },
+          {
+            "city": "Cashmere",
+            "county": "Chelan",
+            "population": 4864,
+            "zip_codes": [
+              {
+                "zip_codes": "98815"
+              }
+            ]
+          },
+          {
+            "city": "Aberdeen Gardens",
+            "county": "Grays Harbor",
+            "population": 283,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              }
+            ]
+          },
+          {
+            "city": "Ocean Shores",
+            "county": "Grays Harbor",
+            "population": 5553,
+            "zip_codes": [
+              {
+                "zip_codes": "98569"
+              }
+            ]
+          },
+          {
+            "city": "Basin City",
+            "county": "Franklin",
+            "population": 1281,
+            "zip_codes": [
+              {
+                "zip_codes": "99343"
+              }
+            ]
+          },
+          {
+            "city": "Wilkeson",
+            "county": "Pierce",
+            "population": 507,
+            "zip_codes": [
+              {
+                "zip_codes": "98396"
+              }
+            ]
+          },
+          {
+            "city": "Meadow Glade",
+            "county": "Clark",
+            "population": 2895,
+            "zip_codes": [
+              {
+                "zip_codes": "98604"
+              }
+            ]
+          },
+          {
+            "city": "Arlington Heights",
+            "county": "Snohomish",
+            "population": 2826,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "Uniontown",
+            "county": "Whitman",
+            "population": 343,
+            "zip_codes": [
+              {
+                "zip_codes": "99179"
+              }
+            ]
+          },
+          {
+            "city": "Oakesdale",
+            "county": "Whitman",
+            "population": 442,
+            "zip_codes": [
+              {
+                "zip_codes": "99158"
+              }
+            ]
+          },
+          {
+            "city": "West Side Highway",
+            "county": "Cowlitz",
+            "population": 5902,
+            "zip_codes": [
+              {
+                "zip_codes": "98626"
+              },
+              {
+                "zip_codes": "98632"
+              }
+            ]
+          },
+          {
+            "city": "Conconully",
+            "county": "Okanogan",
+            "population": 208,
+            "zip_codes": [
+              {
+                "zip_codes": "98819"
+              }
+            ]
+          },
+          {
+            "city": "Latah",
+            "county": "Spokane",
+            "population": 187,
+            "zip_codes": [
+              {
+                "zip_codes": "99018"
+              }
+            ]
+          },
+          {
+            "city": "Elma",
+            "county": "Grays Harbor",
+            "population": 3092,
+            "zip_codes": [
+              {
+                "zip_codes": "98541"
+              }
+            ]
+          },
+          {
+            "city": "Tieton",
+            "county": "Yakima",
+            "population": 1294,
+            "zip_codes": [
+              {
+                "zip_codes": "98947"
+              }
+            ]
+          },
+          {
+            "city": "Southworth",
+            "county": "Kitsap",
+            "population": 2280,
+            "zip_codes": [
+              {
+                "zip_codes": "98366"
+              },
+              {
+                "zip_codes": "98384"
+              },
+              {
+                "zip_codes": "98386"
+              }
+            ]
+          },
+          {
+            "city": "Danville",
+            "county": "Ferry",
+            "population": 19,
+            "zip_codes": [
+              {
+                "zip_codes": "99121"
+              }
+            ]
+          },
+          {
+            "city": "Toppenish",
+            "county": "Yakima",
+            "population": 14441,
+            "zip_codes": [
+              {
+                "zip_codes": "98948"
+              }
+            ]
+          },
+          {
+            "city": "River Road",
+            "county": "Clallam",
+            "population": 952,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Geneva",
+            "county": "Whatcom",
+            "population": 2632,
+            "zip_codes": [
+              {
+                "zip_codes": "98229"
+              }
+            ]
+          },
+          {
+            "city": "Yakima",
+            "county": "Yakima",
+            "population": 133233,
+            "zip_codes": [
+              {
+                "zip_codes": "98901"
+              },
+              {
+                "zip_codes": "98903"
+              },
+              {
+                "zip_codes": "98902"
+              },
+              {
+                "zip_codes": "98908"
+              },
+              {
+                "zip_codes": "98904"
+              },
+              {
+                "zip_codes": "98907"
+              }
+            ]
+          },
+          {
+            "city": "Moxee",
+            "county": "Yakima",
+            "population": 4032,
+            "zip_codes": [
+              {
+                "zip_codes": "98936"
+              },
+              {
+                "zip_codes": "98901"
+              }
+            ]
+          },
+          {
+            "city": "Edmonds",
+            "county": "Snohomish",
+            "population": 42209,
+            "zip_codes": [
+              {
+                "zip_codes": "98026"
+              },
+              {
+                "zip_codes": "98020"
+              }
+            ]
+          },
+          {
+            "city": "Kalama",
+            "county": "Cowlitz",
+            "population": 3794,
+            "zip_codes": [
+              {
+                "zip_codes": "98625"
+              }
+            ]
+          },
+          {
+            "city": "Laurier",
+            "county": "Ferry",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "99146"
+              }
+            ]
+          },
+          {
+            "city": "Vashon",
+            "county": "King",
+            "population": 9635,
+            "zip_codes": [
+              {
+                "zip_codes": "98070"
+              },
+              {
+                "zip_codes": "98013"
+              }
+            ]
+          },
+          {
+            "city": "Country Homes",
+            "county": "Spokane",
+            "population": 5730,
+            "zip_codes": [
+              {
+                "zip_codes": "99208"
+              },
+              {
+                "zip_codes": "99218"
+              },
+              {
+                "zip_codes": "99251"
+              }
+            ]
+          },
+          {
+            "city": "Darrington",
+            "county": "Snohomish",
+            "population": 1406,
+            "zip_codes": [
+              {
+                "zip_codes": "98241"
+              }
+            ]
+          },
+          {
+            "city": "Metaline Falls",
+            "county": "Pend Oreille",
+            "population": 245,
+            "zip_codes": [
+              {
+                "zip_codes": "99153"
+              }
+            ]
+          },
+          {
+            "city": "Lyle",
+            "county": "Klickitat",
+            "population": 548,
+            "zip_codes": [
+              {
+                "zip_codes": "98635"
+              }
+            ]
+          },
+          {
+            "city": "Cascade Valley",
+            "county": "Grant",
+            "population": 1797,
+            "zip_codes": [
+              {
+                "zip_codes": "98837"
+              }
+            ]
+          },
+          {
+            "city": "Spangle",
+            "county": "Spokane",
+            "population": 307,
+            "zip_codes": [
+              {
+                "zip_codes": "99031"
+              }
+            ]
+          },
+          {
+            "city": "Methow",
+            "county": "Okanogan",
+            "population": 78,
+            "zip_codes": [
+              {
+                "zip_codes": "98834"
+              }
+            ]
+          },
+          {
+            "city": "Waterville",
+            "county": "Douglas",
+            "population": 1198,
+            "zip_codes": [
+              {
+                "zip_codes": "98858"
+              }
+            ]
+          },
+          {
+            "city": "Lake Roesiger",
+            "county": "Snohomish",
+            "population": 657,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              }
+            ]
+          },
+          {
+            "city": "Milton",
+            "county": "Pierce",
+            "population": 8230,
+            "zip_codes": [
+              {
+                "zip_codes": "98003"
+              },
+              {
+                "zip_codes": "98354"
+              }
+            ]
+          },
+          {
+            "city": "Krupp",
+            "county": "Grant",
+            "population": 50,
+            "zip_codes": [
+              {
+                "zip_codes": "98832"
+              }
+            ]
+          },
+          {
+            "city": "Alderton",
+            "county": "Pierce",
+            "population": 3303,
+            "zip_codes": [
+              {
+                "zip_codes": "98390"
+              },
+              {
+                "zip_codes": "98372"
+              },
+              {
+                "zip_codes": "98374"
+              }
+            ]
+          },
+          {
+            "city": "DuPont",
+            "county": "Pierce",
+            "population": 9487,
+            "zip_codes": [
+              {
+                "zip_codes": "98327"
+              }
+            ]
+          },
+          {
+            "city": "Edgewood",
+            "county": "Pierce",
+            "population": 11213,
+            "zip_codes": [
+              {
+                "zip_codes": "98372"
+              },
+              {
+                "zip_codes": "98371"
+              }
+            ]
+          },
+          {
+            "city": "North Puyallup",
+            "county": "Pierce",
+            "population": 1848,
+            "zip_codes": [
+              {
+                "zip_codes": "98372"
+              }
+            ]
+          },
+          {
+            "city": "Pacific Beach",
+            "county": "Grays Harbor",
+            "population": 538,
+            "zip_codes": [
+              {
+                "zip_codes": "98571"
+              }
+            ]
+          },
+          {
+            "city": "Manson",
+            "county": "Chelan",
+            "population": 1532,
+            "zip_codes": [
+              {
+                "zip_codes": "98831"
+              }
+            ]
+          },
+          {
+            "city": "Brewster",
+            "county": "Okanogan",
+            "population": 2343,
+            "zip_codes": [
+              {
+                "zip_codes": "98812"
+              }
+            ]
+          },
+          {
+            "city": "Battle Ground",
+            "county": "Clark",
+            "population": 20576,
+            "zip_codes": [
+              {
+                "zip_codes": "98604"
+              }
+            ]
+          },
+          {
+            "city": "Shoreline",
+            "county": "King",
+            "population": 56189,
+            "zip_codes": [
+              {
+                "zip_codes": "98155"
+              },
+              {
+                "zip_codes": "98177"
+              },
+              {
+                "zip_codes": "98133"
+              },
+              {
+                "zip_codes": "98160"
+              }
+            ]
+          },
+          {
+            "city": "Cosmopolis",
+            "county": "Grays Harbor",
+            "population": 1624,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              },
+              {
+                "zip_codes": "98563"
+              },
+              {
+                "zip_codes": "98537"
+              }
+            ]
+          },
+          {
+            "city": "Airway Heights",
+            "county": "Spokane",
+            "population": 8166,
+            "zip_codes": [
+              {
+                "zip_codes": "99224"
+              },
+              {
+                "zip_codes": "99001"
+              }
+            ]
+          },
+          {
+            "city": "Grandview",
+            "county": "Yakima",
+            "population": 18858,
+            "zip_codes": [
+              {
+                "zip_codes": "98935"
+              },
+              {
+                "zip_codes": "98930"
+              }
+            ]
+          },
+          {
+            "city": "Inchelium",
+            "county": "Ferry",
+            "population": 413,
+            "zip_codes": [
+              {
+                "zip_codes": "99138"
+              }
+            ]
+          },
+          {
+            "city": "Grand Coulee",
+            "county": "Grant",
+            "population": 1042,
+            "zip_codes": [
+              {
+                "zip_codes": "99133"
+              }
+            ]
+          },
+          {
+            "city": "Union",
+            "county": "Mason",
+            "population": 272,
+            "zip_codes": [
+              {
+                "zip_codes": "98592"
+              }
+            ]
+          },
+          {
+            "city": "Torboy",
+            "county": "Ferry",
+            "population": 48,
+            "zip_codes": [
+              {
+                "zip_codes": "99166"
+              }
+            ]
+          },
+          {
+            "city": "Kelso",
+            "county": "Cowlitz",
+            "population": 12130,
+            "zip_codes": [
+              {
+                "zip_codes": "98626"
+              },
+              {
+                "zip_codes": "98632"
+              }
+            ]
+          },
+          {
+            "city": "Westport",
+            "county": "Grays Harbor",
+            "population": 2051,
+            "zip_codes": [
+              {
+                "zip_codes": "98595"
+              }
+            ]
+          },
+          {
+            "city": "Junction City",
+            "county": "Grays Harbor",
+            "population": 10,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              }
+            ]
+          },
+          {
+            "city": "Lake Ketchum",
+            "county": "Snohomish",
+            "population": 894,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "West Pasco",
+            "county": "Franklin",
+            "population": 1233,
+            "zip_codes": [
+              {
+                "zip_codes": "99301"
+              }
+            ]
+          },
+          {
+            "city": "Des Moines",
+            "county": "King",
+            "population": 31238,
+            "zip_codes": [
+              {
+                "zip_codes": "98148"
+              },
+              {
+                "zip_codes": "98198"
+              }
+            ]
+          },
+          {
+            "city": "Davenport",
+            "county": "Lincoln",
+            "population": 1708,
+            "zip_codes": [
+              {
+                "zip_codes": "99122"
+              }
+            ]
+          },
+          {
+            "city": "Seattle",
+            "county": "King",
+            "population": 3643765,
+            "zip_codes": [
+              {
+                "zip_codes": "98109"
+              },
+              {
+                "zip_codes": "98108"
+              },
+              {
+                "zip_codes": "98104"
+              },
+              {
+                "zip_codes": "98107"
+              },
+              {
+                "zip_codes": "98106"
+              },
+              {
+                "zip_codes": "98101"
+              },
+              {
+                "zip_codes": "98103"
+              },
+              {
+                "zip_codes": "98102"
+              },
+              {
+                "zip_codes": "98105"
+              },
+              {
+                "zip_codes": "98154"
+              },
+              {
+                "zip_codes": "98122"
+              },
+              {
+                "zip_codes": "98121"
+              },
+              {
+                "zip_codes": "98126"
+              },
+              {
+                "zip_codes": "98125"
+              },
+              {
+                "zip_codes": "98178"
+              },
+              {
+                "zip_codes": "98174"
+              },
+              {
+                "zip_codes": "98177"
+              },
+              {
+                "zip_codes": "98144"
+              },
+              {
+                "zip_codes": "98146"
+              },
+              {
+                "zip_codes": "98195"
+              },
+              {
+                "zip_codes": "98199"
+              },
+              {
+                "zip_codes": "98118"
+              },
+              {
+                "zip_codes": "98119"
+              },
+              {
+                "zip_codes": "98116"
+              },
+              {
+                "zip_codes": "98117"
+              },
+              {
+                "zip_codes": "98115"
+              },
+              {
+                "zip_codes": "98112"
+              },
+              {
+                "zip_codes": "98164"
+              },
+              {
+                "zip_codes": "98134"
+              },
+              {
+                "zip_codes": "98136"
+              },
+              {
+                "zip_codes": "98133"
+              },
+              {
+                "zip_codes": "98111"
+              },
+              {
+                "zip_codes": "98113"
+              },
+              {
+                "zip_codes": "98114"
+              },
+              {
+                "zip_codes": "98124"
+              },
+              {
+                "zip_codes": "98127"
+              },
+              {
+                "zip_codes": "98129"
+              },
+              {
+                "zip_codes": "98139"
+              },
+              {
+                "zip_codes": "98141"
+              },
+              {
+                "zip_codes": "98145"
+              },
+              {
+                "zip_codes": "98161"
+              },
+              {
+                "zip_codes": "98165"
+              },
+              {
+                "zip_codes": "98170"
+              },
+              {
+                "zip_codes": "98175"
+              },
+              {
+                "zip_codes": "98181"
+              },
+              {
+                "zip_codes": "98185"
+              },
+              {
+                "zip_codes": "98191"
+              },
+              {
+                "zip_codes": "98194"
+              }
+            ]
+          },
+          {
+            "city": "Lake Stickney",
+            "county": "Snohomish",
+            "population": 9667,
+            "zip_codes": [
+              {
+                "zip_codes": "98087"
+              },
+              {
+                "zip_codes": "98204"
+              }
+            ]
+          },
+          {
+            "city": "Carnation",
+            "county": "King",
+            "population": 2164,
+            "zip_codes": [
+              {
+                "zip_codes": "98014"
+              }
+            ]
+          },
+          {
+            "city": "Everett",
+            "county": "Snohomish",
+            "population": 110079,
+            "zip_codes": [
+              {
+                "zip_codes": "98207"
+              },
+              {
+                "zip_codes": "98204"
+              },
+              {
+                "zip_codes": "98205"
+              },
+              {
+                "zip_codes": "98203"
+              },
+              {
+                "zip_codes": "98201"
+              },
+              {
+                "zip_codes": "98208"
+              },
+              {
+                "zip_codes": "98275"
+              },
+              {
+                "zip_codes": "98206"
+              },
+              {
+                "zip_codes": "98213"
+              }
+            ]
+          },
+          {
+            "city": "Warden",
+            "county": "Grant",
+            "population": 2716,
+            "zip_codes": [
+              {
+                "zip_codes": "98857"
+              }
+            ]
+          },
+          {
+            "city": "Palouse",
+            "county": "Whitman",
+            "population": 1055,
+            "zip_codes": [
+              {
+                "zip_codes": "99161"
+              }
+            ]
+          },
+          {
+            "city": "Terrace Heights",
+            "county": "Yakima",
+            "population": 7849,
+            "zip_codes": [
+              {
+                "zip_codes": "98901"
+              }
+            ]
+          },
+          {
+            "city": "Clarkston",
+            "county": "Asotin",
+            "population": 7396,
+            "zip_codes": [
+              {
+                "zip_codes": "99403"
+              }
+            ]
+          },
+          {
+            "city": "Elmer City",
+            "county": "Okanogan",
+            "population": 247,
+            "zip_codes": [
+              {
+                "zip_codes": "99124"
+              },
+              {
+                "zip_codes": "99116"
+              }
+            ]
+          },
+          {
+            "city": "Mossyrock",
+            "county": "Lewis",
+            "population": 789,
+            "zip_codes": [
+              {
+                "zip_codes": "98564"
+              }
+            ]
+          },
+          {
+            "city": "Summit View",
+            "county": "Pierce",
+            "population": 7421,
+            "zip_codes": [
+              {
+                "zip_codes": "98375"
+              },
+              {
+                "zip_codes": "98373"
+              }
+            ]
+          },
+          {
+            "city": "Suquamish",
+            "county": "Kitsap",
+            "population": 4108,
+            "zip_codes": [
+              {
+                "zip_codes": "98392"
+              },
+              {
+                "zip_codes": "98370"
+              }
+            ]
+          },
+          {
+            "city": "Newcastle",
+            "county": "King",
+            "population": 11681,
+            "zip_codes": [
+              {
+                "zip_codes": "98059"
+              },
+              {
+                "zip_codes": "98056"
+              }
+            ]
+          },
+          {
+            "city": "Stanwood",
+            "county": "Snohomish",
+            "population": 7161,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Kapowsin",
+            "county": "Pierce",
+            "population": 391,
+            "zip_codes": [
+              {
+                "zip_codes": "98360"
+              },
+              {
+                "zip_codes": "98338"
+              },
+              {
+                "zip_codes": "98344"
+              }
+            ]
+          },
+          {
+            "city": "Donald",
+            "county": "Yakima",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98951"
+              }
+            ]
+          },
+          {
+            "city": "Altoona",
+            "county": "Wahkiakum",
+            "population": 61,
+            "zip_codes": [
+              {
+                "zip_codes": "98643"
+              }
+            ]
+          },
+          {
+            "city": "South Prairie",
+            "county": "Pierce",
+            "population": 443,
+            "zip_codes": [
+              {
+                "zip_codes": "98385"
+              }
+            ]
+          },
+          {
+            "city": "Eschbach",
+            "county": "Yakima",
+            "population": 377,
+            "zip_codes": [
+              {
+                "zip_codes": "98908"
+              }
+            ]
+          },
+          {
+            "city": "Indianola",
+            "county": "Kitsap",
+            "population": 3520,
+            "zip_codes": [
+              {
+                "zip_codes": "98342"
+              },
+              {
+                "zip_codes": "98346"
+              },
+              {
+                "zip_codes": "98370"
+              }
+            ]
+          },
+          {
+            "city": "Reardan",
+            "county": "Lincoln",
+            "population": 582,
+            "zip_codes": [
+              {
+                "zip_codes": "99029"
+              }
+            ]
+          },
+          {
+            "city": "Cowiche",
+            "county": "Yakima",
+            "population": 960,
+            "zip_codes": [
+              {
+                "zip_codes": "98923"
+              }
+            ]
+          },
+          {
+            "city": "Sunday Lake",
+            "county": "Snohomish",
+            "population": 666,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Rocky Point",
+            "county": "Kitsap",
+            "population": 1449,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              }
+            ]
+          },
+          {
+            "city": "Burbank",
+            "county": "Walla Walla",
+            "population": 3398,
+            "zip_codes": [
+              {
+                "zip_codes": "99323"
+              }
+            ]
+          },
+          {
+            "city": "Lakeland North",
+            "county": "King",
+            "population": 12487,
+            "zip_codes": [
+              {
+                "zip_codes": "98001"
+              }
+            ]
+          },
+          {
+            "city": "Granite Falls",
+            "county": "Snohomish",
+            "population": 6565,
+            "zip_codes": [
+              {
+                "zip_codes": "98252"
+              }
+            ]
+          },
+          {
+            "city": "Camas",
+            "county": "Clark",
+            "population": 23331,
+            "zip_codes": [
+              {
+                "zip_codes": "98607"
+              }
+            ]
+          },
+          {
+            "city": "Skokomish",
+            "county": "Mason",
+            "population": 755,
+            "zip_codes": [
+              {
+                "zip_codes": "98584"
+              }
+            ]
+          },
+          {
+            "city": "Cusick",
+            "county": "Pend Oreille",
+            "population": 217,
+            "zip_codes": [
+              {
+                "zip_codes": "99119"
+              }
+            ]
+          },
+          {
+            "city": "Rosalia",
+            "county": "Whitman",
+            "population": 567,
+            "zip_codes": [
+              {
+                "zip_codes": "99170"
+              }
+            ]
+          },
+          {
+            "city": "Longbranch",
+            "county": "Pierce",
+            "population": 3236,
+            "zip_codes": [
+              {
+                "zip_codes": "98349"
+              },
+              {
+                "zip_codes": "98351"
+              }
+            ]
+          },
+          {
+            "city": "Granger",
+            "county": "Yakima",
+            "population": 3542,
+            "zip_codes": [
+              {
+                "zip_codes": "98932"
+              }
+            ]
+          },
+          {
+            "city": "North Fort Lewis",
+            "county": "Pierce",
+            "population": 5009,
+            "zip_codes": [
+              {
+                "zip_codes": "98433"
+              }
+            ]
+          },
+          {
+            "city": "Tampico",
+            "county": "Yakima",
+            "population": 465,
+            "zip_codes": [
+              {
+                "zip_codes": "98903"
+              }
+            ]
+          },
+          {
+            "city": "Tukwila",
+            "county": "King",
+            "population": 20144,
+            "zip_codes": [
+              {
+                "zip_codes": "98108"
+              },
+              {
+                "zip_codes": "98178"
+              },
+              {
+                "zip_codes": "98168"
+              },
+              {
+                "zip_codes": "98188"
+              },
+              {
+                "zip_codes": "98138"
+              },
+              {
+                "zip_codes": "98190"
+              }
+            ]
+          },
+          {
+            "city": "Cathlamet",
+            "county": "Wahkiakum",
+            "population": 553,
+            "zip_codes": [
+              {
+                "zip_codes": "98612"
+              }
+            ]
+          },
+          {
+            "city": "Wenatchee",
+            "county": "Chelan",
+            "population": 71512,
+            "zip_codes": [
+              {
+                "zip_codes": "98801"
+              }
+            ]
+          },
+          {
+            "city": "Port Ludlow",
+            "county": "Jefferson",
+            "population": 2642,
+            "zip_codes": [
+              {
+                "zip_codes": "98365"
+              }
+            ]
+          },
+          {
+            "city": "Castle Rock",
+            "county": "Cowlitz",
+            "population": 2833,
+            "zip_codes": [
+              {
+                "zip_codes": "98611"
+              }
+            ]
+          },
+          {
+            "city": "Glacier",
+            "county": "Whatcom",
+            "population": 102,
+            "zip_codes": [
+              {
+                "zip_codes": "98244"
+              }
+            ]
+          },
+          {
+            "city": "Index",
+            "county": "Snohomish",
+            "population": 205,
+            "zip_codes": [
+              {
+                "zip_codes": "98256"
+              }
+            ]
+          },
+          {
+            "city": "Republic",
+            "county": "Ferry",
+            "population": 1062,
+            "zip_codes": [
+              {
+                "zip_codes": "99166"
+              }
+            ]
+          },
+          {
+            "city": "Bellevue",
+            "county": "King",
+            "population": 144444,
+            "zip_codes": [
+              {
+                "zip_codes": "98004"
+              },
+              {
+                "zip_codes": "98005"
+              },
+              {
+                "zip_codes": "98006"
+              },
+              {
+                "zip_codes": "98007"
+              },
+              {
+                "zip_codes": "98008"
+              },
+              {
+                "zip_codes": "98009"
+              },
+              {
+                "zip_codes": "98015"
+              }
+            ]
+          },
+          {
+            "city": "Malo",
+            "county": "Ferry",
+            "population": 72,
+            "zip_codes": [
+              {
+                "zip_codes": "99150"
+              }
+            ]
+          },
+          {
+            "city": "Anderson Island",
+            "county": "Pierce",
+            "population": 1292,
+            "zip_codes": [
+              {
+                "zip_codes": "98303"
+              }
+            ]
+          },
+          {
+            "city": "University Place",
+            "county": "Pierce",
+            "population": 33401,
+            "zip_codes": [
+              {
+                "zip_codes": "98466"
+              },
+              {
+                "zip_codes": "98467"
+              },
+              {
+                "zip_codes": "98464"
+              }
+            ]
+          },
+          {
+            "city": "Montesano",
+            "county": "Grays Harbor",
+            "population": 8494,
+            "zip_codes": [
+              {
+                "zip_codes": "98563"
+              }
+            ]
+          },
+          {
+            "city": "Rainier",
+            "county": "Thurston",
+            "population": 2126,
+            "zip_codes": [
+              {
+                "zip_codes": "98576"
+              }
+            ]
+          },
+          {
+            "city": "Fords Prairie",
+            "county": "Lewis",
+            "population": 1812,
+            "zip_codes": [
+              {
+                "zip_codes": "98531"
+              }
+            ]
+          },
+          {
+            "city": "Roy",
+            "county": "Pierce",
+            "population": 820,
+            "zip_codes": [
+              {
+                "zip_codes": "98580"
+              }
+            ]
+          },
+          {
+            "city": "Oso",
+            "county": "Snohomish",
+            "population": 212,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "Marblemount",
+            "county": "Skagit",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98267"
+              }
+            ]
+          },
+          {
+            "city": "Elk Plain",
+            "county": "Pierce",
+            "population": 14280,
+            "zip_codes": [
+              {
+                "zip_codes": "98387"
+              },
+              {
+                "zip_codes": "98338"
+              }
+            ]
+          },
+          {
+            "city": "Burlington",
+            "county": "Skagit",
+            "population": 8783,
+            "zip_codes": [
+              {
+                "zip_codes": "98233"
+              }
+            ]
+          },
+          {
+            "city": "Bangor Base",
+            "county": "Kitsap",
+            "population": 6358,
+            "zip_codes": [
+              {
+                "zip_codes": "98315"
+              }
+            ]
+          },
+          {
+            "city": "Beaux Arts Village",
+            "county": "King",
+            "population": 326,
+            "zip_codes": [
+              {
+                "zip_codes": "98004"
+              }
+            ]
+          },
+          {
+            "city": "Port Gamble Tribal Community",
+            "county": "Kitsap",
+            "population": 920,
+            "zip_codes": [
+              {
+                "zip_codes": "98346"
+              }
+            ]
+          },
+          {
+            "city": "Olympia",
+            "county": "Thurston",
+            "population": 196078,
+            "zip_codes": [
+              {
+                "zip_codes": "98501"
+              },
+              {
+                "zip_codes": "98502"
+              },
+              {
+                "zip_codes": "98506"
+              },
+              {
+                "zip_codes": "98504"
+              },
+              {
+                "zip_codes": "98507"
+              },
+              {
+                "zip_codes": "98508"
+              },
+              {
+                "zip_codes": "98511"
+              }
+            ]
+          },
+          {
+            "city": "East Wenatchee",
+            "county": "Douglas",
+            "population": 13983,
+            "zip_codes": [
+              {
+                "zip_codes": "98802"
+              }
+            ]
+          },
+          {
+            "city": "Addy",
+            "county": "Stevens",
+            "population": 96,
+            "zip_codes": [
+              {
+                "zip_codes": "99101"
+              }
+            ]
+          },
+          {
+            "city": "Minnehaha",
+            "county": "Clark",
+            "population": 11767,
+            "zip_codes": [
+              {
+                "zip_codes": "98661"
+              }
+            ]
+          },
+          {
+            "city": "Bryn Mawr-Skyway",
+            "county": "King",
+            "population": 18365,
+            "zip_codes": [
+              {
+                "zip_codes": "98178"
+              }
+            ]
+          },
+          {
+            "city": "Satsop",
+            "county": "Grays Harbor",
+            "population": 572,
+            "zip_codes": [
+              {
+                "zip_codes": "98583"
+              },
+              {
+                "zip_codes": "98541"
+              }
+            ]
+          },
+          {
+            "city": "Riverbend",
+            "county": "King",
+            "population": 2241,
+            "zip_codes": [
+              {
+                "zip_codes": "98045"
+              }
+            ]
+          },
+          {
+            "city": "Easton",
+            "county": "Kittitas",
+            "population": 395,
+            "zip_codes": [
+              {
+                "zip_codes": "98925"
+              }
+            ]
+          },
+          {
+            "city": "Silverdale",
+            "county": "Kitsap",
+            "population": 20664,
+            "zip_codes": [
+              {
+                "zip_codes": "98311"
+              },
+              {
+                "zip_codes": "98370"
+              },
+              {
+                "zip_codes": "98383"
+              }
+            ]
+          },
+          {
+            "city": "Napavine",
+            "county": "Lewis",
+            "population": 1893,
+            "zip_codes": [
+              {
+                "zip_codes": "98565"
+              },
+              {
+                "zip_codes": "98532"
+              }
+            ]
+          },
+          {
+            "city": "Lochsloy",
+            "county": "Snohomish",
+            "population": 3188,
+            "zip_codes": [
+              {
+                "zip_codes": "98258"
+              }
+            ]
+          },
+          {
+            "city": "Ellensburg",
+            "county": "Kittitas",
+            "population": 23471,
+            "zip_codes": [
+              {
+                "zip_codes": "98926"
+              }
+            ]
+          },
+          {
+            "city": "McKenna",
+            "county": "Pierce",
+            "population": 978,
+            "zip_codes": [
+              {
+                "zip_codes": "98580"
+              },
+              {
+                "zip_codes": "98558"
+              }
+            ]
+          },
+          {
+            "city": "Fairfield",
+            "county": "Spokane",
+            "population": 616,
+            "zip_codes": [
+              {
+                "zip_codes": "99012"
+              }
+            ]
+          },
+          {
+            "city": "Northwest Stanwood",
+            "county": "Snohomish",
+            "population": 144,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Mansfield",
+            "county": "Douglas",
+            "population": 339,
+            "zip_codes": [
+              {
+                "zip_codes": "98830"
+              }
+            ]
+          },
+          {
+            "city": "Duvall",
+            "county": "King",
+            "population": 7813,
+            "zip_codes": [
+              {
+                "zip_codes": "98019"
+              }
+            ]
+          },
+          {
+            "city": "Markham",
+            "county": "Grays Harbor",
+            "population": 238,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              }
+            ]
+          },
+          {
+            "city": "Waller",
+            "county": "Pierce",
+            "population": 8064,
+            "zip_codes": [
+              {
+                "zip_codes": "98404"
+              },
+              {
+                "zip_codes": "98371"
+              },
+              {
+                "zip_codes": "98443"
+              }
+            ]
+          },
+          {
+            "city": "Longview",
+            "county": "Cowlitz",
+            "population": 65619,
+            "zip_codes": [
+              {
+                "zip_codes": "98632"
+              }
+            ]
+          },
+          {
+            "city": "Richland",
+            "county": "Benton",
+            "population": 56243,
+            "zip_codes": [
+              {
+                "zip_codes": "99352"
+              },
+              {
+                "zip_codes": "99354"
+              }
+            ]
+          },
+          {
+            "city": "Rosedale",
+            "county": "Pierce",
+            "population": 4459,
+            "zip_codes": [
+              {
+                "zip_codes": "98332"
+              }
+            ]
+          },
+          {
+            "city": "Vancouver",
+            "county": "Clark",
+            "population": 175673,
+            "zip_codes": [
+              {
+                "zip_codes": "98684"
+              },
+              {
+                "zip_codes": "98664"
+              },
+              {
+                "zip_codes": "98665"
+              },
+              {
+                "zip_codes": "98660"
+              },
+              {
+                "zip_codes": "98661"
+              },
+              {
+                "zip_codes": "98662"
+              },
+              {
+                "zip_codes": "98663"
+              },
+              {
+                "zip_codes": "98682"
+              },
+              {
+                "zip_codes": "98683"
+              },
+              {
+                "zip_codes": "98687"
+              }
+            ]
+          },
+          {
+            "city": "Bethel",
+            "county": "Kitsap",
+            "population": 3673,
+            "zip_codes": [
+              {
+                "zip_codes": "98367"
+              }
+            ]
+          },
+          {
+            "city": "Custer",
+            "county": "Whatcom",
+            "population": 149,
+            "zip_codes": [
+              {
+                "zip_codes": "98248"
+              },
+              {
+                "zip_codes": "98240"
+              }
+            ]
+          },
+          {
+            "city": "Lofall",
+            "county": "Kitsap",
+            "population": 2211,
+            "zip_codes": [
+              {
+                "zip_codes": "98370"
+              }
+            ]
+          },
+          {
+            "city": "Fairwood",
+            "county": "King",
+            "population": 19531,
+            "zip_codes": [
+              {
+                "zip_codes": "98058"
+              }
+            ]
+          },
+          {
+            "city": "Winlock",
+            "county": "Lewis",
+            "population": 1354,
+            "zip_codes": [
+              {
+                "zip_codes": "98596"
+              }
+            ]
+          },
+          {
+            "city": "Sumner",
+            "county": "Pierce",
+            "population": 10093,
+            "zip_codes": [
+              {
+                "zip_codes": "98390"
+              }
+            ]
+          },
+          {
+            "city": "Cottage Lake",
+            "county": "King",
+            "population": 23941,
+            "zip_codes": [
+              {
+                "zip_codes": "98072"
+              },
+              {
+                "zip_codes": "98077"
+              }
+            ]
+          },
+          {
+            "city": "Puget Island",
+            "county": "Wahkiakum",
+            "population": 899,
+            "zip_codes": [
+              {
+                "zip_codes": "98612"
+              }
+            ]
+          },
+          {
+            "city": "Woods Creek",
+            "county": "Snohomish",
+            "population": 5826,
+            "zip_codes": [
+              {
+                "zip_codes": "98272"
+              }
+            ]
+          },
+          {
+            "city": "Washougal",
+            "county": "Clark",
+            "population": 15711,
+            "zip_codes": [
+              {
+                "zip_codes": "98671"
+              }
+            ]
+          },
+          {
+            "city": "Sisco Heights",
+            "county": "Snohomish",
+            "population": 2810,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "Canterwood",
+            "county": "Pierce",
+            "population": 3220,
+            "zip_codes": [
+              {
+                "zip_codes": "98332"
+              }
+            ]
+          },
+          {
+            "city": "Wapato",
+            "county": "Yakima",
+            "population": 7686,
+            "zip_codes": [
+              {
+                "zip_codes": "98951"
+              }
+            ]
+          },
+          {
+            "city": "Lower Elochoman",
+            "county": "Wahkiakum",
+            "population": 160,
+            "zip_codes": [
+              {
+                "zip_codes": "98612"
+              }
+            ]
+          },
+          {
+            "city": "Lake Goodwin",
+            "county": "Snohomish",
+            "population": 3879,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              },
+              {
+                "zip_codes": "98292"
+              },
+              {
+                "zip_codes": "98271"
+              }
+            ]
+          },
+          {
+            "city": "Banks Lake South",
+            "county": "Grant",
+            "population": 270,
+            "zip_codes": [
+              {
+                "zip_codes": "99115"
+              }
+            ]
+          },
+          {
+            "city": "Kent",
+            "county": "King",
+            "population": 128458,
+            "zip_codes": [
+              {
+                "zip_codes": "98031"
+              },
+              {
+                "zip_codes": "98030"
+              },
+              {
+                "zip_codes": "98032"
+              },
+              {
+                "zip_codes": "98042"
+              },
+              {
+                "zip_codes": "98035"
+              },
+              {
+                "zip_codes": "98064"
+              },
+              {
+                "zip_codes": "98089"
+              }
+            ]
+          },
+          {
+            "city": "Bickleton",
+            "county": "Klickitat",
+            "population": 67,
+            "zip_codes": [
+              {
+                "zip_codes": "99322"
+              }
+            ]
+          },
+          {
+            "city": "Ryderwood",
+            "county": "Cowlitz",
+            "population": 332,
+            "zip_codes": [
+              {
+                "zip_codes": "98581"
+              }
+            ]
+          },
+          {
+            "city": "Cavalero",
+            "county": "Snohomish",
+            "population": 5284,
+            "zip_codes": [
+              {
+                "zip_codes": "98258"
+              },
+              {
+                "zip_codes": "98205"
+              }
+            ]
+          },
+          {
+            "city": "La Conner",
+            "county": "Skagit",
+            "population": 3475,
+            "zip_codes": [
+              {
+                "zip_codes": "98257"
+              }
+            ]
+          },
+          {
+            "city": "Martha Lake",
+            "county": "Snohomish",
+            "population": 18566,
+            "zip_codes": [
+              {
+                "zip_codes": "98087"
+              },
+              {
+                "zip_codes": "98012"
+              },
+              {
+                "zip_codes": "98208"
+              }
+            ]
+          },
+          {
+            "city": "George",
+            "county": "Grant",
+            "population": 507,
+            "zip_codes": [
+              {
+                "zip_codes": "98848"
+              },
+              {
+                "zip_codes": "98824"
+              }
+            ]
+          },
+          {
+            "city": "Snohomish",
+            "county": "Snohomish",
+            "population": 10089,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              },
+              {
+                "zip_codes": "98291"
+              }
+            ]
+          },
+          {
+            "city": "Eatonville",
+            "county": "Pierce",
+            "population": 3038,
+            "zip_codes": [
+              {
+                "zip_codes": "98328"
+              }
+            ]
+          },
+          {
+            "city": "Carson",
+            "county": "Skamania",
+            "population": 2688,
+            "zip_codes": [
+              {
+                "zip_codes": "98610"
+              }
+            ]
+          },
+          {
+            "city": "Almira",
+            "county": "Lincoln",
+            "population": 276,
+            "zip_codes": [
+              {
+                "zip_codes": "99103"
+              }
+            ]
+          },
+          {
+            "city": "Nooksack",
+            "county": "Whatcom",
+            "population": 1560,
+            "zip_codes": [
+              {
+                "zip_codes": "98247"
+              },
+              {
+                "zip_codes": "98276"
+              }
+            ]
+          },
+          {
+            "city": "Mount Vista",
+            "county": "Clark",
+            "population": 8525,
+            "zip_codes": [
+              {
+                "zip_codes": "98642"
+              },
+              {
+                "zip_codes": "98686"
+              }
+            ]
+          },
+          {
+            "city": "High Bridge",
+            "county": "Snohomish",
+            "population": 3028,
+            "zip_codes": [
+              {
+                "zip_codes": "98296"
+              },
+              {
+                "zip_codes": "98272"
+              }
+            ]
+          },
+          {
+            "city": "Lakeland South",
+            "county": "King",
+            "population": 13982,
+            "zip_codes": [
+              {
+                "zip_codes": "98001"
+              },
+              {
+                "zip_codes": "98003"
+              }
+            ]
+          },
+          {
+            "city": "Kenmore",
+            "county": "King",
+            "population": 22867,
+            "zip_codes": [
+              {
+                "zip_codes": "98028"
+              }
+            ]
+          },
+          {
+            "city": "Neah Bay",
+            "county": "Clallam",
+            "population": 994,
+            "zip_codes": [
+              {
+                "zip_codes": "98357"
+              }
+            ]
+          },
+          {
+            "city": "Cliffdell",
+            "county": "Yakima",
+            "population": 80,
+            "zip_codes": [
+              {
+                "zip_codes": "98937"
+              }
+            ]
+          },
+          {
+            "city": "Port Angeles East",
+            "county": "Clallam",
+            "population": 3627,
+            "zip_codes": [
+              {
+                "zip_codes": "98362"
+              }
+            ]
+          },
+          {
+            "city": "Burien",
+            "county": "King",
+            "population": 51671,
+            "zip_codes": [
+              {
+                "zip_codes": "98146"
+              },
+              {
+                "zip_codes": "98148"
+              },
+              {
+                "zip_codes": "98168"
+              },
+              {
+                "zip_codes": "98166"
+              },
+              {
+                "zip_codes": "98062"
+              }
+            ]
+          },
+          {
+            "city": "Taholah",
+            "county": "Grays Harbor",
+            "population": 714,
+            "zip_codes": [
+              {
+                "zip_codes": "98587"
+              }
+            ]
+          },
+          {
+            "city": "Wauna",
+            "county": "Pierce",
+            "population": 4412,
+            "zip_codes": [
+              {
+                "zip_codes": "98329"
+              }
+            ]
+          },
+          {
+            "city": "Connell",
+            "county": "Franklin",
+            "population": 5360,
+            "zip_codes": [
+              {
+                "zip_codes": "99326"
+              }
+            ]
+          },
+          {
+            "city": "Disautel",
+            "county": "Okanogan",
+            "population": 22,
+            "zip_codes": [
+              {
+                "zip_codes": "98841"
+              }
+            ]
+          },
+          {
+            "city": "Santiago",
+            "county": "Grays Harbor",
+            "population": 26,
+            "zip_codes": [
+              {
+                "zip_codes": "98587"
+              }
+            ]
+          },
+          {
+            "city": "Orting",
+            "county": "Pierce",
+            "population": 7983,
+            "zip_codes": [
+              {
+                "zip_codes": "98360"
+              }
+            ]
+          },
+          {
+            "city": "Colville",
+            "county": "Stevens",
+            "population": 5064,
+            "zip_codes": [
+              {
+                "zip_codes": "99114"
+              }
+            ]
+          },
+          {
+            "city": "Marysville",
+            "county": "Snohomish",
+            "population": 166541,
+            "zip_codes": [
+              {
+                "zip_codes": "98271"
+              },
+              {
+                "zip_codes": "98270"
+              }
+            ]
+          },
+          {
+            "city": "Walla Walla",
+            "county": "Walla Walla",
+            "population": 57779,
+            "zip_codes": [
+              {
+                "zip_codes": "99362"
+              }
+            ]
+          },
+          {
+            "city": "Zillah",
+            "county": "Yakima",
+            "population": 3125,
+            "zip_codes": [
+              {
+                "zip_codes": "98953"
+              }
+            ]
+          },
+          {
+            "city": "Curlew",
+            "county": "Ferry",
+            "population": 149,
+            "zip_codes": [
+              {
+                "zip_codes": "99118"
+              }
+            ]
+          },
+          {
+            "city": "Key Center",
+            "county": "Pierce",
+            "population": 3810,
+            "zip_codes": [
+              {
+                "zip_codes": "98349"
+              },
+              {
+                "zip_codes": "98329"
+              },
+              {
+                "zip_codes": "98394"
+              },
+              {
+                "zip_codes": "98395"
+              }
+            ]
+          },
+          {
+            "city": "Hoodsport",
+            "county": "Mason",
+            "population": 331,
+            "zip_codes": [
+              {
+                "zip_codes": "98548"
+              }
+            ]
+          },
+          {
+            "city": "Spanaway",
+            "county": "Pierce",
+            "population": 30528,
+            "zip_codes": [
+              {
+                "zip_codes": "98387"
+              },
+              {
+                "zip_codes": "98445"
+              }
+            ]
+          },
+          {
+            "city": "Mattawa",
+            "county": "Grant",
+            "population": 5122,
+            "zip_codes": [
+              {
+                "zip_codes": "99349"
+              }
+            ]
+          },
+          {
+            "city": "Clallam Bay",
+            "county": "Clallam",
+            "population": 366,
+            "zip_codes": [
+              {
+                "zip_codes": "98326"
+              }
+            ]
+          },
+          {
+            "city": "Prairie Ridge",
+            "county": "Pierce",
+            "population": 12733,
+            "zip_codes": [
+              {
+                "zip_codes": "98360"
+              },
+              {
+                "zip_codes": "98391"
+              }
+            ]
+          },
+          {
+            "city": "Rockport",
+            "county": "Skagit",
+            "population": 76,
+            "zip_codes": [
+              {
+                "zip_codes": "98283"
+              }
+            ]
+          },
+          {
+            "city": "Stansberry Lake",
+            "county": "Pierce",
+            "population": 2747,
+            "zip_codes": [
+              {
+                "zip_codes": "98329"
+              }
+            ]
+          },
+          {
+            "city": "Copalis Beach",
+            "county": "Grays Harbor",
+            "population": 559,
+            "zip_codes": [
+              {
+                "zip_codes": "98535"
+              },
+              {
+                "zip_codes": "98536"
+              }
+            ]
+          },
+          {
+            "city": "Frederickson",
+            "county": "Pierce",
+            "population": 21737,
+            "zip_codes": [
+              {
+                "zip_codes": "98387"
+              },
+              {
+                "zip_codes": "98375"
+              },
+              {
+                "zip_codes": "98446"
+              }
+            ]
+          },
+          {
+            "city": "Asotin",
+            "county": "Asotin",
+            "population": 1295,
+            "zip_codes": [
+              {
+                "zip_codes": "99402"
+              }
+            ]
+          },
+          {
+            "city": "Mill Creek",
+            "county": "Snohomish",
+            "population": 20832,
+            "zip_codes": [
+              {
+                "zip_codes": "98012"
+              },
+              {
+                "zip_codes": "98082"
+              }
+            ]
+          },
+          {
+            "city": "Bell Hill",
+            "county": "Clallam",
+            "population": 875,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Green Bluff",
+            "county": "Spokane",
+            "population": 544,
+            "zip_codes": [
+              {
+                "zip_codes": "99021"
+              },
+              {
+                "zip_codes": "99005"
+              }
+            ]
+          },
+          {
+            "city": "Clayton",
+            "county": "Stevens",
+            "population": 361,
+            "zip_codes": [
+              {
+                "zip_codes": "99110"
+              }
+            ]
+          },
+          {
+            "city": "Puyallup",
+            "county": "Pierce",
+            "population": 41001,
+            "zip_codes": [
+              {
+                "zip_codes": "98372"
+              },
+              {
+                "zip_codes": "98371"
+              },
+              {
+                "zip_codes": "98374"
+              },
+              {
+                "zip_codes": "98373"
+              },
+              {
+                "zip_codes": "98352"
+              }
+            ]
+          },
+          {
+            "city": "Hockinson",
+            "county": "Clark",
+            "population": 5267,
+            "zip_codes": [
+              {
+                "zip_codes": "98606"
+              }
+            ]
+          },
+          {
+            "city": "Lake McMurray",
+            "county": "Skagit",
+            "population": 134,
+            "zip_codes": [
+              {
+                "zip_codes": "98274"
+              }
+            ]
+          },
+          {
+            "city": "Bucoda",
+            "county": "Thurston",
+            "population": 583,
+            "zip_codes": [
+              {
+                "zip_codes": "98530"
+              }
+            ]
+          },
+          {
+            "city": "Issaquah",
+            "county": "King",
+            "population": 37487,
+            "zip_codes": [
+              {
+                "zip_codes": "98029"
+              },
+              {
+                "zip_codes": "98027"
+              }
+            ]
+          },
+          {
+            "city": "Odessa",
+            "county": "Lincoln",
+            "population": 876,
+            "zip_codes": [
+              {
+                "zip_codes": "99159"
+              }
+            ]
+          },
+          {
+            "city": "Hazel Dell",
+            "county": "Clark",
+            "population": 21449,
+            "zip_codes": [
+              {
+                "zip_codes": "98665"
+              }
+            ]
+          },
+          {
+            "city": "McMillin",
+            "county": "Pierce",
+            "population": 1673,
+            "zip_codes": [
+              {
+                "zip_codes": "98360"
+              },
+              {
+                "zip_codes": "98374"
+              }
+            ]
+          },
+          {
+            "city": "Wilbur",
+            "county": "Lincoln",
+            "population": 839,
+            "zip_codes": [
+              {
+                "zip_codes": "99185"
+              }
+            ]
+          },
+          {
+            "city": "Skamokawa Valley",
+            "county": "Wahkiakum",
+            "population": 300,
+            "zip_codes": [
+              {
+                "zip_codes": "98647"
+              }
+            ]
+          },
+          {
+            "city": "Centerville",
+            "county": "Klickitat",
+            "population": 109,
+            "zip_codes": [
+              {
+                "zip_codes": "98613"
+              }
+            ]
+          },
+          {
+            "city": "Nile",
+            "county": "Yakima",
+            "population": 98,
+            "zip_codes": [
+              {
+                "zip_codes": "98937"
+              }
+            ]
+          },
+          {
+            "city": "Spokane Valley",
+            "county": "Spokane",
+            "population": 97847,
+            "zip_codes": [
+              {
+                "zip_codes": "99206"
+              },
+              {
+                "zip_codes": "99016"
+              },
+              {
+                "zip_codes": "99212"
+              },
+              {
+                "zip_codes": "99216"
+              },
+              {
+                "zip_codes": "99037"
+              },
+              {
+                "zip_codes": "99211"
+              },
+              {
+                "zip_codes": "99213"
+              },
+              {
+                "zip_codes": "99215"
+              }
+            ]
+          },
+          {
+            "city": "Woodland",
+            "county": "Cowlitz",
+            "population": 6531,
+            "zip_codes": [
+              {
+                "zip_codes": "98674"
+              }
+            ]
+          },
+          {
+            "city": "Lewisville",
+            "county": "Clark",
+            "population": 1503,
+            "zip_codes": [
+              {
+                "zip_codes": "98604"
+              }
+            ]
+          },
+          {
+            "city": "Vantage",
+            "county": "Kittitas",
+            "population": 18,
+            "zip_codes": [
+              {
+                "zip_codes": "98950"
+              }
+            ]
+          },
+          {
+            "city": "Gorst",
+            "county": "Kitsap",
+            "population": 257,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              },
+              {
+                "zip_codes": "98367"
+              }
+            ]
+          },
+          {
+            "city": "Lake Morton-Berrydale",
+            "county": "King",
+            "population": 11201,
+            "zip_codes": [
+              {
+                "zip_codes": "98092"
+              },
+              {
+                "zip_codes": "98042"
+              }
+            ]
+          },
+          {
+            "city": "Ione",
+            "county": "Pend Oreille",
+            "population": 459,
+            "zip_codes": [
+              {
+                "zip_codes": "99139"
+              }
+            ]
+          },
+          {
+            "city": "Bothell West",
+            "county": "Snohomish",
+            "population": 20472,
+            "zip_codes": [
+              {
+                "zip_codes": "98021"
+              },
+              {
+                "zip_codes": "98036"
+              },
+              {
+                "zip_codes": "98012"
+              }
+            ]
+          },
+          {
+            "city": "Vaughn",
+            "county": "Pierce",
+            "population": 342,
+            "zip_codes": [
+              {
+                "zip_codes": "98329"
+              },
+              {
+                "zip_codes": "98394"
+              }
+            ]
+          },
+          {
+            "city": "Black Diamond",
+            "county": "King",
+            "population": 4436,
+            "zip_codes": [
+              {
+                "zip_codes": "98010"
+              }
+            ]
+          },
+          {
+            "city": "Ferndale",
+            "county": "Whatcom",
+            "population": 14026,
+            "zip_codes": [
+              {
+                "zip_codes": "98248"
+              }
+            ]
+          },
+          {
+            "city": "Acme",
+            "county": "Whatcom",
+            "population": 183,
+            "zip_codes": [
+              {
+                "zip_codes": "98220"
+              }
+            ]
+          },
+          {
+            "city": "White Center",
+            "county": "King",
+            "population": 15300,
+            "zip_codes": [
+              {
+                "zip_codes": "98106"
+              },
+              {
+                "zip_codes": "98146"
+              },
+              {
+                "zip_codes": "98168"
+              }
+            ]
+          },
+          {
+            "city": "Fairchild AFB",
+            "county": "Spokane",
+            "population": 2960,
+            "zip_codes": [
+              {
+                "zip_codes": "99011"
+              }
+            ]
+          },
+          {
+            "city": "Pacific",
+            "county": "King",
+            "population": 7184,
+            "zip_codes": [
+              {
+                "zip_codes": "98001"
+              },
+              {
+                "zip_codes": "98047"
+              }
+            ]
+          },
+          {
+            "city": "Glenwood",
+            "county": "Klickitat",
+            "population": 157,
+            "zip_codes": [
+              {
+                "zip_codes": "98619"
+              }
+            ]
+          },
+          {
+            "city": "Colfax",
+            "county": "Whitman",
+            "population": 2811,
+            "zip_codes": [
+              {
+                "zip_codes": "99111"
+              }
+            ]
+          },
+          {
+            "city": "Silvana",
+            "county": "Snohomish",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Forks",
+            "county": "Clallam",
+            "population": 4274,
+            "zip_codes": [
+              {
+                "zip_codes": "98331"
+              }
+            ]
+          },
+          {
+            "city": "Kirkland",
+            "county": "King",
+            "population": 88630,
+            "zip_codes": [
+              {
+                "zip_codes": "98034"
+              },
+              {
+                "zip_codes": "98033"
+              },
+              {
+                "zip_codes": "98011"
+              },
+              {
+                "zip_codes": "98083"
+              }
+            ]
+          },
+          {
+            "city": "Okanogan",
+            "county": "Okanogan",
+            "population": 2571,
+            "zip_codes": [
+              {
+                "zip_codes": "98840"
+              }
+            ]
+          },
+          {
+            "city": "Kayak Point",
+            "county": "Snohomish",
+            "population": 1693,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Union Hill-Novelty Hill",
+            "county": "King",
+            "population": 22109,
+            "zip_codes": [
+              {
+                "zip_codes": "98053"
+              },
+              {
+                "zip_codes": "98077"
+              }
+            ]
+          },
+          {
+            "city": "Outlook",
+            "county": "Yakima",
+            "population": 300,
+            "zip_codes": [
+              {
+                "zip_codes": "98938"
+              }
+            ]
+          },
+          {
+            "city": "Lake Tapps",
+            "county": "Pierce",
+            "population": 13091,
+            "zip_codes": [
+              {
+                "zip_codes": "98391"
+              }
+            ]
+          },
+          {
+            "city": "Cohassett Beach",
+            "county": "Grays Harbor",
+            "population": 712,
+            "zip_codes": [
+              {
+                "zip_codes": "98595"
+              }
+            ]
+          },
+          {
+            "city": "Tonasket",
+            "county": "Okanogan",
+            "population": 1126,
+            "zip_codes": [
+              {
+                "zip_codes": "98855"
+              }
+            ]
+          },
+          {
+            "city": "Sunnyside",
+            "county": "Yakima",
+            "population": 17927,
+            "zip_codes": [
+              {
+                "zip_codes": "98944"
+              }
+            ]
+          },
+          {
+            "city": "Lakeview",
+            "county": "Grant",
+            "population": 881,
+            "zip_codes": [
+              {
+                "zip_codes": "98851"
+              }
+            ]
+          },
+          {
+            "city": "Carbonado",
+            "county": "Pierce",
+            "population": 701,
+            "zip_codes": [
+              {
+                "zip_codes": "98323"
+              },
+              {
+                "zip_codes": "98396"
+              }
+            ]
+          },
+          {
+            "city": "Pullman",
+            "county": "Whitman",
+            "population": 33276,
+            "zip_codes": [
+              {
+                "zip_codes": "99164"
+              },
+              {
+                "zip_codes": "99163"
+              }
+            ]
+          },
+          {
+            "city": "Blyn",
+            "county": "Clallam",
+            "population": 22,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Brinnon",
+            "county": "Jefferson",
+            "population": 703,
+            "zip_codes": [
+              {
+                "zip_codes": "98320"
+              }
+            ]
+          },
+          {
+            "city": "Friday Harbor",
+            "county": "San Juan",
+            "population": 2407,
+            "zip_codes": [
+              {
+                "zip_codes": "98250"
+              }
+            ]
+          },
+          {
+            "city": "Orchards",
+            "county": "Clark",
+            "population": 21299,
+            "zip_codes": [
+              {
+                "zip_codes": "98682"
+              }
+            ]
+          },
+          {
+            "city": "Purdy",
+            "county": "Pierce",
+            "population": 1087,
+            "zip_codes": [
+              {
+                "zip_codes": "98332"
+              }
+            ]
+          },
+          {
+            "city": "Tekoa",
+            "county": "Whitman",
+            "population": 809,
+            "zip_codes": [
+              {
+                "zip_codes": "99033"
+              }
+            ]
+          },
+          {
+            "city": "Tanner",
+            "county": "King",
+            "population": 905,
+            "zip_codes": [
+              {
+                "zip_codes": "98045"
+              }
+            ]
+          },
+          {
+            "city": "Thorp",
+            "county": "Kittitas",
+            "population": 297,
+            "zip_codes": [
+              {
+                "zip_codes": "98946"
+              }
+            ]
+          },
+          {
+            "city": "Artondale",
+            "county": "Pierce",
+            "population": 12937,
+            "zip_codes": [
+              {
+                "zip_codes": "98335"
+              }
+            ]
+          },
+          {
+            "city": "Liberty Lake",
+            "county": "Spokane",
+            "population": 9893,
+            "zip_codes": [
+              {
+                "zip_codes": "99019"
+              },
+              {
+                "zip_codes": "99016"
+              }
+            ]
+          },
+          {
+            "city": "Cheney",
+            "county": "Spokane",
+            "population": 12421,
+            "zip_codes": [
+              {
+                "zip_codes": "99004"
+              }
+            ]
+          },
+          {
+            "city": "Sammamish",
+            "county": "King",
+            "population": 64548,
+            "zip_codes": [
+              {
+                "zip_codes": "98029"
+              },
+              {
+                "zip_codes": "98075"
+              },
+              {
+                "zip_codes": "98074"
+              }
+            ]
+          },
+          {
+            "city": "Cle Elum",
+            "county": "Kittitas",
+            "population": 3768,
+            "zip_codes": [
+              {
+                "zip_codes": "98943"
+              },
+              {
+                "zip_codes": "98922"
+              }
+            ]
+          },
+          {
+            "city": "Fern Prairie",
+            "county": "Clark",
+            "population": 2611,
+            "zip_codes": [
+              {
+                "zip_codes": "98607"
+              }
+            ]
+          },
+          {
+            "city": "Waverly",
+            "county": "Spokane",
+            "population": 108,
+            "zip_codes": [
+              {
+                "zip_codes": "99012"
+              },
+              {
+                "zip_codes": "99039"
+              }
+            ]
+          },
+          {
+            "city": "Lakewood",
+            "county": "Pierce",
+            "population": 60296,
+            "zip_codes": [
+              {
+                "zip_codes": "98499"
+              },
+              {
+                "zip_codes": "98498"
+              },
+              {
+                "zip_codes": "98496"
+              },
+              {
+                "zip_codes": "98497"
+              }
+            ]
+          },
+          {
+            "city": "Lake Marcel-Stillwater",
+            "county": "King",
+            "population": 1220,
+            "zip_codes": [
+              {
+                "zip_codes": "98014"
+              }
+            ]
+          },
+          {
+            "city": "Central Park",
+            "county": "Grays Harbor",
+            "population": 2741,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              }
+            ]
+          },
+          {
+            "city": "Bridgeport",
+            "county": "Douglas",
+            "population": 2555,
+            "zip_codes": [
+              {
+                "zip_codes": "98813"
+              }
+            ]
+          },
+          {
+            "city": "Raft Island",
+            "county": "Pierce",
+            "population": 341,
+            "zip_codes": [
+              {
+                "zip_codes": "98335"
+              }
+            ]
+          },
+          {
+            "city": "Larch Way",
+            "county": "Snohomish",
+            "population": 4117,
+            "zip_codes": [
+              {
+                "zip_codes": "98087"
+              },
+              {
+                "zip_codes": "98037"
+              }
+            ]
+          },
+          {
+            "city": "Lake Bosworth",
+            "county": "Snohomish",
+            "population": 654,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              },
+              {
+                "zip_codes": "98252"
+              }
+            ]
+          },
+          {
+            "city": "Barberton",
+            "county": "Clark",
+            "population": 6719,
+            "zip_codes": [
+              {
+                "zip_codes": "98662"
+              },
+              {
+                "zip_codes": "98686"
+              },
+              {
+                "zip_codes": "98666"
+              },
+              {
+                "zip_codes": "98668"
+              }
+            ]
+          },
+          {
+            "city": "Sekiu",
+            "county": "Clallam",
+            "population": 50,
+            "zip_codes": [
+              {
+                "zip_codes": "98381"
+              }
+            ]
+          },
+          {
+            "city": "Brier",
+            "county": "Snohomish",
+            "population": 6884,
+            "zip_codes": [
+              {
+                "zip_codes": "98036"
+              }
+            ]
+          },
+          {
+            "city": "Spokane",
+            "county": "Spokane",
+            "population": 403043,
+            "zip_codes": [
+              {
+                "zip_codes": "99201"
+              },
+              {
+                "zip_codes": "99203"
+              },
+              {
+                "zip_codes": "99202"
+              },
+              {
+                "zip_codes": "99205"
+              },
+              {
+                "zip_codes": "99204"
+              },
+              {
+                "zip_codes": "99207"
+              },
+              {
+                "zip_codes": "99208"
+              },
+              {
+                "zip_codes": "99224"
+              },
+              {
+                "zip_codes": "99223"
+              },
+              {
+                "zip_codes": "99001"
+              },
+              {
+                "zip_codes": "99212"
+              },
+              {
+                "zip_codes": "99209"
+              },
+              {
+                "zip_codes": "99210"
+              },
+              {
+                "zip_codes": "99219"
+              },
+              {
+                "zip_codes": "99220"
+              },
+              {
+                "zip_codes": "99252"
+              },
+              {
+                "zip_codes": "99256"
+              },
+              {
+                "zip_codes": "99258"
+              },
+              {
+                "zip_codes": "99260"
+              }
+            ]
+          },
+          {
+            "city": "Fall City",
+            "county": "King",
+            "population": 1903,
+            "zip_codes": [
+              {
+                "zip_codes": "98024"
+              }
+            ]
+          },
+          {
+            "city": "Pasco",
+            "county": "Franklin",
+            "population": 73013,
+            "zip_codes": [
+              {
+                "zip_codes": "99301"
+              },
+              {
+                "zip_codes": "99302"
+              }
+            ]
+          },
+          {
+            "city": "Lyman",
+            "county": "Skagit",
+            "population": 468,
+            "zip_codes": [
+              {
+                "zip_codes": "98263"
+              },
+              {
+                "zip_codes": "98284"
+              }
+            ]
+          },
+          {
+            "city": "Oakville",
+            "county": "Grays Harbor",
+            "population": 684,
+            "zip_codes": [
+              {
+                "zip_codes": "98568"
+              }
+            ]
+          },
+          {
+            "city": "Dash Point",
+            "county": "Pierce",
+            "population": 1007,
+            "zip_codes": [
+              {
+                "zip_codes": "98422"
+              }
+            ]
+          },
+          {
+            "city": "Herron Island",
+            "county": "Pierce",
+            "population": 69,
+            "zip_codes": [
+              {
+                "zip_codes": "98349"
+              }
+            ]
+          },
+          {
+            "city": "West Clarkston-Highland",
+            "county": "Asotin",
+            "population": 5895,
+            "zip_codes": [
+              {
+                "zip_codes": "99403"
+              }
+            ]
+          },
+          {
+            "city": "Royal City",
+            "county": "Grant",
+            "population": 2205,
+            "zip_codes": [
+              {
+                "zip_codes": "99357"
+              }
+            ]
+          },
+          {
+            "city": "Venersborg",
+            "county": "Clark",
+            "population": 4196,
+            "zip_codes": [
+              {
+                "zip_codes": "98604"
+              }
+            ]
+          },
+          {
+            "city": "Hoquiam",
+            "county": "Grays Harbor",
+            "population": 8500,
+            "zip_codes": [
+              {
+                "zip_codes": "98550"
+              }
+            ]
+          },
+          {
+            "city": "Willapa",
+            "county": "Pacific",
+            "population": 204,
+            "zip_codes": [
+              {
+                "zip_codes": "98577"
+              }
+            ]
+          },
+          {
+            "city": "Quilcene",
+            "county": "Jefferson",
+            "population": 432,
+            "zip_codes": [
+              {
+                "zip_codes": "98376"
+              }
+            ]
+          },
+          {
+            "city": "Freeland",
+            "county": "Island",
+            "population": 1698,
+            "zip_codes": [
+              {
+                "zip_codes": "98249"
+              }
+            ]
+          },
+          {
+            "city": "McCleary",
+            "county": "Grays Harbor",
+            "population": 1691,
+            "zip_codes": [
+              {
+                "zip_codes": "98557"
+              }
+            ]
+          },
+          {
+            "city": "Roosevelt",
+            "county": "Klickitat",
+            "population": 107,
+            "zip_codes": [
+              {
+                "zip_codes": "99356"
+              }
+            ]
+          },
+          {
+            "city": "Long Beach",
+            "county": "Pacific",
+            "population": 1413,
+            "zip_codes": [
+              {
+                "zip_codes": "98631"
+              }
+            ]
+          },
+          {
+            "city": "Trout Lake",
+            "county": "Klickitat",
+            "population": 654,
+            "zip_codes": [
+              {
+                "zip_codes": "98650"
+              }
+            ]
+          },
+          {
+            "city": "Coulee Dam",
+            "county": "Okanogan",
+            "population": 1079,
+            "zip_codes": [
+              {
+                "zip_codes": "99116"
+              }
+            ]
+          },
+          {
+            "city": "Swede Heaven",
+            "county": "Snohomish",
+            "population": 1030,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "Pine Grove",
+            "county": "Ferry",
+            "population": 111,
+            "zip_codes": [
+              {
+                "zip_codes": "99166"
+              }
+            ]
+          },
+          {
+            "city": "Langley",
+            "county": "Island",
+            "population": 1124,
+            "zip_codes": [
+              {
+                "zip_codes": "98260"
+              }
+            ]
+          },
+          {
+            "city": "Sedro-Woolley",
+            "county": "Skagit",
+            "population": 11838,
+            "zip_codes": [
+              {
+                "zip_codes": "98284"
+              }
+            ]
+          },
+          {
+            "city": "Hatton",
+            "county": "Adams",
+            "population": 101,
+            "zip_codes": [
+              {
+                "zip_codes": "99344"
+              }
+            ]
+          },
+          {
+            "city": "Entiat",
+            "county": "Chelan",
+            "population": 1223,
+            "zip_codes": [
+              {
+                "zip_codes": "98822"
+              }
+            ]
+          },
+          {
+            "city": "Bainbridge Island",
+            "county": "Kitsap",
+            "population": 24522,
+            "zip_codes": [
+              {
+                "zip_codes": "98110"
+              },
+              {
+                "zip_codes": "98061"
+              }
+            ]
+          },
+          {
+            "city": "Auburn",
+            "county": "King",
+            "population": 80776,
+            "zip_codes": [
+              {
+                "zip_codes": "98001"
+              },
+              {
+                "zip_codes": "98002"
+              },
+              {
+                "zip_codes": "98092"
+              }
+            ]
+          },
+          {
+            "city": "Ocean City",
+            "county": "Grays Harbor",
+            "population": 168,
+            "zip_codes": [
+              {
+                "zip_codes": "98569"
+              }
+            ]
+          },
+          {
+            "city": "White Swan",
+            "county": "Yakima",
+            "population": 973,
+            "zip_codes": [
+              {
+                "zip_codes": "98952"
+              }
+            ]
+          },
+          {
+            "city": "Felida",
+            "county": "Clark",
+            "population": 8065,
+            "zip_codes": [
+              {
+                "zip_codes": "98685"
+              }
+            ]
+          },
+          {
+            "city": "Lacey",
+            "county": "Thurston",
+            "population": 49748,
+            "zip_codes": [
+              {
+                "zip_codes": "98503"
+              },
+              {
+                "zip_codes": "98516"
+              },
+              {
+                "zip_codes": "98509"
+              }
+            ]
+          },
+          {
+            "city": "Gold Bar",
+            "county": "Snohomish",
+            "population": 2301,
+            "zip_codes": [
+              {
+                "zip_codes": "98251"
+              }
+            ]
+          },
+          {
+            "city": "Clyde Hill",
+            "county": "King",
+            "population": 3318,
+            "zip_codes": [
+              {
+                "zip_codes": "98004"
+              }
+            ]
+          },
+          {
+            "city": "Upper Elochoman",
+            "county": "Wahkiakum",
+            "population": 70,
+            "zip_codes": [
+              {
+                "zip_codes": "98612"
+              }
+            ]
+          },
+          {
+            "city": "Marcus",
+            "county": "Stevens",
+            "population": 183,
+            "zip_codes": [
+              {
+                "zip_codes": "99126"
+              },
+              {
+                "zip_codes": "99151"
+              }
+            ]
+          },
+          {
+            "city": "Canyon Creek",
+            "county": "Snohomish",
+            "population": 3319,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              },
+              {
+                "zip_codes": "98252"
+              }
+            ]
+          },
+          {
+            "city": "Malone",
+            "county": "Grays Harbor",
+            "population": 543,
+            "zip_codes": [
+              {
+                "zip_codes": "98559"
+              },
+              {
+                "zip_codes": "98541"
+              }
+            ]
+          },
+          {
+            "city": "Bothell East",
+            "county": "Snohomish",
+            "population": 10424,
+            "zip_codes": [
+              {
+                "zip_codes": "98021"
+              },
+              {
+                "zip_codes": "98012"
+              }
+            ]
+          },
+          {
+            "city": "Yarrow Point",
+            "county": "King",
+            "population": 1126,
+            "zip_codes": [
+              {
+                "zip_codes": "98004"
+              }
+            ]
+          },
+          {
+            "city": "Steptoe",
+            "county": "Whitman",
+            "population": 183,
+            "zip_codes": [
+              {
+                "zip_codes": "99111"
+              },
+              {
+                "zip_codes": "99174"
+              }
+            ]
+          },
+          {
+            "city": "West Richland",
+            "county": "Benton",
+            "population": 14596,
+            "zip_codes": [
+              {
+                "zip_codes": "99320"
+              },
+              {
+                "zip_codes": "99353"
+              }
+            ]
+          },
+          {
+            "city": "Orient",
+            "county": "Ferry",
+            "population": 132,
+            "zip_codes": [
+              {
+                "zip_codes": "99160"
+              }
+            ]
+          },
+          {
+            "city": "Federal Way",
+            "county": "King",
+            "population": 96690,
+            "zip_codes": [
+              {
+                "zip_codes": "98023"
+              },
+              {
+                "zip_codes": "98003"
+              },
+              {
+                "zip_codes": "98063"
+              },
+              {
+                "zip_codes": "98093"
+              }
+            ]
+          },
+          {
+            "city": "Pe Ell",
+            "county": "Lewis",
+            "population": 653,
+            "zip_codes": [
+              {
+                "zip_codes": "98572"
+              },
+              {
+                "zip_codes": "98522"
+              }
+            ]
+          },
+          {
+            "city": "Deep River",
+            "county": "Wahkiakum",
+            "population": 151,
+            "zip_codes": [
+              {
+                "zip_codes": "98638"
+              }
+            ]
+          },
+          {
+            "city": "Bothell",
+            "county": "King",
+            "population": 45533,
+            "zip_codes": [
+              {
+                "zip_codes": "98021"
+              },
+              {
+                "zip_codes": "98011"
+              },
+              {
+                "zip_codes": "98041"
+              }
+            ]
+          },
+          {
+            "city": "South Wenatchee",
+            "county": "Chelan",
+            "population": 2057,
+            "zip_codes": [
+              {
+                "zip_codes": "98801"
+              }
+            ]
+          },
+          {
+            "city": "Snoqualmie Pass",
+            "county": "Kittitas",
+            "population": 235,
+            "zip_codes": [
+              {
+                "zip_codes": "98068"
+              }
+            ]
+          },
+          {
+            "city": "Hartline",
+            "county": "Grant",
+            "population": 154,
+            "zip_codes": [
+              {
+                "zip_codes": "99135"
+              }
+            ]
+          },
+          {
+            "city": "Lake Forest Park",
+            "county": "King",
+            "population": 13392,
+            "zip_codes": [
+              {
+                "zip_codes": "98155"
+              }
+            ]
+          },
+          {
+            "city": "Crocker",
+            "county": "Pierce",
+            "population": 1332,
+            "zip_codes": [
+              {
+                "zip_codes": "98360"
+              }
+            ]
+          },
+          {
+            "city": "Elbe",
+            "county": "Pierce",
+            "population": 53,
+            "zip_codes": [
+              {
+                "zip_codes": "98330"
+              }
+            ]
+          },
+          {
+            "city": "Ravensdale",
+            "county": "King",
+            "population": 1579,
+            "zip_codes": [
+              {
+                "zip_codes": "98051"
+              },
+              {
+                "zip_codes": "98038"
+              }
+            ]
+          },
+          {
+            "city": "Arlington",
+            "county": "Snohomish",
+            "population": 19212,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "McChord AFB",
+            "county": "Pierce",
+            "population": 3337,
+            "zip_codes": [
+              {
+                "zip_codes": "98439"
+              },
+              {
+                "zip_codes": "98438"
+              }
+            ]
+          },
+          {
+            "city": "Lebam",
+            "county": "Pacific",
+            "population": 101,
+            "zip_codes": [
+              {
+                "zip_codes": "98577"
+              },
+              {
+                "zip_codes": "98554"
+              }
+            ]
+          },
+          {
+            "city": "Lynden",
+            "county": "Whatcom",
+            "population": 17340,
+            "zip_codes": [
+              {
+                "zip_codes": "98264"
+              }
+            ]
+          },
+          {
+            "city": "Coupeville",
+            "county": "Island",
+            "population": 1928,
+            "zip_codes": [
+              {
+                "zip_codes": "98239"
+              }
+            ]
+          },
+          {
+            "city": "Prescott",
+            "county": "Walla Walla",
+            "population": 304,
+            "zip_codes": [
+              {
+                "zip_codes": "99348"
+              }
+            ]
+          },
+          {
+            "city": "South Bend",
+            "county": "Pacific",
+            "population": 1651,
+            "zip_codes": [
+              {
+                "zip_codes": "98586"
+              },
+              {
+                "zip_codes": "98577"
+              }
+            ]
+          },
+          {
+            "city": "Mabton",
+            "county": "Yakima",
+            "population": 2532,
+            "zip_codes": [
+              {
+                "zip_codes": "98935"
+              }
+            ]
+          },
+          {
+            "city": "North Bend",
+            "county": "King",
+            "population": 6821,
+            "zip_codes": [
+              {
+                "zip_codes": "98045"
+              }
+            ]
+          },
+          {
+            "city": "Grapeview",
+            "county": "Mason",
+            "population": 982,
+            "zip_codes": [
+              {
+                "zip_codes": "98524"
+              },
+              {
+                "zip_codes": "98546"
+              }
+            ]
+          },
+          {
+            "city": "Garfield",
+            "county": "Whitman",
+            "population": 614,
+            "zip_codes": [
+              {
+                "zip_codes": "99130"
+              }
+            ]
+          },
+          {
+            "city": "Rochester",
+            "county": "Thurston",
+            "population": 2923,
+            "zip_codes": [
+              {
+                "zip_codes": "98579"
+              }
+            ]
+          },
+          {
+            "city": "Dayton",
+            "county": "Columbia",
+            "population": 2637,
+            "zip_codes": [
+              {
+                "zip_codes": "99328"
+              }
+            ]
+          },
+          {
+            "city": "Algona",
+            "county": "King",
+            "population": 3185,
+            "zip_codes": [
+              {
+                "zip_codes": "98001"
+              },
+              {
+                "zip_codes": "98047"
+              }
+            ]
+          },
+          {
+            "city": "Mineral",
+            "county": "Lewis",
+            "population": 193,
+            "zip_codes": [
+              {
+                "zip_codes": "98355"
+              }
+            ]
+          },
+          {
+            "city": "Barstow",
+            "county": "Ferry",
+            "population": 119,
+            "zip_codes": [
+              {
+                "zip_codes": "99141"
+              }
+            ]
+          },
+          {
+            "city": "Moclips",
+            "county": "Grays Harbor",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98571"
+              },
+              {
+                "zip_codes": "98562"
+              }
+            ]
+          },
+          {
+            "city": "Bellingham",
+            "county": "Whatcom",
+            "population": 126015,
+            "zip_codes": [
+              {
+                "zip_codes": "98229"
+              },
+              {
+                "zip_codes": "98225"
+              },
+              {
+                "zip_codes": "98226"
+              },
+              {
+                "zip_codes": "98228"
+              }
+            ]
+          },
+          {
+            "city": "Vader",
+            "county": "Lewis",
+            "population": 643,
+            "zip_codes": [
+              {
+                "zip_codes": "98593"
+              }
+            ]
+          },
+          {
+            "city": "North Lynnwood",
+            "county": "Snohomish",
+            "population": 20626,
+            "zip_codes": [
+              {
+                "zip_codes": "98087"
+              },
+              {
+                "zip_codes": "98037"
+              }
+            ]
+          },
+          {
+            "city": "Tracyton",
+            "county": "Kitsap",
+            "population": 5937,
+            "zip_codes": [
+              {
+                "zip_codes": "98311"
+              },
+              {
+                "zip_codes": "98310"
+              },
+              {
+                "zip_codes": "98393"
+              }
+            ]
+          },
+          {
+            "city": "White Salmon",
+            "county": "Klickitat",
+            "population": 2552,
+            "zip_codes": [
+              {
+                "zip_codes": "98672"
+              }
+            ]
+          },
+          {
+            "city": "Peaceful Valley",
+            "county": "Whatcom",
+            "population": 4196,
+            "zip_codes": [
+              {
+                "zip_codes": "98295"
+              },
+              {
+                "zip_codes": "98244"
+              },
+              {
+                "zip_codes": "98266"
+              }
+            ]
+          },
+          {
+            "city": "East Renton Highlands",
+            "county": "King",
+            "population": 11401,
+            "zip_codes": [
+              {
+                "zip_codes": "98027"
+              },
+              {
+                "zip_codes": "98059"
+              },
+              {
+                "zip_codes": "98038"
+              }
+            ]
+          },
+          {
+            "city": "Metaline",
+            "county": "Pend Oreille",
+            "population": 178,
+            "zip_codes": [
+              {
+                "zip_codes": "99152"
+              }
+            ]
+          },
+          {
+            "city": "Deming",
+            "county": "Whatcom",
+            "population": 240,
+            "zip_codes": [
+              {
+                "zip_codes": "98247"
+              },
+              {
+                "zip_codes": "98244"
+              }
+            ]
+          },
+          {
+            "city": "Medical Lake",
+            "county": "Spokane",
+            "population": 4818,
+            "zip_codes": [
+              {
+                "zip_codes": "99022"
+              }
+            ]
+          },
+          {
+            "city": "Aberdeen",
+            "county": "Grays Harbor",
+            "population": 29089,
+            "zip_codes": [
+              {
+                "zip_codes": "98520"
+              }
+            ]
+          },
+          {
+            "city": "Chehalis",
+            "county": "Lewis",
+            "population": 7533,
+            "zip_codes": [
+              {
+                "zip_codes": "98532"
+              }
+            ]
+          },
+          {
+            "city": "Onalaska",
+            "county": "Lewis",
+            "population": 709,
+            "zip_codes": [
+              {
+                "zip_codes": "98570"
+              }
+            ]
+          },
+          {
+            "city": "Toledo",
+            "county": "Lewis",
+            "population": 751,
+            "zip_codes": [
+              {
+                "zip_codes": "98591"
+              }
+            ]
+          },
+          {
+            "city": "Everson",
+            "county": "Whatcom",
+            "population": 4709,
+            "zip_codes": [
+              {
+                "zip_codes": "98247"
+              }
+            ]
+          },
+          {
+            "city": "Belfair",
+            "county": "Mason",
+            "population": 4063,
+            "zip_codes": [
+              {
+                "zip_codes": "98528"
+              }
+            ]
+          },
+          {
+            "city": "Lynnwood",
+            "county": "Snohomish",
+            "population": 38273,
+            "zip_codes": [
+              {
+                "zip_codes": "98037"
+              },
+              {
+                "zip_codes": "98036"
+              },
+              {
+                "zip_codes": "98046"
+              }
+            ]
+          },
+          {
+            "city": "Colton",
+            "county": "Whitman",
+            "population": 467,
+            "zip_codes": [
+              {
+                "zip_codes": "99113"
+              }
+            ]
+          },
+          {
+            "city": "Malden",
+            "county": "Whitman",
+            "population": 209,
+            "zip_codes": [
+              {
+                "zip_codes": "99149"
+              }
+            ]
+          },
+          {
+            "city": "Ames Lake",
+            "county": "King",
+            "population": 1526,
+            "zip_codes": [
+              {
+                "zip_codes": "98053"
+              },
+              {
+                "zip_codes": "98014"
+              }
+            ]
+          },
+          {
+            "city": "Wilson Creek",
+            "county": "Grant",
+            "population": 212,
+            "zip_codes": [
+              {
+                "zip_codes": "98860"
+              }
+            ]
+          },
+          {
+            "city": "North Yelm",
+            "county": "Thurston",
+            "population": 2887,
+            "zip_codes": [
+              {
+                "zip_codes": "98597"
+              }
+            ]
+          },
+          {
+            "city": "Mirrormont",
+            "county": "King",
+            "population": 3682,
+            "zip_codes": [
+              {
+                "zip_codes": "98027"
+              }
+            ]
+          },
+          {
+            "city": "Whidbey Island Station",
+            "county": "Island",
+            "population": 1938,
+            "zip_codes": [
+              {
+                "zip_codes": "98277"
+              },
+              {
+                "zip_codes": "98278"
+              }
+            ]
+          },
+          {
+            "city": "Town and Country",
+            "county": "Spokane",
+            "population": 5001,
+            "zip_codes": [
+              {
+                "zip_codes": "99208"
+              }
+            ]
+          },
+          {
+            "city": "Tokeland",
+            "county": "Pacific",
+            "population": 330,
+            "zip_codes": [
+              {
+                "zip_codes": "98590"
+              }
+            ]
+          },
+          {
+            "city": "Snoqualmie",
+            "county": "King",
+            "population": 26054,
+            "zip_codes": [
+              {
+                "zip_codes": "98065"
+              }
+            ]
+          },
+          {
+            "city": "Bremerton",
+            "county": "Kitsap",
+            "population": 216480,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              },
+              {
+                "zip_codes": "98314"
+              },
+              {
+                "zip_codes": "98310"
+              },
+              {
+                "zip_codes": "98367"
+              },
+              {
+                "zip_codes": "98337"
+              }
+            ]
+          },
+          {
+            "city": "East Cathlamet",
+            "county": "Wahkiakum",
+            "population": 503,
+            "zip_codes": [
+              {
+                "zip_codes": "98612"
+              }
+            ]
+          },
+          {
+            "city": "Fort Lewis",
+            "county": "Pierce",
+            "population": 13920,
+            "zip_codes": [
+              {
+                "zip_codes": "98439"
+              },
+              {
+                "zip_codes": "98433"
+              }
+            ]
+          },
+          {
+            "city": "Salmon Creek",
+            "county": "Clark",
+            "population": 21068,
+            "zip_codes": [
+              {
+                "zip_codes": "98686"
+              },
+              {
+                "zip_codes": "98685"
+              }
+            ]
+          },
+          {
+            "city": "Skykomish",
+            "county": "King",
+            "population": 216,
+            "zip_codes": [
+              {
+                "zip_codes": "98288"
+              }
+            ]
+          },
+          {
+            "city": "Tacoma",
+            "county": "Pierce",
+            "population": 213418,
+            "zip_codes": [
+              {
+                "zip_codes": "98422"
+              },
+              {
+                "zip_codes": "98421"
+              },
+              {
+                "zip_codes": "98402"
+              },
+              {
+                "zip_codes": "98403"
+              },
+              {
+                "zip_codes": "98404"
+              },
+              {
+                "zip_codes": "98405"
+              },
+              {
+                "zip_codes": "98408"
+              },
+              {
+                "zip_codes": "98409"
+              },
+              {
+                "zip_codes": "98406"
+              },
+              {
+                "zip_codes": "98407"
+              },
+              {
+                "zip_codes": "98465"
+              },
+              {
+                "zip_codes": "98416"
+              },
+              {
+                "zip_codes": "98418"
+              },
+              {
+                "zip_codes": "98444"
+              },
+              {
+                "zip_codes": "98401"
+              },
+              {
+                "zip_codes": "98411"
+              },
+              {
+                "zip_codes": "98412"
+              },
+              {
+                "zip_codes": "98413"
+              },
+              {
+                "zip_codes": "98415"
+              },
+              {
+                "zip_codes": "98417"
+              },
+              {
+                "zip_codes": "98419"
+              },
+              {
+                "zip_codes": "98471"
+              },
+              {
+                "zip_codes": "98481"
+              },
+              {
+                "zip_codes": "98490"
+              }
+            ]
+          },
+          {
+            "city": "Monroe",
+            "county": "Snohomish",
+            "population": 18789,
+            "zip_codes": [
+              {
+                "zip_codes": "98272"
+              }
+            ]
+          },
+          {
+            "city": "Loomis",
+            "county": "Okanogan",
+            "population": 117,
+            "zip_codes": [
+              {
+                "zip_codes": "98827"
+              }
+            ]
+          },
+          {
+            "city": "Pomeroy",
+            "county": "Garfield",
+            "population": 1388,
+            "zip_codes": [
+              {
+                "zip_codes": "99347"
+              }
+            ]
+          },
+          {
+            "city": "Brush Prairie",
+            "county": "Clark",
+            "population": 2783,
+            "zip_codes": [
+              {
+                "zip_codes": "98606"
+              },
+              {
+                "zip_codes": "98662"
+              }
+            ]
+          },
+          {
+            "city": "Silver Firs",
+            "county": "Snohomish",
+            "population": 22937,
+            "zip_codes": [
+              {
+                "zip_codes": "98296"
+              },
+              {
+                "zip_codes": "98012"
+              },
+              {
+                "zip_codes": "98208"
+              }
+            ]
+          },
+          {
+            "city": "Nespelem",
+            "county": "Okanogan",
+            "population": 313,
+            "zip_codes": [
+              {
+                "zip_codes": "99155"
+              }
+            ]
+          },
+          {
+            "city": "Meadowdale",
+            "county": "Snohomish",
+            "population": 3049,
+            "zip_codes": [
+              {
+                "zip_codes": "98026"
+              }
+            ]
+          },
+          {
+            "city": "Shadow Lake",
+            "county": "King",
+            "population": 2655,
+            "zip_codes": [
+              {
+                "zip_codes": "98058"
+              },
+              {
+                "zip_codes": "98038"
+              }
+            ]
+          },
+          {
+            "city": "LaCrosse",
+            "county": "Whitman",
+            "population": 324,
+            "zip_codes": [
+              {
+                "zip_codes": "99143"
+              }
+            ]
+          },
+          {
+            "city": "Concrete",
+            "county": "Skagit",
+            "population": 729,
+            "zip_codes": [
+              {
+                "zip_codes": "98237"
+              }
+            ]
+          },
+          {
+            "city": "Sumas",
+            "county": "Whatcom",
+            "population": 1464,
+            "zip_codes": [
+              {
+                "zip_codes": "98295"
+              }
+            ]
+          },
+          {
+            "city": "Ruston",
+            "county": "Pierce",
+            "population": 828,
+            "zip_codes": [
+              {
+                "zip_codes": "98407"
+              }
+            ]
+          },
+          {
+            "city": "La Center",
+            "county": "Clark",
+            "population": 3171,
+            "zip_codes": [
+              {
+                "zip_codes": "98629"
+              },
+              {
+                "zip_codes": "98642"
+              }
+            ]
+          },
+          {
+            "city": "Marrowstone",
+            "county": "Jefferson",
+            "population": 1084,
+            "zip_codes": [
+              {
+                "zip_codes": "98358"
+              }
+            ]
+          },
+          {
+            "city": "Chelan Falls",
+            "county": "Chelan",
+            "population": 86,
+            "zip_codes": [
+              {
+                "zip_codes": "98817"
+              }
+            ]
+          },
+          {
+            "city": "Lake Cavanaugh",
+            "county": "Skagit",
+            "population": 179,
+            "zip_codes": [
+              {
+                "zip_codes": "98274"
+              }
+            ]
+          },
+          {
+            "city": "Duluth",
+            "county": "Clark",
+            "population": 1379,
+            "zip_codes": [
+              {
+                "zip_codes": "98642"
+              }
+            ]
+          },
+          {
+            "city": "Sequim",
+            "county": "Clallam",
+            "population": 20750,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Benton City",
+            "county": "Benton",
+            "population": 4591,
+            "zip_codes": [
+              {
+                "zip_codes": "99320"
+              }
+            ]
+          },
+          {
+            "city": "Moses Lake",
+            "county": "Grant",
+            "population": 37774,
+            "zip_codes": [
+              {
+                "zip_codes": "98837"
+              }
+            ]
+          },
+          {
+            "city": "Fircrest",
+            "county": "Pierce",
+            "population": 6794,
+            "zip_codes": [
+              {
+                "zip_codes": "98466"
+              }
+            ]
+          },
+          {
+            "city": "Othello",
+            "county": "Adams",
+            "population": 12375,
+            "zip_codes": [
+              {
+                "zip_codes": "99344"
+              }
+            ]
+          },
+          {
+            "city": "Mercer Island",
+            "county": "King",
+            "population": 25261,
+            "zip_codes": [
+              {
+                "zip_codes": "98040"
+              }
+            ]
+          },
+          {
+            "city": "Enumclaw",
+            "county": "King",
+            "population": 11784,
+            "zip_codes": [
+              {
+                "zip_codes": "98022"
+              }
+            ]
+          },
+          {
+            "city": "Chico",
+            "county": "Kitsap",
+            "population": 2635,
+            "zip_codes": [
+              {
+                "zip_codes": "98312"
+              },
+              {
+                "zip_codes": "98383"
+              }
+            ]
+          },
+          {
+            "city": "Enetai",
+            "county": "Kitsap",
+            "population": 2231,
+            "zip_codes": [
+              {
+                "zip_codes": "98310"
+              }
+            ]
+          },
+          {
+            "city": "Hunts Point",
+            "county": "King",
+            "population": 434,
+            "zip_codes": [
+              {
+                "zip_codes": "98004"
+              }
+            ]
+          },
+          {
+            "city": "Clinton",
+            "county": "Island",
+            "population": 811,
+            "zip_codes": [
+              {
+                "zip_codes": "98236"
+              }
+            ]
+          },
+          {
+            "city": "Hat Island",
+            "county": "Snohomish",
+            "population": 48,
+            "zip_codes": [
+              {
+                "zip_codes": "98201"
+              }
+            ]
+          },
+          {
+            "city": "Marietta-Alderwood",
+            "county": "Whatcom",
+            "population": 4495,
+            "zip_codes": [
+              {
+                "zip_codes": "98225"
+              },
+              {
+                "zip_codes": "98226"
+              }
+            ]
+          },
+          {
+            "city": "Waitsburg",
+            "county": "Walla Walla",
+            "population": 1195,
+            "zip_codes": [
+              {
+                "zip_codes": "99361"
+              }
+            ]
+          },
+          {
+            "city": "Sunnyslope",
+            "county": "Chelan",
+            "population": 3641,
+            "zip_codes": [
+              {
+                "zip_codes": "98801"
+              }
+            ]
+          },
+          {
+            "city": "South Cle Elum",
+            "county": "Kittitas",
+            "population": 560,
+            "zip_codes": [
+              {
+                "zip_codes": "98943"
+              },
+              {
+                "zip_codes": "98922"
+              }
+            ]
+          },
+          {
+            "city": "Selah",
+            "county": "Yakima",
+            "population": 7859,
+            "zip_codes": [
+              {
+                "zip_codes": "98942"
+              }
+            ]
+          },
+          {
+            "city": "Lind",
+            "county": "Adams",
+            "population": 556,
+            "zip_codes": [
+              {
+                "zip_codes": "99341"
+              }
+            ]
+          },
+          {
+            "city": "Five Corners",
+            "county": "Clark",
+            "population": 18405,
+            "zip_codes": [
+              {
+                "zip_codes": "98662"
+              }
+            ]
+          },
+          {
+            "city": "Winthrop",
+            "county": "Okanogan",
+            "population": 439,
+            "zip_codes": [
+              {
+                "zip_codes": "98862"
+              }
+            ]
+          },
+          {
+            "city": "Normandy Park",
+            "county": "King",
+            "population": 6649,
+            "zip_codes": [
+              {
+                "zip_codes": "98166"
+              }
+            ]
+          },
+          {
+            "city": "Home",
+            "county": "Pierce",
+            "population": 1375,
+            "zip_codes": [
+              {
+                "zip_codes": "98349"
+              }
+            ]
+          },
+          {
+            "city": "Graham",
+            "county": "Pierce",
+            "population": 26939,
+            "zip_codes": [
+              {
+                "zip_codes": "98338"
+              }
+            ]
+          },
+          {
+            "city": "Yacolt",
+            "county": "Clark",
+            "population": 1735,
+            "zip_codes": [
+              {
+                "zip_codes": "98675"
+              }
+            ]
+          },
+          {
+            "city": "Packwood",
+            "county": "Lewis",
+            "population": 230,
+            "zip_codes": [
+              {
+                "zip_codes": "98361"
+              }
+            ]
+          },
+          {
+            "city": "Queets",
+            "county": "Grays Harbor",
+            "population": 199,
+            "zip_codes": [
+              {
+                "zip_codes": "98331"
+              }
+            ]
+          },
+          {
+            "city": "Finley",
+            "county": "Benton",
+            "population": 6015,
+            "zip_codes": [
+              {
+                "zip_codes": "99337"
+              }
+            ]
+          },
+          {
+            "city": "Northport",
+            "county": "Stevens",
+            "population": 296,
+            "zip_codes": [
+              {
+                "zip_codes": "99157"
+              }
+            ]
+          },
+          {
+            "city": "Medina",
+            "county": "King",
+            "population": 3267,
+            "zip_codes": [
+              {
+                "zip_codes": "98039"
+              }
+            ]
+          },
+          {
+            "city": "Browns Point",
+            "county": "Pierce",
+            "population": 1122,
+            "zip_codes": [
+              {
+                "zip_codes": "98422"
+              }
+            ]
+          },
+          {
+            "city": "Summit",
+            "county": "Pierce",
+            "population": 7876,
+            "zip_codes": [
+              {
+                "zip_codes": "98371"
+              },
+              {
+                "zip_codes": "98373"
+              },
+              {
+                "zip_codes": "98446"
+              }
+            ]
+          },
+          {
+            "city": "Albion",
+            "county": "Whitman",
+            "population": 608,
+            "zip_codes": [
+              {
+                "zip_codes": "99163"
+              },
+              {
+                "zip_codes": "99102"
+              }
+            ]
+          },
+          {
+            "city": "Sudden Valley",
+            "county": "Whatcom",
+            "population": 7621,
+            "zip_codes": [
+              {
+                "zip_codes": "98229"
+              }
+            ]
+          },
+          {
+            "city": "Bunk Foss",
+            "county": "Snohomish",
+            "population": 3604,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              },
+              {
+                "zip_codes": "98205"
+              }
+            ]
+          },
+          {
+            "city": "Gleed",
+            "county": "Yakima",
+            "population": 2474,
+            "zip_codes": [
+              {
+                "zip_codes": "98937"
+              },
+              {
+                "zip_codes": "98908"
+              }
+            ]
+          },
+          {
+            "city": "Maryhill",
+            "county": "Klickitat",
+            "population": 73,
+            "zip_codes": [
+              {
+                "zip_codes": "98620"
+              }
+            ]
+          },
+          {
+            "city": "Oyehut",
+            "county": "Grays Harbor",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_codes": "98550"
+              }
+            ]
+          },
+          {
+            "city": "Alder",
+            "county": "Pierce",
+            "population": 133,
+            "zip_codes": [
+              {
+                "zip_codes": "98328"
+              }
+            ]
+          },
+          {
+            "city": "Ridgefield",
+            "county": "Clark",
+            "population": 7117,
+            "zip_codes": [
+              {
+                "zip_codes": "98642"
+              }
+            ]
+          },
+          {
+            "city": "Bryant",
+            "county": "Snohomish",
+            "population": 1990,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              }
+            ]
+          },
+          {
+            "city": "Nisqually Indian Community",
+            "county": "Thurston",
+            "population": 690,
+            "zip_codes": [
+              {
+                "zip_codes": "98513"
+              }
+            ]
+          },
+          {
+            "city": "Porter",
+            "county": "Grays Harbor",
+            "population": 222,
+            "zip_codes": [
+              {
+                "zip_codes": "98541"
+              }
+            ]
+          },
+          {
+            "city": "Kettle Falls",
+            "county": "Stevens",
+            "population": 1611,
+            "zip_codes": [
+              {
+                "zip_codes": "99141"
+              }
+            ]
+          },
+          {
+            "city": "Chelan",
+            "county": "Chelan",
+            "population": 6078,
+            "zip_codes": [
+              {
+                "zip_codes": "98816"
+              }
+            ]
+          },
+          {
+            "city": "Edison",
+            "county": "Skagit",
+            "population": 156,
+            "zip_codes": [
+              {
+                "zip_codes": "98232"
+              }
+            ]
+          },
+          {
+            "city": "Neilton",
+            "county": "Grays Harbor",
+            "population": 373,
+            "zip_codes": [
+              {
+                "zip_codes": "98552"
+              },
+              {
+                "zip_codes": "98575"
+              },
+              {
+                "zip_codes": "98566"
+              }
+            ]
+          },
+          {
+            "city": "Fox Island",
+            "county": "Pierce",
+            "population": 3848,
+            "zip_codes": [
+              {
+                "zip_codes": "98333"
+              }
+            ]
+          },
+          {
+            "city": "Renton",
+            "county": "King",
+            "population": 101379,
+            "zip_codes": [
+              {
+                "zip_codes": "98059"
+              },
+              {
+                "zip_codes": "98058"
+              },
+              {
+                "zip_codes": "98057"
+              },
+              {
+                "zip_codes": "98056"
+              },
+              {
+                "zip_codes": "98055"
+              }
+            ]
+          },
+          {
+            "city": "Baring",
+            "county": "King",
+            "population": 173,
+            "zip_codes": [
+              {
+                "zip_codes": "98224"
+              }
+            ]
+          },
+          {
+            "city": "Hobart",
+            "county": "King",
+            "population": 6736,
+            "zip_codes": [
+              {
+                "zip_codes": "98038"
+              },
+              {
+                "zip_codes": "98025"
+              }
+            ]
+          },
+          {
+            "city": "Wallula",
+            "county": "Walla Walla",
+            "population": 329,
+            "zip_codes": [
+              {
+                "zip_codes": "99363"
+              }
+            ]
+          },
+          {
+            "city": "Touchet",
+            "county": "Walla Walla",
+            "population": 437,
+            "zip_codes": [
+              {
+                "zip_codes": "99360"
+              }
+            ]
+          },
+          {
+            "city": "Leavenworth",
+            "county": "Chelan",
+            "population": 3332,
+            "zip_codes": [
+              {
+                "zip_codes": "98826"
+              }
+            ]
+          },
+          {
+            "city": "Fobes Hill",
+            "county": "Snohomish",
+            "population": 2779,
+            "zip_codes": [
+              {
+                "zip_codes": "98290"
+              }
+            ]
+          },
+          {
+            "city": "Harrington",
+            "county": "Lincoln",
+            "population": 411,
+            "zip_codes": [
+              {
+                "zip_codes": "99134"
+              }
+            ]
+          },
+          {
+            "city": "Port Orchard",
+            "county": "Kitsap",
+            "population": 13997,
+            "zip_codes": [
+              {
+                "zip_codes": "98366"
+              },
+              {
+                "zip_codes": "98367"
+              }
+            ]
+          },
+          {
+            "city": "Alderwood Manor",
+            "county": "Snohomish",
+            "population": 8817,
+            "zip_codes": [
+              {
+                "zip_codes": "98036"
+              }
+            ]
+          },
+          {
+            "city": "Kennewick",
+            "county": "Benton",
+            "population": 232915,
+            "zip_codes": [
+              {
+                "zip_codes": "99337"
+              },
+              {
+                "zip_codes": "99336"
+              },
+              {
+                "zip_codes": "99338"
+              }
+            ]
+          },
+          {
+            "city": "Ahtanum",
+            "county": "Yakima",
+            "population": 3076,
+            "zip_codes": [
+              {
+                "zip_codes": "98903"
+              },
+              {
+                "zip_codes": "98908"
+              },
+              {
+                "zip_codes": "98909"
+              }
+            ]
+          },
+          {
+            "city": "Wilderness Rim",
+            "county": "King",
+            "population": 1443,
+            "zip_codes": [
+              {
+                "zip_codes": "98045"
+              }
+            ]
+          },
+          {
+            "city": "Machias",
+            "county": "Snohomish",
+            "population": 886,
+            "zip_codes": [
+              {
+                "zip_codes": "98258"
+              },
+              {
+                "zip_codes": "98290"
+              }
+            ]
+          },
+          {
+            "city": "Bingen",
+            "county": "Klickitat",
+            "population": 729,
+            "zip_codes": [
+              {
+                "zip_codes": "98605"
+              }
+            ]
+          },
+          {
+            "city": "Four Lakes",
+            "county": "Spokane",
+            "population": 403,
+            "zip_codes": [
+              {
+                "zip_codes": "99004"
+              },
+              {
+                "zip_codes": "99014"
+              }
+            ]
+          },
+          {
+            "city": "Springdale",
+            "county": "Stevens",
+            "population": 293,
+            "zip_codes": [
+              {
+                "zip_codes": "99173"
+              }
+            ]
+          },
+          {
+            "city": "Washtucna",
+            "county": "Adams",
+            "population": 204,
+            "zip_codes": [
+              {
+                "zip_codes": "99371"
+              }
+            ]
+          },
+          {
+            "city": "Covington",
+            "county": "King",
+            "population": 20916,
+            "zip_codes": [
+              {
+                "zip_codes": "98042"
+              }
+            ]
+          },
+          {
+            "city": "Allyn",
+            "county": "Mason",
+            "population": 2650,
+            "zip_codes": [
+              {
+                "zip_codes": "98524"
+              }
+            ]
+          },
+          {
+            "city": "North Sultan",
+            "county": "Snohomish",
+            "population": 241,
+            "zip_codes": [
+              {
+                "zip_codes": "98294"
+              }
+            ]
+          },
+          {
+            "city": "Union Gap",
+            "county": "Yakima",
+            "population": 6161,
+            "zip_codes": [
+              {
+                "zip_codes": "98903"
+              }
+            ]
+          },
+          {
+            "city": "Shelton",
+            "county": "Mason",
+            "population": 19296,
+            "zip_codes": [
+              {
+                "zip_codes": "98584"
+              }
+            ]
+          },
+          {
+            "city": "Chinook",
+            "county": "Pacific",
+            "population": 300,
+            "zip_codes": [
+              {
+                "zip_codes": "98624"
+              },
+              {
+                "zip_codes": "98614"
+              }
+            ]
+          },
+          {
+            "city": "Blaine",
+            "county": "Whatcom",
+            "population": 5311,
+            "zip_codes": [
+              {
+                "zip_codes": "98230"
+              },
+              {
+                "zip_codes": "98231"
+              }
+            ]
+          },
+          {
+            "city": "Port Hadlock-Irondale",
+            "county": "Jefferson",
+            "population": 3765,
+            "zip_codes": [
+              {
+                "zip_codes": "98325"
+              },
+              {
+                "zip_codes": "98368"
+              },
+              {
+                "zip_codes": "98339"
+              }
+            ]
+          },
+          {
+            "city": "Burley",
+            "county": "Kitsap",
+            "population": 1941,
+            "zip_codes": [
+              {
+                "zip_codes": "98359"
+              },
+              {
+                "zip_codes": "98367"
+              },
+              {
+                "zip_codes": "98322"
+              }
+            ]
+          },
+          {
+            "city": "Mount Vernon",
+            "county": "Skagit",
+            "population": 69528,
+            "zip_codes": [
+              {
+                "zip_codes": "98274"
+              },
+              {
+                "zip_codes": "98273"
+              }
+            ]
+          },
+          {
+            "city": "Electric City",
+            "county": "Grant",
+            "population": 1001,
+            "zip_codes": [
+              {
+                "zip_codes": "99123"
+              },
+              {
+                "zip_codes": "99133"
+              }
+            ]
+          },
+          {
+            "city": "Ronald",
+            "county": "Kittitas",
+            "population": 284,
+            "zip_codes": [
+              {
+                "zip_codes": "98940"
+              }
+            ]
+          },
+          {
+            "city": "Nespelem Community",
+            "county": "Okanogan",
+            "population": 259,
+            "zip_codes": [
+              {
+                "zip_codes": "99155"
+              }
+            ]
+          },
+          {
+            "city": "Amanda Park",
+            "county": "Grays Harbor",
+            "population": 119,
+            "zip_codes": [
+              {
+                "zip_codes": "98526"
+              }
+            ]
+          },
+          {
+            "city": "Clarkston Heights-Vineland",
+            "county": "Asotin",
+            "population": 6453,
+            "zip_codes": [
+              {
+                "zip_codes": "99403"
+              }
+            ]
+          },
+          {
+            "city": "Boulevard Park",
+            "county": "King",
+            "population": 3916,
+            "zip_codes": [
+              {
+                "zip_codes": "98108"
+              },
+              {
+                "zip_codes": "98168"
+              }
+            ]
+          },
+          {
+            "city": "Big Lake",
+            "county": "Skagit",
+            "population": 1784,
+            "zip_codes": [
+              {
+                "zip_codes": "98274"
+              }
+            ]
+          },
+          {
+            "city": "Boyds",
+            "county": "Ferry",
+            "population": 76,
+            "zip_codes": [
+              {
+                "zip_codes": "99141"
+              }
+            ]
+          },
+          {
+            "city": "Parkwood",
+            "county": "Kitsap",
+            "population": 6559,
+            "zip_codes": [
+              {
+                "zip_codes": "98366"
+              }
+            ]
+          },
+          {
+            "city": "Deer Park",
+            "county": "Spokane",
+            "population": 3868,
+            "zip_codes": [
+              {
+                "zip_codes": "99006"
+              }
+            ]
+          },
+          {
+            "city": "Humptulips",
+            "county": "Grays Harbor",
+            "population": 277,
+            "zip_codes": [
+              {
+                "zip_codes": "98552"
+              }
+            ]
+          },
+          {
+            "city": "SeaTac",
+            "county": "King",
+            "population": 29140,
+            "zip_codes": [
+              {
+                "zip_codes": "98158"
+              },
+              {
+                "zip_codes": "98148"
+              },
+              {
+                "zip_codes": "98198"
+              },
+              {
+                "zip_codes": "98168"
+              },
+              {
+                "zip_codes": "98188"
+              },
+              {
+                "zip_codes": "98131"
+              }
+            ]
+          },
+          {
+            "city": "Maple Valley",
+            "county": "King",
+            "population": 25758,
+            "zip_codes": [
+              {
+                "zip_codes": "98038"
+              }
+            ]
+          },
+          {
+            "city": "Millwood",
+            "county": "Spokane",
+            "population": 1784,
+            "zip_codes": [
+              {
+                "zip_codes": "99206"
+              },
+              {
+                "zip_codes": "99212"
+              }
+            ]
+          },
+          {
+            "city": "Point Roberts",
+            "county": "Whatcom",
+            "population": 1251,
+            "zip_codes": [
+              {
+                "zip_codes": "98281"
+              }
+            ]
+          },
+          {
+            "city": "Dixie",
+            "county": "Walla Walla",
+            "population": 256,
+            "zip_codes": [
+              {
+                "zip_codes": "99329"
+              },
+              {
+                "zip_codes": "99361"
+              }
+            ]
+          },
+          {
+            "city": "East Port Orchard",
+            "county": "Kitsap",
+            "population": 5334,
+            "zip_codes": [
+              {
+                "zip_codes": "98366"
+              }
+            ]
+          },
+          {
+            "city": "Morton",
+            "county": "Lewis",
+            "population": 1159,
+            "zip_codes": [
+              {
+                "zip_codes": "98356"
+              }
+            ]
+          },
+          {
+            "city": "Alger",
+            "county": "Skagit",
+            "population": 235,
+            "zip_codes": [
+              {
+                "zip_codes": "98229"
+              },
+              {
+                "zip_codes": "98233"
+              },
+              {
+                "zip_codes": "98232"
+              },
+              {
+                "zip_codes": "98284"
+              }
+            ]
+          },
+          {
+            "city": "Kahlotus",
+            "county": "Franklin",
+            "population": 199,
+            "zip_codes": [
+              {
+                "zip_codes": "99335"
+              }
+            ]
+          },
+          {
+            "city": "Fife Heights",
+            "county": "Pierce",
+            "population": 2185,
+            "zip_codes": [
+              {
+                "zip_codes": "98422"
+              },
+              {
+                "zip_codes": "98424"
+              }
+            ]
+          },
+          {
+            "city": "Cherry Grove",
+            "county": "Clark",
+            "population": 689,
+            "zip_codes": [
+              {
+                "zip_codes": "98604"
+              }
+            ]
+          },
+          {
+            "city": "Clearview",
+            "county": "Snohomish",
+            "population": 3907,
+            "zip_codes": [
+              {
+                "zip_codes": "98296"
+              },
+              {
+                "zip_codes": "98012"
+              },
+              {
+                "zip_codes": "98072"
+              }
+            ]
+          },
+          {
+            "city": "Greenwater",
+            "county": "Pierce",
+            "population": 28,
+            "zip_codes": [
+              {
+                "zip_codes": "98022"
+              }
+            ]
+          },
+          {
+            "city": "Picnic Point",
+            "county": "Snohomish",
+            "population": 9002,
+            "zip_codes": [
+              {
+                "zip_codes": "98026"
+              },
+              {
+                "zip_codes": "98087"
+              }
+            ]
+          },
+          {
+            "city": "Kendall",
+            "county": "Whatcom",
+            "population": 37,
+            "zip_codes": [
+              {
+                "zip_codes": "98244"
+              },
+              {
+                "zip_codes": "98266"
+              }
+            ]
+          },
+          {
+            "city": "Seabeck",
+            "county": "Kitsap",
+            "population": 1141,
+            "zip_codes": [
+              {
+                "zip_codes": "98380"
+              }
+            ]
+          },
+          {
+            "city": "Startup",
+            "county": "Snohomish",
+            "population": 683,
+            "zip_codes": [
+              {
+                "zip_codes": "98294"
+              },
+              {
+                "zip_codes": "98293"
+              }
+            ]
+          },
+          {
+            "city": "Steilacoom",
+            "county": "Pierce",
+            "population": 6337,
+            "zip_codes": [
+              {
+                "zip_codes": "98388"
+              }
+            ]
+          },
+          {
+            "city": "Lamont",
+            "county": "Whitman",
+            "population": 74,
+            "zip_codes": [
+              {
+                "zip_codes": "99017"
+              }
+            ]
+          },
+          {
+            "city": "Bay View",
+            "county": "Skagit",
+            "population": 625,
+            "zip_codes": [
+              {
+                "zip_codes": "98273"
+              }
+            ]
+          },
+          {
+            "city": "Valley",
+            "county": "Stevens",
+            "population": 171,
+            "zip_codes": [
+              {
+                "zip_codes": "99181"
+              }
+            ]
+          },
+          {
+            "city": "North Marysville",
+            "county": "Snohomish",
+            "population": 172,
+            "zip_codes": [
+              {
+                "zip_codes": "98223"
+              },
+              {
+                "zip_codes": "98271"
+              }
+            ]
+          },
+          {
+            "city": "Brady",
+            "county": "Grays Harbor",
+            "population": 360,
+            "zip_codes": [
+              {
+                "zip_codes": "98563"
+              }
+            ]
+          },
+          {
+            "city": "May Creek",
+            "county": "Snohomish",
+            "population": 663,
+            "zip_codes": [
+              {
+                "zip_codes": "98251"
+              }
+            ]
+          },
+          {
+            "city": "Clear Lake",
+            "county": "Skagit",
+            "population": 990,
+            "zip_codes": [
+              {
+                "zip_codes": "98235"
+              },
+              {
+                "zip_codes": "98284"
+              },
+              {
+                "zip_codes": "98273"
+              }
+            ]
+          },
+          {
+            "city": "Keller",
+            "county": "Ferry",
+            "population": 228,
+            "zip_codes": [
+              {
+                "zip_codes": "99140"
+              }
+            ]
+          },
+          {
+            "city": "Redmond",
+            "county": "King",
+            "population": 64291,
+            "zip_codes": [
+              {
+                "zip_codes": "98052"
+              },
+              {
+                "zip_codes": "98073"
+              }
+            ]
+          },
+          {
+            "city": "Ilwaco",
+            "county": "Pacific",
+            "population": 945,
+            "zip_codes": [
+              {
+                "zip_codes": "98624"
+              }
+            ]
+          },
+          {
+            "city": "Mountlake Terrace",
+            "county": "Snohomish",
+            "population": 21337,
+            "zip_codes": [
+              {
+                "zip_codes": "98043"
+              }
+            ]
+          },
+          {
+            "city": "Parker",
+            "county": "Yakima",
+            "population": 60,
+            "zip_codes": [
+              {
+                "zip_codes": "98939"
+              },
+              {
+                "zip_codes": "98951"
+              }
+            ]
+          },
+          {
+            "city": "Soap Lake",
+            "county": "Grant",
+            "population": 1579,
+            "zip_codes": [
+              {
+                "zip_codes": "98851"
+              }
+            ]
+          },
+          {
+            "city": "Grand Mound",
+            "county": "Thurston",
+            "population": 3119,
+            "zip_codes": [
+              {
+                "zip_codes": "98579"
+              },
+              {
+                "zip_codes": "98531"
+              }
+            ]
+          },
+          {
+            "city": "Manchester",
+            "county": "Kitsap",
+            "population": 5447,
+            "zip_codes": [
+              {
+                "zip_codes": "98366"
+              }
+            ]
+          },
+          {
+            "city": "Prairie Heights",
+            "county": "Pierce",
+            "population": 4610,
+            "zip_codes": [
+              {
+                "zip_codes": "98321"
+              }
+            ]
+          },
+          {
+            "city": "Verlot",
+            "county": "Snohomish",
+            "population": 457,
+            "zip_codes": [
+              {
+                "zip_codes": "98252"
+              }
+            ]
+          },
+          {
+            "city": "North Omak",
+            "county": "Okanogan",
+            "population": 685,
+            "zip_codes": [
+              {
+                "zip_codes": "98841"
+              }
+            ]
+          },
+          {
+            "city": "Naches",
+            "county": "Yakima",
+            "population": 827,
+            "zip_codes": [
+              {
+                "zip_codes": "98937"
+              }
+            ]
+          },
+          {
+            "city": "Summitview",
+            "county": "Yakima",
+            "population": 1182,
+            "zip_codes": [
+              {
+                "zip_codes": "98908"
+              }
+            ]
+          },
+          {
+            "city": "Clover Creek",
+            "county": "Pierce",
+            "population": 6831,
+            "zip_codes": [
+              {
+                "zip_codes": "98445"
+              },
+              {
+                "zip_codes": "98446"
+              }
+            ]
+          },
+          {
+            "city": "Prosser",
+            "county": "Benton",
+            "population": 6264,
+            "zip_codes": [
+              {
+                "zip_codes": "99350"
+              }
+            ]
+          },
+          {
+            "city": "Naselle",
+            "county": "Pacific",
+            "population": 376,
+            "zip_codes": [
+              {
+                "zip_codes": "98638"
+              }
+            ]
+          },
+          {
+            "city": "Rock Island",
+            "county": "Douglas",
+            "population": 1015,
+            "zip_codes": [
+              {
+                "zip_codes": "98850"
+              }
+            ]
+          },
+          {
+            "city": "Goldendale",
+            "county": "Klickitat",
+            "population": 3404,
+            "zip_codes": [
+              {
+                "zip_codes": "98620"
+              }
+            ]
+          },
+          {
+            "city": "Maltby",
+            "county": "Snohomish",
+            "population": 11443,
+            "zip_codes": [
+              {
+                "zip_codes": "98021"
+              },
+              {
+                "zip_codes": "98296"
+              },
+              {
+                "zip_codes": "98072"
+              },
+              {
+                "zip_codes": "98077"
+              }
+            ]
+          },
+          {
+            "city": "Oak Harbor",
+            "county": "Island",
+            "population": 34663,
+            "zip_codes": [
+              {
+                "zip_codes": "98277"
+              }
+            ]
+          },
+          {
+            "city": "Tanglewilde",
+            "county": "Thurston",
+            "population": 6205,
+            "zip_codes": [
+              {
+                "zip_codes": "98503"
+              },
+              {
+                "zip_codes": "98516"
+              }
+            ]
+          },
+          {
+            "city": "Endicott",
+            "county": "Whitman",
+            "population": 305,
+            "zip_codes": [
+              {
+                "zip_codes": "99125"
+              }
+            ]
+          },
+          {
+            "city": "Mill Creek East",
+            "county": "Snohomish",
+            "population": 20514,
+            "zip_codes": [
+              {
+                "zip_codes": "98012"
+              }
+            ]
+          },
+          {
+            "city": "Maple Heights-Lake Desire",
+            "county": "King",
+            "population": 3442,
+            "zip_codes": [
+              {
+                "zip_codes": "98058"
+              }
+            ]
+          },
+          {
+            "city": "Midland",
+            "county": "Pierce",
+            "population": 8792,
+            "zip_codes": [
+              {
+                "zip_codes": "98404"
+              },
+              {
+                "zip_codes": "98445"
+              }
+            ]
+          },
+          {
+            "city": "Kingston",
+            "county": "Kitsap",
+            "population": 1875,
+            "zip_codes": [
+              {
+                "zip_codes": "98346"
+              }
+            ]
+          },
+          {
+            "city": "Esperance",
+            "county": "Snohomish",
+            "population": 3902,
+            "zip_codes": [
+              {
+                "zip_codes": "98026"
+              }
+            ]
+          },
+          {
+            "city": "Grays River",
+            "county": "Wahkiakum",
+            "population": 425,
+            "zip_codes": [
+              {
+                "zip_codes": "98621"
+              }
+            ]
+          },
+          {
+            "city": "Sultan",
+            "county": "Snohomish",
+            "population": 8803,
+            "zip_codes": [
+              {
+                "zip_codes": "98294"
+              }
+            ]
+          },
+          {
+            "city": "La Grande",
+            "county": "Pierce",
+            "population": 118,
+            "zip_codes": [
+              {
+                "zip_codes": "98328"
+              }
+            ]
+          },
+          {
+            "city": "Ritzville",
+            "county": "Adams",
+            "population": 1637,
+            "zip_codes": [
+              {
+                "zip_codes": "99169"
+              }
+            ]
+          },
+          {
+            "city": "Malott",
+            "county": "Okanogan",
+            "population": 592,
+            "zip_codes": [
+              {
+                "zip_codes": "98840"
+              },
+              {
+                "zip_codes": "98829"
+              }
+            ]
+          },
+          {
+            "city": "Coulee City",
+            "county": "Grant",
+            "population": 567,
+            "zip_codes": [
+              {
+                "zip_codes": "99115"
+              }
+            ]
+          },
+          {
+            "city": "Raymond",
+            "county": "Pacific",
+            "population": 4136,
+            "zip_codes": [
+              {
+                "zip_codes": "98577"
+              }
+            ]
+          },
+          {
+            "city": "Wollochet",
+            "county": "Pierce",
+            "population": 6291,
+            "zip_codes": [
+              {
+                "zip_codes": "98335"
+              }
+            ]
+          },
+          {
+            "city": "Quincy",
+            "county": "Grant",
+            "population": 7756,
+            "zip_codes": [
+              {
+                "zip_codes": "98848"
+              }
+            ]
+          },
+          {
+            "city": "Walla Walla East",
+            "county": "Walla Walla",
+            "population": 1877,
+            "zip_codes": [
+              {
+                "zip_codes": "99362"
+              }
+            ]
+          },
+          {
+            "city": "Hamilton",
+            "county": "Skagit",
+            "population": 309,
+            "zip_codes": [
+              {
+                "zip_codes": "98255"
+              },
+              {
+                "zip_codes": "98284"
+              }
+            ]
+          },
+          {
+            "city": "Woodinville",
+            "county": "King",
+            "population": 11997,
+            "zip_codes": [
+              {
+                "zip_codes": "98072"
+              }
+            ]
+          },
+          {
+            "city": "Bay Center",
+            "county": "Pacific",
+            "population": 215,
+            "zip_codes": [
+              {
+                "zip_codes": "98527"
+              }
+            ]
+          },
+          {
+            "city": "Port Townsend",
+            "county": "Jefferson",
+            "population": 8804,
+            "zip_codes": [
+              {
+                "zip_codes": "98368"
+              }
+            ]
+          },
+          {
+            "city": "Riverside",
+            "county": "Okanogan",
+            "population": 273,
+            "zip_codes": [
+              {
+                "zip_codes": "98849"
+              }
+            ]
+          },
+          {
+            "city": "Woodway",
+            "county": "Snohomish",
+            "population": 1378,
+            "zip_codes": [
+              {
+                "zip_codes": "98020"
+              }
+            ]
+          },
+          {
+            "city": "Qui-nai-elt Village",
+            "county": "Grays Harbor",
+            "population": 79,
+            "zip_codes": [
+              {
+                "zip_codes": "98587"
+              }
+            ]
+          },
+          {
+            "city": "Stevenson",
+            "county": "Skamania",
+            "population": 1555,
+            "zip_codes": [
+              {
+                "zip_codes": "98648"
+              }
+            ]
+          },
+          {
+            "city": "Ocean Park",
+            "county": "Pacific",
+            "population": 1782,
+            "zip_codes": [
+              {
+                "zip_codes": "98640"
+              },
+              {
+                "zip_codes": "98637"
+              }
+            ]
+          },
+          {
+            "city": "Port Angeles",
+            "county": "Clallam",
+            "population": 23865,
+            "zip_codes": [
+              {
+                "zip_codes": "98363"
+              },
+              {
+                "zip_codes": "98362"
+              }
+            ]
+          },
+          {
+            "city": "Bonney Lake",
+            "county": "Pierce",
+            "population": 20675,
+            "zip_codes": [
+              {
+                "zip_codes": "98391"
+              }
+            ]
+          },
+          {
+            "city": "Oroville",
+            "county": "Okanogan",
+            "population": 1674,
+            "zip_codes": [
+              {
+                "zip_codes": "98844"
+              }
+            ]
+          },
+          {
+            "city": "Garrett",
+            "county": "Walla Walla",
+            "population": 1531,
+            "zip_codes": [
+              {
+                "zip_codes": "99362"
+              }
+            ]
+          },
+          {
+            "city": "Otis Orchards-East Farms",
+            "county": "Spokane",
+            "population": 6385,
+            "zip_codes": [
+              {
+                "zip_codes": "99025"
+              },
+              {
+                "zip_codes": "99027"
+              }
+            ]
+          },
+          {
+            "city": "Warm Beach",
+            "county": "Snohomish",
+            "population": 2495,
+            "zip_codes": [
+              {
+                "zip_codes": "98292"
+              }
+            ]
+          },
+          {
+            "city": "Twin Lakes",
+            "county": "Ferry",
+            "population": 100,
+            "zip_codes": [
+              {
+                "zip_codes": "99138"
+              }
+            ]
+          },
+          {
+            "city": "Conway",
+            "county": "Skagit",
+            "population": 11,
+            "zip_codes": [
+              {
+                "zip_codes": "98238"
+              }
+            ]
+          },
+          {
+            "city": "College Place",
+            "county": "Walla Walla",
+            "population": 9258,
+            "zip_codes": [
+              {
+                "zip_codes": "99324"
+              },
+              {
+                "zip_codes": "99362"
+              }
+            ]
+          },
+          {
+            "city": "Eastmont",
+            "county": "Snohomish",
+            "population": 21951,
+            "zip_codes": [
+              {
+                "zip_codes": "98208"
+              }
+            ]
+          },
+          {
+            "city": "Maple Falls",
+            "county": "Whatcom",
+            "population": 76,
+            "zip_codes": [
+              {
+                "zip_codes": "98244"
+              }
+            ]
+          },
+          {
+            "city": "Ephrata",
+            "county": "Grant",
+            "population": 7275,
+            "zip_codes": [
+              {
+                "zip_codes": "98823"
+              }
+            ]
+          },
+          {
+            "city": "Buena",
+            "county": "Yakima",
+            "population": 1345,
+            "zip_codes": [
+              {
+                "zip_codes": "98921"
+              },
+              {
+                "zip_codes": "98953"
+              }
+            ]
+          },
+          {
+            "city": "Tumwater",
+            "county": "Thurston",
+            "population": 22973,
+            "zip_codes": [
+              {
+                "zip_codes": "98501"
+              },
+              {
+                "zip_codes": "98512"
+              }
+            ]
+          },
+          {
+            "city": "Desert Aire",
+            "county": "Grant",
+            "population": 2872,
+            "zip_codes": [
+              {
+                "zip_codes": "99349"
+              }
+            ]
+          },
+          {
+            "city": "Lake Holm",
+            "county": "King",
+            "population": 3263,
+            "zip_codes": [
+              {
+                "zip_codes": "98092"
+              }
+            ]
+          },
+          {
+            "city": "Mukilteo",
+            "county": "Snohomish",
+            "population": 21469,
+            "zip_codes": [
+              {
+                "zip_codes": "98275"
+              }
+            ]
+          },
+          {
+            "city": "Twisp",
+            "county": "Okanogan",
+            "population": 956,
+            "zip_codes": [
+              {
+                "zip_codes": "98856"
+              }
+            ]
+          },
+          {
+            "city": "Lake Shore",
+            "county": "Clark",
+            "population": 7550,
+            "zip_codes": [
+              {
+                "zip_codes": "98665"
+              },
+              {
+                "zip_codes": "98685"
+              }
+            ]
+          },
+          {
+            "city": "Keyport",
+            "county": "Kitsap",
+            "population": 457,
+            "zip_codes": [
+              {
+                "zip_codes": "98345"
+              }
+            ]
+          },
+          {
+            "city": "Lake Stevens",
+            "county": "Snohomish",
+            "population": 32785,
+            "zip_codes": [
+              {
+                "zip_codes": "98258"
+              },
+              {
+                "zip_codes": "98205"
+              }
+            ]
+          },
+          {
+            "city": "Starbuck",
+            "county": "Columbia",
+            "population": 131,
+            "zip_codes": [
+              {
+                "zip_codes": "99359"
+              }
+            ]
+          },
+          {
+            "city": "Harrah",
+            "county": "Yakima",
+            "population": 636,
+            "zip_codes": [
+              {
+                "zip_codes": "98933"
+              }
+            ]
+          },
+          {
+            "city": "Hansville",
+            "county": "Kitsap",
+            "population": 3809,
+            "zip_codes": [
+              {
+                "zip_codes": "98340"
+              },
+              {
+                "zip_codes": "98346"
+              }
+            ]
+          },
+          {
+            "city": "Carlsborg",
+            "county": "Clallam",
+            "population": 762,
+            "zip_codes": [
+              {
+                "zip_codes": "98382"
+              }
+            ]
+          },
+          {
+            "city": "Yelm",
+            "county": "Thurston",
+            "population": 16504,
+            "zip_codes": [
+              {
+                "zip_codes": "98576"
+              },
+              {
+                "zip_codes": "98597"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
