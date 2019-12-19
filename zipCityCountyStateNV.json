@@ -12,7 +12,7 @@
             "population": 228,
             "zip_codes": [
               {
-                "zip_codes": "89828"
+                "zip_code": "89828"
               }
             ]
           },
@@ -22,7 +22,7 @@
             "population": 179,
             "zip_codes": [
               {
-                "zip_codes": "89419"
+                "zip_code": "89419"
               }
             ]
           },
@@ -32,34 +32,34 @@
             "population": 302539,
             "zip_codes": [
               {
-                "zip_codes": "89044"
+                "zip_code": "89044"
               },
               {
-                "zip_codes": "89052"
+                "zip_code": "89052"
               },
               {
-                "zip_codes": "89002"
+                "zip_code": "89002"
               },
               {
-                "zip_codes": "89074"
+                "zip_code": "89074"
               },
               {
-                "zip_codes": "89015"
+                "zip_code": "89015"
               },
               {
-                "zip_codes": "89014"
+                "zip_code": "89014"
               },
               {
-                "zip_codes": "89011"
+                "zip_code": "89011"
               },
               {
-                "zip_codes": "89012"
+                "zip_code": "89012"
               },
               {
-                "zip_codes": "89009"
+                "zip_code": "89009"
               },
               {
-                "zip_codes": "89077"
+                "zip_code": "89077"
               }
             ]
           },
@@ -69,7 +69,7 @@
             "population": 3185,
             "zip_codes": [
               {
-                "zip_codes": "89423"
+                "zip_code": "89423"
               }
             ]
           },
@@ -79,34 +79,34 @@
             "population": 242975,
             "zip_codes": [
               {
-                "zip_codes": "89032"
+                "zip_code": "89032"
               },
               {
-                "zip_codes": "89031"
+                "zip_code": "89031"
               },
               {
-                "zip_codes": "89030"
+                "zip_code": "89030"
               },
               {
-                "zip_codes": "89086"
+                "zip_code": "89086"
               },
               {
-                "zip_codes": "89084"
+                "zip_code": "89084"
               },
               {
-                "zip_codes": "89085"
+                "zip_code": "89085"
               },
               {
-                "zip_codes": "89081"
+                "zip_code": "89081"
               },
               {
-                "zip_codes": "89115"
+                "zip_code": "89115"
               },
               {
-                "zip_codes": "89033"
+                "zip_code": "89033"
               },
               {
-                "zip_codes": "89087"
+                "zip_code": "89087"
               }
             ]
           },
@@ -116,10 +116,10 @@
             "population": 168,
             "zip_codes": [
               {
-                "zip_codes": "89405"
+                "zip_code": "89405"
               },
               {
-                "zip_codes": "89412"
+                "zip_code": "89412"
               }
             ]
           },
@@ -129,10 +129,10 @@
             "population": 1276,
             "zip_codes": [
               {
-                "zip_codes": "89043"
+                "zip_code": "89043"
               },
               {
-                "zip_codes": "89034"
+                "zip_code": "89034"
               }
             ]
           },
@@ -142,7 +142,7 @@
             "population": 421,
             "zip_codes": [
               {
-                "zip_codes": "89821"
+                "zip_code": "89821"
               }
             ]
           },
@@ -152,7 +152,7 @@
             "population": 105,
             "zip_codes": [
               {
-                "zip_codes": "89019"
+                "zip_code": "89019"
               }
             ]
           },
@@ -162,7 +162,7 @@
             "population": 752,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -172,7 +172,7 @@
             "population": 151,
             "zip_codes": [
               {
-                "zip_codes": "89426"
+                "zip_code": "89426"
               }
             ]
           },
@@ -182,7 +182,7 @@
             "population": 465,
             "zip_codes": [
               {
-                "zip_codes": "89421"
+                "zip_code": "89421"
               }
             ]
           },
@@ -192,7 +192,7 @@
             "population": 10811,
             "zip_codes": [
               {
-                "zip_codes": "89445"
+                "zip_code": "89445"
               }
             ]
           },
@@ -202,7 +202,7 @@
             "population": 443,
             "zip_codes": [
               {
-                "zip_codes": "89448"
+                "zip_code": "89448"
               }
             ]
           },
@@ -212,7 +212,7 @@
             "population": 32,
             "zip_codes": [
               {
-                "zip_codes": "89830"
+                "zip_code": "89830"
               }
             ]
           },
@@ -222,7 +222,7 @@
             "population": 443,
             "zip_codes": [
               {
-                "zip_codes": "89415"
+                "zip_code": "89415"
               }
             ]
           },
@@ -232,7 +232,7 @@
             "population": 1174,
             "zip_codes": [
               {
-                "zip_codes": "89042"
+                "zip_code": "89042"
               }
             ]
           },
@@ -242,7 +242,7 @@
             "population": 110,
             "zip_codes": [
               {
-                "zip_codes": "89039"
+                "zip_code": "89039"
               }
             ]
           },
@@ -252,10 +252,10 @@
             "population": 1169,
             "zip_codes": [
               {
-                "zip_codes": "89025"
+                "zip_code": "89025"
               },
               {
-                "zip_codes": "89067"
+                "zip_code": "89067"
               }
             ]
           },
@@ -265,7 +265,7 @@
             "population": 310,
             "zip_codes": [
               {
-                "zip_codes": "89046"
+                "zip_code": "89046"
               }
             ]
           },
@@ -275,16 +275,16 @@
             "population": 8795,
             "zip_codes": [
               {
-                "zip_codes": "89451"
+                "zip_code": "89451"
               },
               {
-                "zip_codes": "89450"
+                "zip_code": "89450"
               },
               {
-                "zip_codes": "89511"
+                "zip_code": "89511"
               },
               {
-                "zip_codes": "89452"
+                "zip_code": "89452"
               }
             ]
           },
@@ -294,7 +294,7 @@
             "population": 151,
             "zip_codes": [
               {
-                "zip_codes": "89409"
+                "zip_code": "89409"
               }
             ]
           },
@@ -304,34 +304,34 @@
             "population": 155773,
             "zip_codes": [
               {
-                "zip_codes": "89178"
+                "zip_code": "89178"
               },
               {
-                "zip_codes": "89183"
+                "zip_code": "89183"
               },
               {
-                "zip_codes": "89054"
+                "zip_code": "89054"
               },
               {
-                "zip_codes": "89139"
+                "zip_code": "89139"
               },
               {
-                "zip_codes": "89141"
+                "zip_code": "89141"
               },
               {
-                "zip_codes": "89148"
+                "zip_code": "89148"
               },
               {
-                "zip_codes": "89113"
+                "zip_code": "89113"
               },
               {
-                "zip_codes": "89118"
+                "zip_code": "89118"
               },
               {
-                "zip_codes": "89119"
+                "zip_code": "89119"
               },
               {
-                "zip_codes": "89123"
+                "zip_code": "89123"
               }
             ]
           },
@@ -341,7 +341,7 @@
             "population": 68,
             "zip_codes": [
               {
-                "zip_codes": "89043"
+                "zip_code": "89043"
               }
             ]
           },
@@ -351,10 +351,10 @@
             "population": 6034,
             "zip_codes": [
               {
-                "zip_codes": "89423"
+                "zip_code": "89423"
               },
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -364,7 +364,7 @@
             "population": 5236,
             "zip_codes": [
               {
-                "zip_codes": "89883"
+                "zip_code": "89883"
               }
             ]
           },
@@ -374,7 +374,7 @@
             "population": 135,
             "zip_codes": [
               {
-                "zip_codes": "89008"
+                "zip_code": "89008"
               }
             ]
           },
@@ -384,7 +384,7 @@
             "population": 77,
             "zip_codes": [
               {
-                "zip_codes": "89413"
+                "zip_code": "89413"
               }
             ]
           },
@@ -394,7 +394,7 @@
             "population": 159,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -404,7 +404,7 @@
             "population": 1212,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -414,7 +414,7 @@
             "population": 1104,
             "zip_codes": [
               {
-                "zip_codes": "89832"
+                "zip_code": "89832"
               }
             ]
           },
@@ -424,7 +424,7 @@
             "population": 546,
             "zip_codes": [
               {
-                "zip_codes": "89440"
+                "zip_code": "89440"
               }
             ]
           },
@@ -434,7 +434,7 @@
             "population": 11103,
             "zip_codes": [
               {
-                "zip_codes": "89460"
+                "zip_code": "89460"
               }
             ]
           },
@@ -444,7 +444,7 @@
             "population": 910,
             "zip_codes": [
               {
-                "zip_codes": "89411"
+                "zip_code": "89411"
               }
             ]
           },
@@ -454,7 +454,7 @@
             "population": 9184,
             "zip_codes": [
               {
-                "zip_codes": "89508"
+                "zip_code": "89508"
               }
             ]
           },
@@ -464,7 +464,7 @@
             "population": 1048,
             "zip_codes": [
               {
-                "zip_codes": "89427"
+                "zip_code": "89427"
               }
             ]
           },
@@ -474,58 +474,58 @@
             "population": 231858,
             "zip_codes": [
               {
-                "zip_codes": "89103"
+                "zip_code": "89103"
               },
               {
-                "zip_codes": "89102"
+                "zip_code": "89102"
               },
               {
-                "zip_codes": "89109"
+                "zip_code": "89109"
               },
               {
-                "zip_codes": "89183"
+                "zip_code": "89183"
               },
               {
-                "zip_codes": "89169"
+                "zip_code": "89169"
               },
               {
-                "zip_codes": "89118"
+                "zip_code": "89118"
               },
               {
-                "zip_codes": "89119"
+                "zip_code": "89119"
               },
               {
-                "zip_codes": "89121"
+                "zip_code": "89121"
               },
               {
-                "zip_codes": "89120"
+                "zip_code": "89120"
               },
               {
-                "zip_codes": "89123"
+                "zip_code": "89123"
               },
               {
-                "zip_codes": "89111"
+                "zip_code": "89111"
               },
               {
-                "zip_codes": "89132"
+                "zip_code": "89132"
               },
               {
-                "zip_codes": "89154"
+                "zip_code": "89154"
               },
               {
-                "zip_codes": "89159"
+                "zip_code": "89159"
               },
               {
-                "zip_codes": "89160"
+                "zip_code": "89160"
               },
               {
-                "zip_codes": "89170"
+                "zip_code": "89170"
               },
               {
-                "zip_codes": "89177"
+                "zip_code": "89177"
               },
               {
-                "zip_codes": "89193"
+                "zip_code": "89193"
               }
             ]
           },
@@ -535,7 +535,7 @@
             "population": 1541,
             "zip_codes": [
               {
-                "zip_codes": "89506"
+                "zip_code": "89506"
               }
             ]
           },
@@ -545,7 +545,7 @@
             "population": 665,
             "zip_codes": [
               {
-                "zip_codes": "89406"
+                "zip_code": "89406"
               }
             ]
           },
@@ -555,7 +555,7 @@
             "population": 775,
             "zip_codes": [
               {
-                "zip_codes": "89003"
+                "zip_code": "89003"
               }
             ]
           },
@@ -565,7 +565,7 @@
             "population": 749,
             "zip_codes": [
               {
-                "zip_codes": "89448"
+                "zip_code": "89448"
               }
             ]
           },
@@ -575,7 +575,7 @@
             "population": 173,
             "zip_codes": [
               {
-                "zip_codes": "89428"
+                "zip_code": "89428"
               }
             ]
           },
@@ -585,7 +585,7 @@
             "population": 147,
             "zip_codes": [
               {
-                "zip_codes": "89310"
+                "zip_code": "89310"
               }
             ]
           },
@@ -595,7 +595,7 @@
             "population": 87,
             "zip_codes": [
               {
-                "zip_codes": "89001"
+                "zip_code": "89001"
               }
             ]
           },
@@ -605,7 +605,7 @@
             "population": 2628,
             "zip_codes": [
               {
-                "zip_codes": "89704"
+                "zip_code": "89704"
               }
             ]
           },
@@ -615,7 +615,7 @@
             "population": 78,
             "zip_codes": [
               {
-                "zip_codes": "89017"
+                "zip_code": "89017"
               }
             ]
           },
@@ -625,7 +625,7 @@
             "population": 72,
             "zip_codes": [
               {
-                "zip_codes": "89422"
+                "zip_code": "89422"
               }
             ]
           },
@@ -635,7 +635,7 @@
             "population": 20,
             "zip_codes": [
               {
-                "zip_codes": "89301"
+                "zip_code": "89301"
               }
             ]
           },
@@ -645,7 +645,7 @@
             "population": 26059,
             "zip_codes": [
               {
-                "zip_codes": "89135"
+                "zip_code": "89135"
               }
             ]
           },
@@ -655,58 +655,58 @@
             "population": 433271,
             "zip_codes": [
               {
-                "zip_codes": "89521"
+                "zip_code": "89521"
               },
               {
-                "zip_codes": "89523"
+                "zip_code": "89523"
               },
               {
-                "zip_codes": "89439"
+                "zip_code": "89439"
               },
               {
-                "zip_codes": "89503"
+                "zip_code": "89503"
               },
               {
-                "zip_codes": "89502"
+                "zip_code": "89502"
               },
               {
-                "zip_codes": "89501"
+                "zip_code": "89501"
               },
               {
-                "zip_codes": "89506"
+                "zip_code": "89506"
               },
               {
-                "zip_codes": "89509"
+                "zip_code": "89509"
               },
               {
-                "zip_codes": "89508"
+                "zip_code": "89508"
               },
               {
-                "zip_codes": "89519"
+                "zip_code": "89519"
               },
               {
-                "zip_codes": "89512"
+                "zip_code": "89512"
               },
               {
-                "zip_codes": "89505"
+                "zip_code": "89505"
               },
               {
-                "zip_codes": "89507"
+                "zip_code": "89507"
               },
               {
-                "zip_codes": "89533"
+                "zip_code": "89533"
               },
               {
-                "zip_codes": "89555"
+                "zip_code": "89555"
               },
               {
-                "zip_codes": "89557"
+                "zip_code": "89557"
               },
               {
-                "zip_codes": "89595"
+                "zip_code": "89595"
               },
               {
-                "zip_codes": "89599"
+                "zip_code": "89599"
               }
             ]
           },
@@ -716,13 +716,13 @@
             "population": 17337,
             "zip_codes": [
               {
-                "zip_codes": "89007"
+                "zip_code": "89007"
               },
               {
-                "zip_codes": "89027"
+                "zip_code": "89027"
               },
               {
-                "zip_codes": "89024"
+                "zip_code": "89024"
               }
             ]
           },
@@ -732,31 +732,31 @@
             "population": 195646,
             "zip_codes": [
               {
-                "zip_codes": "89103"
+                "zip_code": "89103"
               },
               {
-                "zip_codes": "89147"
+                "zip_code": "89147"
               },
               {
-                "zip_codes": "89146"
+                "zip_code": "89146"
               },
               {
-                "zip_codes": "89148"
+                "zip_code": "89148"
               },
               {
-                "zip_codes": "89113"
+                "zip_code": "89113"
               },
               {
-                "zip_codes": "89117"
+                "zip_code": "89117"
               },
               {
-                "zip_codes": "89118"
+                "zip_code": "89118"
               },
               {
-                "zip_codes": "89150"
+                "zip_code": "89150"
               },
               {
-                "zip_codes": "89164"
+                "zip_code": "89164"
               }
             ]
           },
@@ -766,10 +766,10 @@
             "population": 16458,
             "zip_codes": [
               {
-                "zip_codes": "89441"
+                "zip_code": "89441"
               },
               {
-                "zip_codes": "89436"
+                "zip_code": "89436"
               }
             ]
           },
@@ -779,7 +779,7 @@
             "population": 1318,
             "zip_codes": [
               {
-                "zip_codes": "89318"
+                "zip_code": "89318"
               }
             ]
           },
@@ -789,10 +789,10 @@
             "population": 9305,
             "zip_codes": [
               {
-                "zip_codes": "89403"
+                "zip_code": "89403"
               },
               {
-                "zip_codes": "89428"
+                "zip_code": "89428"
               }
             ]
           },
@@ -802,7 +802,7 @@
             "population": 1250,
             "zip_codes": [
               {
-                "zip_codes": "89835"
+                "zip_code": "89835"
               }
             ]
           },
@@ -812,7 +812,7 @@
             "population": 13482,
             "zip_codes": [
               {
-                "zip_codes": "89815"
+                "zip_code": "89815"
               }
             ]
           },
@@ -822,7 +822,7 @@
             "population": 540,
             "zip_codes": [
               {
-                "zip_codes": "89801"
+                "zip_code": "89801"
               }
             ]
           },
@@ -832,10 +832,10 @@
             "population": 7758,
             "zip_codes": [
               {
-                "zip_codes": "89029"
+                "zip_code": "89029"
               },
               {
-                "zip_codes": "89028"
+                "zip_code": "89028"
               }
             ]
           },
@@ -845,22 +845,22 @@
             "population": 100888,
             "zip_codes": [
               {
-                "zip_codes": "89436"
+                "zip_code": "89436"
               },
               {
-                "zip_codes": "89434"
+                "zip_code": "89434"
               },
               {
-                "zip_codes": "89431"
+                "zip_code": "89431"
               },
               {
-                "zip_codes": "89432"
+                "zip_code": "89432"
               },
               {
-                "zip_codes": "89435"
+                "zip_code": "89435"
               },
               {
-                "zip_codes": "89437"
+                "zip_code": "89437"
               }
             ]
           },
@@ -870,7 +870,7 @@
             "population": 2355,
             "zip_codes": [
               {
-                "zip_codes": "89049"
+                "zip_code": "89049"
               }
             ]
           },
@@ -880,7 +880,7 @@
             "population": 3113,
             "zip_codes": [
               {
-                "zip_codes": "89820"
+                "zip_code": "89820"
               }
             ]
           },
@@ -890,7 +890,7 @@
             "population": 1610,
             "zip_codes": [
               {
-                "zip_codes": "89444"
+                "zip_code": "89444"
               }
             ]
           },
@@ -900,7 +900,7 @@
             "population": 4786,
             "zip_codes": [
               {
-                "zip_codes": "89429"
+                "zip_code": "89429"
               }
             ]
           },
@@ -910,7 +910,7 @@
             "population": 424,
             "zip_codes": [
               {
-                "zip_codes": "89004"
+                "zip_code": "89004"
               }
             ]
           },
@@ -920,7 +920,7 @@
             "population": 227,
             "zip_codes": [
               {
-                "zip_codes": "89418"
+                "zip_code": "89418"
               }
             ]
           },
@@ -930,7 +930,7 @@
             "population": 1788,
             "zip_codes": [
               {
-                "zip_codes": "89419"
+                "zip_code": "89419"
               }
             ]
           },
@@ -940,7 +940,7 @@
             "population": 1526,
             "zip_codes": [
               {
-                "zip_codes": "89825"
+                "zip_code": "89825"
               }
             ]
           },
@@ -950,10 +950,10 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "89419"
+                "zip_code": "89419"
               },
               {
-                "zip_codes": "89418"
+                "zip_code": "89418"
               }
             ]
           },
@@ -963,7 +963,7 @@
             "population": 208,
             "zip_codes": [
               {
-                "zip_codes": "89413"
+                "zip_code": "89413"
               }
             ]
           },
@@ -973,7 +973,7 @@
             "population": 45,
             "zip_codes": [
               {
-                "zip_codes": "89830"
+                "zip_code": "89830"
               }
             ]
           },
@@ -983,7 +983,7 @@
             "population": 252,
             "zip_codes": [
               {
-                "zip_codes": "89510"
+                "zip_code": "89510"
               }
             ]
           },
@@ -993,136 +993,136 @@
             "population": 2073045,
             "zip_codes": [
               {
-                "zip_codes": "89107"
+                "zip_code": "89107"
               },
               {
-                "zip_codes": "89106"
+                "zip_code": "89106"
               },
               {
-                "zip_codes": "89104"
+                "zip_code": "89104"
               },
               {
-                "zip_codes": "89102"
+                "zip_code": "89102"
               },
               {
-                "zip_codes": "89101"
+                "zip_code": "89101"
               },
               {
-                "zip_codes": "89108"
+                "zip_code": "89108"
               },
               {
-                "zip_codes": "89138"
+                "zip_code": "89138"
               },
               {
-                "zip_codes": "89130"
+                "zip_code": "89130"
               },
               {
-                "zip_codes": "89131"
+                "zip_code": "89131"
               },
               {
-                "zip_codes": "89134"
+                "zip_code": "89134"
               },
               {
-                "zip_codes": "89143"
+                "zip_code": "89143"
               },
               {
-                "zip_codes": "89146"
+                "zip_code": "89146"
               },
               {
-                "zip_codes": "89145"
+                "zip_code": "89145"
               },
               {
-                "zip_codes": "89144"
+                "zip_code": "89144"
               },
               {
-                "zip_codes": "89149"
+                "zip_code": "89149"
               },
               {
-                "zip_codes": "89124"
+                "zip_code": "89124"
               },
               {
-                "zip_codes": "89110"
+                "zip_code": "89110"
               },
               {
-                "zip_codes": "89117"
+                "zip_code": "89117"
               },
               {
-                "zip_codes": "89129"
+                "zip_code": "89129"
               },
               {
-                "zip_codes": "89128"
+                "zip_code": "89128"
               },
               {
-                "zip_codes": "88901"
+                "zip_code": "88901"
               },
               {
-                "zip_codes": "88905"
+                "zip_code": "88905"
               },
               {
-                "zip_codes": "89105"
+                "zip_code": "89105"
               },
               {
-                "zip_codes": "89114"
+                "zip_code": "89114"
               },
               {
-                "zip_codes": "89116"
+                "zip_code": "89116"
               },
               {
-                "zip_codes": "89125"
+                "zip_code": "89125"
               },
               {
-                "zip_codes": "89126"
+                "zip_code": "89126"
               },
               {
-                "zip_codes": "89127"
+                "zip_code": "89127"
               },
               {
-                "zip_codes": "89133"
+                "zip_code": "89133"
               },
               {
-                "zip_codes": "89136"
+                "zip_code": "89136"
               },
               {
-                "zip_codes": "89137"
+                "zip_code": "89137"
               },
               {
-                "zip_codes": "89140"
+                "zip_code": "89140"
               },
               {
-                "zip_codes": "89151"
+                "zip_code": "89151"
               },
               {
-                "zip_codes": "89152"
+                "zip_code": "89152"
               },
               {
-                "zip_codes": "89153"
+                "zip_code": "89153"
               },
               {
-                "zip_codes": "89155"
+                "zip_code": "89155"
               },
               {
-                "zip_codes": "89157"
+                "zip_code": "89157"
               },
               {
-                "zip_codes": "89158"
+                "zip_code": "89158"
               },
               {
-                "zip_codes": "89162"
+                "zip_code": "89162"
               },
               {
-                "zip_codes": "89163"
+                "zip_code": "89163"
               },
               {
-                "zip_codes": "89165"
+                "zip_code": "89165"
               },
               {
-                "zip_codes": "89173"
+                "zip_code": "89173"
               },
               {
-                "zip_codes": "89185"
+                "zip_code": "89185"
               },
               {
-                "zip_codes": "89195"
+                "zip_code": "89195"
               }
             ]
           },
@@ -1132,7 +1132,7 @@
             "population": 109,
             "zip_codes": [
               {
-                "zip_codes": "89421"
+                "zip_code": "89421"
               }
             ]
           },
@@ -1142,7 +1142,7 @@
             "population": 61,
             "zip_codes": [
               {
-                "zip_codes": "89404"
+                "zip_code": "89404"
               }
             ]
           },
@@ -1152,10 +1152,10 @@
             "population": 4975,
             "zip_codes": [
               {
-                "zip_codes": "89506"
+                "zip_code": "89506"
               },
               {
-                "zip_codes": "89504"
+                "zip_code": "89504"
               }
             ]
           },
@@ -1165,7 +1165,7 @@
             "population": 170,
             "zip_codes": [
               {
-                "zip_codes": "89414"
+                "zip_code": "89414"
               }
             ]
           },
@@ -1175,7 +1175,7 @@
             "population": 443,
             "zip_codes": [
               {
-                "zip_codes": "89124"
+                "zip_code": "89124"
               }
             ]
           },
@@ -1185,10 +1185,10 @@
             "population": 1564,
             "zip_codes": [
               {
-                "zip_codes": "89444"
+                "zip_code": "89444"
               },
               {
-                "zip_codes": "89430"
+                "zip_code": "89430"
               }
             ]
           },
@@ -1198,10 +1198,10 @@
             "population": 4364,
             "zip_codes": [
               {
-                "zip_codes": "89301"
+                "zip_code": "89301"
               },
               {
-                "zip_codes": "89315"
+                "zip_code": "89315"
               }
             ]
           },
@@ -1211,7 +1211,7 @@
             "population": 1277,
             "zip_codes": [
               {
-                "zip_codes": "89007"
+                "zip_code": "89007"
               }
             ]
           },
@@ -1221,10 +1221,10 @@
             "population": 6840,
             "zip_codes": [
               {
-                "zip_codes": "89040"
+                "zip_code": "89040"
               },
               {
-                "zip_codes": "89021"
+                "zip_code": "89021"
               }
             ]
           },
@@ -1234,7 +1234,7 @@
             "population": 179,
             "zip_codes": [
               {
-                "zip_codes": "89310"
+                "zip_code": "89310"
               }
             ]
           },
@@ -1244,7 +1244,7 @@
             "population": 43955,
             "zip_codes": [
               {
-                "zip_codes": "89122"
+                "zip_code": "89122"
               }
             ]
           },
@@ -1254,7 +1254,7 @@
             "population": 1884,
             "zip_codes": [
               {
-                "zip_codes": "89523"
+                "zip_code": "89523"
               }
             ]
           },
@@ -1264,13 +1264,13 @@
             "population": 15867,
             "zip_codes": [
               {
-                "zip_codes": "89406"
+                "zip_code": "89406"
               },
               {
-                "zip_codes": "89407"
+                "zip_code": "89407"
               },
               {
-                "zip_codes": "89496"
+                "zip_code": "89496"
               }
             ]
           },
@@ -1280,7 +1280,7 @@
             "population": 1228,
             "zip_codes": [
               {
-                "zip_codes": "89019"
+                "zip_code": "89019"
               }
             ]
           },
@@ -1290,7 +1290,7 @@
             "population": 19464,
             "zip_codes": [
               {
-                "zip_codes": "89408"
+                "zip_code": "89408"
               }
             ]
           },
@@ -1300,28 +1300,28 @@
             "population": 193854,
             "zip_codes": [
               {
-                "zip_codes": "89104"
+                "zip_code": "89104"
               },
               {
-                "zip_codes": "89142"
+                "zip_code": "89142"
               },
               {
-                "zip_codes": "89110"
+                "zip_code": "89110"
               },
               {
-                "zip_codes": "89115"
+                "zip_code": "89115"
               },
               {
-                "zip_codes": "89156"
+                "zip_code": "89156"
               },
               {
-                "zip_codes": "89121"
+                "zip_code": "89121"
               },
               {
-                "zip_codes": "89122"
+                "zip_code": "89122"
               },
               {
-                "zip_codes": "89180"
+                "zip_code": "89180"
               }
             ]
           },
@@ -1331,10 +1331,10 @@
             "population": 106,
             "zip_codes": [
               {
-                "zip_codes": "89451"
+                "zip_code": "89451"
               },
               {
-                "zip_codes": "89402"
+                "zip_code": "89402"
               }
             ]
           },
@@ -1344,10 +1344,10 @@
             "population": 2303,
             "zip_codes": [
               {
-                "zip_codes": "89449"
+                "zip_code": "89449"
               },
               {
-                "zip_codes": "89411"
+                "zip_code": "89411"
               }
             ]
           },
@@ -1357,7 +1357,7 @@
             "population": 179,
             "zip_codes": [
               {
-                "zip_codes": "89448"
+                "zip_code": "89448"
               }
             ]
           },
@@ -1367,7 +1367,7 @@
             "population": 29,
             "zip_codes": [
               {
-                "zip_codes": "89043"
+                "zip_code": "89043"
               }
             ]
           },
@@ -1377,7 +1377,7 @@
             "population": 276,
             "zip_codes": [
               {
-                "zip_codes": "89319"
+                "zip_code": "89319"
               }
             ]
           },
@@ -1387,10 +1387,10 @@
             "population": 3248,
             "zip_codes": [
               {
-                "zip_codes": "89115"
+                "zip_code": "89115"
               },
               {
-                "zip_codes": "89191"
+                "zip_code": "89191"
               }
             ]
           },
@@ -1400,13 +1400,13 @@
             "population": 815,
             "zip_codes": [
               {
-                "zip_codes": "89124"
+                "zip_code": "89124"
               },
               {
-                "zip_codes": "89018"
+                "zip_code": "89018"
               },
               {
-                "zip_codes": "89070"
+                "zip_code": "89070"
               }
             ]
           },
@@ -1416,7 +1416,7 @@
             "population": 442,
             "zip_codes": [
               {
-                "zip_codes": "89316"
+                "zip_code": "89316"
               }
             ]
           },
@@ -1426,7 +1426,7 @@
             "population": 1132,
             "zip_codes": [
               {
-                "zip_codes": "89008"
+                "zip_code": "89008"
               }
             ]
           },
@@ -1436,7 +1436,7 @@
             "population": 2990,
             "zip_codes": [
               {
-                "zip_codes": "89447"
+                "zip_code": "89447"
               }
             ]
           },
@@ -1446,7 +1446,7 @@
             "population": 286,
             "zip_codes": [
               {
-                "zip_codes": "89413"
+                "zip_code": "89413"
               }
             ]
           },
@@ -1456,7 +1456,7 @@
             "population": 27,
             "zip_codes": [
               {
-                "zip_codes": "89405"
+                "zip_code": "89405"
               }
             ]
           },
@@ -1466,7 +1466,7 @@
             "population": 6134,
             "zip_codes": [
               {
-                "zip_codes": "89423"
+                "zip_code": "89423"
               }
             ]
           },
@@ -1476,16 +1476,16 @@
             "population": 28130,
             "zip_codes": [
               {
-                "zip_codes": "89109"
+                "zip_code": "89109"
               },
               {
-                "zip_codes": "89169"
+                "zip_code": "89169"
               },
               {
-                "zip_codes": "89121"
+                "zip_code": "89121"
               },
               {
-                "zip_codes": "89199"
+                "zip_code": "89199"
               }
             ]
           },
@@ -1495,7 +1495,7 @@
             "population": 21101,
             "zip_codes": [
               {
-                "zip_codes": "89433"
+                "zip_code": "89433"
               }
             ]
           },
@@ -1505,7 +1505,7 @@
             "population": 566,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -1515,7 +1515,7 @@
             "population": 949,
             "zip_codes": [
               {
-                "zip_codes": "89001"
+                "zip_code": "89001"
               }
             ]
           },
@@ -1525,7 +1525,7 @@
             "population": 981,
             "zip_codes": [
               {
-                "zip_codes": "89449"
+                "zip_code": "89449"
               }
             ]
           },
@@ -1535,7 +1535,7 @@
             "population": 1950,
             "zip_codes": [
               {
-                "zip_codes": "89429"
+                "zip_code": "89429"
               }
             ]
           },
@@ -1545,7 +1545,7 @@
             "population": 21178,
             "zip_codes": [
               {
-                "zip_codes": "89801"
+                "zip_code": "89801"
               }
             ]
           },
@@ -1555,7 +1555,7 @@
             "population": 95,
             "zip_codes": [
               {
-                "zip_codes": "89438"
+                "zip_code": "89438"
               }
             ]
           },
@@ -1565,16 +1565,16 @@
             "population": 35812,
             "zip_codes": [
               {
-                "zip_codes": "89048"
+                "zip_code": "89048"
               },
               {
-                "zip_codes": "89060"
+                "zip_code": "89060"
               },
               {
-                "zip_codes": "89061"
+                "zip_code": "89061"
               },
               {
-                "zip_codes": "89041"
+                "zip_code": "89041"
               }
             ]
           },
@@ -1584,7 +1584,7 @@
             "population": 2689,
             "zip_codes": [
               {
-                "zip_codes": "89415"
+                "zip_code": "89415"
               }
             ]
           },
@@ -1594,7 +1594,7 @@
             "population": 65,
             "zip_codes": [
               {
-                "zip_codes": "89047"
+                "zip_code": "89047"
               }
             ]
           },
@@ -1604,10 +1604,10 @@
             "population": 274,
             "zip_codes": [
               {
-                "zip_codes": "89424"
+                "zip_code": "89424"
               },
               {
-                "zip_codes": "89510"
+                "zip_code": "89510"
               }
             ]
           },
@@ -1617,7 +1617,7 @@
             "population": 65,
             "zip_codes": [
               {
-                "zip_codes": "89317"
+                "zip_code": "89317"
               }
             ]
           },
@@ -1627,7 +1627,7 @@
             "population": 737,
             "zip_codes": [
               {
-                "zip_codes": "89442"
+                "zip_code": "89442"
               }
             ]
           },
@@ -1637,7 +1637,7 @@
             "population": 192,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -1647,7 +1647,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "89043"
+                "zip_code": "89043"
               }
             ]
           },
@@ -1657,7 +1657,7 @@
             "population": 1391,
             "zip_codes": [
               {
-                "zip_codes": "89410"
+                "zip_code": "89410"
               }
             ]
           },
@@ -1667,7 +1667,7 @@
             "population": 777,
             "zip_codes": [
               {
-                "zip_codes": "89445"
+                "zip_code": "89445"
               }
             ]
           },
@@ -1677,10 +1677,10 @@
             "population": 1450,
             "zip_codes": [
               {
-                "zip_codes": "89523"
+                "zip_code": "89523"
               },
               {
-                "zip_codes": "89439"
+                "zip_code": "89439"
               }
             ]
           },
@@ -1690,10 +1690,10 @@
             "population": 5911,
             "zip_codes": [
               {
-                "zip_codes": "89705"
+                "zip_code": "89705"
               },
               {
-                "zip_codes": "89423"
+                "zip_code": "89423"
               }
             ]
           },
@@ -1703,7 +1703,7 @@
             "population": 444,
             "zip_codes": [
               {
-                "zip_codes": "89013"
+                "zip_code": "89013"
               }
             ]
           },
@@ -1713,10 +1713,10 @@
             "population": 204,
             "zip_codes": [
               {
-                "zip_codes": "89445"
+                "zip_code": "89445"
               },
               {
-                "zip_codes": "89425"
+                "zip_code": "89425"
               }
             ]
           },
@@ -1726,7 +1726,7 @@
             "population": 39,
             "zip_codes": [
               {
-                "zip_codes": "89046"
+                "zip_code": "89046"
               }
             ]
           },
@@ -1736,31 +1736,31 @@
             "population": 57525,
             "zip_codes": [
               {
-                "zip_codes": "89701"
+                "zip_code": "89701"
               },
               {
-                "zip_codes": "89703"
+                "zip_code": "89703"
               },
               {
-                "zip_codes": "89702"
+                "zip_code": "89702"
               },
               {
-                "zip_codes": "89705"
+                "zip_code": "89705"
               },
               {
-                "zip_codes": "89706"
+                "zip_code": "89706"
               },
               {
-                "zip_codes": "89711"
+                "zip_code": "89711"
               },
               {
-                "zip_codes": "89712"
+                "zip_code": "89712"
               },
               {
-                "zip_codes": "89713"
+                "zip_code": "89713"
               },
               {
-                "zip_codes": "89714"
+                "zip_code": "89714"
               }
             ]
           },
@@ -1770,7 +1770,7 @@
             "population": 27,
             "zip_codes": [
               {
-                "zip_codes": "89008"
+                "zip_code": "89008"
               }
             ]
           },
@@ -1780,13 +1780,13 @@
             "population": 14741,
             "zip_codes": [
               {
-                "zip_codes": "89046"
+                "zip_code": "89046"
               },
               {
-                "zip_codes": "89005"
+                "zip_code": "89005"
               },
               {
-                "zip_codes": "89006"
+                "zip_code": "89006"
               }
             ]
           },
@@ -1796,7 +1796,7 @@
             "population": 52,
             "zip_codes": [
               {
-                "zip_codes": "89311"
+                "zip_code": "89311"
               }
             ]
           },
@@ -1806,7 +1806,7 @@
             "population": 2324,
             "zip_codes": [
               {
-                "zip_codes": "89822"
+                "zip_code": "89822"
               }
             ]
           },
@@ -1816,7 +1816,7 @@
             "population": 255,
             "zip_codes": [
               {
-                "zip_codes": "89010"
+                "zip_code": "89010"
               }
             ]
           }
