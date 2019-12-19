@@ -12,7 +12,7 @@
             "population": 78,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -22,10 +22,10 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82244"
+                "zip_code": "82244"
               },
               {
-                "zip_codes": "82217"
+                "zip_code": "82217"
               }
             ]
           },
@@ -35,10 +35,10 @@
             "population": 33508,
             "zip_codes": [
               {
-                "zip_codes": "82072"
+                "zip_code": "82072"
               },
               {
-                "zip_codes": "82070"
+                "zip_code": "82070"
               }
             ]
           },
@@ -48,7 +48,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82936"
+                "zip_code": "82936"
               }
             ]
           },
@@ -58,7 +58,7 @@
             "population": 9696,
             "zip_codes": [
               {
-                "zip_codes": "82414"
+                "zip_code": "82414"
               }
             ]
           },
@@ -68,7 +68,7 @@
             "population": 62,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -78,7 +78,7 @@
             "population": 2005,
             "zip_codes": [
               {
-                "zip_codes": "83110"
+                "zip_code": "83110"
               }
             ]
           },
@@ -88,13 +88,13 @@
             "population": 3233,
             "zip_codes": [
               {
-                "zip_codes": "83101"
+                "zip_code": "83101"
               },
               {
-                "zip_codes": "83121"
+                "zip_code": "83121"
               },
               {
-                "zip_codes": "83116"
+                "zip_code": "83116"
               }
             ]
           },
@@ -104,7 +104,7 @@
             "population": 337,
             "zip_codes": [
               {
-                "zip_codes": "82411"
+                "zip_code": "82411"
               }
             ]
           },
@@ -114,7 +114,7 @@
             "population": 395,
             "zip_codes": [
               {
-                "zip_codes": "82643"
+                "zip_code": "82643"
               }
             ]
           },
@@ -124,10 +124,10 @@
             "population": 1928,
             "zip_codes": [
               {
-                "zip_codes": "82514"
+                "zip_code": "82514"
               },
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -137,7 +137,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               }
             ]
           },
@@ -147,7 +147,7 @@
             "population": 387,
             "zip_codes": [
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -157,7 +157,7 @@
             "population": 2027,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -167,7 +167,7 @@
             "population": 516,
             "zip_codes": [
               {
-                "zip_codes": "82935"
+                "zip_code": "82935"
               }
             ]
           },
@@ -177,7 +177,7 @@
             "population": 1890,
             "zip_codes": [
               {
-                "zip_codes": "82941"
+                "zip_code": "82941"
               }
             ]
           },
@@ -187,7 +187,7 @@
             "population": 198,
             "zip_codes": [
               {
-                "zip_codes": "82635"
+                "zip_code": "82635"
               }
             ]
           },
@@ -197,7 +197,7 @@
             "population": 866,
             "zip_codes": [
               {
-                "zip_codes": "83128"
+                "zip_code": "83128"
               }
             ]
           },
@@ -207,7 +207,7 @@
             "population": 112,
             "zip_codes": [
               {
-                "zip_codes": "83112"
+                "zip_code": "83112"
               }
             ]
           },
@@ -217,7 +217,7 @@
             "population": 522,
             "zip_codes": [
               {
-                "zip_codes": "82721"
+                "zip_code": "82721"
               }
             ]
           },
@@ -227,7 +227,7 @@
             "population": 295,
             "zip_codes": [
               {
-                "zip_codes": "83122"
+                "zip_code": "83122"
               }
             ]
           },
@@ -237,7 +237,7 @@
             "population": 81,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -247,7 +247,7 @@
             "population": 478,
             "zip_codes": [
               {
-                "zip_codes": "83414"
+                "zip_code": "83414"
               }
             ]
           },
@@ -257,7 +257,7 @@
             "population": 2591,
             "zip_codes": [
               {
-                "zip_codes": "82637"
+                "zip_code": "82637"
               }
             ]
           },
@@ -267,7 +267,7 @@
             "population": 14,
             "zip_codes": [
               {
-                "zip_codes": "82242"
+                "zip_code": "82242"
               }
             ]
           },
@@ -277,10 +277,10 @@
             "population": 452,
             "zip_codes": [
               {
-                "zip_codes": "82515"
+                "zip_code": "82515"
               },
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -290,7 +290,7 @@
             "population": 95,
             "zip_codes": [
               {
-                "zip_codes": "82944"
+                "zip_code": "82944"
               }
             ]
           },
@@ -300,7 +300,7 @@
             "population": 7287,
             "zip_codes": [
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -310,7 +310,7 @@
             "population": 419,
             "zip_codes": [
               {
-                "zip_codes": "82637"
+                "zip_code": "82637"
               }
             ]
           },
@@ -320,7 +320,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82620"
+                "zip_code": "82620"
               }
             ]
           },
@@ -330,7 +330,7 @@
             "population": 551,
             "zip_codes": [
               {
-                "zip_codes": "83114"
+                "zip_code": "83114"
               }
             ]
           },
@@ -340,7 +340,7 @@
             "population": 97,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -350,10 +350,10 @@
             "population": 223,
             "zip_codes": [
               {
-                "zip_codes": "83127"
+                "zip_code": "83127"
               },
               {
-                "zip_codes": "83112"
+                "zip_code": "83112"
               }
             ]
           },
@@ -363,7 +363,7 @@
             "population": 114,
             "zip_codes": [
               {
-                "zip_codes": "82932"
+                "zip_code": "82932"
               }
             ]
           },
@@ -373,7 +373,7 @@
             "population": 1019,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -383,7 +383,7 @@
             "population": 229,
             "zip_codes": [
               {
-                "zip_codes": "82723"
+                "zip_code": "82723"
               }
             ]
           },
@@ -393,7 +393,7 @@
             "population": 267,
             "zip_codes": [
               {
-                "zip_codes": "82329"
+                "zip_code": "82329"
               }
             ]
           },
@@ -403,7 +403,7 @@
             "population": 4,
             "zip_codes": [
               {
-                "zip_codes": "82229"
+                "zip_code": "82229"
               }
             ]
           },
@@ -413,7 +413,7 @@
             "population": 1265,
             "zip_codes": [
               {
-                "zip_codes": "82729"
+                "zip_code": "82729"
               }
             ]
           },
@@ -423,7 +423,7 @@
             "population": 92,
             "zip_codes": [
               {
-                "zip_codes": "82929"
+                "zip_code": "82929"
               }
             ]
           },
@@ -433,7 +433,7 @@
             "population": 259,
             "zip_codes": [
               {
-                "zip_codes": "83126"
+                "zip_code": "83126"
               }
             ]
           },
@@ -443,7 +443,7 @@
             "population": 416,
             "zip_codes": [
               {
-                "zip_codes": "82720"
+                "zip_code": "82720"
               }
             ]
           },
@@ -453,7 +453,7 @@
             "population": 518,
             "zip_codes": [
               {
-                "zip_codes": "82930"
+                "zip_code": "82930"
               }
             ]
           },
@@ -463,7 +463,7 @@
             "population": 100,
             "zip_codes": [
               {
-                "zip_codes": "82322"
+                "zip_code": "82322"
               }
             ]
           },
@@ -473,7 +473,7 @@
             "population": 249,
             "zip_codes": [
               {
-                "zip_codes": "82083"
+                "zip_code": "82083"
               }
             ]
           },
@@ -483,7 +483,7 @@
             "population": 222,
             "zip_codes": [
               {
-                "zip_codes": "83111"
+                "zip_code": "83111"
               }
             ]
           },
@@ -493,7 +493,7 @@
             "population": 407,
             "zip_codes": [
               {
-                "zip_codes": "82334"
+                "zip_code": "82334"
               }
             ]
           },
@@ -503,7 +503,7 @@
             "population": 316,
             "zip_codes": [
               {
-                "zip_codes": "82945"
+                "zip_code": "82945"
               }
             ]
           },
@@ -513,7 +513,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "83101"
+                "zip_code": "83101"
               }
             ]
           },
@@ -523,7 +523,7 @@
             "population": 185,
             "zip_codes": [
               {
-                "zip_codes": "82421"
+                "zip_code": "82421"
               }
             ]
           },
@@ -533,19 +533,19 @@
             "population": 78728,
             "zip_codes": [
               {
-                "zip_codes": "82009"
+                "zip_code": "82009"
               },
               {
-                "zip_codes": "82007"
+                "zip_code": "82007"
               },
               {
-                "zip_codes": "82001"
+                "zip_code": "82001"
               },
               {
-                "zip_codes": "82002"
+                "zip_code": "82002"
               },
               {
-                "zip_codes": "82003"
+                "zip_code": "82003"
               }
             ]
           },
@@ -555,7 +555,7 @@
             "population": 524,
             "zip_codes": [
               {
-                "zip_codes": "83113"
+                "zip_code": "83113"
               }
             ]
           },
@@ -565,7 +565,7 @@
             "population": 108,
             "zip_codes": [
               {
-                "zip_codes": "82838"
+                "zip_code": "82838"
               }
             ]
           },
@@ -575,7 +575,7 @@
             "population": 436,
             "zip_codes": [
               {
-                "zip_codes": "82325"
+                "zip_code": "82325"
               }
             ]
           },
@@ -585,7 +585,7 @@
             "population": 512,
             "zip_codes": [
               {
-                "zip_codes": "82801"
+                "zip_code": "82801"
               }
             ]
           },
@@ -595,7 +595,7 @@
             "population": 229,
             "zip_codes": [
               {
-                "zip_codes": "82212"
+                "zip_code": "82212"
               }
             ]
           },
@@ -605,10 +605,10 @@
             "population": 12543,
             "zip_codes": [
               {
-                "zip_codes": "83001"
+                "zip_code": "83001"
               },
               {
-                "zip_codes": "83002"
+                "zip_code": "83002"
               }
             ]
           },
@@ -618,7 +618,7 @@
             "population": 6407,
             "zip_codes": [
               {
-                "zip_codes": "82633"
+                "zip_code": "82633"
               }
             ]
           },
@@ -628,7 +628,7 @@
             "population": 143,
             "zip_codes": [
               {
-                "zip_codes": "83115"
+                "zip_code": "83115"
               }
             ]
           },
@@ -638,10 +638,10 @@
             "population": 1747,
             "zip_codes": [
               {
-                "zip_codes": "82510"
+                "zip_code": "82510"
               },
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -651,7 +651,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "83101"
+                "zip_code": "83101"
               }
             ]
           },
@@ -661,7 +661,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -671,7 +671,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82443"
+                "zip_code": "82443"
               }
             ]
           },
@@ -681,7 +681,7 @@
             "population": 7363,
             "zip_codes": [
               {
-                "zip_codes": "82240"
+                "zip_code": "82240"
               }
             ]
           },
@@ -691,7 +691,7 @@
             "population": 8,
             "zip_codes": [
               {
-                "zip_codes": "82083"
+                "zip_code": "82083"
               }
             ]
           },
@@ -701,7 +701,7 @@
             "population": 41,
             "zip_codes": [
               {
-                "zip_codes": "82701"
+                "zip_code": "82701"
               }
             ]
           },
@@ -711,7 +711,7 @@
             "population": 486,
             "zip_codes": [
               {
-                "zip_codes": "82443"
+                "zip_code": "82443"
               }
             ]
           },
@@ -721,7 +721,7 @@
             "population": 484,
             "zip_codes": [
               {
-                "zip_codes": "82336"
+                "zip_code": "82336"
               }
             ]
           },
@@ -731,7 +731,7 @@
             "population": 883,
             "zip_codes": [
               {
-                "zip_codes": "82842"
+                "zip_code": "82842"
               }
             ]
           },
@@ -741,7 +741,7 @@
             "population": 561,
             "zip_codes": [
               {
-                "zip_codes": "82937"
+                "zip_code": "82937"
               }
             ]
           },
@@ -751,7 +751,7 @@
             "population": 234,
             "zip_codes": [
               {
-                "zip_codes": "82523"
+                "zip_code": "82523"
               }
             ]
           },
@@ -761,7 +761,7 @@
             "population": 2950,
             "zip_codes": [
               {
-                "zip_codes": "82636"
+                "zip_code": "82636"
               }
             ]
           },
@@ -771,7 +771,7 @@
             "population": 244,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               }
             ]
           },
@@ -781,7 +781,7 @@
             "population": 169,
             "zip_codes": [
               {
-                "zip_codes": "82441"
+                "zip_code": "82441"
               }
             ]
           },
@@ -791,7 +791,7 @@
             "population": 71,
             "zip_codes": [
               {
-                "zip_codes": "82243"
+                "zip_code": "82243"
               }
             ]
           },
@@ -801,7 +801,7 @@
             "population": 335,
             "zip_codes": [
               {
-                "zip_codes": "82433"
+                "zip_code": "82433"
               }
             ]
           },
@@ -811,7 +811,7 @@
             "population": 61,
             "zip_codes": [
               {
-                "zip_codes": "82215"
+                "zip_code": "82215"
               }
             ]
           },
@@ -821,7 +821,7 @@
             "population": 156,
             "zip_codes": [
               {
-                "zip_codes": "82244"
+                "zip_code": "82244"
               }
             ]
           },
@@ -831,7 +831,7 @@
             "population": 81,
             "zip_codes": [
               {
-                "zip_codes": "82428"
+                "zip_code": "82428"
               }
             ]
           },
@@ -841,7 +841,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82331"
+                "zip_code": "82331"
               }
             ]
           },
@@ -851,7 +851,7 @@
             "population": 280,
             "zip_codes": [
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               }
             ]
           },
@@ -861,7 +861,7 @@
             "population": 1991,
             "zip_codes": [
               {
-                "zip_codes": "83014"
+                "zip_code": "83014"
               }
             ]
           },
@@ -871,7 +871,7 @@
             "population": 281,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -881,13 +881,13 @@
             "population": 3899,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               },
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               },
               {
-                "zip_codes": "82644"
+                "zip_code": "82644"
               }
             ]
           },
@@ -897,7 +897,7 @@
             "population": 195,
             "zip_codes": [
               {
-                "zip_codes": "82636"
+                "zip_code": "82636"
               }
             ]
           },
@@ -907,10 +907,10 @@
             "population": 521,
             "zip_codes": [
               {
-                "zip_codes": "82943"
+                "zip_code": "82943"
               },
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -920,7 +920,7 @@
             "population": 69,
             "zip_codes": [
               {
-                "zip_codes": "82938"
+                "zip_code": "82938"
               }
             ]
           },
@@ -930,7 +930,7 @@
             "population": 135,
             "zip_codes": [
               {
-                "zip_codes": "82636"
+                "zip_code": "82636"
               }
             ]
           },
@@ -940,7 +940,7 @@
             "population": 88,
             "zip_codes": [
               {
-                "zip_codes": "82227"
+                "zip_code": "82227"
               }
             ]
           },
@@ -950,7 +950,7 @@
             "population": 793,
             "zip_codes": [
               {
-                "zip_codes": "82327"
+                "zip_code": "82327"
               }
             ]
           },
@@ -960,10 +960,10 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82240"
+                "zip_code": "82240"
               },
               {
-                "zip_codes": "82218"
+                "zip_code": "82218"
               }
             ]
           },
@@ -973,7 +973,7 @@
             "population": 57,
             "zip_codes": [
               {
-                "zip_codes": "82190"
+                "zip_code": "82190"
               }
             ]
           },
@@ -983,7 +983,7 @@
             "population": 81,
             "zip_codes": [
               {
-                "zip_codes": "82942"
+                "zip_code": "82942"
               }
             ]
           },
@@ -993,7 +993,7 @@
             "population": 203,
             "zip_codes": [
               {
-                "zip_codes": "82210"
+                "zip_code": "82210"
               }
             ]
           },
@@ -1003,7 +1003,7 @@
             "population": 257,
             "zip_codes": [
               {
-                "zip_codes": "82442"
+                "zip_code": "82442"
               }
             ]
           },
@@ -1013,7 +1013,7 @@
             "population": 3210,
             "zip_codes": [
               {
-                "zip_codes": "82443"
+                "zip_code": "82443"
               }
             ]
           },
@@ -1023,7 +1023,7 @@
             "population": 583,
             "zip_codes": [
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               }
             ]
           },
@@ -1033,7 +1033,7 @@
             "population": 249,
             "zip_codes": [
               {
-                "zip_codes": "82443"
+                "zip_code": "82443"
               }
             ]
           },
@@ -1043,7 +1043,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82923"
+                "zip_code": "82923"
               }
             ]
           },
@@ -1053,10 +1053,10 @@
             "population": 438,
             "zip_codes": [
               {
-                "zip_codes": "82440"
+                "zip_code": "82440"
               },
               {
-                "zip_codes": "82435"
+                "zip_code": "82435"
               }
             ]
           },
@@ -1066,10 +1066,10 @@
             "population": 293,
             "zip_codes": [
               {
-                "zip_codes": "83110"
+                "zip_code": "83110"
               },
               {
-                "zip_codes": "83119"
+                "zip_code": "83119"
               }
             ]
           },
@@ -1079,13 +1079,13 @@
             "population": 10,
             "zip_codes": [
               {
-                "zip_codes": "82225"
+                "zip_code": "82225"
               },
               {
-                "zip_codes": "82224"
+                "zip_code": "82224"
               },
               {
-                "zip_codes": "82222"
+                "zip_code": "82222"
               }
             ]
           },
@@ -1095,7 +1095,7 @@
             "population": 382,
             "zip_codes": [
               {
-                "zip_codes": "83127"
+                "zip_code": "83127"
               }
             ]
           },
@@ -1105,7 +1105,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82520"
+                "zip_code": "82520"
               }
             ]
           },
@@ -1115,10 +1115,10 @@
             "population": 616,
             "zip_codes": [
               {
-                "zip_codes": "82412"
+                "zip_code": "82412"
               },
               {
-                "zip_codes": "82431"
+                "zip_code": "82431"
               }
             ]
           },
@@ -1128,7 +1128,7 @@
             "population": 6001,
             "zip_codes": [
               {
-                "zip_codes": "82009"
+                "zip_code": "82009"
               }
             ]
           },
@@ -1138,7 +1138,7 @@
             "population": 974,
             "zip_codes": [
               {
-                "zip_codes": "82839"
+                "zip_code": "82839"
               }
             ]
           },
@@ -1148,7 +1148,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -1158,7 +1158,7 @@
             "population": 5167,
             "zip_codes": [
               {
-                "zip_codes": "82401"
+                "zip_code": "82401"
               }
             ]
           },
@@ -1168,7 +1168,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82937"
+                "zip_code": "82937"
               }
             ]
           },
@@ -1178,7 +1178,7 @@
             "population": 210,
             "zip_codes": [
               {
-                "zip_codes": "83118"
+                "zip_code": "83118"
               }
             ]
           },
@@ -1188,7 +1188,7 @@
             "population": 1655,
             "zip_codes": [
               {
-                "zip_codes": "82331"
+                "zip_code": "82331"
               }
             ]
           },
@@ -1198,7 +1198,7 @@
             "population": 758,
             "zip_codes": [
               {
-                "zip_codes": "83116"
+                "zip_code": "83116"
               }
             ]
           },
@@ -1208,7 +1208,7 @@
             "population": 105,
             "zip_codes": [
               {
-                "zip_codes": "83124"
+                "zip_code": "83124"
               }
             ]
           },
@@ -1218,7 +1218,7 @@
             "population": 139,
             "zip_codes": [
               {
-                "zip_codes": "82060"
+                "zip_code": "82060"
               }
             ]
           },
@@ -1228,7 +1228,7 @@
             "population": 147,
             "zip_codes": [
               {
-                "zip_codes": "82835"
+                "zip_code": "82835"
               }
             ]
           },
@@ -1238,7 +1238,7 @@
             "population": 116,
             "zip_codes": [
               {
-                "zip_codes": "82432"
+                "zip_code": "82432"
               }
             ]
           },
@@ -1248,7 +1248,7 @@
             "population": 748,
             "zip_codes": [
               {
-                "zip_codes": "82420"
+                "zip_code": "82420"
               }
             ]
           },
@@ -1258,7 +1258,7 @@
             "population": 3523,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -1268,7 +1268,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82633"
+                "zip_code": "82633"
               }
             ]
           },
@@ -1278,10 +1278,10 @@
             "population": 34378,
             "zip_codes": [
               {
-                "zip_codes": "82718"
+                "zip_code": "82718"
               },
               {
-                "zip_codes": "82716"
+                "zip_code": "82716"
               }
             ]
           },
@@ -1291,7 +1291,7 @@
             "population": 2393,
             "zip_codes": [
               {
-                "zip_codes": "82431"
+                "zip_code": "82431"
               }
             ]
           },
@@ -1301,7 +1301,7 @@
             "population": 1293,
             "zip_codes": [
               {
-                "zip_codes": "82410"
+                "zip_code": "82410"
               }
             ]
           },
@@ -1311,7 +1311,7 @@
             "population": 2781,
             "zip_codes": [
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               }
             ]
           },
@@ -1321,7 +1321,7 @@
             "population": 12220,
             "zip_codes": [
               {
-                "zip_codes": "82935"
+                "zip_code": "82935"
               }
             ]
           },
@@ -1331,7 +1331,7 @@
             "population": 19234,
             "zip_codes": [
               {
-                "zip_codes": "82801"
+                "zip_code": "82801"
               }
             ]
           },
@@ -1341,7 +1341,7 @@
             "population": 652,
             "zip_codes": [
               {
-                "zip_codes": "82649"
+                "zip_code": "82649"
               }
             ]
           },
@@ -1351,7 +1351,7 @@
             "population": 184,
             "zip_codes": [
               {
-                "zip_codes": "82932"
+                "zip_code": "82932"
               }
             ]
           },
@@ -1361,7 +1361,7 @@
             "population": 1543,
             "zip_codes": [
               {
-                "zip_codes": "82225"
+                "zip_code": "82225"
               }
             ]
           },
@@ -1371,7 +1371,7 @@
             "population": 217,
             "zip_codes": [
               {
-                "zip_codes": "82055"
+                "zip_code": "82055"
               }
             ]
           },
@@ -1381,7 +1381,7 @@
             "population": 24,
             "zip_codes": [
               {
-                "zip_codes": "82070"
+                "zip_code": "82070"
               }
             ]
           },
@@ -1391,7 +1391,7 @@
             "population": 1862,
             "zip_codes": [
               {
-                "zip_codes": "82426"
+                "zip_code": "82426"
               }
             ]
           },
@@ -1401,7 +1401,7 @@
             "population": 6516,
             "zip_codes": [
               {
-                "zip_codes": "82435"
+                "zip_code": "82435"
               }
             ]
           },
@@ -1411,10 +1411,10 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               },
               {
-                "zip_codes": "82648"
+                "zip_code": "82648"
               }
             ]
           },
@@ -1424,7 +1424,7 @@
             "population": 204,
             "zip_codes": [
               {
-                "zip_codes": "82050"
+                "zip_code": "82050"
               }
             ]
           },
@@ -1434,7 +1434,7 @@
             "population": 420,
             "zip_codes": [
               {
-                "zip_codes": "83118"
+                "zip_code": "83118"
               }
             ]
           },
@@ -1444,7 +1444,7 @@
             "population": 1151,
             "zip_codes": [
               {
-                "zip_codes": "82214"
+                "zip_code": "82214"
               }
             ]
           },
@@ -1454,7 +1454,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "83011"
+                "zip_code": "83011"
               }
             ]
           },
@@ -1464,7 +1464,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "83128"
+                "zip_code": "83128"
               }
             ]
           },
@@ -1474,7 +1474,7 @@
             "population": 463,
             "zip_codes": [
               {
-                "zip_codes": "82223"
+                "zip_code": "82223"
               }
             ]
           },
@@ -1484,7 +1484,7 @@
             "population": 562,
             "zip_codes": [
               {
-                "zip_codes": "83123"
+                "zip_code": "83123"
               }
             ]
           },
@@ -1494,7 +1494,7 @@
             "population": 189,
             "zip_codes": [
               {
-                "zip_codes": "82324"
+                "zip_code": "82324"
               }
             ]
           },
@@ -1504,19 +1504,19 @@
             "population": 67462,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               },
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               },
               {
-                "zip_codes": "82609"
+                "zip_code": "82609"
               },
               {
-                "zip_codes": "82602"
+                "zip_code": "82602"
               },
               {
-                "zip_codes": "82605"
+                "zip_code": "82605"
               }
             ]
           },
@@ -1526,7 +1526,7 @@
             "population": 1060,
             "zip_codes": [
               {
-                "zip_codes": "82730"
+                "zip_code": "82730"
               }
             ]
           },
@@ -1536,7 +1536,7 @@
             "population": 1261,
             "zip_codes": [
               {
-                "zip_codes": "82939"
+                "zip_code": "82939"
               }
             ]
           },
@@ -1546,7 +1546,7 @@
             "population": 11538,
             "zip_codes": [
               {
-                "zip_codes": "82930"
+                "zip_code": "82930"
               }
             ]
           },
@@ -1556,7 +1556,7 @@
             "population": 1742,
             "zip_codes": [
               {
-                "zip_codes": "82732"
+                "zip_code": "82732"
               }
             ]
           },
@@ -1566,7 +1566,7 @@
             "population": 97,
             "zip_codes": [
               {
-                "zip_codes": "82323"
+                "zip_code": "82323"
               }
             ]
           },
@@ -1576,7 +1576,7 @@
             "population": 53,
             "zip_codes": [
               {
-                "zip_codes": "82325"
+                "zip_code": "82325"
               }
             ]
           },
@@ -1586,7 +1586,7 @@
             "population": 1111,
             "zip_codes": [
               {
-                "zip_codes": "83113"
+                "zip_code": "83113"
               }
             ]
           },
@@ -1596,10 +1596,10 @@
             "population": 90,
             "zip_codes": [
               {
-                "zip_codes": "82443"
+                "zip_code": "82443"
               },
               {
-                "zip_codes": "82430"
+                "zip_code": "82430"
               }
             ]
           },
@@ -1609,7 +1609,7 @@
             "population": 3144,
             "zip_codes": [
               {
-                "zip_codes": "82701"
+                "zip_code": "82701"
               }
             ]
           },
@@ -1619,13 +1619,13 @@
             "population": 1586,
             "zip_codes": [
               {
-                "zip_codes": "82510"
+                "zip_code": "82510"
               },
               {
-                "zip_codes": "82501"
+                "zip_code": "82501"
               },
               {
-                "zip_codes": "82524"
+                "zip_code": "82524"
               }
             ]
           },
@@ -1635,7 +1635,7 @@
             "population": 311,
             "zip_codes": [
               {
-                "zip_codes": "82053"
+                "zip_code": "82053"
               }
             ]
           },
@@ -1645,7 +1645,7 @@
             "population": 1054,
             "zip_codes": [
               {
-                "zip_codes": "82721"
+                "zip_code": "82721"
               }
             ]
           },
@@ -1655,10 +1655,10 @@
             "population": 4736,
             "zip_codes": [
               {
-                "zip_codes": "82007"
+                "zip_code": "82007"
               },
               {
-                "zip_codes": "82010"
+                "zip_code": "82010"
               }
             ]
           },
@@ -1668,10 +1668,10 @@
             "population": 2208,
             "zip_codes": [
               {
-                "zip_codes": "82005"
+                "zip_code": "82005"
               },
               {
-                "zip_codes": "82001"
+                "zip_code": "82001"
               }
             ]
           },
@@ -1681,10 +1681,10 @@
             "population": 56,
             "zip_codes": [
               {
-                "zip_codes": "82063"
+                "zip_code": "82063"
               },
               {
-                "zip_codes": "82070"
+                "zip_code": "82070"
               }
             ]
           },
@@ -1694,7 +1694,7 @@
             "population": 4487,
             "zip_codes": [
               {
-                "zip_codes": "82007"
+                "zip_code": "82007"
               }
             ]
           },
@@ -1704,7 +1704,7 @@
             "population": 1443,
             "zip_codes": [
               {
-                "zip_codes": "83014"
+                "zip_code": "83014"
               }
             ]
           },
@@ -1714,7 +1714,7 @@
             "population": 65,
             "zip_codes": [
               {
-                "zip_codes": "82201"
+                "zip_code": "82201"
               }
             ]
           },
@@ -1724,7 +1724,7 @@
             "population": 824,
             "zip_codes": [
               {
-                "zip_codes": "82836"
+                "zip_code": "82836"
               }
             ]
           },
@@ -1734,7 +1734,7 @@
             "population": 1030,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               }
             ]
           },
@@ -1744,7 +1744,7 @@
             "population": 88,
             "zip_codes": [
               {
-                "zip_codes": "82512"
+                "zip_code": "82512"
               }
             ]
           },
@@ -1754,7 +1754,7 @@
             "population": 1416,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -1764,10 +1764,10 @@
             "population": 54,
             "zip_codes": [
               {
-                "zip_codes": "82941"
+                "zip_code": "82941"
               },
               {
-                "zip_codes": "82925"
+                "zip_code": "82925"
               }
             ]
           },
@@ -1777,7 +1777,7 @@
             "population": 132,
             "zip_codes": [
               {
-                "zip_codes": "83025"
+                "zip_code": "83025"
               }
             ]
           },
@@ -1787,10 +1787,10 @@
             "population": 194,
             "zip_codes": [
               {
-                "zip_codes": "82516"
+                "zip_code": "82516"
               },
               {
-                "zip_codes": "82501"
+                "zip_code": "82501"
               }
             ]
           },
@@ -1800,7 +1800,7 @@
             "population": 2067,
             "zip_codes": [
               {
-                "zip_codes": "82937"
+                "zip_code": "82937"
               }
             ]
           },
@@ -1810,7 +1810,7 @@
             "population": 356,
             "zip_codes": [
               {
-                "zip_codes": "83120"
+                "zip_code": "83120"
               }
             ]
           },
@@ -1820,7 +1820,7 @@
             "population": 628,
             "zip_codes": [
               {
-                "zip_codes": "82601"
+                "zip_code": "82601"
               }
             ]
           },
@@ -1830,7 +1830,7 @@
             "population": 1579,
             "zip_codes": [
               {
-                "zip_codes": "83001"
+                "zip_code": "83001"
               }
             ]
           },
@@ -1840,7 +1840,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82922"
+                "zip_code": "82922"
               }
             ]
           },
@@ -1850,7 +1850,7 @@
             "population": 974,
             "zip_codes": [
               {
-                "zip_codes": "82513"
+                "zip_code": "82513"
               }
             ]
           },
@@ -1860,7 +1860,7 @@
             "population": 107,
             "zip_codes": [
               {
-                "zip_codes": "83128"
+                "zip_code": "83128"
               }
             ]
           },
@@ -1870,7 +1870,7 @@
             "population": 242,
             "zip_codes": [
               {
-                "zip_codes": "83110"
+                "zip_code": "83110"
               }
             ]
           },
@@ -1880,7 +1880,7 @@
             "population": 428,
             "zip_codes": [
               {
-                "zip_codes": "82321"
+                "zip_code": "82321"
               }
             ]
           },
@@ -1890,7 +1890,7 @@
             "population": 158,
             "zip_codes": [
               {
-                "zip_codes": "82423"
+                "zip_code": "82423"
               }
             ]
           },
@@ -1900,7 +1900,7 @@
             "population": 38,
             "zip_codes": [
               {
-                "zip_codes": "82831"
+                "zip_code": "82831"
               }
             ]
           },
@@ -1910,7 +1910,7 @@
             "population": 445,
             "zip_codes": [
               {
-                "zip_codes": "82221"
+                "zip_code": "82221"
               }
             ]
           },
@@ -1920,7 +1920,7 @@
             "population": 34,
             "zip_codes": [
               {
-                "zip_codes": "82633"
+                "zip_code": "82633"
               }
             ]
           },
@@ -1930,7 +1930,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               }
             ]
           },
@@ -1940,7 +1940,7 @@
             "population": 952,
             "zip_codes": [
               {
-                "zip_codes": "82718"
+                "zip_code": "82718"
               }
             ]
           },
@@ -1950,7 +1950,7 @@
             "population": 133,
             "zip_codes": [
               {
-                "zip_codes": "82934"
+                "zip_code": "82934"
               }
             ]
           },
@@ -1960,7 +1960,7 @@
             "population": 8869,
             "zip_codes": [
               {
-                "zip_codes": "82301"
+                "zip_code": "82301"
               }
             ]
           },
@@ -1970,7 +1970,7 @@
             "population": 1565,
             "zip_codes": [
               {
-                "zip_codes": "83001"
+                "zip_code": "83001"
               }
             ]
           },
@@ -1980,7 +1980,7 @@
             "population": 12776,
             "zip_codes": [
               {
-                "zip_codes": "82501"
+                "zip_code": "82501"
               }
             ]
           },
@@ -1990,7 +1990,7 @@
             "population": 1409,
             "zip_codes": [
               {
-                "zip_codes": "83001"
+                "zip_code": "83001"
               }
             ]
           },
@@ -2000,7 +2000,7 @@
             "population": 204,
             "zip_codes": [
               {
-                "zip_codes": "82213"
+                "zip_code": "82213"
               }
             ]
           },
@@ -2010,7 +2010,7 @@
             "population": 269,
             "zip_codes": [
               {
-                "zip_codes": "82639"
+                "zip_code": "82639"
               }
             ]
           },
@@ -2020,7 +2020,7 @@
             "population": 76,
             "zip_codes": [
               {
-                "zip_codes": "83114"
+                "zip_code": "83114"
               }
             ]
           },
@@ -2030,7 +2030,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "82938"
+                "zip_code": "82938"
               }
             ]
           },
@@ -2040,7 +2040,7 @@
             "population": 1142,
             "zip_codes": [
               {
-                "zip_codes": "82082"
+                "zip_code": "82082"
               }
             ]
           },
@@ -2050,10 +2050,10 @@
             "population": 26710,
             "zip_codes": [
               {
-                "zip_codes": "82901"
+                "zip_code": "82901"
               },
               {
-                "zip_codes": "82902"
+                "zip_code": "82902"
               }
             ]
           },
@@ -2063,7 +2063,7 @@
             "population": 233,
             "zip_codes": [
               {
-                "zip_codes": "82933"
+                "zip_code": "82933"
               }
             ]
           },
@@ -2073,7 +2073,7 @@
             "population": 165,
             "zip_codes": [
               {
-                "zip_codes": "82435"
+                "zip_code": "82435"
               }
             ]
           },
@@ -2083,7 +2083,7 @@
             "population": 317,
             "zip_codes": [
               {
-                "zip_codes": "82054"
+                "zip_code": "82054"
               }
             ]
           },
@@ -2093,7 +2093,7 @@
             "population": 535,
             "zip_codes": [
               {
-                "zip_codes": "82604"
+                "zip_code": "82604"
               }
             ]
           },
@@ -2103,7 +2103,7 @@
             "population": 113,
             "zip_codes": [
               {
-                "zip_codes": "82712"
+                "zip_code": "82712"
               }
             ]
           },
@@ -2113,7 +2113,7 @@
             "population": 1581,
             "zip_codes": [
               {
-                "zip_codes": "83127"
+                "zip_code": "83127"
               }
             ]
           },
@@ -2123,7 +2123,7 @@
             "population": 4367,
             "zip_codes": [
               {
-                "zip_codes": "82834"
+                "zip_code": "82834"
               }
             ]
           }
