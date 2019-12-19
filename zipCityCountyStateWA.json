@@ -12,13 +12,13 @@
             "population": 2500,
             "zip_codes": [
               {
-                "zip_codes": "98580"
+                "zip_code": "98580"
               },
               {
-                "zip_codes": "98387"
+                "zip_code": "98387"
               },
               {
-                "zip_codes": "98338"
+                "zip_code": "98338"
               }
             ]
           },
@@ -28,13 +28,13 @@
             "population": 947,
             "zip_codes": [
               {
-                "zip_codes": "98941"
+                "zip_code": "98941"
               },
               {
-                "zip_codes": "98068"
+                "zip_code": "98068"
               },
               {
-                "zip_codes": "98925"
+                "zip_code": "98925"
               }
             ]
           },
@@ -44,7 +44,7 @@
             "population": 441,
             "zip_codes": [
               {
-                "zip_codes": "99032"
+                "zip_code": "99032"
               }
             ]
           },
@@ -54,10 +54,10 @@
             "population": 9507,
             "zip_codes": [
               {
-                "zip_codes": "98332"
+                "zip_code": "98332"
               },
               {
-                "zip_codes": "98335"
+                "zip_code": "98335"
               }
             ]
           },
@@ -67,13 +67,13 @@
             "population": 3591,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               },
               {
-                "zip_codes": "98258"
+                "zip_code": "98258"
               },
               {
-                "zip_codes": "98270"
+                "zip_code": "98270"
               }
             ]
           },
@@ -83,7 +83,7 @@
             "population": 1830,
             "zip_codes": [
               {
-                "zip_codes": "98589"
+                "zip_code": "98589"
               }
             ]
           },
@@ -93,7 +93,7 @@
             "population": 289,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -103,7 +103,7 @@
             "population": 3390,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               }
             ]
           },
@@ -113,7 +113,7 @@
             "population": 573,
             "zip_codes": [
               {
-                "zip_codes": "99166"
+                "zip_code": "99166"
               }
             ]
           },
@@ -123,7 +123,7 @@
             "population": 4280,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               }
             ]
           },
@@ -133,7 +133,7 @@
             "population": 701,
             "zip_codes": [
               {
-                "zip_codes": "98846"
+                "zip_code": "98846"
               }
             ]
           },
@@ -143,7 +143,7 @@
             "population": 385,
             "zip_codes": [
               {
-                "zip_codes": "98643"
+                "zip_code": "98643"
               }
             ]
           },
@@ -153,16 +153,16 @@
             "population": 37019,
             "zip_codes": [
               {
-                "zip_codes": "98444"
+                "zip_code": "98444"
               },
               {
-                "zip_codes": "98445"
+                "zip_code": "98445"
               },
               {
-                "zip_codes": "98447"
+                "zip_code": "98447"
               },
               {
-                "zip_codes": "98448"
+                "zip_code": "98448"
               }
             ]
           },
@@ -172,7 +172,7 @@
             "population": 8642,
             "zip_codes": [
               {
-                "zip_codes": "98230"
+                "zip_code": "98230"
               }
             ]
           },
@@ -182,7 +182,7 @@
             "population": 162,
             "zip_codes": [
               {
-                "zip_codes": "98304"
+                "zip_code": "98304"
               }
             ]
           },
@@ -192,7 +192,7 @@
             "population": 3154,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               }
             ]
           },
@@ -202,7 +202,7 @@
             "population": 8130,
             "zip_codes": [
               {
-                "zip_codes": "98841"
+                "zip_code": "98841"
               }
             ]
           },
@@ -212,7 +212,7 @@
             "population": 154,
             "zip_codes": [
               {
-                "zip_codes": "99128"
+                "zip_code": "99128"
               }
             ]
           },
@@ -222,7 +222,7 @@
             "population": 4819,
             "zip_codes": [
               {
-                "zip_codes": "98321"
+                "zip_code": "98321"
               }
             ]
           },
@@ -232,7 +232,7 @@
             "population": 2506,
             "zip_codes": [
               {
-                "zip_codes": "98296"
+                "zip_code": "98296"
               }
             ]
           },
@@ -242,7 +242,7 @@
             "population": 10670,
             "zip_codes": [
               {
-                "zip_codes": "98370"
+                "zip_code": "98370"
               }
             ]
           },
@@ -252,7 +252,7 @@
             "population": 17955,
             "zip_codes": [
               {
-                "zip_codes": "98221"
+                "zip_code": "98221"
               }
             ]
           },
@@ -262,7 +262,7 @@
             "population": 5340,
             "zip_codes": [
               {
-                "zip_codes": "98332"
+                "zip_code": "98332"
               }
             ]
           },
@@ -272,7 +272,7 @@
             "population": 226,
             "zip_codes": [
               {
-                "zip_codes": "99117"
+                "zip_code": "99117"
               }
             ]
           },
@@ -282,7 +282,7 @@
             "population": 477,
             "zip_codes": [
               {
-                "zip_codes": "99030"
+                "zip_code": "99030"
               }
             ]
           },
@@ -292,7 +292,7 @@
             "population": 438,
             "zip_codes": [
               {
-                "zip_codes": "98673"
+                "zip_code": "98673"
               }
             ]
           },
@@ -302,7 +302,7 @@
             "population": 41643,
             "zip_codes": [
               {
-                "zip_codes": "98531"
+                "zip_code": "98531"
               }
             ]
           },
@@ -312,13 +312,13 @@
             "population": 56379,
             "zip_codes": [
               {
-                "zip_codes": "98375"
+                "zip_code": "98375"
               },
               {
-                "zip_codes": "98374"
+                "zip_code": "98374"
               },
               {
-                "zip_codes": "98373"
+                "zip_code": "98373"
               }
             ]
           },
@@ -328,7 +328,7 @@
             "population": 3678,
             "zip_codes": [
               {
-                "zip_codes": "98632"
+                "zip_code": "98632"
               }
             ]
           },
@@ -338,7 +338,7 @@
             "population": 2973,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               }
             ]
           },
@@ -348,10 +348,10 @@
             "population": 2027,
             "zip_codes": [
               {
-                "zip_codes": "98601"
+                "zip_code": "98601"
               },
               {
-                "zip_codes": "98675"
+                "zip_code": "98675"
               }
             ]
           },
@@ -361,7 +361,7 @@
             "population": 561,
             "zip_codes": [
               {
-                "zip_codes": "99171"
+                "zip_code": "99171"
               }
             ]
           },
@@ -371,10 +371,10 @@
             "population": 1739,
             "zip_codes": [
               {
-                "zip_codes": "98617"
+                "zip_code": "98617"
               },
               {
-                "zip_codes": "98635"
+                "zip_code": "98635"
               }
             ]
           },
@@ -384,7 +384,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98388"
+                "zip_code": "98388"
               }
             ]
           },
@@ -394,10 +394,10 @@
             "population": 503,
             "zip_codes": [
               {
-                "zip_codes": "99326"
+                "zip_code": "99326"
               },
               {
-                "zip_codes": "99343"
+                "zip_code": "99343"
               }
             ]
           },
@@ -407,7 +407,7 @@
             "population": 10154,
             "zip_codes": [
               {
-                "zip_codes": "98424"
+                "zip_code": "98424"
               }
             ]
           },
@@ -417,7 +417,7 @@
             "population": 3787,
             "zip_codes": [
               {
-                "zip_codes": "98837"
+                "zip_code": "98837"
               }
             ]
           },
@@ -427,7 +427,7 @@
             "population": 2637,
             "zip_codes": [
               {
-                "zip_codes": "99109"
+                "zip_code": "99109"
               }
             ]
           },
@@ -437,7 +437,7 @@
             "population": 756,
             "zip_codes": [
               {
-                "zip_codes": "98547"
+                "zip_code": "98547"
               }
             ]
           },
@@ -447,10 +447,10 @@
             "population": 1491,
             "zip_codes": [
               {
-                "zip_codes": "98934"
+                "zip_code": "98934"
               },
               {
-                "zip_codes": "98926"
+                "zip_code": "98926"
               }
             ]
           },
@@ -460,7 +460,7 @@
             "population": 15989,
             "zip_codes": [
               {
-                "zip_codes": "98282"
+                "zip_code": "98282"
               }
             ]
           },
@@ -470,10 +470,10 @@
             "population": 1704,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               },
               {
-                "zip_codes": "98272"
+                "zip_code": "98272"
               }
             ]
           },
@@ -483,10 +483,10 @@
             "population": 999,
             "zip_codes": [
               {
-                "zip_codes": "98648"
+                "zip_code": "98648"
               },
               {
-                "zip_codes": "98639"
+                "zip_code": "98639"
               }
             ]
           },
@@ -496,7 +496,7 @@
             "population": 358,
             "zip_codes": [
               {
-                "zip_codes": "98628"
+                "zip_code": "98628"
               }
             ]
           },
@@ -506,7 +506,7 @@
             "population": 784,
             "zip_codes": [
               {
-                "zip_codes": "99148"
+                "zip_code": "99148"
               }
             ]
           },
@@ -516,7 +516,7 @@
             "population": 2635,
             "zip_codes": [
               {
-                "zip_codes": "99156"
+                "zip_code": "99156"
               }
             ]
           },
@@ -526,7 +526,7 @@
             "population": 6859,
             "zip_codes": [
               {
-                "zip_codes": "99021"
+                "zip_code": "99021"
               }
             ]
           },
@@ -536,7 +536,7 @@
             "population": 4864,
             "zip_codes": [
               {
-                "zip_codes": "98815"
+                "zip_code": "98815"
               }
             ]
           },
@@ -546,7 +546,7 @@
             "population": 283,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               }
             ]
           },
@@ -556,7 +556,7 @@
             "population": 5553,
             "zip_codes": [
               {
-                "zip_codes": "98569"
+                "zip_code": "98569"
               }
             ]
           },
@@ -566,7 +566,7 @@
             "population": 1281,
             "zip_codes": [
               {
-                "zip_codes": "99343"
+                "zip_code": "99343"
               }
             ]
           },
@@ -576,7 +576,7 @@
             "population": 507,
             "zip_codes": [
               {
-                "zip_codes": "98396"
+                "zip_code": "98396"
               }
             ]
           },
@@ -586,7 +586,7 @@
             "population": 2895,
             "zip_codes": [
               {
-                "zip_codes": "98604"
+                "zip_code": "98604"
               }
             ]
           },
@@ -596,7 +596,7 @@
             "population": 2826,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -606,7 +606,7 @@
             "population": 343,
             "zip_codes": [
               {
-                "zip_codes": "99179"
+                "zip_code": "99179"
               }
             ]
           },
@@ -616,7 +616,7 @@
             "population": 442,
             "zip_codes": [
               {
-                "zip_codes": "99158"
+                "zip_code": "99158"
               }
             ]
           },
@@ -626,10 +626,10 @@
             "population": 5902,
             "zip_codes": [
               {
-                "zip_codes": "98626"
+                "zip_code": "98626"
               },
               {
-                "zip_codes": "98632"
+                "zip_code": "98632"
               }
             ]
           },
@@ -639,7 +639,7 @@
             "population": 208,
             "zip_codes": [
               {
-                "zip_codes": "98819"
+                "zip_code": "98819"
               }
             ]
           },
@@ -649,7 +649,7 @@
             "population": 187,
             "zip_codes": [
               {
-                "zip_codes": "99018"
+                "zip_code": "99018"
               }
             ]
           },
@@ -659,7 +659,7 @@
             "population": 3092,
             "zip_codes": [
               {
-                "zip_codes": "98541"
+                "zip_code": "98541"
               }
             ]
           },
@@ -669,7 +669,7 @@
             "population": 1294,
             "zip_codes": [
               {
-                "zip_codes": "98947"
+                "zip_code": "98947"
               }
             ]
           },
@@ -679,13 +679,13 @@
             "population": 2280,
             "zip_codes": [
               {
-                "zip_codes": "98366"
+                "zip_code": "98366"
               },
               {
-                "zip_codes": "98384"
+                "zip_code": "98384"
               },
               {
-                "zip_codes": "98386"
+                "zip_code": "98386"
               }
             ]
           },
@@ -695,7 +695,7 @@
             "population": 19,
             "zip_codes": [
               {
-                "zip_codes": "99121"
+                "zip_code": "99121"
               }
             ]
           },
@@ -705,7 +705,7 @@
             "population": 14441,
             "zip_codes": [
               {
-                "zip_codes": "98948"
+                "zip_code": "98948"
               }
             ]
           },
@@ -715,7 +715,7 @@
             "population": 952,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -725,7 +725,7 @@
             "population": 2632,
             "zip_codes": [
               {
-                "zip_codes": "98229"
+                "zip_code": "98229"
               }
             ]
           },
@@ -735,22 +735,22 @@
             "population": 133233,
             "zip_codes": [
               {
-                "zip_codes": "98901"
+                "zip_code": "98901"
               },
               {
-                "zip_codes": "98903"
+                "zip_code": "98903"
               },
               {
-                "zip_codes": "98902"
+                "zip_code": "98902"
               },
               {
-                "zip_codes": "98908"
+                "zip_code": "98908"
               },
               {
-                "zip_codes": "98904"
+                "zip_code": "98904"
               },
               {
-                "zip_codes": "98907"
+                "zip_code": "98907"
               }
             ]
           },
@@ -760,10 +760,10 @@
             "population": 4032,
             "zip_codes": [
               {
-                "zip_codes": "98936"
+                "zip_code": "98936"
               },
               {
-                "zip_codes": "98901"
+                "zip_code": "98901"
               }
             ]
           },
@@ -773,10 +773,10 @@
             "population": 42209,
             "zip_codes": [
               {
-                "zip_codes": "98026"
+                "zip_code": "98026"
               },
               {
-                "zip_codes": "98020"
+                "zip_code": "98020"
               }
             ]
           },
@@ -786,7 +786,7 @@
             "population": 3794,
             "zip_codes": [
               {
-                "zip_codes": "98625"
+                "zip_code": "98625"
               }
             ]
           },
@@ -796,7 +796,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "99146"
+                "zip_code": "99146"
               }
             ]
           },
@@ -806,10 +806,10 @@
             "population": 9635,
             "zip_codes": [
               {
-                "zip_codes": "98070"
+                "zip_code": "98070"
               },
               {
-                "zip_codes": "98013"
+                "zip_code": "98013"
               }
             ]
           },
@@ -819,13 +819,13 @@
             "population": 5730,
             "zip_codes": [
               {
-                "zip_codes": "99208"
+                "zip_code": "99208"
               },
               {
-                "zip_codes": "99218"
+                "zip_code": "99218"
               },
               {
-                "zip_codes": "99251"
+                "zip_code": "99251"
               }
             ]
           },
@@ -835,7 +835,7 @@
             "population": 1406,
             "zip_codes": [
               {
-                "zip_codes": "98241"
+                "zip_code": "98241"
               }
             ]
           },
@@ -845,7 +845,7 @@
             "population": 245,
             "zip_codes": [
               {
-                "zip_codes": "99153"
+                "zip_code": "99153"
               }
             ]
           },
@@ -855,7 +855,7 @@
             "population": 548,
             "zip_codes": [
               {
-                "zip_codes": "98635"
+                "zip_code": "98635"
               }
             ]
           },
@@ -865,7 +865,7 @@
             "population": 1797,
             "zip_codes": [
               {
-                "zip_codes": "98837"
+                "zip_code": "98837"
               }
             ]
           },
@@ -875,7 +875,7 @@
             "population": 307,
             "zip_codes": [
               {
-                "zip_codes": "99031"
+                "zip_code": "99031"
               }
             ]
           },
@@ -885,7 +885,7 @@
             "population": 78,
             "zip_codes": [
               {
-                "zip_codes": "98834"
+                "zip_code": "98834"
               }
             ]
           },
@@ -895,7 +895,7 @@
             "population": 1198,
             "zip_codes": [
               {
-                "zip_codes": "98858"
+                "zip_code": "98858"
               }
             ]
           },
@@ -905,7 +905,7 @@
             "population": 657,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               }
             ]
           },
@@ -915,10 +915,10 @@
             "population": 8230,
             "zip_codes": [
               {
-                "zip_codes": "98003"
+                "zip_code": "98003"
               },
               {
-                "zip_codes": "98354"
+                "zip_code": "98354"
               }
             ]
           },
@@ -928,7 +928,7 @@
             "population": 50,
             "zip_codes": [
               {
-                "zip_codes": "98832"
+                "zip_code": "98832"
               }
             ]
           },
@@ -938,13 +938,13 @@
             "population": 3303,
             "zip_codes": [
               {
-                "zip_codes": "98390"
+                "zip_code": "98390"
               },
               {
-                "zip_codes": "98372"
+                "zip_code": "98372"
               },
               {
-                "zip_codes": "98374"
+                "zip_code": "98374"
               }
             ]
           },
@@ -954,7 +954,7 @@
             "population": 9487,
             "zip_codes": [
               {
-                "zip_codes": "98327"
+                "zip_code": "98327"
               }
             ]
           },
@@ -964,10 +964,10 @@
             "population": 11213,
             "zip_codes": [
               {
-                "zip_codes": "98372"
+                "zip_code": "98372"
               },
               {
-                "zip_codes": "98371"
+                "zip_code": "98371"
               }
             ]
           },
@@ -977,7 +977,7 @@
             "population": 1848,
             "zip_codes": [
               {
-                "zip_codes": "98372"
+                "zip_code": "98372"
               }
             ]
           },
@@ -987,7 +987,7 @@
             "population": 538,
             "zip_codes": [
               {
-                "zip_codes": "98571"
+                "zip_code": "98571"
               }
             ]
           },
@@ -997,7 +997,7 @@
             "population": 1532,
             "zip_codes": [
               {
-                "zip_codes": "98831"
+                "zip_code": "98831"
               }
             ]
           },
@@ -1007,7 +1007,7 @@
             "population": 2343,
             "zip_codes": [
               {
-                "zip_codes": "98812"
+                "zip_code": "98812"
               }
             ]
           },
@@ -1017,7 +1017,7 @@
             "population": 20576,
             "zip_codes": [
               {
-                "zip_codes": "98604"
+                "zip_code": "98604"
               }
             ]
           },
@@ -1027,16 +1027,16 @@
             "population": 56189,
             "zip_codes": [
               {
-                "zip_codes": "98155"
+                "zip_code": "98155"
               },
               {
-                "zip_codes": "98177"
+                "zip_code": "98177"
               },
               {
-                "zip_codes": "98133"
+                "zip_code": "98133"
               },
               {
-                "zip_codes": "98160"
+                "zip_code": "98160"
               }
             ]
           },
@@ -1046,13 +1046,13 @@
             "population": 1624,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               },
               {
-                "zip_codes": "98563"
+                "zip_code": "98563"
               },
               {
-                "zip_codes": "98537"
+                "zip_code": "98537"
               }
             ]
           },
@@ -1062,10 +1062,10 @@
             "population": 8166,
             "zip_codes": [
               {
-                "zip_codes": "99224"
+                "zip_code": "99224"
               },
               {
-                "zip_codes": "99001"
+                "zip_code": "99001"
               }
             ]
           },
@@ -1075,10 +1075,10 @@
             "population": 18858,
             "zip_codes": [
               {
-                "zip_codes": "98935"
+                "zip_code": "98935"
               },
               {
-                "zip_codes": "98930"
+                "zip_code": "98930"
               }
             ]
           },
@@ -1088,7 +1088,7 @@
             "population": 413,
             "zip_codes": [
               {
-                "zip_codes": "99138"
+                "zip_code": "99138"
               }
             ]
           },
@@ -1098,7 +1098,7 @@
             "population": 1042,
             "zip_codes": [
               {
-                "zip_codes": "99133"
+                "zip_code": "99133"
               }
             ]
           },
@@ -1108,7 +1108,7 @@
             "population": 272,
             "zip_codes": [
               {
-                "zip_codes": "98592"
+                "zip_code": "98592"
               }
             ]
           },
@@ -1118,7 +1118,7 @@
             "population": 48,
             "zip_codes": [
               {
-                "zip_codes": "99166"
+                "zip_code": "99166"
               }
             ]
           },
@@ -1128,10 +1128,10 @@
             "population": 12130,
             "zip_codes": [
               {
-                "zip_codes": "98626"
+                "zip_code": "98626"
               },
               {
-                "zip_codes": "98632"
+                "zip_code": "98632"
               }
             ]
           },
@@ -1141,7 +1141,7 @@
             "population": 2051,
             "zip_codes": [
               {
-                "zip_codes": "98595"
+                "zip_code": "98595"
               }
             ]
           },
@@ -1151,7 +1151,7 @@
             "population": 10,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               }
             ]
           },
@@ -1161,7 +1161,7 @@
             "population": 894,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -1171,7 +1171,7 @@
             "population": 1233,
             "zip_codes": [
               {
-                "zip_codes": "99301"
+                "zip_code": "99301"
               }
             ]
           },
@@ -1181,10 +1181,10 @@
             "population": 31238,
             "zip_codes": [
               {
-                "zip_codes": "98148"
+                "zip_code": "98148"
               },
               {
-                "zip_codes": "98198"
+                "zip_code": "98198"
               }
             ]
           },
@@ -1194,7 +1194,7 @@
             "population": 1708,
             "zip_codes": [
               {
-                "zip_codes": "99122"
+                "zip_code": "99122"
               }
             ]
           },
@@ -1204,148 +1204,148 @@
             "population": 3643765,
             "zip_codes": [
               {
-                "zip_codes": "98109"
+                "zip_code": "98109"
               },
               {
-                "zip_codes": "98108"
+                "zip_code": "98108"
               },
               {
-                "zip_codes": "98104"
+                "zip_code": "98104"
               },
               {
-                "zip_codes": "98107"
+                "zip_code": "98107"
               },
               {
-                "zip_codes": "98106"
+                "zip_code": "98106"
               },
               {
-                "zip_codes": "98101"
+                "zip_code": "98101"
               },
               {
-                "zip_codes": "98103"
+                "zip_code": "98103"
               },
               {
-                "zip_codes": "98102"
+                "zip_code": "98102"
               },
               {
-                "zip_codes": "98105"
+                "zip_code": "98105"
               },
               {
-                "zip_codes": "98154"
+                "zip_code": "98154"
               },
               {
-                "zip_codes": "98122"
+                "zip_code": "98122"
               },
               {
-                "zip_codes": "98121"
+                "zip_code": "98121"
               },
               {
-                "zip_codes": "98126"
+                "zip_code": "98126"
               },
               {
-                "zip_codes": "98125"
+                "zip_code": "98125"
               },
               {
-                "zip_codes": "98178"
+                "zip_code": "98178"
               },
               {
-                "zip_codes": "98174"
+                "zip_code": "98174"
               },
               {
-                "zip_codes": "98177"
+                "zip_code": "98177"
               },
               {
-                "zip_codes": "98144"
+                "zip_code": "98144"
               },
               {
-                "zip_codes": "98146"
+                "zip_code": "98146"
               },
               {
-                "zip_codes": "98195"
+                "zip_code": "98195"
               },
               {
-                "zip_codes": "98199"
+                "zip_code": "98199"
               },
               {
-                "zip_codes": "98118"
+                "zip_code": "98118"
               },
               {
-                "zip_codes": "98119"
+                "zip_code": "98119"
               },
               {
-                "zip_codes": "98116"
+                "zip_code": "98116"
               },
               {
-                "zip_codes": "98117"
+                "zip_code": "98117"
               },
               {
-                "zip_codes": "98115"
+                "zip_code": "98115"
               },
               {
-                "zip_codes": "98112"
+                "zip_code": "98112"
               },
               {
-                "zip_codes": "98164"
+                "zip_code": "98164"
               },
               {
-                "zip_codes": "98134"
+                "zip_code": "98134"
               },
               {
-                "zip_codes": "98136"
+                "zip_code": "98136"
               },
               {
-                "zip_codes": "98133"
+                "zip_code": "98133"
               },
               {
-                "zip_codes": "98111"
+                "zip_code": "98111"
               },
               {
-                "zip_codes": "98113"
+                "zip_code": "98113"
               },
               {
-                "zip_codes": "98114"
+                "zip_code": "98114"
               },
               {
-                "zip_codes": "98124"
+                "zip_code": "98124"
               },
               {
-                "zip_codes": "98127"
+                "zip_code": "98127"
               },
               {
-                "zip_codes": "98129"
+                "zip_code": "98129"
               },
               {
-                "zip_codes": "98139"
+                "zip_code": "98139"
               },
               {
-                "zip_codes": "98141"
+                "zip_code": "98141"
               },
               {
-                "zip_codes": "98145"
+                "zip_code": "98145"
               },
               {
-                "zip_codes": "98161"
+                "zip_code": "98161"
               },
               {
-                "zip_codes": "98165"
+                "zip_code": "98165"
               },
               {
-                "zip_codes": "98170"
+                "zip_code": "98170"
               },
               {
-                "zip_codes": "98175"
+                "zip_code": "98175"
               },
               {
-                "zip_codes": "98181"
+                "zip_code": "98181"
               },
               {
-                "zip_codes": "98185"
+                "zip_code": "98185"
               },
               {
-                "zip_codes": "98191"
+                "zip_code": "98191"
               },
               {
-                "zip_codes": "98194"
+                "zip_code": "98194"
               }
             ]
           },
@@ -1355,10 +1355,10 @@
             "population": 9667,
             "zip_codes": [
               {
-                "zip_codes": "98087"
+                "zip_code": "98087"
               },
               {
-                "zip_codes": "98204"
+                "zip_code": "98204"
               }
             ]
           },
@@ -1368,7 +1368,7 @@
             "population": 2164,
             "zip_codes": [
               {
-                "zip_codes": "98014"
+                "zip_code": "98014"
               }
             ]
           },
@@ -1378,31 +1378,31 @@
             "population": 110079,
             "zip_codes": [
               {
-                "zip_codes": "98207"
+                "zip_code": "98207"
               },
               {
-                "zip_codes": "98204"
+                "zip_code": "98204"
               },
               {
-                "zip_codes": "98205"
+                "zip_code": "98205"
               },
               {
-                "zip_codes": "98203"
+                "zip_code": "98203"
               },
               {
-                "zip_codes": "98201"
+                "zip_code": "98201"
               },
               {
-                "zip_codes": "98208"
+                "zip_code": "98208"
               },
               {
-                "zip_codes": "98275"
+                "zip_code": "98275"
               },
               {
-                "zip_codes": "98206"
+                "zip_code": "98206"
               },
               {
-                "zip_codes": "98213"
+                "zip_code": "98213"
               }
             ]
           },
@@ -1412,7 +1412,7 @@
             "population": 2716,
             "zip_codes": [
               {
-                "zip_codes": "98857"
+                "zip_code": "98857"
               }
             ]
           },
@@ -1422,7 +1422,7 @@
             "population": 1055,
             "zip_codes": [
               {
-                "zip_codes": "99161"
+                "zip_code": "99161"
               }
             ]
           },
@@ -1432,7 +1432,7 @@
             "population": 7849,
             "zip_codes": [
               {
-                "zip_codes": "98901"
+                "zip_code": "98901"
               }
             ]
           },
@@ -1442,7 +1442,7 @@
             "population": 7396,
             "zip_codes": [
               {
-                "zip_codes": "99403"
+                "zip_code": "99403"
               }
             ]
           },
@@ -1452,10 +1452,10 @@
             "population": 247,
             "zip_codes": [
               {
-                "zip_codes": "99124"
+                "zip_code": "99124"
               },
               {
-                "zip_codes": "99116"
+                "zip_code": "99116"
               }
             ]
           },
@@ -1465,7 +1465,7 @@
             "population": 789,
             "zip_codes": [
               {
-                "zip_codes": "98564"
+                "zip_code": "98564"
               }
             ]
           },
@@ -1475,10 +1475,10 @@
             "population": 7421,
             "zip_codes": [
               {
-                "zip_codes": "98375"
+                "zip_code": "98375"
               },
               {
-                "zip_codes": "98373"
+                "zip_code": "98373"
               }
             ]
           },
@@ -1488,10 +1488,10 @@
             "population": 4108,
             "zip_codes": [
               {
-                "zip_codes": "98392"
+                "zip_code": "98392"
               },
               {
-                "zip_codes": "98370"
+                "zip_code": "98370"
               }
             ]
           },
@@ -1501,10 +1501,10 @@
             "population": 11681,
             "zip_codes": [
               {
-                "zip_codes": "98059"
+                "zip_code": "98059"
               },
               {
-                "zip_codes": "98056"
+                "zip_code": "98056"
               }
             ]
           },
@@ -1514,7 +1514,7 @@
             "population": 7161,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -1524,13 +1524,13 @@
             "population": 391,
             "zip_codes": [
               {
-                "zip_codes": "98360"
+                "zip_code": "98360"
               },
               {
-                "zip_codes": "98338"
+                "zip_code": "98338"
               },
               {
-                "zip_codes": "98344"
+                "zip_code": "98344"
               }
             ]
           },
@@ -1540,7 +1540,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98951"
+                "zip_code": "98951"
               }
             ]
           },
@@ -1550,7 +1550,7 @@
             "population": 61,
             "zip_codes": [
               {
-                "zip_codes": "98643"
+                "zip_code": "98643"
               }
             ]
           },
@@ -1560,7 +1560,7 @@
             "population": 443,
             "zip_codes": [
               {
-                "zip_codes": "98385"
+                "zip_code": "98385"
               }
             ]
           },
@@ -1570,7 +1570,7 @@
             "population": 377,
             "zip_codes": [
               {
-                "zip_codes": "98908"
+                "zip_code": "98908"
               }
             ]
           },
@@ -1580,13 +1580,13 @@
             "population": 3520,
             "zip_codes": [
               {
-                "zip_codes": "98342"
+                "zip_code": "98342"
               },
               {
-                "zip_codes": "98346"
+                "zip_code": "98346"
               },
               {
-                "zip_codes": "98370"
+                "zip_code": "98370"
               }
             ]
           },
@@ -1596,7 +1596,7 @@
             "population": 582,
             "zip_codes": [
               {
-                "zip_codes": "99029"
+                "zip_code": "99029"
               }
             ]
           },
@@ -1606,7 +1606,7 @@
             "population": 960,
             "zip_codes": [
               {
-                "zip_codes": "98923"
+                "zip_code": "98923"
               }
             ]
           },
@@ -1616,7 +1616,7 @@
             "population": 666,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -1626,7 +1626,7 @@
             "population": 1449,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               }
             ]
           },
@@ -1636,7 +1636,7 @@
             "population": 3398,
             "zip_codes": [
               {
-                "zip_codes": "99323"
+                "zip_code": "99323"
               }
             ]
           },
@@ -1646,7 +1646,7 @@
             "population": 12487,
             "zip_codes": [
               {
-                "zip_codes": "98001"
+                "zip_code": "98001"
               }
             ]
           },
@@ -1656,7 +1656,7 @@
             "population": 6565,
             "zip_codes": [
               {
-                "zip_codes": "98252"
+                "zip_code": "98252"
               }
             ]
           },
@@ -1666,7 +1666,7 @@
             "population": 23331,
             "zip_codes": [
               {
-                "zip_codes": "98607"
+                "zip_code": "98607"
               }
             ]
           },
@@ -1676,7 +1676,7 @@
             "population": 755,
             "zip_codes": [
               {
-                "zip_codes": "98584"
+                "zip_code": "98584"
               }
             ]
           },
@@ -1686,7 +1686,7 @@
             "population": 217,
             "zip_codes": [
               {
-                "zip_codes": "99119"
+                "zip_code": "99119"
               }
             ]
           },
@@ -1696,7 +1696,7 @@
             "population": 567,
             "zip_codes": [
               {
-                "zip_codes": "99170"
+                "zip_code": "99170"
               }
             ]
           },
@@ -1706,10 +1706,10 @@
             "population": 3236,
             "zip_codes": [
               {
-                "zip_codes": "98349"
+                "zip_code": "98349"
               },
               {
-                "zip_codes": "98351"
+                "zip_code": "98351"
               }
             ]
           },
@@ -1719,7 +1719,7 @@
             "population": 3542,
             "zip_codes": [
               {
-                "zip_codes": "98932"
+                "zip_code": "98932"
               }
             ]
           },
@@ -1729,7 +1729,7 @@
             "population": 5009,
             "zip_codes": [
               {
-                "zip_codes": "98433"
+                "zip_code": "98433"
               }
             ]
           },
@@ -1739,7 +1739,7 @@
             "population": 465,
             "zip_codes": [
               {
-                "zip_codes": "98903"
+                "zip_code": "98903"
               }
             ]
           },
@@ -1749,22 +1749,22 @@
             "population": 20144,
             "zip_codes": [
               {
-                "zip_codes": "98108"
+                "zip_code": "98108"
               },
               {
-                "zip_codes": "98178"
+                "zip_code": "98178"
               },
               {
-                "zip_codes": "98168"
+                "zip_code": "98168"
               },
               {
-                "zip_codes": "98188"
+                "zip_code": "98188"
               },
               {
-                "zip_codes": "98138"
+                "zip_code": "98138"
               },
               {
-                "zip_codes": "98190"
+                "zip_code": "98190"
               }
             ]
           },
@@ -1774,7 +1774,7 @@
             "population": 553,
             "zip_codes": [
               {
-                "zip_codes": "98612"
+                "zip_code": "98612"
               }
             ]
           },
@@ -1784,7 +1784,7 @@
             "population": 71512,
             "zip_codes": [
               {
-                "zip_codes": "98801"
+                "zip_code": "98801"
               }
             ]
           },
@@ -1794,7 +1794,7 @@
             "population": 2642,
             "zip_codes": [
               {
-                "zip_codes": "98365"
+                "zip_code": "98365"
               }
             ]
           },
@@ -1804,7 +1804,7 @@
             "population": 2833,
             "zip_codes": [
               {
-                "zip_codes": "98611"
+                "zip_code": "98611"
               }
             ]
           },
@@ -1814,7 +1814,7 @@
             "population": 102,
             "zip_codes": [
               {
-                "zip_codes": "98244"
+                "zip_code": "98244"
               }
             ]
           },
@@ -1824,7 +1824,7 @@
             "population": 205,
             "zip_codes": [
               {
-                "zip_codes": "98256"
+                "zip_code": "98256"
               }
             ]
           },
@@ -1834,7 +1834,7 @@
             "population": 1062,
             "zip_codes": [
               {
-                "zip_codes": "99166"
+                "zip_code": "99166"
               }
             ]
           },
@@ -1844,25 +1844,25 @@
             "population": 144444,
             "zip_codes": [
               {
-                "zip_codes": "98004"
+                "zip_code": "98004"
               },
               {
-                "zip_codes": "98005"
+                "zip_code": "98005"
               },
               {
-                "zip_codes": "98006"
+                "zip_code": "98006"
               },
               {
-                "zip_codes": "98007"
+                "zip_code": "98007"
               },
               {
-                "zip_codes": "98008"
+                "zip_code": "98008"
               },
               {
-                "zip_codes": "98009"
+                "zip_code": "98009"
               },
               {
-                "zip_codes": "98015"
+                "zip_code": "98015"
               }
             ]
           },
@@ -1872,7 +1872,7 @@
             "population": 72,
             "zip_codes": [
               {
-                "zip_codes": "99150"
+                "zip_code": "99150"
               }
             ]
           },
@@ -1882,7 +1882,7 @@
             "population": 1292,
             "zip_codes": [
               {
-                "zip_codes": "98303"
+                "zip_code": "98303"
               }
             ]
           },
@@ -1892,13 +1892,13 @@
             "population": 33401,
             "zip_codes": [
               {
-                "zip_codes": "98466"
+                "zip_code": "98466"
               },
               {
-                "zip_codes": "98467"
+                "zip_code": "98467"
               },
               {
-                "zip_codes": "98464"
+                "zip_code": "98464"
               }
             ]
           },
@@ -1908,7 +1908,7 @@
             "population": 8494,
             "zip_codes": [
               {
-                "zip_codes": "98563"
+                "zip_code": "98563"
               }
             ]
           },
@@ -1918,7 +1918,7 @@
             "population": 2126,
             "zip_codes": [
               {
-                "zip_codes": "98576"
+                "zip_code": "98576"
               }
             ]
           },
@@ -1928,7 +1928,7 @@
             "population": 1812,
             "zip_codes": [
               {
-                "zip_codes": "98531"
+                "zip_code": "98531"
               }
             ]
           },
@@ -1938,7 +1938,7 @@
             "population": 820,
             "zip_codes": [
               {
-                "zip_codes": "98580"
+                "zip_code": "98580"
               }
             ]
           },
@@ -1948,7 +1948,7 @@
             "population": 212,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -1958,7 +1958,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98267"
+                "zip_code": "98267"
               }
             ]
           },
@@ -1968,10 +1968,10 @@
             "population": 14280,
             "zip_codes": [
               {
-                "zip_codes": "98387"
+                "zip_code": "98387"
               },
               {
-                "zip_codes": "98338"
+                "zip_code": "98338"
               }
             ]
           },
@@ -1981,7 +1981,7 @@
             "population": 8783,
             "zip_codes": [
               {
-                "zip_codes": "98233"
+                "zip_code": "98233"
               }
             ]
           },
@@ -1991,7 +1991,7 @@
             "population": 6358,
             "zip_codes": [
               {
-                "zip_codes": "98315"
+                "zip_code": "98315"
               }
             ]
           },
@@ -2001,7 +2001,7 @@
             "population": 326,
             "zip_codes": [
               {
-                "zip_codes": "98004"
+                "zip_code": "98004"
               }
             ]
           },
@@ -2011,7 +2011,7 @@
             "population": 920,
             "zip_codes": [
               {
-                "zip_codes": "98346"
+                "zip_code": "98346"
               }
             ]
           },
@@ -2021,25 +2021,25 @@
             "population": 196078,
             "zip_codes": [
               {
-                "zip_codes": "98501"
+                "zip_code": "98501"
               },
               {
-                "zip_codes": "98502"
+                "zip_code": "98502"
               },
               {
-                "zip_codes": "98506"
+                "zip_code": "98506"
               },
               {
-                "zip_codes": "98504"
+                "zip_code": "98504"
               },
               {
-                "zip_codes": "98507"
+                "zip_code": "98507"
               },
               {
-                "zip_codes": "98508"
+                "zip_code": "98508"
               },
               {
-                "zip_codes": "98511"
+                "zip_code": "98511"
               }
             ]
           },
@@ -2049,7 +2049,7 @@
             "population": 13983,
             "zip_codes": [
               {
-                "zip_codes": "98802"
+                "zip_code": "98802"
               }
             ]
           },
@@ -2059,7 +2059,7 @@
             "population": 96,
             "zip_codes": [
               {
-                "zip_codes": "99101"
+                "zip_code": "99101"
               }
             ]
           },
@@ -2069,7 +2069,7 @@
             "population": 11767,
             "zip_codes": [
               {
-                "zip_codes": "98661"
+                "zip_code": "98661"
               }
             ]
           },
@@ -2079,7 +2079,7 @@
             "population": 18365,
             "zip_codes": [
               {
-                "zip_codes": "98178"
+                "zip_code": "98178"
               }
             ]
           },
@@ -2089,10 +2089,10 @@
             "population": 572,
             "zip_codes": [
               {
-                "zip_codes": "98583"
+                "zip_code": "98583"
               },
               {
-                "zip_codes": "98541"
+                "zip_code": "98541"
               }
             ]
           },
@@ -2102,7 +2102,7 @@
             "population": 2241,
             "zip_codes": [
               {
-                "zip_codes": "98045"
+                "zip_code": "98045"
               }
             ]
           },
@@ -2112,7 +2112,7 @@
             "population": 395,
             "zip_codes": [
               {
-                "zip_codes": "98925"
+                "zip_code": "98925"
               }
             ]
           },
@@ -2122,13 +2122,13 @@
             "population": 20664,
             "zip_codes": [
               {
-                "zip_codes": "98311"
+                "zip_code": "98311"
               },
               {
-                "zip_codes": "98370"
+                "zip_code": "98370"
               },
               {
-                "zip_codes": "98383"
+                "zip_code": "98383"
               }
             ]
           },
@@ -2138,10 +2138,10 @@
             "population": 1893,
             "zip_codes": [
               {
-                "zip_codes": "98565"
+                "zip_code": "98565"
               },
               {
-                "zip_codes": "98532"
+                "zip_code": "98532"
               }
             ]
           },
@@ -2151,7 +2151,7 @@
             "population": 3188,
             "zip_codes": [
               {
-                "zip_codes": "98258"
+                "zip_code": "98258"
               }
             ]
           },
@@ -2161,7 +2161,7 @@
             "population": 23471,
             "zip_codes": [
               {
-                "zip_codes": "98926"
+                "zip_code": "98926"
               }
             ]
           },
@@ -2171,10 +2171,10 @@
             "population": 978,
             "zip_codes": [
               {
-                "zip_codes": "98580"
+                "zip_code": "98580"
               },
               {
-                "zip_codes": "98558"
+                "zip_code": "98558"
               }
             ]
           },
@@ -2184,7 +2184,7 @@
             "population": 616,
             "zip_codes": [
               {
-                "zip_codes": "99012"
+                "zip_code": "99012"
               }
             ]
           },
@@ -2194,7 +2194,7 @@
             "population": 144,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -2204,7 +2204,7 @@
             "population": 339,
             "zip_codes": [
               {
-                "zip_codes": "98830"
+                "zip_code": "98830"
               }
             ]
           },
@@ -2214,7 +2214,7 @@
             "population": 7813,
             "zip_codes": [
               {
-                "zip_codes": "98019"
+                "zip_code": "98019"
               }
             ]
           },
@@ -2224,7 +2224,7 @@
             "population": 238,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               }
             ]
           },
@@ -2234,13 +2234,13 @@
             "population": 8064,
             "zip_codes": [
               {
-                "zip_codes": "98404"
+                "zip_code": "98404"
               },
               {
-                "zip_codes": "98371"
+                "zip_code": "98371"
               },
               {
-                "zip_codes": "98443"
+                "zip_code": "98443"
               }
             ]
           },
@@ -2250,7 +2250,7 @@
             "population": 65619,
             "zip_codes": [
               {
-                "zip_codes": "98632"
+                "zip_code": "98632"
               }
             ]
           },
@@ -2260,10 +2260,10 @@
             "population": 56243,
             "zip_codes": [
               {
-                "zip_codes": "99352"
+                "zip_code": "99352"
               },
               {
-                "zip_codes": "99354"
+                "zip_code": "99354"
               }
             ]
           },
@@ -2273,7 +2273,7 @@
             "population": 4459,
             "zip_codes": [
               {
-                "zip_codes": "98332"
+                "zip_code": "98332"
               }
             ]
           },
@@ -2283,34 +2283,34 @@
             "population": 175673,
             "zip_codes": [
               {
-                "zip_codes": "98684"
+                "zip_code": "98684"
               },
               {
-                "zip_codes": "98664"
+                "zip_code": "98664"
               },
               {
-                "zip_codes": "98665"
+                "zip_code": "98665"
               },
               {
-                "zip_codes": "98660"
+                "zip_code": "98660"
               },
               {
-                "zip_codes": "98661"
+                "zip_code": "98661"
               },
               {
-                "zip_codes": "98662"
+                "zip_code": "98662"
               },
               {
-                "zip_codes": "98663"
+                "zip_code": "98663"
               },
               {
-                "zip_codes": "98682"
+                "zip_code": "98682"
               },
               {
-                "zip_codes": "98683"
+                "zip_code": "98683"
               },
               {
-                "zip_codes": "98687"
+                "zip_code": "98687"
               }
             ]
           },
@@ -2320,7 +2320,7 @@
             "population": 3673,
             "zip_codes": [
               {
-                "zip_codes": "98367"
+                "zip_code": "98367"
               }
             ]
           },
@@ -2330,10 +2330,10 @@
             "population": 149,
             "zip_codes": [
               {
-                "zip_codes": "98248"
+                "zip_code": "98248"
               },
               {
-                "zip_codes": "98240"
+                "zip_code": "98240"
               }
             ]
           },
@@ -2343,7 +2343,7 @@
             "population": 2211,
             "zip_codes": [
               {
-                "zip_codes": "98370"
+                "zip_code": "98370"
               }
             ]
           },
@@ -2353,7 +2353,7 @@
             "population": 19531,
             "zip_codes": [
               {
-                "zip_codes": "98058"
+                "zip_code": "98058"
               }
             ]
           },
@@ -2363,7 +2363,7 @@
             "population": 1354,
             "zip_codes": [
               {
-                "zip_codes": "98596"
+                "zip_code": "98596"
               }
             ]
           },
@@ -2373,7 +2373,7 @@
             "population": 10093,
             "zip_codes": [
               {
-                "zip_codes": "98390"
+                "zip_code": "98390"
               }
             ]
           },
@@ -2383,10 +2383,10 @@
             "population": 23941,
             "zip_codes": [
               {
-                "zip_codes": "98072"
+                "zip_code": "98072"
               },
               {
-                "zip_codes": "98077"
+                "zip_code": "98077"
               }
             ]
           },
@@ -2396,7 +2396,7 @@
             "population": 899,
             "zip_codes": [
               {
-                "zip_codes": "98612"
+                "zip_code": "98612"
               }
             ]
           },
@@ -2406,7 +2406,7 @@
             "population": 5826,
             "zip_codes": [
               {
-                "zip_codes": "98272"
+                "zip_code": "98272"
               }
             ]
           },
@@ -2416,7 +2416,7 @@
             "population": 15711,
             "zip_codes": [
               {
-                "zip_codes": "98671"
+                "zip_code": "98671"
               }
             ]
           },
@@ -2426,7 +2426,7 @@
             "population": 2810,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -2436,7 +2436,7 @@
             "population": 3220,
             "zip_codes": [
               {
-                "zip_codes": "98332"
+                "zip_code": "98332"
               }
             ]
           },
@@ -2446,7 +2446,7 @@
             "population": 7686,
             "zip_codes": [
               {
-                "zip_codes": "98951"
+                "zip_code": "98951"
               }
             ]
           },
@@ -2456,7 +2456,7 @@
             "population": 160,
             "zip_codes": [
               {
-                "zip_codes": "98612"
+                "zip_code": "98612"
               }
             ]
           },
@@ -2466,13 +2466,13 @@
             "population": 3879,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               },
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               },
               {
-                "zip_codes": "98271"
+                "zip_code": "98271"
               }
             ]
           },
@@ -2482,7 +2482,7 @@
             "population": 270,
             "zip_codes": [
               {
-                "zip_codes": "99115"
+                "zip_code": "99115"
               }
             ]
           },
@@ -2492,25 +2492,25 @@
             "population": 128458,
             "zip_codes": [
               {
-                "zip_codes": "98031"
+                "zip_code": "98031"
               },
               {
-                "zip_codes": "98030"
+                "zip_code": "98030"
               },
               {
-                "zip_codes": "98032"
+                "zip_code": "98032"
               },
               {
-                "zip_codes": "98042"
+                "zip_code": "98042"
               },
               {
-                "zip_codes": "98035"
+                "zip_code": "98035"
               },
               {
-                "zip_codes": "98064"
+                "zip_code": "98064"
               },
               {
-                "zip_codes": "98089"
+                "zip_code": "98089"
               }
             ]
           },
@@ -2520,7 +2520,7 @@
             "population": 67,
             "zip_codes": [
               {
-                "zip_codes": "99322"
+                "zip_code": "99322"
               }
             ]
           },
@@ -2530,7 +2530,7 @@
             "population": 332,
             "zip_codes": [
               {
-                "zip_codes": "98581"
+                "zip_code": "98581"
               }
             ]
           },
@@ -2540,10 +2540,10 @@
             "population": 5284,
             "zip_codes": [
               {
-                "zip_codes": "98258"
+                "zip_code": "98258"
               },
               {
-                "zip_codes": "98205"
+                "zip_code": "98205"
               }
             ]
           },
@@ -2553,7 +2553,7 @@
             "population": 3475,
             "zip_codes": [
               {
-                "zip_codes": "98257"
+                "zip_code": "98257"
               }
             ]
           },
@@ -2563,13 +2563,13 @@
             "population": 18566,
             "zip_codes": [
               {
-                "zip_codes": "98087"
+                "zip_code": "98087"
               },
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               },
               {
-                "zip_codes": "98208"
+                "zip_code": "98208"
               }
             ]
           },
@@ -2579,10 +2579,10 @@
             "population": 507,
             "zip_codes": [
               {
-                "zip_codes": "98848"
+                "zip_code": "98848"
               },
               {
-                "zip_codes": "98824"
+                "zip_code": "98824"
               }
             ]
           },
@@ -2592,10 +2592,10 @@
             "population": 10089,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               },
               {
-                "zip_codes": "98291"
+                "zip_code": "98291"
               }
             ]
           },
@@ -2605,7 +2605,7 @@
             "population": 3038,
             "zip_codes": [
               {
-                "zip_codes": "98328"
+                "zip_code": "98328"
               }
             ]
           },
@@ -2615,7 +2615,7 @@
             "population": 2688,
             "zip_codes": [
               {
-                "zip_codes": "98610"
+                "zip_code": "98610"
               }
             ]
           },
@@ -2625,7 +2625,7 @@
             "population": 276,
             "zip_codes": [
               {
-                "zip_codes": "99103"
+                "zip_code": "99103"
               }
             ]
           },
@@ -2635,10 +2635,10 @@
             "population": 1560,
             "zip_codes": [
               {
-                "zip_codes": "98247"
+                "zip_code": "98247"
               },
               {
-                "zip_codes": "98276"
+                "zip_code": "98276"
               }
             ]
           },
@@ -2648,10 +2648,10 @@
             "population": 8525,
             "zip_codes": [
               {
-                "zip_codes": "98642"
+                "zip_code": "98642"
               },
               {
-                "zip_codes": "98686"
+                "zip_code": "98686"
               }
             ]
           },
@@ -2661,10 +2661,10 @@
             "population": 3028,
             "zip_codes": [
               {
-                "zip_codes": "98296"
+                "zip_code": "98296"
               },
               {
-                "zip_codes": "98272"
+                "zip_code": "98272"
               }
             ]
           },
@@ -2674,10 +2674,10 @@
             "population": 13982,
             "zip_codes": [
               {
-                "zip_codes": "98001"
+                "zip_code": "98001"
               },
               {
-                "zip_codes": "98003"
+                "zip_code": "98003"
               }
             ]
           },
@@ -2687,7 +2687,7 @@
             "population": 22867,
             "zip_codes": [
               {
-                "zip_codes": "98028"
+                "zip_code": "98028"
               }
             ]
           },
@@ -2697,7 +2697,7 @@
             "population": 994,
             "zip_codes": [
               {
-                "zip_codes": "98357"
+                "zip_code": "98357"
               }
             ]
           },
@@ -2707,7 +2707,7 @@
             "population": 80,
             "zip_codes": [
               {
-                "zip_codes": "98937"
+                "zip_code": "98937"
               }
             ]
           },
@@ -2717,7 +2717,7 @@
             "population": 3627,
             "zip_codes": [
               {
-                "zip_codes": "98362"
+                "zip_code": "98362"
               }
             ]
           },
@@ -2727,19 +2727,19 @@
             "population": 51671,
             "zip_codes": [
               {
-                "zip_codes": "98146"
+                "zip_code": "98146"
               },
               {
-                "zip_codes": "98148"
+                "zip_code": "98148"
               },
               {
-                "zip_codes": "98168"
+                "zip_code": "98168"
               },
               {
-                "zip_codes": "98166"
+                "zip_code": "98166"
               },
               {
-                "zip_codes": "98062"
+                "zip_code": "98062"
               }
             ]
           },
@@ -2749,7 +2749,7 @@
             "population": 714,
             "zip_codes": [
               {
-                "zip_codes": "98587"
+                "zip_code": "98587"
               }
             ]
           },
@@ -2759,7 +2759,7 @@
             "population": 4412,
             "zip_codes": [
               {
-                "zip_codes": "98329"
+                "zip_code": "98329"
               }
             ]
           },
@@ -2769,7 +2769,7 @@
             "population": 5360,
             "zip_codes": [
               {
-                "zip_codes": "99326"
+                "zip_code": "99326"
               }
             ]
           },
@@ -2779,7 +2779,7 @@
             "population": 22,
             "zip_codes": [
               {
-                "zip_codes": "98841"
+                "zip_code": "98841"
               }
             ]
           },
@@ -2789,7 +2789,7 @@
             "population": 26,
             "zip_codes": [
               {
-                "zip_codes": "98587"
+                "zip_code": "98587"
               }
             ]
           },
@@ -2799,7 +2799,7 @@
             "population": 7983,
             "zip_codes": [
               {
-                "zip_codes": "98360"
+                "zip_code": "98360"
               }
             ]
           },
@@ -2809,7 +2809,7 @@
             "population": 5064,
             "zip_codes": [
               {
-                "zip_codes": "99114"
+                "zip_code": "99114"
               }
             ]
           },
@@ -2819,10 +2819,10 @@
             "population": 166541,
             "zip_codes": [
               {
-                "zip_codes": "98271"
+                "zip_code": "98271"
               },
               {
-                "zip_codes": "98270"
+                "zip_code": "98270"
               }
             ]
           },
@@ -2832,7 +2832,7 @@
             "population": 57779,
             "zip_codes": [
               {
-                "zip_codes": "99362"
+                "zip_code": "99362"
               }
             ]
           },
@@ -2842,7 +2842,7 @@
             "population": 3125,
             "zip_codes": [
               {
-                "zip_codes": "98953"
+                "zip_code": "98953"
               }
             ]
           },
@@ -2852,7 +2852,7 @@
             "population": 149,
             "zip_codes": [
               {
-                "zip_codes": "99118"
+                "zip_code": "99118"
               }
             ]
           },
@@ -2862,16 +2862,16 @@
             "population": 3810,
             "zip_codes": [
               {
-                "zip_codes": "98349"
+                "zip_code": "98349"
               },
               {
-                "zip_codes": "98329"
+                "zip_code": "98329"
               },
               {
-                "zip_codes": "98394"
+                "zip_code": "98394"
               },
               {
-                "zip_codes": "98395"
+                "zip_code": "98395"
               }
             ]
           },
@@ -2881,7 +2881,7 @@
             "population": 331,
             "zip_codes": [
               {
-                "zip_codes": "98548"
+                "zip_code": "98548"
               }
             ]
           },
@@ -2891,10 +2891,10 @@
             "population": 30528,
             "zip_codes": [
               {
-                "zip_codes": "98387"
+                "zip_code": "98387"
               },
               {
-                "zip_codes": "98445"
+                "zip_code": "98445"
               }
             ]
           },
@@ -2904,7 +2904,7 @@
             "population": 5122,
             "zip_codes": [
               {
-                "zip_codes": "99349"
+                "zip_code": "99349"
               }
             ]
           },
@@ -2914,7 +2914,7 @@
             "population": 366,
             "zip_codes": [
               {
-                "zip_codes": "98326"
+                "zip_code": "98326"
               }
             ]
           },
@@ -2924,10 +2924,10 @@
             "population": 12733,
             "zip_codes": [
               {
-                "zip_codes": "98360"
+                "zip_code": "98360"
               },
               {
-                "zip_codes": "98391"
+                "zip_code": "98391"
               }
             ]
           },
@@ -2937,7 +2937,7 @@
             "population": 76,
             "zip_codes": [
               {
-                "zip_codes": "98283"
+                "zip_code": "98283"
               }
             ]
           },
@@ -2947,7 +2947,7 @@
             "population": 2747,
             "zip_codes": [
               {
-                "zip_codes": "98329"
+                "zip_code": "98329"
               }
             ]
           },
@@ -2957,10 +2957,10 @@
             "population": 559,
             "zip_codes": [
               {
-                "zip_codes": "98535"
+                "zip_code": "98535"
               },
               {
-                "zip_codes": "98536"
+                "zip_code": "98536"
               }
             ]
           },
@@ -2970,13 +2970,13 @@
             "population": 21737,
             "zip_codes": [
               {
-                "zip_codes": "98387"
+                "zip_code": "98387"
               },
               {
-                "zip_codes": "98375"
+                "zip_code": "98375"
               },
               {
-                "zip_codes": "98446"
+                "zip_code": "98446"
               }
             ]
           },
@@ -2986,7 +2986,7 @@
             "population": 1295,
             "zip_codes": [
               {
-                "zip_codes": "99402"
+                "zip_code": "99402"
               }
             ]
           },
@@ -2996,10 +2996,10 @@
             "population": 20832,
             "zip_codes": [
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               },
               {
-                "zip_codes": "98082"
+                "zip_code": "98082"
               }
             ]
           },
@@ -3009,7 +3009,7 @@
             "population": 875,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -3019,10 +3019,10 @@
             "population": 544,
             "zip_codes": [
               {
-                "zip_codes": "99021"
+                "zip_code": "99021"
               },
               {
-                "zip_codes": "99005"
+                "zip_code": "99005"
               }
             ]
           },
@@ -3032,7 +3032,7 @@
             "population": 361,
             "zip_codes": [
               {
-                "zip_codes": "99110"
+                "zip_code": "99110"
               }
             ]
           },
@@ -3042,19 +3042,19 @@
             "population": 41001,
             "zip_codes": [
               {
-                "zip_codes": "98372"
+                "zip_code": "98372"
               },
               {
-                "zip_codes": "98371"
+                "zip_code": "98371"
               },
               {
-                "zip_codes": "98374"
+                "zip_code": "98374"
               },
               {
-                "zip_codes": "98373"
+                "zip_code": "98373"
               },
               {
-                "zip_codes": "98352"
+                "zip_code": "98352"
               }
             ]
           },
@@ -3064,7 +3064,7 @@
             "population": 5267,
             "zip_codes": [
               {
-                "zip_codes": "98606"
+                "zip_code": "98606"
               }
             ]
           },
@@ -3074,7 +3074,7 @@
             "population": 134,
             "zip_codes": [
               {
-                "zip_codes": "98274"
+                "zip_code": "98274"
               }
             ]
           },
@@ -3084,7 +3084,7 @@
             "population": 583,
             "zip_codes": [
               {
-                "zip_codes": "98530"
+                "zip_code": "98530"
               }
             ]
           },
@@ -3094,10 +3094,10 @@
             "population": 37487,
             "zip_codes": [
               {
-                "zip_codes": "98029"
+                "zip_code": "98029"
               },
               {
-                "zip_codes": "98027"
+                "zip_code": "98027"
               }
             ]
           },
@@ -3107,7 +3107,7 @@
             "population": 876,
             "zip_codes": [
               {
-                "zip_codes": "99159"
+                "zip_code": "99159"
               }
             ]
           },
@@ -3117,7 +3117,7 @@
             "population": 21449,
             "zip_codes": [
               {
-                "zip_codes": "98665"
+                "zip_code": "98665"
               }
             ]
           },
@@ -3127,10 +3127,10 @@
             "population": 1673,
             "zip_codes": [
               {
-                "zip_codes": "98360"
+                "zip_code": "98360"
               },
               {
-                "zip_codes": "98374"
+                "zip_code": "98374"
               }
             ]
           },
@@ -3140,7 +3140,7 @@
             "population": 839,
             "zip_codes": [
               {
-                "zip_codes": "99185"
+                "zip_code": "99185"
               }
             ]
           },
@@ -3150,7 +3150,7 @@
             "population": 300,
             "zip_codes": [
               {
-                "zip_codes": "98647"
+                "zip_code": "98647"
               }
             ]
           },
@@ -3160,7 +3160,7 @@
             "population": 109,
             "zip_codes": [
               {
-                "zip_codes": "98613"
+                "zip_code": "98613"
               }
             ]
           },
@@ -3170,7 +3170,7 @@
             "population": 98,
             "zip_codes": [
               {
-                "zip_codes": "98937"
+                "zip_code": "98937"
               }
             ]
           },
@@ -3180,28 +3180,28 @@
             "population": 97847,
             "zip_codes": [
               {
-                "zip_codes": "99206"
+                "zip_code": "99206"
               },
               {
-                "zip_codes": "99016"
+                "zip_code": "99016"
               },
               {
-                "zip_codes": "99212"
+                "zip_code": "99212"
               },
               {
-                "zip_codes": "99216"
+                "zip_code": "99216"
               },
               {
-                "zip_codes": "99037"
+                "zip_code": "99037"
               },
               {
-                "zip_codes": "99211"
+                "zip_code": "99211"
               },
               {
-                "zip_codes": "99213"
+                "zip_code": "99213"
               },
               {
-                "zip_codes": "99215"
+                "zip_code": "99215"
               }
             ]
           },
@@ -3211,7 +3211,7 @@
             "population": 6531,
             "zip_codes": [
               {
-                "zip_codes": "98674"
+                "zip_code": "98674"
               }
             ]
           },
@@ -3221,7 +3221,7 @@
             "population": 1503,
             "zip_codes": [
               {
-                "zip_codes": "98604"
+                "zip_code": "98604"
               }
             ]
           },
@@ -3231,7 +3231,7 @@
             "population": 18,
             "zip_codes": [
               {
-                "zip_codes": "98950"
+                "zip_code": "98950"
               }
             ]
           },
@@ -3241,10 +3241,10 @@
             "population": 257,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               },
               {
-                "zip_codes": "98367"
+                "zip_code": "98367"
               }
             ]
           },
@@ -3254,10 +3254,10 @@
             "population": 11201,
             "zip_codes": [
               {
-                "zip_codes": "98092"
+                "zip_code": "98092"
               },
               {
-                "zip_codes": "98042"
+                "zip_code": "98042"
               }
             ]
           },
@@ -3267,7 +3267,7 @@
             "population": 459,
             "zip_codes": [
               {
-                "zip_codes": "99139"
+                "zip_code": "99139"
               }
             ]
           },
@@ -3277,13 +3277,13 @@
             "population": 20472,
             "zip_codes": [
               {
-                "zip_codes": "98021"
+                "zip_code": "98021"
               },
               {
-                "zip_codes": "98036"
+                "zip_code": "98036"
               },
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               }
             ]
           },
@@ -3293,10 +3293,10 @@
             "population": 342,
             "zip_codes": [
               {
-                "zip_codes": "98329"
+                "zip_code": "98329"
               },
               {
-                "zip_codes": "98394"
+                "zip_code": "98394"
               }
             ]
           },
@@ -3306,7 +3306,7 @@
             "population": 4436,
             "zip_codes": [
               {
-                "zip_codes": "98010"
+                "zip_code": "98010"
               }
             ]
           },
@@ -3316,7 +3316,7 @@
             "population": 14026,
             "zip_codes": [
               {
-                "zip_codes": "98248"
+                "zip_code": "98248"
               }
             ]
           },
@@ -3326,7 +3326,7 @@
             "population": 183,
             "zip_codes": [
               {
-                "zip_codes": "98220"
+                "zip_code": "98220"
               }
             ]
           },
@@ -3336,13 +3336,13 @@
             "population": 15300,
             "zip_codes": [
               {
-                "zip_codes": "98106"
+                "zip_code": "98106"
               },
               {
-                "zip_codes": "98146"
+                "zip_code": "98146"
               },
               {
-                "zip_codes": "98168"
+                "zip_code": "98168"
               }
             ]
           },
@@ -3352,7 +3352,7 @@
             "population": 2960,
             "zip_codes": [
               {
-                "zip_codes": "99011"
+                "zip_code": "99011"
               }
             ]
           },
@@ -3362,10 +3362,10 @@
             "population": 7184,
             "zip_codes": [
               {
-                "zip_codes": "98001"
+                "zip_code": "98001"
               },
               {
-                "zip_codes": "98047"
+                "zip_code": "98047"
               }
             ]
           },
@@ -3375,7 +3375,7 @@
             "population": 157,
             "zip_codes": [
               {
-                "zip_codes": "98619"
+                "zip_code": "98619"
               }
             ]
           },
@@ -3385,7 +3385,7 @@
             "population": 2811,
             "zip_codes": [
               {
-                "zip_codes": "99111"
+                "zip_code": "99111"
               }
             ]
           },
@@ -3395,7 +3395,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -3405,7 +3405,7 @@
             "population": 4274,
             "zip_codes": [
               {
-                "zip_codes": "98331"
+                "zip_code": "98331"
               }
             ]
           },
@@ -3415,16 +3415,16 @@
             "population": 88630,
             "zip_codes": [
               {
-                "zip_codes": "98034"
+                "zip_code": "98034"
               },
               {
-                "zip_codes": "98033"
+                "zip_code": "98033"
               },
               {
-                "zip_codes": "98011"
+                "zip_code": "98011"
               },
               {
-                "zip_codes": "98083"
+                "zip_code": "98083"
               }
             ]
           },
@@ -3434,7 +3434,7 @@
             "population": 2571,
             "zip_codes": [
               {
-                "zip_codes": "98840"
+                "zip_code": "98840"
               }
             ]
           },
@@ -3444,7 +3444,7 @@
             "population": 1693,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -3454,10 +3454,10 @@
             "population": 22109,
             "zip_codes": [
               {
-                "zip_codes": "98053"
+                "zip_code": "98053"
               },
               {
-                "zip_codes": "98077"
+                "zip_code": "98077"
               }
             ]
           },
@@ -3467,7 +3467,7 @@
             "population": 300,
             "zip_codes": [
               {
-                "zip_codes": "98938"
+                "zip_code": "98938"
               }
             ]
           },
@@ -3477,7 +3477,7 @@
             "population": 13091,
             "zip_codes": [
               {
-                "zip_codes": "98391"
+                "zip_code": "98391"
               }
             ]
           },
@@ -3487,7 +3487,7 @@
             "population": 712,
             "zip_codes": [
               {
-                "zip_codes": "98595"
+                "zip_code": "98595"
               }
             ]
           },
@@ -3497,7 +3497,7 @@
             "population": 1126,
             "zip_codes": [
               {
-                "zip_codes": "98855"
+                "zip_code": "98855"
               }
             ]
           },
@@ -3507,7 +3507,7 @@
             "population": 17927,
             "zip_codes": [
               {
-                "zip_codes": "98944"
+                "zip_code": "98944"
               }
             ]
           },
@@ -3517,7 +3517,7 @@
             "population": 881,
             "zip_codes": [
               {
-                "zip_codes": "98851"
+                "zip_code": "98851"
               }
             ]
           },
@@ -3527,10 +3527,10 @@
             "population": 701,
             "zip_codes": [
               {
-                "zip_codes": "98323"
+                "zip_code": "98323"
               },
               {
-                "zip_codes": "98396"
+                "zip_code": "98396"
               }
             ]
           },
@@ -3540,10 +3540,10 @@
             "population": 33276,
             "zip_codes": [
               {
-                "zip_codes": "99164"
+                "zip_code": "99164"
               },
               {
-                "zip_codes": "99163"
+                "zip_code": "99163"
               }
             ]
           },
@@ -3553,7 +3553,7 @@
             "population": 22,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -3563,7 +3563,7 @@
             "population": 703,
             "zip_codes": [
               {
-                "zip_codes": "98320"
+                "zip_code": "98320"
               }
             ]
           },
@@ -3573,7 +3573,7 @@
             "population": 2407,
             "zip_codes": [
               {
-                "zip_codes": "98250"
+                "zip_code": "98250"
               }
             ]
           },
@@ -3583,7 +3583,7 @@
             "population": 21299,
             "zip_codes": [
               {
-                "zip_codes": "98682"
+                "zip_code": "98682"
               }
             ]
           },
@@ -3593,7 +3593,7 @@
             "population": 1087,
             "zip_codes": [
               {
-                "zip_codes": "98332"
+                "zip_code": "98332"
               }
             ]
           },
@@ -3603,7 +3603,7 @@
             "population": 809,
             "zip_codes": [
               {
-                "zip_codes": "99033"
+                "zip_code": "99033"
               }
             ]
           },
@@ -3613,7 +3613,7 @@
             "population": 905,
             "zip_codes": [
               {
-                "zip_codes": "98045"
+                "zip_code": "98045"
               }
             ]
           },
@@ -3623,7 +3623,7 @@
             "population": 297,
             "zip_codes": [
               {
-                "zip_codes": "98946"
+                "zip_code": "98946"
               }
             ]
           },
@@ -3633,7 +3633,7 @@
             "population": 12937,
             "zip_codes": [
               {
-                "zip_codes": "98335"
+                "zip_code": "98335"
               }
             ]
           },
@@ -3643,10 +3643,10 @@
             "population": 9893,
             "zip_codes": [
               {
-                "zip_codes": "99019"
+                "zip_code": "99019"
               },
               {
-                "zip_codes": "99016"
+                "zip_code": "99016"
               }
             ]
           },
@@ -3656,7 +3656,7 @@
             "population": 12421,
             "zip_codes": [
               {
-                "zip_codes": "99004"
+                "zip_code": "99004"
               }
             ]
           },
@@ -3666,13 +3666,13 @@
             "population": 64548,
             "zip_codes": [
               {
-                "zip_codes": "98029"
+                "zip_code": "98029"
               },
               {
-                "zip_codes": "98075"
+                "zip_code": "98075"
               },
               {
-                "zip_codes": "98074"
+                "zip_code": "98074"
               }
             ]
           },
@@ -3682,10 +3682,10 @@
             "population": 3768,
             "zip_codes": [
               {
-                "zip_codes": "98943"
+                "zip_code": "98943"
               },
               {
-                "zip_codes": "98922"
+                "zip_code": "98922"
               }
             ]
           },
@@ -3695,7 +3695,7 @@
             "population": 2611,
             "zip_codes": [
               {
-                "zip_codes": "98607"
+                "zip_code": "98607"
               }
             ]
           },
@@ -3705,10 +3705,10 @@
             "population": 108,
             "zip_codes": [
               {
-                "zip_codes": "99012"
+                "zip_code": "99012"
               },
               {
-                "zip_codes": "99039"
+                "zip_code": "99039"
               }
             ]
           },
@@ -3718,16 +3718,16 @@
             "population": 60296,
             "zip_codes": [
               {
-                "zip_codes": "98499"
+                "zip_code": "98499"
               },
               {
-                "zip_codes": "98498"
+                "zip_code": "98498"
               },
               {
-                "zip_codes": "98496"
+                "zip_code": "98496"
               },
               {
-                "zip_codes": "98497"
+                "zip_code": "98497"
               }
             ]
           },
@@ -3737,7 +3737,7 @@
             "population": 1220,
             "zip_codes": [
               {
-                "zip_codes": "98014"
+                "zip_code": "98014"
               }
             ]
           },
@@ -3747,7 +3747,7 @@
             "population": 2741,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               }
             ]
           },
@@ -3757,7 +3757,7 @@
             "population": 2555,
             "zip_codes": [
               {
-                "zip_codes": "98813"
+                "zip_code": "98813"
               }
             ]
           },
@@ -3767,7 +3767,7 @@
             "population": 341,
             "zip_codes": [
               {
-                "zip_codes": "98335"
+                "zip_code": "98335"
               }
             ]
           },
@@ -3777,10 +3777,10 @@
             "population": 4117,
             "zip_codes": [
               {
-                "zip_codes": "98087"
+                "zip_code": "98087"
               },
               {
-                "zip_codes": "98037"
+                "zip_code": "98037"
               }
             ]
           },
@@ -3790,10 +3790,10 @@
             "population": 654,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               },
               {
-                "zip_codes": "98252"
+                "zip_code": "98252"
               }
             ]
           },
@@ -3803,16 +3803,16 @@
             "population": 6719,
             "zip_codes": [
               {
-                "zip_codes": "98662"
+                "zip_code": "98662"
               },
               {
-                "zip_codes": "98686"
+                "zip_code": "98686"
               },
               {
-                "zip_codes": "98666"
+                "zip_code": "98666"
               },
               {
-                "zip_codes": "98668"
+                "zip_code": "98668"
               }
             ]
           },
@@ -3822,7 +3822,7 @@
             "population": 50,
             "zip_codes": [
               {
-                "zip_codes": "98381"
+                "zip_code": "98381"
               }
             ]
           },
@@ -3832,7 +3832,7 @@
             "population": 6884,
             "zip_codes": [
               {
-                "zip_codes": "98036"
+                "zip_code": "98036"
               }
             ]
           },
@@ -3842,61 +3842,61 @@
             "population": 403043,
             "zip_codes": [
               {
-                "zip_codes": "99201"
+                "zip_code": "99201"
               },
               {
-                "zip_codes": "99203"
+                "zip_code": "99203"
               },
               {
-                "zip_codes": "99202"
+                "zip_code": "99202"
               },
               {
-                "zip_codes": "99205"
+                "zip_code": "99205"
               },
               {
-                "zip_codes": "99204"
+                "zip_code": "99204"
               },
               {
-                "zip_codes": "99207"
+                "zip_code": "99207"
               },
               {
-                "zip_codes": "99208"
+                "zip_code": "99208"
               },
               {
-                "zip_codes": "99224"
+                "zip_code": "99224"
               },
               {
-                "zip_codes": "99223"
+                "zip_code": "99223"
               },
               {
-                "zip_codes": "99001"
+                "zip_code": "99001"
               },
               {
-                "zip_codes": "99212"
+                "zip_code": "99212"
               },
               {
-                "zip_codes": "99209"
+                "zip_code": "99209"
               },
               {
-                "zip_codes": "99210"
+                "zip_code": "99210"
               },
               {
-                "zip_codes": "99219"
+                "zip_code": "99219"
               },
               {
-                "zip_codes": "99220"
+                "zip_code": "99220"
               },
               {
-                "zip_codes": "99252"
+                "zip_code": "99252"
               },
               {
-                "zip_codes": "99256"
+                "zip_code": "99256"
               },
               {
-                "zip_codes": "99258"
+                "zip_code": "99258"
               },
               {
-                "zip_codes": "99260"
+                "zip_code": "99260"
               }
             ]
           },
@@ -3906,7 +3906,7 @@
             "population": 1903,
             "zip_codes": [
               {
-                "zip_codes": "98024"
+                "zip_code": "98024"
               }
             ]
           },
@@ -3916,10 +3916,10 @@
             "population": 73013,
             "zip_codes": [
               {
-                "zip_codes": "99301"
+                "zip_code": "99301"
               },
               {
-                "zip_codes": "99302"
+                "zip_code": "99302"
               }
             ]
           },
@@ -3929,10 +3929,10 @@
             "population": 468,
             "zip_codes": [
               {
-                "zip_codes": "98263"
+                "zip_code": "98263"
               },
               {
-                "zip_codes": "98284"
+                "zip_code": "98284"
               }
             ]
           },
@@ -3942,7 +3942,7 @@
             "population": 684,
             "zip_codes": [
               {
-                "zip_codes": "98568"
+                "zip_code": "98568"
               }
             ]
           },
@@ -3952,7 +3952,7 @@
             "population": 1007,
             "zip_codes": [
               {
-                "zip_codes": "98422"
+                "zip_code": "98422"
               }
             ]
           },
@@ -3962,7 +3962,7 @@
             "population": 69,
             "zip_codes": [
               {
-                "zip_codes": "98349"
+                "zip_code": "98349"
               }
             ]
           },
@@ -3972,7 +3972,7 @@
             "population": 5895,
             "zip_codes": [
               {
-                "zip_codes": "99403"
+                "zip_code": "99403"
               }
             ]
           },
@@ -3982,7 +3982,7 @@
             "population": 2205,
             "zip_codes": [
               {
-                "zip_codes": "99357"
+                "zip_code": "99357"
               }
             ]
           },
@@ -3992,7 +3992,7 @@
             "population": 4196,
             "zip_codes": [
               {
-                "zip_codes": "98604"
+                "zip_code": "98604"
               }
             ]
           },
@@ -4002,7 +4002,7 @@
             "population": 8500,
             "zip_codes": [
               {
-                "zip_codes": "98550"
+                "zip_code": "98550"
               }
             ]
           },
@@ -4012,7 +4012,7 @@
             "population": 204,
             "zip_codes": [
               {
-                "zip_codes": "98577"
+                "zip_code": "98577"
               }
             ]
           },
@@ -4022,7 +4022,7 @@
             "population": 432,
             "zip_codes": [
               {
-                "zip_codes": "98376"
+                "zip_code": "98376"
               }
             ]
           },
@@ -4032,7 +4032,7 @@
             "population": 1698,
             "zip_codes": [
               {
-                "zip_codes": "98249"
+                "zip_code": "98249"
               }
             ]
           },
@@ -4042,7 +4042,7 @@
             "population": 1691,
             "zip_codes": [
               {
-                "zip_codes": "98557"
+                "zip_code": "98557"
               }
             ]
           },
@@ -4052,7 +4052,7 @@
             "population": 107,
             "zip_codes": [
               {
-                "zip_codes": "99356"
+                "zip_code": "99356"
               }
             ]
           },
@@ -4062,7 +4062,7 @@
             "population": 1413,
             "zip_codes": [
               {
-                "zip_codes": "98631"
+                "zip_code": "98631"
               }
             ]
           },
@@ -4072,7 +4072,7 @@
             "population": 654,
             "zip_codes": [
               {
-                "zip_codes": "98650"
+                "zip_code": "98650"
               }
             ]
           },
@@ -4082,7 +4082,7 @@
             "population": 1079,
             "zip_codes": [
               {
-                "zip_codes": "99116"
+                "zip_code": "99116"
               }
             ]
           },
@@ -4092,7 +4092,7 @@
             "population": 1030,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -4102,7 +4102,7 @@
             "population": 111,
             "zip_codes": [
               {
-                "zip_codes": "99166"
+                "zip_code": "99166"
               }
             ]
           },
@@ -4112,7 +4112,7 @@
             "population": 1124,
             "zip_codes": [
               {
-                "zip_codes": "98260"
+                "zip_code": "98260"
               }
             ]
           },
@@ -4122,7 +4122,7 @@
             "population": 11838,
             "zip_codes": [
               {
-                "zip_codes": "98284"
+                "zip_code": "98284"
               }
             ]
           },
@@ -4132,7 +4132,7 @@
             "population": 101,
             "zip_codes": [
               {
-                "zip_codes": "99344"
+                "zip_code": "99344"
               }
             ]
           },
@@ -4142,7 +4142,7 @@
             "population": 1223,
             "zip_codes": [
               {
-                "zip_codes": "98822"
+                "zip_code": "98822"
               }
             ]
           },
@@ -4152,10 +4152,10 @@
             "population": 24522,
             "zip_codes": [
               {
-                "zip_codes": "98110"
+                "zip_code": "98110"
               },
               {
-                "zip_codes": "98061"
+                "zip_code": "98061"
               }
             ]
           },
@@ -4165,13 +4165,13 @@
             "population": 80776,
             "zip_codes": [
               {
-                "zip_codes": "98001"
+                "zip_code": "98001"
               },
               {
-                "zip_codes": "98002"
+                "zip_code": "98002"
               },
               {
-                "zip_codes": "98092"
+                "zip_code": "98092"
               }
             ]
           },
@@ -4181,7 +4181,7 @@
             "population": 168,
             "zip_codes": [
               {
-                "zip_codes": "98569"
+                "zip_code": "98569"
               }
             ]
           },
@@ -4191,7 +4191,7 @@
             "population": 973,
             "zip_codes": [
               {
-                "zip_codes": "98952"
+                "zip_code": "98952"
               }
             ]
           },
@@ -4201,7 +4201,7 @@
             "population": 8065,
             "zip_codes": [
               {
-                "zip_codes": "98685"
+                "zip_code": "98685"
               }
             ]
           },
@@ -4211,13 +4211,13 @@
             "population": 49748,
             "zip_codes": [
               {
-                "zip_codes": "98503"
+                "zip_code": "98503"
               },
               {
-                "zip_codes": "98516"
+                "zip_code": "98516"
               },
               {
-                "zip_codes": "98509"
+                "zip_code": "98509"
               }
             ]
           },
@@ -4227,7 +4227,7 @@
             "population": 2301,
             "zip_codes": [
               {
-                "zip_codes": "98251"
+                "zip_code": "98251"
               }
             ]
           },
@@ -4237,7 +4237,7 @@
             "population": 3318,
             "zip_codes": [
               {
-                "zip_codes": "98004"
+                "zip_code": "98004"
               }
             ]
           },
@@ -4247,7 +4247,7 @@
             "population": 70,
             "zip_codes": [
               {
-                "zip_codes": "98612"
+                "zip_code": "98612"
               }
             ]
           },
@@ -4257,10 +4257,10 @@
             "population": 183,
             "zip_codes": [
               {
-                "zip_codes": "99126"
+                "zip_code": "99126"
               },
               {
-                "zip_codes": "99151"
+                "zip_code": "99151"
               }
             ]
           },
@@ -4270,10 +4270,10 @@
             "population": 3319,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               },
               {
-                "zip_codes": "98252"
+                "zip_code": "98252"
               }
             ]
           },
@@ -4283,10 +4283,10 @@
             "population": 543,
             "zip_codes": [
               {
-                "zip_codes": "98559"
+                "zip_code": "98559"
               },
               {
-                "zip_codes": "98541"
+                "zip_code": "98541"
               }
             ]
           },
@@ -4296,10 +4296,10 @@
             "population": 10424,
             "zip_codes": [
               {
-                "zip_codes": "98021"
+                "zip_code": "98021"
               },
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               }
             ]
           },
@@ -4309,7 +4309,7 @@
             "population": 1126,
             "zip_codes": [
               {
-                "zip_codes": "98004"
+                "zip_code": "98004"
               }
             ]
           },
@@ -4319,10 +4319,10 @@
             "population": 183,
             "zip_codes": [
               {
-                "zip_codes": "99111"
+                "zip_code": "99111"
               },
               {
-                "zip_codes": "99174"
+                "zip_code": "99174"
               }
             ]
           },
@@ -4332,10 +4332,10 @@
             "population": 14596,
             "zip_codes": [
               {
-                "zip_codes": "99320"
+                "zip_code": "99320"
               },
               {
-                "zip_codes": "99353"
+                "zip_code": "99353"
               }
             ]
           },
@@ -4345,7 +4345,7 @@
             "population": 132,
             "zip_codes": [
               {
-                "zip_codes": "99160"
+                "zip_code": "99160"
               }
             ]
           },
@@ -4355,16 +4355,16 @@
             "population": 96690,
             "zip_codes": [
               {
-                "zip_codes": "98023"
+                "zip_code": "98023"
               },
               {
-                "zip_codes": "98003"
+                "zip_code": "98003"
               },
               {
-                "zip_codes": "98063"
+                "zip_code": "98063"
               },
               {
-                "zip_codes": "98093"
+                "zip_code": "98093"
               }
             ]
           },
@@ -4374,10 +4374,10 @@
             "population": 653,
             "zip_codes": [
               {
-                "zip_codes": "98572"
+                "zip_code": "98572"
               },
               {
-                "zip_codes": "98522"
+                "zip_code": "98522"
               }
             ]
           },
@@ -4387,7 +4387,7 @@
             "population": 151,
             "zip_codes": [
               {
-                "zip_codes": "98638"
+                "zip_code": "98638"
               }
             ]
           },
@@ -4397,13 +4397,13 @@
             "population": 45533,
             "zip_codes": [
               {
-                "zip_codes": "98021"
+                "zip_code": "98021"
               },
               {
-                "zip_codes": "98011"
+                "zip_code": "98011"
               },
               {
-                "zip_codes": "98041"
+                "zip_code": "98041"
               }
             ]
           },
@@ -4413,7 +4413,7 @@
             "population": 2057,
             "zip_codes": [
               {
-                "zip_codes": "98801"
+                "zip_code": "98801"
               }
             ]
           },
@@ -4423,7 +4423,7 @@
             "population": 235,
             "zip_codes": [
               {
-                "zip_codes": "98068"
+                "zip_code": "98068"
               }
             ]
           },
@@ -4433,7 +4433,7 @@
             "population": 154,
             "zip_codes": [
               {
-                "zip_codes": "99135"
+                "zip_code": "99135"
               }
             ]
           },
@@ -4443,7 +4443,7 @@
             "population": 13392,
             "zip_codes": [
               {
-                "zip_codes": "98155"
+                "zip_code": "98155"
               }
             ]
           },
@@ -4453,7 +4453,7 @@
             "population": 1332,
             "zip_codes": [
               {
-                "zip_codes": "98360"
+                "zip_code": "98360"
               }
             ]
           },
@@ -4463,7 +4463,7 @@
             "population": 53,
             "zip_codes": [
               {
-                "zip_codes": "98330"
+                "zip_code": "98330"
               }
             ]
           },
@@ -4473,10 +4473,10 @@
             "population": 1579,
             "zip_codes": [
               {
-                "zip_codes": "98051"
+                "zip_code": "98051"
               },
               {
-                "zip_codes": "98038"
+                "zip_code": "98038"
               }
             ]
           },
@@ -4486,7 +4486,7 @@
             "population": 19212,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -4496,10 +4496,10 @@
             "population": 3337,
             "zip_codes": [
               {
-                "zip_codes": "98439"
+                "zip_code": "98439"
               },
               {
-                "zip_codes": "98438"
+                "zip_code": "98438"
               }
             ]
           },
@@ -4509,10 +4509,10 @@
             "population": 101,
             "zip_codes": [
               {
-                "zip_codes": "98577"
+                "zip_code": "98577"
               },
               {
-                "zip_codes": "98554"
+                "zip_code": "98554"
               }
             ]
           },
@@ -4522,7 +4522,7 @@
             "population": 17340,
             "zip_codes": [
               {
-                "zip_codes": "98264"
+                "zip_code": "98264"
               }
             ]
           },
@@ -4532,7 +4532,7 @@
             "population": 1928,
             "zip_codes": [
               {
-                "zip_codes": "98239"
+                "zip_code": "98239"
               }
             ]
           },
@@ -4542,7 +4542,7 @@
             "population": 304,
             "zip_codes": [
               {
-                "zip_codes": "99348"
+                "zip_code": "99348"
               }
             ]
           },
@@ -4552,10 +4552,10 @@
             "population": 1651,
             "zip_codes": [
               {
-                "zip_codes": "98586"
+                "zip_code": "98586"
               },
               {
-                "zip_codes": "98577"
+                "zip_code": "98577"
               }
             ]
           },
@@ -4565,7 +4565,7 @@
             "population": 2532,
             "zip_codes": [
               {
-                "zip_codes": "98935"
+                "zip_code": "98935"
               }
             ]
           },
@@ -4575,7 +4575,7 @@
             "population": 6821,
             "zip_codes": [
               {
-                "zip_codes": "98045"
+                "zip_code": "98045"
               }
             ]
           },
@@ -4585,10 +4585,10 @@
             "population": 982,
             "zip_codes": [
               {
-                "zip_codes": "98524"
+                "zip_code": "98524"
               },
               {
-                "zip_codes": "98546"
+                "zip_code": "98546"
               }
             ]
           },
@@ -4598,7 +4598,7 @@
             "population": 614,
             "zip_codes": [
               {
-                "zip_codes": "99130"
+                "zip_code": "99130"
               }
             ]
           },
@@ -4608,7 +4608,7 @@
             "population": 2923,
             "zip_codes": [
               {
-                "zip_codes": "98579"
+                "zip_code": "98579"
               }
             ]
           },
@@ -4618,7 +4618,7 @@
             "population": 2637,
             "zip_codes": [
               {
-                "zip_codes": "99328"
+                "zip_code": "99328"
               }
             ]
           },
@@ -4628,10 +4628,10 @@
             "population": 3185,
             "zip_codes": [
               {
-                "zip_codes": "98001"
+                "zip_code": "98001"
               },
               {
-                "zip_codes": "98047"
+                "zip_code": "98047"
               }
             ]
           },
@@ -4641,7 +4641,7 @@
             "population": 193,
             "zip_codes": [
               {
-                "zip_codes": "98355"
+                "zip_code": "98355"
               }
             ]
           },
@@ -4651,7 +4651,7 @@
             "population": 119,
             "zip_codes": [
               {
-                "zip_codes": "99141"
+                "zip_code": "99141"
               }
             ]
           },
@@ -4661,10 +4661,10 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98571"
+                "zip_code": "98571"
               },
               {
-                "zip_codes": "98562"
+                "zip_code": "98562"
               }
             ]
           },
@@ -4674,16 +4674,16 @@
             "population": 126015,
             "zip_codes": [
               {
-                "zip_codes": "98229"
+                "zip_code": "98229"
               },
               {
-                "zip_codes": "98225"
+                "zip_code": "98225"
               },
               {
-                "zip_codes": "98226"
+                "zip_code": "98226"
               },
               {
-                "zip_codes": "98228"
+                "zip_code": "98228"
               }
             ]
           },
@@ -4693,7 +4693,7 @@
             "population": 643,
             "zip_codes": [
               {
-                "zip_codes": "98593"
+                "zip_code": "98593"
               }
             ]
           },
@@ -4703,10 +4703,10 @@
             "population": 20626,
             "zip_codes": [
               {
-                "zip_codes": "98087"
+                "zip_code": "98087"
               },
               {
-                "zip_codes": "98037"
+                "zip_code": "98037"
               }
             ]
           },
@@ -4716,13 +4716,13 @@
             "population": 5937,
             "zip_codes": [
               {
-                "zip_codes": "98311"
+                "zip_code": "98311"
               },
               {
-                "zip_codes": "98310"
+                "zip_code": "98310"
               },
               {
-                "zip_codes": "98393"
+                "zip_code": "98393"
               }
             ]
           },
@@ -4732,7 +4732,7 @@
             "population": 2552,
             "zip_codes": [
               {
-                "zip_codes": "98672"
+                "zip_code": "98672"
               }
             ]
           },
@@ -4742,13 +4742,13 @@
             "population": 4196,
             "zip_codes": [
               {
-                "zip_codes": "98295"
+                "zip_code": "98295"
               },
               {
-                "zip_codes": "98244"
+                "zip_code": "98244"
               },
               {
-                "zip_codes": "98266"
+                "zip_code": "98266"
               }
             ]
           },
@@ -4758,13 +4758,13 @@
             "population": 11401,
             "zip_codes": [
               {
-                "zip_codes": "98027"
+                "zip_code": "98027"
               },
               {
-                "zip_codes": "98059"
+                "zip_code": "98059"
               },
               {
-                "zip_codes": "98038"
+                "zip_code": "98038"
               }
             ]
           },
@@ -4774,7 +4774,7 @@
             "population": 178,
             "zip_codes": [
               {
-                "zip_codes": "99152"
+                "zip_code": "99152"
               }
             ]
           },
@@ -4784,10 +4784,10 @@
             "population": 240,
             "zip_codes": [
               {
-                "zip_codes": "98247"
+                "zip_code": "98247"
               },
               {
-                "zip_codes": "98244"
+                "zip_code": "98244"
               }
             ]
           },
@@ -4797,7 +4797,7 @@
             "population": 4818,
             "zip_codes": [
               {
-                "zip_codes": "99022"
+                "zip_code": "99022"
               }
             ]
           },
@@ -4807,7 +4807,7 @@
             "population": 29089,
             "zip_codes": [
               {
-                "zip_codes": "98520"
+                "zip_code": "98520"
               }
             ]
           },
@@ -4817,7 +4817,7 @@
             "population": 7533,
             "zip_codes": [
               {
-                "zip_codes": "98532"
+                "zip_code": "98532"
               }
             ]
           },
@@ -4827,7 +4827,7 @@
             "population": 709,
             "zip_codes": [
               {
-                "zip_codes": "98570"
+                "zip_code": "98570"
               }
             ]
           },
@@ -4837,7 +4837,7 @@
             "population": 751,
             "zip_codes": [
               {
-                "zip_codes": "98591"
+                "zip_code": "98591"
               }
             ]
           },
@@ -4847,7 +4847,7 @@
             "population": 4709,
             "zip_codes": [
               {
-                "zip_codes": "98247"
+                "zip_code": "98247"
               }
             ]
           },
@@ -4857,7 +4857,7 @@
             "population": 4063,
             "zip_codes": [
               {
-                "zip_codes": "98528"
+                "zip_code": "98528"
               }
             ]
           },
@@ -4867,13 +4867,13 @@
             "population": 38273,
             "zip_codes": [
               {
-                "zip_codes": "98037"
+                "zip_code": "98037"
               },
               {
-                "zip_codes": "98036"
+                "zip_code": "98036"
               },
               {
-                "zip_codes": "98046"
+                "zip_code": "98046"
               }
             ]
           },
@@ -4883,7 +4883,7 @@
             "population": 467,
             "zip_codes": [
               {
-                "zip_codes": "99113"
+                "zip_code": "99113"
               }
             ]
           },
@@ -4893,7 +4893,7 @@
             "population": 209,
             "zip_codes": [
               {
-                "zip_codes": "99149"
+                "zip_code": "99149"
               }
             ]
           },
@@ -4903,10 +4903,10 @@
             "population": 1526,
             "zip_codes": [
               {
-                "zip_codes": "98053"
+                "zip_code": "98053"
               },
               {
-                "zip_codes": "98014"
+                "zip_code": "98014"
               }
             ]
           },
@@ -4916,7 +4916,7 @@
             "population": 212,
             "zip_codes": [
               {
-                "zip_codes": "98860"
+                "zip_code": "98860"
               }
             ]
           },
@@ -4926,7 +4926,7 @@
             "population": 2887,
             "zip_codes": [
               {
-                "zip_codes": "98597"
+                "zip_code": "98597"
               }
             ]
           },
@@ -4936,7 +4936,7 @@
             "population": 3682,
             "zip_codes": [
               {
-                "zip_codes": "98027"
+                "zip_code": "98027"
               }
             ]
           },
@@ -4946,10 +4946,10 @@
             "population": 1938,
             "zip_codes": [
               {
-                "zip_codes": "98277"
+                "zip_code": "98277"
               },
               {
-                "zip_codes": "98278"
+                "zip_code": "98278"
               }
             ]
           },
@@ -4959,7 +4959,7 @@
             "population": 5001,
             "zip_codes": [
               {
-                "zip_codes": "99208"
+                "zip_code": "99208"
               }
             ]
           },
@@ -4969,7 +4969,7 @@
             "population": 330,
             "zip_codes": [
               {
-                "zip_codes": "98590"
+                "zip_code": "98590"
               }
             ]
           },
@@ -4979,7 +4979,7 @@
             "population": 26054,
             "zip_codes": [
               {
-                "zip_codes": "98065"
+                "zip_code": "98065"
               }
             ]
           },
@@ -4989,19 +4989,19 @@
             "population": 216480,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               },
               {
-                "zip_codes": "98314"
+                "zip_code": "98314"
               },
               {
-                "zip_codes": "98310"
+                "zip_code": "98310"
               },
               {
-                "zip_codes": "98367"
+                "zip_code": "98367"
               },
               {
-                "zip_codes": "98337"
+                "zip_code": "98337"
               }
             ]
           },
@@ -5011,7 +5011,7 @@
             "population": 503,
             "zip_codes": [
               {
-                "zip_codes": "98612"
+                "zip_code": "98612"
               }
             ]
           },
@@ -5021,10 +5021,10 @@
             "population": 13920,
             "zip_codes": [
               {
-                "zip_codes": "98439"
+                "zip_code": "98439"
               },
               {
-                "zip_codes": "98433"
+                "zip_code": "98433"
               }
             ]
           },
@@ -5034,10 +5034,10 @@
             "population": 21068,
             "zip_codes": [
               {
-                "zip_codes": "98686"
+                "zip_code": "98686"
               },
               {
-                "zip_codes": "98685"
+                "zip_code": "98685"
               }
             ]
           },
@@ -5047,7 +5047,7 @@
             "population": 216,
             "zip_codes": [
               {
-                "zip_codes": "98288"
+                "zip_code": "98288"
               }
             ]
           },
@@ -5057,76 +5057,76 @@
             "population": 213418,
             "zip_codes": [
               {
-                "zip_codes": "98422"
+                "zip_code": "98422"
               },
               {
-                "zip_codes": "98421"
+                "zip_code": "98421"
               },
               {
-                "zip_codes": "98402"
+                "zip_code": "98402"
               },
               {
-                "zip_codes": "98403"
+                "zip_code": "98403"
               },
               {
-                "zip_codes": "98404"
+                "zip_code": "98404"
               },
               {
-                "zip_codes": "98405"
+                "zip_code": "98405"
               },
               {
-                "zip_codes": "98408"
+                "zip_code": "98408"
               },
               {
-                "zip_codes": "98409"
+                "zip_code": "98409"
               },
               {
-                "zip_codes": "98406"
+                "zip_code": "98406"
               },
               {
-                "zip_codes": "98407"
+                "zip_code": "98407"
               },
               {
-                "zip_codes": "98465"
+                "zip_code": "98465"
               },
               {
-                "zip_codes": "98416"
+                "zip_code": "98416"
               },
               {
-                "zip_codes": "98418"
+                "zip_code": "98418"
               },
               {
-                "zip_codes": "98444"
+                "zip_code": "98444"
               },
               {
-                "zip_codes": "98401"
+                "zip_code": "98401"
               },
               {
-                "zip_codes": "98411"
+                "zip_code": "98411"
               },
               {
-                "zip_codes": "98412"
+                "zip_code": "98412"
               },
               {
-                "zip_codes": "98413"
+                "zip_code": "98413"
               },
               {
-                "zip_codes": "98415"
+                "zip_code": "98415"
               },
               {
-                "zip_codes": "98417"
+                "zip_code": "98417"
               },
               {
-                "zip_codes": "98419"
+                "zip_code": "98419"
               },
               {
-                "zip_codes": "98471"
+                "zip_code": "98471"
               },
               {
-                "zip_codes": "98481"
+                "zip_code": "98481"
               },
               {
-                "zip_codes": "98490"
+                "zip_code": "98490"
               }
             ]
           },
@@ -5136,7 +5136,7 @@
             "population": 18789,
             "zip_codes": [
               {
-                "zip_codes": "98272"
+                "zip_code": "98272"
               }
             ]
           },
@@ -5146,7 +5146,7 @@
             "population": 117,
             "zip_codes": [
               {
-                "zip_codes": "98827"
+                "zip_code": "98827"
               }
             ]
           },
@@ -5156,7 +5156,7 @@
             "population": 1388,
             "zip_codes": [
               {
-                "zip_codes": "99347"
+                "zip_code": "99347"
               }
             ]
           },
@@ -5166,10 +5166,10 @@
             "population": 2783,
             "zip_codes": [
               {
-                "zip_codes": "98606"
+                "zip_code": "98606"
               },
               {
-                "zip_codes": "98662"
+                "zip_code": "98662"
               }
             ]
           },
@@ -5179,13 +5179,13 @@
             "population": 22937,
             "zip_codes": [
               {
-                "zip_codes": "98296"
+                "zip_code": "98296"
               },
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               },
               {
-                "zip_codes": "98208"
+                "zip_code": "98208"
               }
             ]
           },
@@ -5195,7 +5195,7 @@
             "population": 313,
             "zip_codes": [
               {
-                "zip_codes": "99155"
+                "zip_code": "99155"
               }
             ]
           },
@@ -5205,7 +5205,7 @@
             "population": 3049,
             "zip_codes": [
               {
-                "zip_codes": "98026"
+                "zip_code": "98026"
               }
             ]
           },
@@ -5215,10 +5215,10 @@
             "population": 2655,
             "zip_codes": [
               {
-                "zip_codes": "98058"
+                "zip_code": "98058"
               },
               {
-                "zip_codes": "98038"
+                "zip_code": "98038"
               }
             ]
           },
@@ -5228,7 +5228,7 @@
             "population": 324,
             "zip_codes": [
               {
-                "zip_codes": "99143"
+                "zip_code": "99143"
               }
             ]
           },
@@ -5238,7 +5238,7 @@
             "population": 729,
             "zip_codes": [
               {
-                "zip_codes": "98237"
+                "zip_code": "98237"
               }
             ]
           },
@@ -5248,7 +5248,7 @@
             "population": 1464,
             "zip_codes": [
               {
-                "zip_codes": "98295"
+                "zip_code": "98295"
               }
             ]
           },
@@ -5258,7 +5258,7 @@
             "population": 828,
             "zip_codes": [
               {
-                "zip_codes": "98407"
+                "zip_code": "98407"
               }
             ]
           },
@@ -5268,10 +5268,10 @@
             "population": 3171,
             "zip_codes": [
               {
-                "zip_codes": "98629"
+                "zip_code": "98629"
               },
               {
-                "zip_codes": "98642"
+                "zip_code": "98642"
               }
             ]
           },
@@ -5281,7 +5281,7 @@
             "population": 1084,
             "zip_codes": [
               {
-                "zip_codes": "98358"
+                "zip_code": "98358"
               }
             ]
           },
@@ -5291,7 +5291,7 @@
             "population": 86,
             "zip_codes": [
               {
-                "zip_codes": "98817"
+                "zip_code": "98817"
               }
             ]
           },
@@ -5301,7 +5301,7 @@
             "population": 179,
             "zip_codes": [
               {
-                "zip_codes": "98274"
+                "zip_code": "98274"
               }
             ]
           },
@@ -5311,7 +5311,7 @@
             "population": 1379,
             "zip_codes": [
               {
-                "zip_codes": "98642"
+                "zip_code": "98642"
               }
             ]
           },
@@ -5321,7 +5321,7 @@
             "population": 20750,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -5331,7 +5331,7 @@
             "population": 4591,
             "zip_codes": [
               {
-                "zip_codes": "99320"
+                "zip_code": "99320"
               }
             ]
           },
@@ -5341,7 +5341,7 @@
             "population": 37774,
             "zip_codes": [
               {
-                "zip_codes": "98837"
+                "zip_code": "98837"
               }
             ]
           },
@@ -5351,7 +5351,7 @@
             "population": 6794,
             "zip_codes": [
               {
-                "zip_codes": "98466"
+                "zip_code": "98466"
               }
             ]
           },
@@ -5361,7 +5361,7 @@
             "population": 12375,
             "zip_codes": [
               {
-                "zip_codes": "99344"
+                "zip_code": "99344"
               }
             ]
           },
@@ -5371,7 +5371,7 @@
             "population": 25261,
             "zip_codes": [
               {
-                "zip_codes": "98040"
+                "zip_code": "98040"
               }
             ]
           },
@@ -5381,7 +5381,7 @@
             "population": 11784,
             "zip_codes": [
               {
-                "zip_codes": "98022"
+                "zip_code": "98022"
               }
             ]
           },
@@ -5391,10 +5391,10 @@
             "population": 2635,
             "zip_codes": [
               {
-                "zip_codes": "98312"
+                "zip_code": "98312"
               },
               {
-                "zip_codes": "98383"
+                "zip_code": "98383"
               }
             ]
           },
@@ -5404,7 +5404,7 @@
             "population": 2231,
             "zip_codes": [
               {
-                "zip_codes": "98310"
+                "zip_code": "98310"
               }
             ]
           },
@@ -5414,7 +5414,7 @@
             "population": 434,
             "zip_codes": [
               {
-                "zip_codes": "98004"
+                "zip_code": "98004"
               }
             ]
           },
@@ -5424,7 +5424,7 @@
             "population": 811,
             "zip_codes": [
               {
-                "zip_codes": "98236"
+                "zip_code": "98236"
               }
             ]
           },
@@ -5434,7 +5434,7 @@
             "population": 48,
             "zip_codes": [
               {
-                "zip_codes": "98201"
+                "zip_code": "98201"
               }
             ]
           },
@@ -5444,10 +5444,10 @@
             "population": 4495,
             "zip_codes": [
               {
-                "zip_codes": "98225"
+                "zip_code": "98225"
               },
               {
-                "zip_codes": "98226"
+                "zip_code": "98226"
               }
             ]
           },
@@ -5457,7 +5457,7 @@
             "population": 1195,
             "zip_codes": [
               {
-                "zip_codes": "99361"
+                "zip_code": "99361"
               }
             ]
           },
@@ -5467,7 +5467,7 @@
             "population": 3641,
             "zip_codes": [
               {
-                "zip_codes": "98801"
+                "zip_code": "98801"
               }
             ]
           },
@@ -5477,10 +5477,10 @@
             "population": 560,
             "zip_codes": [
               {
-                "zip_codes": "98943"
+                "zip_code": "98943"
               },
               {
-                "zip_codes": "98922"
+                "zip_code": "98922"
               }
             ]
           },
@@ -5490,7 +5490,7 @@
             "population": 7859,
             "zip_codes": [
               {
-                "zip_codes": "98942"
+                "zip_code": "98942"
               }
             ]
           },
@@ -5500,7 +5500,7 @@
             "population": 556,
             "zip_codes": [
               {
-                "zip_codes": "99341"
+                "zip_code": "99341"
               }
             ]
           },
@@ -5510,7 +5510,7 @@
             "population": 18405,
             "zip_codes": [
               {
-                "zip_codes": "98662"
+                "zip_code": "98662"
               }
             ]
           },
@@ -5520,7 +5520,7 @@
             "population": 439,
             "zip_codes": [
               {
-                "zip_codes": "98862"
+                "zip_code": "98862"
               }
             ]
           },
@@ -5530,7 +5530,7 @@
             "population": 6649,
             "zip_codes": [
               {
-                "zip_codes": "98166"
+                "zip_code": "98166"
               }
             ]
           },
@@ -5540,7 +5540,7 @@
             "population": 1375,
             "zip_codes": [
               {
-                "zip_codes": "98349"
+                "zip_code": "98349"
               }
             ]
           },
@@ -5550,7 +5550,7 @@
             "population": 26939,
             "zip_codes": [
               {
-                "zip_codes": "98338"
+                "zip_code": "98338"
               }
             ]
           },
@@ -5560,7 +5560,7 @@
             "population": 1735,
             "zip_codes": [
               {
-                "zip_codes": "98675"
+                "zip_code": "98675"
               }
             ]
           },
@@ -5570,7 +5570,7 @@
             "population": 230,
             "zip_codes": [
               {
-                "zip_codes": "98361"
+                "zip_code": "98361"
               }
             ]
           },
@@ -5580,7 +5580,7 @@
             "population": 199,
             "zip_codes": [
               {
-                "zip_codes": "98331"
+                "zip_code": "98331"
               }
             ]
           },
@@ -5590,7 +5590,7 @@
             "population": 6015,
             "zip_codes": [
               {
-                "zip_codes": "99337"
+                "zip_code": "99337"
               }
             ]
           },
@@ -5600,7 +5600,7 @@
             "population": 296,
             "zip_codes": [
               {
-                "zip_codes": "99157"
+                "zip_code": "99157"
               }
             ]
           },
@@ -5610,7 +5610,7 @@
             "population": 3267,
             "zip_codes": [
               {
-                "zip_codes": "98039"
+                "zip_code": "98039"
               }
             ]
           },
@@ -5620,7 +5620,7 @@
             "population": 1122,
             "zip_codes": [
               {
-                "zip_codes": "98422"
+                "zip_code": "98422"
               }
             ]
           },
@@ -5630,13 +5630,13 @@
             "population": 7876,
             "zip_codes": [
               {
-                "zip_codes": "98371"
+                "zip_code": "98371"
               },
               {
-                "zip_codes": "98373"
+                "zip_code": "98373"
               },
               {
-                "zip_codes": "98446"
+                "zip_code": "98446"
               }
             ]
           },
@@ -5646,10 +5646,10 @@
             "population": 608,
             "zip_codes": [
               {
-                "zip_codes": "99163"
+                "zip_code": "99163"
               },
               {
-                "zip_codes": "99102"
+                "zip_code": "99102"
               }
             ]
           },
@@ -5659,7 +5659,7 @@
             "population": 7621,
             "zip_codes": [
               {
-                "zip_codes": "98229"
+                "zip_code": "98229"
               }
             ]
           },
@@ -5669,10 +5669,10 @@
             "population": 3604,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               },
               {
-                "zip_codes": "98205"
+                "zip_code": "98205"
               }
             ]
           },
@@ -5682,10 +5682,10 @@
             "population": 2474,
             "zip_codes": [
               {
-                "zip_codes": "98937"
+                "zip_code": "98937"
               },
               {
-                "zip_codes": "98908"
+                "zip_code": "98908"
               }
             ]
           },
@@ -5695,7 +5695,7 @@
             "population": 73,
             "zip_codes": [
               {
-                "zip_codes": "98620"
+                "zip_code": "98620"
               }
             ]
           },
@@ -5705,7 +5705,7 @@
             "population": 0,
             "zip_codes": [
               {
-                "zip_codes": "98550"
+                "zip_code": "98550"
               }
             ]
           },
@@ -5715,7 +5715,7 @@
             "population": 133,
             "zip_codes": [
               {
-                "zip_codes": "98328"
+                "zip_code": "98328"
               }
             ]
           },
@@ -5725,7 +5725,7 @@
             "population": 7117,
             "zip_codes": [
               {
-                "zip_codes": "98642"
+                "zip_code": "98642"
               }
             ]
           },
@@ -5735,7 +5735,7 @@
             "population": 1990,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               }
             ]
           },
@@ -5745,7 +5745,7 @@
             "population": 690,
             "zip_codes": [
               {
-                "zip_codes": "98513"
+                "zip_code": "98513"
               }
             ]
           },
@@ -5755,7 +5755,7 @@
             "population": 222,
             "zip_codes": [
               {
-                "zip_codes": "98541"
+                "zip_code": "98541"
               }
             ]
           },
@@ -5765,7 +5765,7 @@
             "population": 1611,
             "zip_codes": [
               {
-                "zip_codes": "99141"
+                "zip_code": "99141"
               }
             ]
           },
@@ -5775,7 +5775,7 @@
             "population": 6078,
             "zip_codes": [
               {
-                "zip_codes": "98816"
+                "zip_code": "98816"
               }
             ]
           },
@@ -5785,7 +5785,7 @@
             "population": 156,
             "zip_codes": [
               {
-                "zip_codes": "98232"
+                "zip_code": "98232"
               }
             ]
           },
@@ -5795,13 +5795,13 @@
             "population": 373,
             "zip_codes": [
               {
-                "zip_codes": "98552"
+                "zip_code": "98552"
               },
               {
-                "zip_codes": "98575"
+                "zip_code": "98575"
               },
               {
-                "zip_codes": "98566"
+                "zip_code": "98566"
               }
             ]
           },
@@ -5811,7 +5811,7 @@
             "population": 3848,
             "zip_codes": [
               {
-                "zip_codes": "98333"
+                "zip_code": "98333"
               }
             ]
           },
@@ -5821,19 +5821,19 @@
             "population": 101379,
             "zip_codes": [
               {
-                "zip_codes": "98059"
+                "zip_code": "98059"
               },
               {
-                "zip_codes": "98058"
+                "zip_code": "98058"
               },
               {
-                "zip_codes": "98057"
+                "zip_code": "98057"
               },
               {
-                "zip_codes": "98056"
+                "zip_code": "98056"
               },
               {
-                "zip_codes": "98055"
+                "zip_code": "98055"
               }
             ]
           },
@@ -5843,7 +5843,7 @@
             "population": 173,
             "zip_codes": [
               {
-                "zip_codes": "98224"
+                "zip_code": "98224"
               }
             ]
           },
@@ -5853,10 +5853,10 @@
             "population": 6736,
             "zip_codes": [
               {
-                "zip_codes": "98038"
+                "zip_code": "98038"
               },
               {
-                "zip_codes": "98025"
+                "zip_code": "98025"
               }
             ]
           },
@@ -5866,7 +5866,7 @@
             "population": 329,
             "zip_codes": [
               {
-                "zip_codes": "99363"
+                "zip_code": "99363"
               }
             ]
           },
@@ -5876,7 +5876,7 @@
             "population": 437,
             "zip_codes": [
               {
-                "zip_codes": "99360"
+                "zip_code": "99360"
               }
             ]
           },
@@ -5886,7 +5886,7 @@
             "population": 3332,
             "zip_codes": [
               {
-                "zip_codes": "98826"
+                "zip_code": "98826"
               }
             ]
           },
@@ -5896,7 +5896,7 @@
             "population": 2779,
             "zip_codes": [
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               }
             ]
           },
@@ -5906,7 +5906,7 @@
             "population": 411,
             "zip_codes": [
               {
-                "zip_codes": "99134"
+                "zip_code": "99134"
               }
             ]
           },
@@ -5916,10 +5916,10 @@
             "population": 13997,
             "zip_codes": [
               {
-                "zip_codes": "98366"
+                "zip_code": "98366"
               },
               {
-                "zip_codes": "98367"
+                "zip_code": "98367"
               }
             ]
           },
@@ -5929,7 +5929,7 @@
             "population": 8817,
             "zip_codes": [
               {
-                "zip_codes": "98036"
+                "zip_code": "98036"
               }
             ]
           },
@@ -5939,13 +5939,13 @@
             "population": 232915,
             "zip_codes": [
               {
-                "zip_codes": "99337"
+                "zip_code": "99337"
               },
               {
-                "zip_codes": "99336"
+                "zip_code": "99336"
               },
               {
-                "zip_codes": "99338"
+                "zip_code": "99338"
               }
             ]
           },
@@ -5955,13 +5955,13 @@
             "population": 3076,
             "zip_codes": [
               {
-                "zip_codes": "98903"
+                "zip_code": "98903"
               },
               {
-                "zip_codes": "98908"
+                "zip_code": "98908"
               },
               {
-                "zip_codes": "98909"
+                "zip_code": "98909"
               }
             ]
           },
@@ -5971,7 +5971,7 @@
             "population": 1443,
             "zip_codes": [
               {
-                "zip_codes": "98045"
+                "zip_code": "98045"
               }
             ]
           },
@@ -5981,10 +5981,10 @@
             "population": 886,
             "zip_codes": [
               {
-                "zip_codes": "98258"
+                "zip_code": "98258"
               },
               {
-                "zip_codes": "98290"
+                "zip_code": "98290"
               }
             ]
           },
@@ -5994,7 +5994,7 @@
             "population": 729,
             "zip_codes": [
               {
-                "zip_codes": "98605"
+                "zip_code": "98605"
               }
             ]
           },
@@ -6004,10 +6004,10 @@
             "population": 403,
             "zip_codes": [
               {
-                "zip_codes": "99004"
+                "zip_code": "99004"
               },
               {
-                "zip_codes": "99014"
+                "zip_code": "99014"
               }
             ]
           },
@@ -6017,7 +6017,7 @@
             "population": 293,
             "zip_codes": [
               {
-                "zip_codes": "99173"
+                "zip_code": "99173"
               }
             ]
           },
@@ -6027,7 +6027,7 @@
             "population": 204,
             "zip_codes": [
               {
-                "zip_codes": "99371"
+                "zip_code": "99371"
               }
             ]
           },
@@ -6037,7 +6037,7 @@
             "population": 20916,
             "zip_codes": [
               {
-                "zip_codes": "98042"
+                "zip_code": "98042"
               }
             ]
           },
@@ -6047,7 +6047,7 @@
             "population": 2650,
             "zip_codes": [
               {
-                "zip_codes": "98524"
+                "zip_code": "98524"
               }
             ]
           },
@@ -6057,7 +6057,7 @@
             "population": 241,
             "zip_codes": [
               {
-                "zip_codes": "98294"
+                "zip_code": "98294"
               }
             ]
           },
@@ -6067,7 +6067,7 @@
             "population": 6161,
             "zip_codes": [
               {
-                "zip_codes": "98903"
+                "zip_code": "98903"
               }
             ]
           },
@@ -6077,7 +6077,7 @@
             "population": 19296,
             "zip_codes": [
               {
-                "zip_codes": "98584"
+                "zip_code": "98584"
               }
             ]
           },
@@ -6087,10 +6087,10 @@
             "population": 300,
             "zip_codes": [
               {
-                "zip_codes": "98624"
+                "zip_code": "98624"
               },
               {
-                "zip_codes": "98614"
+                "zip_code": "98614"
               }
             ]
           },
@@ -6100,10 +6100,10 @@
             "population": 5311,
             "zip_codes": [
               {
-                "zip_codes": "98230"
+                "zip_code": "98230"
               },
               {
-                "zip_codes": "98231"
+                "zip_code": "98231"
               }
             ]
           },
@@ -6113,13 +6113,13 @@
             "population": 3765,
             "zip_codes": [
               {
-                "zip_codes": "98325"
+                "zip_code": "98325"
               },
               {
-                "zip_codes": "98368"
+                "zip_code": "98368"
               },
               {
-                "zip_codes": "98339"
+                "zip_code": "98339"
               }
             ]
           },
@@ -6129,13 +6129,13 @@
             "population": 1941,
             "zip_codes": [
               {
-                "zip_codes": "98359"
+                "zip_code": "98359"
               },
               {
-                "zip_codes": "98367"
+                "zip_code": "98367"
               },
               {
-                "zip_codes": "98322"
+                "zip_code": "98322"
               }
             ]
           },
@@ -6145,10 +6145,10 @@
             "population": 69528,
             "zip_codes": [
               {
-                "zip_codes": "98274"
+                "zip_code": "98274"
               },
               {
-                "zip_codes": "98273"
+                "zip_code": "98273"
               }
             ]
           },
@@ -6158,10 +6158,10 @@
             "population": 1001,
             "zip_codes": [
               {
-                "zip_codes": "99123"
+                "zip_code": "99123"
               },
               {
-                "zip_codes": "99133"
+                "zip_code": "99133"
               }
             ]
           },
@@ -6171,7 +6171,7 @@
             "population": 284,
             "zip_codes": [
               {
-                "zip_codes": "98940"
+                "zip_code": "98940"
               }
             ]
           },
@@ -6181,7 +6181,7 @@
             "population": 259,
             "zip_codes": [
               {
-                "zip_codes": "99155"
+                "zip_code": "99155"
               }
             ]
           },
@@ -6191,7 +6191,7 @@
             "population": 119,
             "zip_codes": [
               {
-                "zip_codes": "98526"
+                "zip_code": "98526"
               }
             ]
           },
@@ -6201,7 +6201,7 @@
             "population": 6453,
             "zip_codes": [
               {
-                "zip_codes": "99403"
+                "zip_code": "99403"
               }
             ]
           },
@@ -6211,10 +6211,10 @@
             "population": 3916,
             "zip_codes": [
               {
-                "zip_codes": "98108"
+                "zip_code": "98108"
               },
               {
-                "zip_codes": "98168"
+                "zip_code": "98168"
               }
             ]
           },
@@ -6224,7 +6224,7 @@
             "population": 1784,
             "zip_codes": [
               {
-                "zip_codes": "98274"
+                "zip_code": "98274"
               }
             ]
           },
@@ -6234,7 +6234,7 @@
             "population": 76,
             "zip_codes": [
               {
-                "zip_codes": "99141"
+                "zip_code": "99141"
               }
             ]
           },
@@ -6244,7 +6244,7 @@
             "population": 6559,
             "zip_codes": [
               {
-                "zip_codes": "98366"
+                "zip_code": "98366"
               }
             ]
           },
@@ -6254,7 +6254,7 @@
             "population": 3868,
             "zip_codes": [
               {
-                "zip_codes": "99006"
+                "zip_code": "99006"
               }
             ]
           },
@@ -6264,7 +6264,7 @@
             "population": 277,
             "zip_codes": [
               {
-                "zip_codes": "98552"
+                "zip_code": "98552"
               }
             ]
           },
@@ -6274,22 +6274,22 @@
             "population": 29140,
             "zip_codes": [
               {
-                "zip_codes": "98158"
+                "zip_code": "98158"
               },
               {
-                "zip_codes": "98148"
+                "zip_code": "98148"
               },
               {
-                "zip_codes": "98198"
+                "zip_code": "98198"
               },
               {
-                "zip_codes": "98168"
+                "zip_code": "98168"
               },
               {
-                "zip_codes": "98188"
+                "zip_code": "98188"
               },
               {
-                "zip_codes": "98131"
+                "zip_code": "98131"
               }
             ]
           },
@@ -6299,7 +6299,7 @@
             "population": 25758,
             "zip_codes": [
               {
-                "zip_codes": "98038"
+                "zip_code": "98038"
               }
             ]
           },
@@ -6309,10 +6309,10 @@
             "population": 1784,
             "zip_codes": [
               {
-                "zip_codes": "99206"
+                "zip_code": "99206"
               },
               {
-                "zip_codes": "99212"
+                "zip_code": "99212"
               }
             ]
           },
@@ -6322,7 +6322,7 @@
             "population": 1251,
             "zip_codes": [
               {
-                "zip_codes": "98281"
+                "zip_code": "98281"
               }
             ]
           },
@@ -6332,10 +6332,10 @@
             "population": 256,
             "zip_codes": [
               {
-                "zip_codes": "99329"
+                "zip_code": "99329"
               },
               {
-                "zip_codes": "99361"
+                "zip_code": "99361"
               }
             ]
           },
@@ -6345,7 +6345,7 @@
             "population": 5334,
             "zip_codes": [
               {
-                "zip_codes": "98366"
+                "zip_code": "98366"
               }
             ]
           },
@@ -6355,7 +6355,7 @@
             "population": 1159,
             "zip_codes": [
               {
-                "zip_codes": "98356"
+                "zip_code": "98356"
               }
             ]
           },
@@ -6365,16 +6365,16 @@
             "population": 235,
             "zip_codes": [
               {
-                "zip_codes": "98229"
+                "zip_code": "98229"
               },
               {
-                "zip_codes": "98233"
+                "zip_code": "98233"
               },
               {
-                "zip_codes": "98232"
+                "zip_code": "98232"
               },
               {
-                "zip_codes": "98284"
+                "zip_code": "98284"
               }
             ]
           },
@@ -6384,7 +6384,7 @@
             "population": 199,
             "zip_codes": [
               {
-                "zip_codes": "99335"
+                "zip_code": "99335"
               }
             ]
           },
@@ -6394,10 +6394,10 @@
             "population": 2185,
             "zip_codes": [
               {
-                "zip_codes": "98422"
+                "zip_code": "98422"
               },
               {
-                "zip_codes": "98424"
+                "zip_code": "98424"
               }
             ]
           },
@@ -6407,7 +6407,7 @@
             "population": 689,
             "zip_codes": [
               {
-                "zip_codes": "98604"
+                "zip_code": "98604"
               }
             ]
           },
@@ -6417,13 +6417,13 @@
             "population": 3907,
             "zip_codes": [
               {
-                "zip_codes": "98296"
+                "zip_code": "98296"
               },
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               },
               {
-                "zip_codes": "98072"
+                "zip_code": "98072"
               }
             ]
           },
@@ -6433,7 +6433,7 @@
             "population": 28,
             "zip_codes": [
               {
-                "zip_codes": "98022"
+                "zip_code": "98022"
               }
             ]
           },
@@ -6443,10 +6443,10 @@
             "population": 9002,
             "zip_codes": [
               {
-                "zip_codes": "98026"
+                "zip_code": "98026"
               },
               {
-                "zip_codes": "98087"
+                "zip_code": "98087"
               }
             ]
           },
@@ -6456,10 +6456,10 @@
             "population": 37,
             "zip_codes": [
               {
-                "zip_codes": "98244"
+                "zip_code": "98244"
               },
               {
-                "zip_codes": "98266"
+                "zip_code": "98266"
               }
             ]
           },
@@ -6469,7 +6469,7 @@
             "population": 1141,
             "zip_codes": [
               {
-                "zip_codes": "98380"
+                "zip_code": "98380"
               }
             ]
           },
@@ -6479,10 +6479,10 @@
             "population": 683,
             "zip_codes": [
               {
-                "zip_codes": "98294"
+                "zip_code": "98294"
               },
               {
-                "zip_codes": "98293"
+                "zip_code": "98293"
               }
             ]
           },
@@ -6492,7 +6492,7 @@
             "population": 6337,
             "zip_codes": [
               {
-                "zip_codes": "98388"
+                "zip_code": "98388"
               }
             ]
           },
@@ -6502,7 +6502,7 @@
             "population": 74,
             "zip_codes": [
               {
-                "zip_codes": "99017"
+                "zip_code": "99017"
               }
             ]
           },
@@ -6512,7 +6512,7 @@
             "population": 625,
             "zip_codes": [
               {
-                "zip_codes": "98273"
+                "zip_code": "98273"
               }
             ]
           },
@@ -6522,7 +6522,7 @@
             "population": 171,
             "zip_codes": [
               {
-                "zip_codes": "99181"
+                "zip_code": "99181"
               }
             ]
           },
@@ -6532,10 +6532,10 @@
             "population": 172,
             "zip_codes": [
               {
-                "zip_codes": "98223"
+                "zip_code": "98223"
               },
               {
-                "zip_codes": "98271"
+                "zip_code": "98271"
               }
             ]
           },
@@ -6545,7 +6545,7 @@
             "population": 360,
             "zip_codes": [
               {
-                "zip_codes": "98563"
+                "zip_code": "98563"
               }
             ]
           },
@@ -6555,7 +6555,7 @@
             "population": 663,
             "zip_codes": [
               {
-                "zip_codes": "98251"
+                "zip_code": "98251"
               }
             ]
           },
@@ -6565,13 +6565,13 @@
             "population": 990,
             "zip_codes": [
               {
-                "zip_codes": "98235"
+                "zip_code": "98235"
               },
               {
-                "zip_codes": "98284"
+                "zip_code": "98284"
               },
               {
-                "zip_codes": "98273"
+                "zip_code": "98273"
               }
             ]
           },
@@ -6581,7 +6581,7 @@
             "population": 228,
             "zip_codes": [
               {
-                "zip_codes": "99140"
+                "zip_code": "99140"
               }
             ]
           },
@@ -6591,10 +6591,10 @@
             "population": 64291,
             "zip_codes": [
               {
-                "zip_codes": "98052"
+                "zip_code": "98052"
               },
               {
-                "zip_codes": "98073"
+                "zip_code": "98073"
               }
             ]
           },
@@ -6604,7 +6604,7 @@
             "population": 945,
             "zip_codes": [
               {
-                "zip_codes": "98624"
+                "zip_code": "98624"
               }
             ]
           },
@@ -6614,7 +6614,7 @@
             "population": 21337,
             "zip_codes": [
               {
-                "zip_codes": "98043"
+                "zip_code": "98043"
               }
             ]
           },
@@ -6624,10 +6624,10 @@
             "population": 60,
             "zip_codes": [
               {
-                "zip_codes": "98939"
+                "zip_code": "98939"
               },
               {
-                "zip_codes": "98951"
+                "zip_code": "98951"
               }
             ]
           },
@@ -6637,7 +6637,7 @@
             "population": 1579,
             "zip_codes": [
               {
-                "zip_codes": "98851"
+                "zip_code": "98851"
               }
             ]
           },
@@ -6647,10 +6647,10 @@
             "population": 3119,
             "zip_codes": [
               {
-                "zip_codes": "98579"
+                "zip_code": "98579"
               },
               {
-                "zip_codes": "98531"
+                "zip_code": "98531"
               }
             ]
           },
@@ -6660,7 +6660,7 @@
             "population": 5447,
             "zip_codes": [
               {
-                "zip_codes": "98366"
+                "zip_code": "98366"
               }
             ]
           },
@@ -6670,7 +6670,7 @@
             "population": 4610,
             "zip_codes": [
               {
-                "zip_codes": "98321"
+                "zip_code": "98321"
               }
             ]
           },
@@ -6680,7 +6680,7 @@
             "population": 457,
             "zip_codes": [
               {
-                "zip_codes": "98252"
+                "zip_code": "98252"
               }
             ]
           },
@@ -6690,7 +6690,7 @@
             "population": 685,
             "zip_codes": [
               {
-                "zip_codes": "98841"
+                "zip_code": "98841"
               }
             ]
           },
@@ -6700,7 +6700,7 @@
             "population": 827,
             "zip_codes": [
               {
-                "zip_codes": "98937"
+                "zip_code": "98937"
               }
             ]
           },
@@ -6710,7 +6710,7 @@
             "population": 1182,
             "zip_codes": [
               {
-                "zip_codes": "98908"
+                "zip_code": "98908"
               }
             ]
           },
@@ -6720,10 +6720,10 @@
             "population": 6831,
             "zip_codes": [
               {
-                "zip_codes": "98445"
+                "zip_code": "98445"
               },
               {
-                "zip_codes": "98446"
+                "zip_code": "98446"
               }
             ]
           },
@@ -6733,7 +6733,7 @@
             "population": 6264,
             "zip_codes": [
               {
-                "zip_codes": "99350"
+                "zip_code": "99350"
               }
             ]
           },
@@ -6743,7 +6743,7 @@
             "population": 376,
             "zip_codes": [
               {
-                "zip_codes": "98638"
+                "zip_code": "98638"
               }
             ]
           },
@@ -6753,7 +6753,7 @@
             "population": 1015,
             "zip_codes": [
               {
-                "zip_codes": "98850"
+                "zip_code": "98850"
               }
             ]
           },
@@ -6763,7 +6763,7 @@
             "population": 3404,
             "zip_codes": [
               {
-                "zip_codes": "98620"
+                "zip_code": "98620"
               }
             ]
           },
@@ -6773,16 +6773,16 @@
             "population": 11443,
             "zip_codes": [
               {
-                "zip_codes": "98021"
+                "zip_code": "98021"
               },
               {
-                "zip_codes": "98296"
+                "zip_code": "98296"
               },
               {
-                "zip_codes": "98072"
+                "zip_code": "98072"
               },
               {
-                "zip_codes": "98077"
+                "zip_code": "98077"
               }
             ]
           },
@@ -6792,7 +6792,7 @@
             "population": 34663,
             "zip_codes": [
               {
-                "zip_codes": "98277"
+                "zip_code": "98277"
               }
             ]
           },
@@ -6802,10 +6802,10 @@
             "population": 6205,
             "zip_codes": [
               {
-                "zip_codes": "98503"
+                "zip_code": "98503"
               },
               {
-                "zip_codes": "98516"
+                "zip_code": "98516"
               }
             ]
           },
@@ -6815,7 +6815,7 @@
             "population": 305,
             "zip_codes": [
               {
-                "zip_codes": "99125"
+                "zip_code": "99125"
               }
             ]
           },
@@ -6825,7 +6825,7 @@
             "population": 20514,
             "zip_codes": [
               {
-                "zip_codes": "98012"
+                "zip_code": "98012"
               }
             ]
           },
@@ -6835,7 +6835,7 @@
             "population": 3442,
             "zip_codes": [
               {
-                "zip_codes": "98058"
+                "zip_code": "98058"
               }
             ]
           },
@@ -6845,10 +6845,10 @@
             "population": 8792,
             "zip_codes": [
               {
-                "zip_codes": "98404"
+                "zip_code": "98404"
               },
               {
-                "zip_codes": "98445"
+                "zip_code": "98445"
               }
             ]
           },
@@ -6858,7 +6858,7 @@
             "population": 1875,
             "zip_codes": [
               {
-                "zip_codes": "98346"
+                "zip_code": "98346"
               }
             ]
           },
@@ -6868,7 +6868,7 @@
             "population": 3902,
             "zip_codes": [
               {
-                "zip_codes": "98026"
+                "zip_code": "98026"
               }
             ]
           },
@@ -6878,7 +6878,7 @@
             "population": 425,
             "zip_codes": [
               {
-                "zip_codes": "98621"
+                "zip_code": "98621"
               }
             ]
           },
@@ -6888,7 +6888,7 @@
             "population": 8803,
             "zip_codes": [
               {
-                "zip_codes": "98294"
+                "zip_code": "98294"
               }
             ]
           },
@@ -6898,7 +6898,7 @@
             "population": 118,
             "zip_codes": [
               {
-                "zip_codes": "98328"
+                "zip_code": "98328"
               }
             ]
           },
@@ -6908,7 +6908,7 @@
             "population": 1637,
             "zip_codes": [
               {
-                "zip_codes": "99169"
+                "zip_code": "99169"
               }
             ]
           },
@@ -6918,10 +6918,10 @@
             "population": 592,
             "zip_codes": [
               {
-                "zip_codes": "98840"
+                "zip_code": "98840"
               },
               {
-                "zip_codes": "98829"
+                "zip_code": "98829"
               }
             ]
           },
@@ -6931,7 +6931,7 @@
             "population": 567,
             "zip_codes": [
               {
-                "zip_codes": "99115"
+                "zip_code": "99115"
               }
             ]
           },
@@ -6941,7 +6941,7 @@
             "population": 4136,
             "zip_codes": [
               {
-                "zip_codes": "98577"
+                "zip_code": "98577"
               }
             ]
           },
@@ -6951,7 +6951,7 @@
             "population": 6291,
             "zip_codes": [
               {
-                "zip_codes": "98335"
+                "zip_code": "98335"
               }
             ]
           },
@@ -6961,7 +6961,7 @@
             "population": 7756,
             "zip_codes": [
               {
-                "zip_codes": "98848"
+                "zip_code": "98848"
               }
             ]
           },
@@ -6971,7 +6971,7 @@
             "population": 1877,
             "zip_codes": [
               {
-                "zip_codes": "99362"
+                "zip_code": "99362"
               }
             ]
           },
@@ -6981,10 +6981,10 @@
             "population": 309,
             "zip_codes": [
               {
-                "zip_codes": "98255"
+                "zip_code": "98255"
               },
               {
-                "zip_codes": "98284"
+                "zip_code": "98284"
               }
             ]
           },
@@ -6994,7 +6994,7 @@
             "population": 11997,
             "zip_codes": [
               {
-                "zip_codes": "98072"
+                "zip_code": "98072"
               }
             ]
           },
@@ -7004,7 +7004,7 @@
             "population": 215,
             "zip_codes": [
               {
-                "zip_codes": "98527"
+                "zip_code": "98527"
               }
             ]
           },
@@ -7014,7 +7014,7 @@
             "population": 8804,
             "zip_codes": [
               {
-                "zip_codes": "98368"
+                "zip_code": "98368"
               }
             ]
           },
@@ -7024,7 +7024,7 @@
             "population": 273,
             "zip_codes": [
               {
-                "zip_codes": "98849"
+                "zip_code": "98849"
               }
             ]
           },
@@ -7034,7 +7034,7 @@
             "population": 1378,
             "zip_codes": [
               {
-                "zip_codes": "98020"
+                "zip_code": "98020"
               }
             ]
           },
@@ -7044,7 +7044,7 @@
             "population": 79,
             "zip_codes": [
               {
-                "zip_codes": "98587"
+                "zip_code": "98587"
               }
             ]
           },
@@ -7054,7 +7054,7 @@
             "population": 1555,
             "zip_codes": [
               {
-                "zip_codes": "98648"
+                "zip_code": "98648"
               }
             ]
           },
@@ -7064,10 +7064,10 @@
             "population": 1782,
             "zip_codes": [
               {
-                "zip_codes": "98640"
+                "zip_code": "98640"
               },
               {
-                "zip_codes": "98637"
+                "zip_code": "98637"
               }
             ]
           },
@@ -7077,10 +7077,10 @@
             "population": 23865,
             "zip_codes": [
               {
-                "zip_codes": "98363"
+                "zip_code": "98363"
               },
               {
-                "zip_codes": "98362"
+                "zip_code": "98362"
               }
             ]
           },
@@ -7090,7 +7090,7 @@
             "population": 20675,
             "zip_codes": [
               {
-                "zip_codes": "98391"
+                "zip_code": "98391"
               }
             ]
           },
@@ -7100,7 +7100,7 @@
             "population": 1674,
             "zip_codes": [
               {
-                "zip_codes": "98844"
+                "zip_code": "98844"
               }
             ]
           },
@@ -7110,7 +7110,7 @@
             "population": 1531,
             "zip_codes": [
               {
-                "zip_codes": "99362"
+                "zip_code": "99362"
               }
             ]
           },
@@ -7120,10 +7120,10 @@
             "population": 6385,
             "zip_codes": [
               {
-                "zip_codes": "99025"
+                "zip_code": "99025"
               },
               {
-                "zip_codes": "99027"
+                "zip_code": "99027"
               }
             ]
           },
@@ -7133,7 +7133,7 @@
             "population": 2495,
             "zip_codes": [
               {
-                "zip_codes": "98292"
+                "zip_code": "98292"
               }
             ]
           },
@@ -7143,7 +7143,7 @@
             "population": 100,
             "zip_codes": [
               {
-                "zip_codes": "99138"
+                "zip_code": "99138"
               }
             ]
           },
@@ -7153,7 +7153,7 @@
             "population": 11,
             "zip_codes": [
               {
-                "zip_codes": "98238"
+                "zip_code": "98238"
               }
             ]
           },
@@ -7163,10 +7163,10 @@
             "population": 9258,
             "zip_codes": [
               {
-                "zip_codes": "99324"
+                "zip_code": "99324"
               },
               {
-                "zip_codes": "99362"
+                "zip_code": "99362"
               }
             ]
           },
@@ -7176,7 +7176,7 @@
             "population": 21951,
             "zip_codes": [
               {
-                "zip_codes": "98208"
+                "zip_code": "98208"
               }
             ]
           },
@@ -7186,7 +7186,7 @@
             "population": 76,
             "zip_codes": [
               {
-                "zip_codes": "98244"
+                "zip_code": "98244"
               }
             ]
           },
@@ -7196,7 +7196,7 @@
             "population": 7275,
             "zip_codes": [
               {
-                "zip_codes": "98823"
+                "zip_code": "98823"
               }
             ]
           },
@@ -7206,10 +7206,10 @@
             "population": 1345,
             "zip_codes": [
               {
-                "zip_codes": "98921"
+                "zip_code": "98921"
               },
               {
-                "zip_codes": "98953"
+                "zip_code": "98953"
               }
             ]
           },
@@ -7219,10 +7219,10 @@
             "population": 22973,
             "zip_codes": [
               {
-                "zip_codes": "98501"
+                "zip_code": "98501"
               },
               {
-                "zip_codes": "98512"
+                "zip_code": "98512"
               }
             ]
           },
@@ -7232,7 +7232,7 @@
             "population": 2872,
             "zip_codes": [
               {
-                "zip_codes": "99349"
+                "zip_code": "99349"
               }
             ]
           },
@@ -7242,7 +7242,7 @@
             "population": 3263,
             "zip_codes": [
               {
-                "zip_codes": "98092"
+                "zip_code": "98092"
               }
             ]
           },
@@ -7252,7 +7252,7 @@
             "population": 21469,
             "zip_codes": [
               {
-                "zip_codes": "98275"
+                "zip_code": "98275"
               }
             ]
           },
@@ -7262,7 +7262,7 @@
             "population": 956,
             "zip_codes": [
               {
-                "zip_codes": "98856"
+                "zip_code": "98856"
               }
             ]
           },
@@ -7272,10 +7272,10 @@
             "population": 7550,
             "zip_codes": [
               {
-                "zip_codes": "98665"
+                "zip_code": "98665"
               },
               {
-                "zip_codes": "98685"
+                "zip_code": "98685"
               }
             ]
           },
@@ -7285,7 +7285,7 @@
             "population": 457,
             "zip_codes": [
               {
-                "zip_codes": "98345"
+                "zip_code": "98345"
               }
             ]
           },
@@ -7295,10 +7295,10 @@
             "population": 32785,
             "zip_codes": [
               {
-                "zip_codes": "98258"
+                "zip_code": "98258"
               },
               {
-                "zip_codes": "98205"
+                "zip_code": "98205"
               }
             ]
           },
@@ -7308,7 +7308,7 @@
             "population": 131,
             "zip_codes": [
               {
-                "zip_codes": "99359"
+                "zip_code": "99359"
               }
             ]
           },
@@ -7318,7 +7318,7 @@
             "population": 636,
             "zip_codes": [
               {
-                "zip_codes": "98933"
+                "zip_code": "98933"
               }
             ]
           },
@@ -7328,10 +7328,10 @@
             "population": 3809,
             "zip_codes": [
               {
-                "zip_codes": "98340"
+                "zip_code": "98340"
               },
               {
-                "zip_codes": "98346"
+                "zip_code": "98346"
               }
             ]
           },
@@ -7341,7 +7341,7 @@
             "population": 762,
             "zip_codes": [
               {
-                "zip_codes": "98382"
+                "zip_code": "98382"
               }
             ]
           },
@@ -7351,10 +7351,10 @@
             "population": 16504,
             "zip_codes": [
               {
-                "zip_codes": "98576"
+                "zip_code": "98576"
               },
               {
-                "zip_codes": "98597"
+                "zip_code": "98597"
               }
             ]
           }
