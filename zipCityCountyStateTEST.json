@@ -1,0 +1,3521 @@
+[
+{
+    "state_id": "CA",
+    "state": "California",
+    "regions": [
+      {
+        "region": "CA - South",
+        "cities": [
+          {
+            "city": "Lawndale",
+            "county": "Los Angeles",
+            "population": 33078,
+            "zip_codes": [
+              {
+                "zip_code": "90260"
+              },
+              {
+                "zip_code": "90261"
+              }
+            ]
+          },
+          {
+            "city": "French Valley",
+            "county": "Riverside",
+            "population": 31353,
+            "zip_codes": [
+              {
+                "zip_code": "92563"
+              },
+              {
+                "zip_code": "92596"
+              }
+            ]
+          },
+          {
+            "city": "La Cañada Flintridge",
+            "county": "Los Angeles",
+            "population": 20413,
+            "zip_codes": [
+              {
+                "zip_code": "91011"
+              },
+              {
+                "zip_code": "91012"
+              }
+            ]
+          },
+          {
+            "city": "Silver Lakes",
+            "county": "San Bernardino",
+            "population": 6437,
+            "zip_codes": [
+              {
+                "zip_code": "92342"
+              }
+            ]
+          },
+          {
+            "city": "North Tustin",
+            "county": "Orange",
+            "population": 25364,
+            "zip_codes": [
+              {
+                "zip_code": "92780"
+              },
+              {
+                "zip_code": "92705"
+              },
+              {
+                "zip_code": "92711"
+              }
+            ]
+          },
+          {
+            "city": "East Hemet",
+            "county": "Riverside",
+            "population": 19951,
+            "zip_codes": [
+              {
+                "zip_code": "92544"
+              }
+            ]
+          },
+          {
+            "city": "Placentia",
+            "county": "Orange",
+            "population": 52157,
+            "zip_codes": [
+              {
+                "zip_code": "92870"
+              },
+              {
+                "zip_code": "92811"
+              },
+              {
+                "zip_code": "92871"
+              }
+            ]
+          },
+          {
+            "city": "Santa Maria",
+            "county": "Santa Barbara",
+            "population": 140219,
+            "zip_codes": [
+              {
+                "zip_code": "93454"
+              },
+              {
+                "zip_code": "93455"
+              },
+              {
+                "zip_code": "93458"
+              }
+            ]
+          },
+          {
+            "city": "Seeley",
+            "county": "Imperial",
+            "population": 1573,
+            "zip_codes": [
+              {
+                "zip_code": "92243"
+              },
+              {
+                "zip_code": "92273"
+              }
+            ]
+          },
+          {
+            "city": "Littlerock",
+            "county": "Los Angeles",
+            "population": 1998,
+            "zip_codes": [
+              {
+                "zip_code": "93543"
+              }
+            ]
+          },
+          {
+            "city": "South San Gabriel",
+            "county": "Los Angeles",
+            "population": 8964,
+            "zip_codes": [
+              {
+                "zip_code": "91770"
+              }
+            ]
+          },
+          {
+            "city": "Wildomar",
+            "county": "Riverside",
+            "population": 36932,
+            "zip_codes": [
+              {
+                "zip_code": "92595"
+              }
+            ]
+          },
+          {
+            "city": "Laguna Niguel",
+            "county": "Orange",
+            "population": 66334,
+            "zip_codes": [
+              {
+                "zip_code": "92677"
+              },
+              {
+                "zip_code": "92607"
+              }
+            ]
+          },
+          {
+            "city": "Grand Terrace",
+            "county": "San Bernardino",
+            "population": 12595,
+            "zip_codes": [
+              {
+                "zip_code": "92313"
+              }
+            ]
+          },
+          {
+            "city": "West Athens",
+            "county": "Los Angeles",
+            "population": 8746,
+            "zip_codes": [
+              {
+                "zip_code": "90044"
+              },
+              {
+                "zip_code": "90047"
+              }
+            ]
+          },
+          {
+            "city": "Mira Monte",
+            "county": "Ventura",
+            "population": 6916,
+            "zip_codes": [
+              {
+                "zip_code": "93023"
+              },
+              {
+                "zip_code": "93022"
+              }
+            ]
+          },
+          {
+            "city": "Isla Vista",
+            "county": "Santa Barbara",
+            "population": 27484,
+            "zip_codes": [
+              {
+                "zip_code": "93117"
+              },
+              {
+                "zip_code": "93107"
+              }
+            ]
+          },
+          {
+            "city": "Harbison Canyon",
+            "county": "San Diego",
+            "population": 4199,
+            "zip_codes": [
+              {
+                "zip_code": "92021"
+              },
+              {
+                "zip_code": "92019"
+              },
+              {
+                "zip_code": "91901"
+              }
+            ]
+          },
+          {
+            "city": "East Pasadena",
+            "county": "Los Angeles",
+            "population": 6288,
+            "zip_codes": [
+              {
+                "zip_code": "91107"
+              }
+            ]
+          },
+          {
+            "city": "Palo Verde",
+            "county": "Imperial",
+            "population": 86,
+            "zip_codes": [
+              {
+                "zip_code": "92266"
+              }
+            ]
+          },
+          {
+            "city": "Irwindale",
+            "county": "Los Angeles",
+            "population": 1461,
+            "zip_codes": [
+              {
+                "zip_code": "91706"
+              },
+              {
+                "zip_code": "91010"
+              }
+            ]
+          },
+          {
+            "city": "Fontana",
+            "county": "San Bernardino",
+            "population": 211815,
+            "zip_codes": [
+              {
+                "zip_code": "92335"
+              },
+              {
+                "zip_code": "92336"
+              },
+              {
+                "zip_code": "92337"
+              },
+              {
+                "zip_code": "92334"
+              },
+              {
+                "zip_code": "92402"
+              }
+            ]
+          },
+          {
+            "city": "West Hollywood",
+            "county": "Los Angeles",
+            "population": 37080,
+            "zip_codes": [
+              {
+                "zip_code": "90069"
+              },
+              {
+                "zip_code": "90046"
+              },
+              {
+                "zip_code": "90048"
+              }
+            ]
+          },
+          {
+            "city": "San Bernardino",
+            "county": "San Bernardino",
+            "population": 216995,
+            "zip_codes": [
+              {
+                "zip_code": "92401"
+              },
+              {
+                "zip_code": "92407"
+              },
+              {
+                "zip_code": "92405"
+              },
+              {
+                "zip_code": "92408"
+              },
+              {
+                "zip_code": "92404"
+              },
+              {
+                "zip_code": "92411"
+              },
+              {
+                "zip_code": "92410"
+              },
+              {
+                "zip_code": "92346"
+              },
+              {
+                "zip_code": "92369"
+              },
+              {
+                "zip_code": "92403"
+              },
+              {
+                "zip_code": "92406"
+              },
+              {
+                "zip_code": "92413"
+              },
+              {
+                "zip_code": "92415"
+              },
+              {
+                "zip_code": "92418"
+              },
+              {
+                "zip_code": "92423"
+              },
+              {
+                "zip_code": "92427"
+              }
+            ]
+          },
+          {
+            "city": "Jurupa Valley",
+            "county": "Riverside",
+            "population": 106028,
+            "zip_codes": [
+              {
+                "zip_code": "92509"
+              },
+              {
+                "zip_code": "91752"
+              },
+              {
+                "zip_code": "92519"
+              }
+            ]
+          },
+          {
+            "city": "Colton",
+            "county": "San Bernardino",
+            "population": 54828,
+            "zip_codes": [
+              {
+                "zip_code": "92324"
+              }
+            ]
+          },
+          {
+            "city": "Camp Pendleton North",
+            "county": "San Diego",
+            "population": 7443,
+            "zip_codes": [
+              {
+                "zip_code": "92055"
+              },
+              {
+                "zip_code": "92058"
+              }
+            ]
+          },
+          {
+            "city": "Bell",
+            "county": "Los Angeles",
+            "population": 35811,
+            "zip_codes": [
+              {
+                "zip_code": "90201"
+              }
+            ]
+          },
+          {
+            "city": "La Mirada",
+            "county": "Los Angeles",
+            "population": 49095,
+            "zip_codes": [
+              {
+                "zip_code": "90638"
+              },
+              {
+                "zip_code": "90637"
+              },
+              {
+                "zip_code": "90639"
+              }
+            ]
+          },
+          {
+            "city": "San Antonio Heights",
+            "county": "San Bernardino",
+            "population": 3092,
+            "zip_codes": [
+              {
+                "zip_code": "91784"
+              }
+            ]
+          },
+          {
+            "city": "Arcadia",
+            "county": "Los Angeles",
+            "population": 58799,
+            "zip_codes": [
+              {
+                "zip_code": "91007"
+              },
+              {
+                "zip_code": "91006"
+              },
+              {
+                "zip_code": "91066"
+              },
+              {
+                "zip_code": "91077"
+              }
+            ]
+          },
+          {
+            "city": "Lake Hughes",
+            "county": "Los Angeles",
+            "population": 624,
+            "zip_codes": [
+              {
+                "zip_code": "93532"
+              }
+            ]
+          },
+          {
+            "city": "Frazier Park",
+            "county": "Kern",
+            "population": 2440,
+            "zip_codes": [
+              {
+                "zip_code": "93225"
+              }
+            ]
+          },
+          {
+            "city": "Templeton",
+            "county": "San Luis Obispo",
+            "population": 7989,
+            "zip_codes": [
+              {
+                "zip_code": "93446"
+              },
+              {
+                "zip_code": "93465"
+              }
+            ]
+          },
+          {
+            "city": "Vista Santa Rosa",
+            "county": "Riverside",
+            "population": 3318,
+            "zip_codes": [
+              {
+                "zip_code": "92274"
+              },
+              {
+                "zip_code": "92236"
+              }
+            ]
+          },
+          {
+            "city": "Bluewater",
+            "county": "San Bernardino",
+            "population": 178,
+            "zip_codes": [
+              {
+                "zip_code": "92242"
+              }
+            ]
+          },
+          {
+            "city": "Oak Glen",
+            "county": "San Bernardino",
+            "population": 439,
+            "zip_codes": [
+              {
+                "zip_code": "92399"
+              }
+            ]
+          },
+          {
+            "city": "Lemon Grove",
+            "county": "San Diego",
+            "population": 27108,
+            "zip_codes": [
+              {
+                "zip_code": "91945"
+              },
+              {
+                "zip_code": "91946"
+              }
+            ]
+          },
+          {
+            "city": "Stevenson Ranch",
+            "county": "Los Angeles",
+            "population": 19666,
+            "zip_codes": [
+              {
+                "zip_code": "91381"
+              }
+            ]
+          },
+          {
+            "city": "Summerland",
+            "county": "Santa Barbara",
+            "population": 1108,
+            "zip_codes": [
+              {
+                "zip_code": "93013"
+              },
+              {
+                "zip_code": "93067"
+              },
+              {
+                "zip_code": "93108"
+              }
+            ]
+          },
+          {
+            "city": "Redlands",
+            "county": "San Bernardino",
+            "population": 71554,
+            "zip_codes": [
+              {
+                "zip_code": "92373"
+              },
+              {
+                "zip_code": "92374"
+              },
+              {
+                "zip_code": "92346"
+              },
+              {
+                "zip_code": "92375"
+              }
+            ]
+          },
+          {
+            "city": "Laguna Hills",
+            "county": "Orange",
+            "population": 31318,
+            "zip_codes": [
+              {
+                "zip_code": "92653"
+              }
+            ]
+          },
+          {
+            "city": "Homeland",
+            "county": "Riverside",
+            "population": 7471,
+            "zip_codes": [
+              {
+                "zip_code": "92548"
+              }
+            ]
+          },
+          {
+            "city": "Cabazon",
+            "county": "Riverside",
+            "population": 3928,
+            "zip_codes": [
+              {
+                "zip_code": "92230"
+              }
+            ]
+          },
+          {
+            "city": "Garden Grove",
+            "county": "Orange",
+            "population": 174226,
+            "zip_codes": [
+              {
+                "zip_code": "92844"
+              },
+              {
+                "zip_code": "92843"
+              },
+              {
+                "zip_code": "92840"
+              },
+              {
+                "zip_code": "92841"
+              },
+              {
+                "zip_code": "92845"
+              },
+              {
+                "zip_code": "92842"
+              },
+              {
+                "zip_code": "92846"
+              }
+            ]
+          },
+          {
+            "city": "Moreno Valley",
+            "county": "Riverside",
+            "population": 207226,
+            "zip_codes": [
+              {
+                "zip_code": "92551"
+              },
+              {
+                "zip_code": "92553"
+              },
+              {
+                "zip_code": "92555"
+              },
+              {
+                "zip_code": "92557"
+              },
+              {
+                "zip_code": "92552"
+              },
+              {
+                "zip_code": "92554"
+              },
+              {
+                "zip_code": "92556"
+              }
+            ]
+          },
+          {
+            "city": "Lakeland Village",
+            "county": "Riverside",
+            "population": 13343,
+            "zip_codes": [
+              {
+                "zip_code": "92530"
+              }
+            ]
+          },
+          {
+            "city": "West Rancho Dominguez",
+            "county": "Los Angeles",
+            "population": 23537,
+            "zip_codes": [
+              {
+                "zip_code": "90248"
+              },
+              {
+                "zip_code": "90061"
+              },
+              {
+                "zip_code": "90059"
+              },
+              {
+                "zip_code": "90220"
+              }
+            ]
+          },
+          {
+            "city": "Pala",
+            "county": "San Diego",
+            "population": 977,
+            "zip_codes": [
+              {
+                "zip_code": "92059"
+              }
+            ]
+          },
+          {
+            "city": "Atascadero",
+            "county": "San Luis Obispo",
+            "population": 30418,
+            "zip_codes": [
+              {
+                "zip_code": "93422"
+              },
+              {
+                "zip_code": "93423"
+              }
+            ]
+          },
+          {
+            "city": "California City",
+            "county": "Kern",
+            "population": 10794,
+            "zip_codes": [
+              {
+                "zip_code": "93505"
+              },
+              {
+                "zip_code": "93504"
+              }
+            ]
+          },
+          {
+            "city": "Mount Laguna",
+            "county": "San Diego",
+            "population": 0,
+            "zip_codes": [
+              {
+                "zip_code": "91948"
+              }
+            ]
+          },
+          {
+            "city": "Nuevo",
+            "county": "Riverside",
+            "population": 7017,
+            "zip_codes": [
+              {
+                "zip_code": "92567"
+              }
+            ]
+          },
+          {
+            "city": "Solana Beach",
+            "county": "San Diego",
+            "population": 13444,
+            "zip_codes": [
+              {
+                "zip_code": "92075"
+              },
+              {
+                "zip_code": "92014"
+              }
+            ]
+          },
+          {
+            "city": "Oak Shores",
+            "county": "San Luis Obispo",
+            "population": 305,
+            "zip_codes": [
+              {
+                "zip_code": "93426"
+              }
+            ]
+          },
+          {
+            "city": "Culver City",
+            "county": "Los Angeles",
+            "population": 39283,
+            "zip_codes": [
+              {
+                "zip_code": "90232"
+              },
+              {
+                "zip_code": "90230"
+              },
+              {
+                "zip_code": "90231"
+              },
+              {
+                "zip_code": "90233"
+              }
+            ]
+          },
+          {
+            "city": "El Cajon",
+            "county": "San Diego",
+            "population": 103894,
+            "zip_codes": [
+              {
+                "zip_code": "92020"
+              },
+              {
+                "zip_code": "92021"
+              },
+              {
+                "zip_code": "92019"
+              }
+            ]
+          },
+          {
+            "city": "South Monrovia Island",
+            "county": "Los Angeles",
+            "population": 6989,
+            "zip_codes": [
+              {
+                "zip_code": "91016"
+              },
+              {
+                "zip_code": "91010"
+              }
+            ]
+          },
+          {
+            "city": "Port Hueneme",
+            "county": "Ventura",
+            "population": 22327,
+            "zip_codes": [
+              {
+                "zip_code": "93041"
+              },
+              {
+                "zip_code": "93043"
+              },
+              {
+                "zip_code": "93044"
+              }
+            ]
+          },
+          {
+            "city": "Ontario",
+            "county": "San Bernardino",
+            "population": 175841,
+            "zip_codes": [
+              {
+                "zip_code": "91762"
+              },
+              {
+                "zip_code": "91761"
+              },
+              {
+                "zip_code": "91764"
+              },
+              {
+                "zip_code": "91743"
+              },
+              {
+                "zip_code": "91758"
+              }
+            ]
+          },
+          {
+            "city": "Murrieta",
+            "county": "Riverside",
+            "population": 483681,
+            "zip_codes": [
+              {
+                "zip_code": "92563"
+              },
+              {
+                "zip_code": "92562"
+              }
+            ]
+          },
+          {
+            "city": "La Puente",
+            "county": "Los Angeles",
+            "population": 40322,
+            "zip_codes": [
+              {
+                "zip_code": "91746"
+              },
+              {
+                "zip_code": "91744"
+              },
+              {
+                "zip_code": "91747"
+              },
+              {
+                "zip_code": "91749"
+              }
+            ]
+          },
+          {
+            "city": "Hacienda Heights",
+            "county": "Los Angeles",
+            "population": 54155,
+            "zip_codes": [
+              {
+                "zip_code": "91745"
+              },
+              {
+                "zip_code": "91716"
+              }
+            ]
+          },
+          {
+            "city": "Bradbury",
+            "county": "Los Angeles",
+            "population": 1093,
+            "zip_codes": [
+              {
+                "zip_code": "91008"
+              }
+            ]
+          },
+          {
+            "city": "Cudahy",
+            "county": "Los Angeles",
+            "population": 24076,
+            "zip_codes": [
+              {
+                "zip_code": "90201"
+              },
+              {
+                "zip_code": "90096"
+              }
+            ]
+          },
+          {
+            "city": "Big River",
+            "county": "San Bernardino",
+            "population": 1031,
+            "zip_codes": [
+              {
+                "zip_code": "92242"
+              }
+            ]
+          },
+          {
+            "city": "Palos Verdes Estates",
+            "county": "Los Angeles",
+            "population": 13544,
+            "zip_codes": [
+              {
+                "zip_code": "90274"
+              }
+            ]
+          },
+          {
+            "city": "Rainbow",
+            "county": "San Diego",
+            "population": 2041,
+            "zip_codes": [
+              {
+                "zip_code": "92028"
+              }
+            ]
+          },
+          {
+            "city": "Lake of the Woods",
+            "county": "Kern",
+            "population": 1260,
+            "zip_codes": [
+              {
+                "zip_code": "93225"
+              }
+            ]
+          },
+          {
+            "city": "Oak View",
+            "county": "Ventura",
+            "population": 4472,
+            "zip_codes": [
+              {
+                "zip_code": "93022"
+              }
+            ]
+          },
+          {
+            "city": "La Verne",
+            "county": "Los Angeles",
+            "population": 32461,
+            "zip_codes": [
+              {
+                "zip_code": "91750"
+              }
+            ]
+          },
+          {
+            "city": "Oildale",
+            "county": "Kern",
+            "population": 34496,
+            "zip_codes": [
+              {
+                "zip_code": "93308"
+              },
+              {
+                "zip_code": "93388"
+              }
+            ]
+          },
+          {
+            "city": "Westmont",
+            "county": "Los Angeles",
+            "population": 33532,
+            "zip_codes": [
+              {
+                "zip_code": "90044"
+              },
+              {
+                "zip_code": "90047"
+              }
+            ]
+          },
+          {
+            "city": "East Los Angeles",
+            "county": "Los Angeles",
+            "population": 123905,
+            "zip_codes": [
+              {
+                "zip_code": "90063"
+              },
+              {
+                "zip_code": "90022"
+              },
+              {
+                "zip_code": "90023"
+              }
+            ]
+          },
+          {
+            "city": "San Simeon",
+            "county": "San Luis Obispo",
+            "population": 523,
+            "zip_codes": [
+              {
+                "zip_code": "93452"
+              }
+            ]
+          },
+          {
+            "city": "Del Mar",
+            "county": "San Diego",
+            "population": 4363,
+            "zip_codes": [
+              {
+                "zip_code": "92014"
+              }
+            ]
+          },
+          {
+            "city": "Desert View Highlands",
+            "county": "Los Angeles",
+            "population": 2514,
+            "zip_codes": [
+              {
+                "zip_code": "93551"
+              }
+            ]
+          },
+          {
+            "city": "Menifee",
+            "county": "Riverside",
+            "population": 90595,
+            "zip_codes": [
+              {
+                "zip_code": "92587"
+              },
+              {
+                "zip_code": "92586"
+              },
+              {
+                "zip_code": "92585"
+              },
+              {
+                "zip_code": "92584"
+              },
+              {
+                "zip_code": "92564"
+              }
+            ]
+          },
+          {
+            "city": "Charter Oak",
+            "county": "Los Angeles",
+            "population": 9481,
+            "zip_codes": [
+              {
+                "zip_code": "91724"
+              }
+            ]
+          },
+          {
+            "city": "Avila Beach",
+            "county": "San Luis Obispo",
+            "population": 1080,
+            "zip_codes": [
+              {
+                "zip_code": "93405"
+              },
+              {
+                "zip_code": "93424"
+              }
+            ]
+          },
+          {
+            "city": "Keene",
+            "county": "Kern",
+            "population": 348,
+            "zip_codes": [
+              {
+                "zip_code": "93531"
+              }
+            ]
+          },
+          {
+            "city": "Tustin",
+            "county": "Orange",
+            "population": 80498,
+            "zip_codes": [
+              {
+                "zip_code": "92780"
+              },
+              {
+                "zip_code": "92782"
+              },
+              {
+                "zip_code": "92606"
+              },
+              {
+                "zip_code": "92623"
+              },
+              {
+                "zip_code": "92781"
+              }
+            ]
+          },
+          {
+            "city": "Val Verde",
+            "county": "Los Angeles",
+            "population": 2928,
+            "zip_codes": [
+              {
+                "zip_code": "91384"
+              }
+            ]
+          },
+          {
+            "city": "Alhambra",
+            "county": "Los Angeles",
+            "population": 85396,
+            "zip_codes": [
+              {
+                "zip_code": "91803"
+              },
+              {
+                "zip_code": "91801"
+              },
+              {
+                "zip_code": "91802"
+              },
+              {
+                "zip_code": "91804"
+              },
+              {
+                "zip_code": "91896"
+              },
+              {
+                "zip_code": "91899"
+              }
+            ]
+          },
+          {
+            "city": "Bakersfield",
+            "county": "Kern",
+            "population": 574362,
+            "zip_codes": [
+              {
+                "zip_code": "93306"
+              },
+              {
+                "zip_code": "93307"
+              },
+              {
+                "zip_code": "93304"
+              },
+              {
+                "zip_code": "93305"
+              },
+              {
+                "zip_code": "93301"
+              },
+              {
+                "zip_code": "93309"
+              },
+              {
+                "zip_code": "93314"
+              },
+              {
+                "zip_code": "93311"
+              },
+              {
+                "zip_code": "93313"
+              },
+              {
+                "zip_code": "93312"
+              },
+              {
+                "zip_code": "93302"
+              },
+              {
+                "zip_code": "93383"
+              },
+              {
+                "zip_code": "93384"
+              },
+              {
+                "zip_code": "93385"
+              },
+              {
+                "zip_code": "93387"
+              },
+              {
+                "zip_code": "93389"
+              },
+              {
+                "zip_code": "93390"
+              }
+            ]
+          },
+          {
+            "city": "Lake Los Angeles",
+            "county": "Los Angeles",
+            "population": 11820,
+            "zip_codes": [
+              {
+                "zip_code": "93535"
+              },
+              {
+                "zip_code": "93591"
+              }
+            ]
+          },
+          {
+            "city": "Edwards AFB",
+            "county": "Kern",
+            "population": 2410,
+            "zip_codes": [
+              {
+                "zip_code": "93523"
+              },
+              {
+                "zip_code": "93524"
+              }
+            ]
+          },
+          {
+            "city": "Winter Gardens",
+            "county": "San Diego",
+            "population": 22237,
+            "zip_codes": [
+              {
+                "zip_code": "92021"
+              },
+              {
+                "zip_code": "92040"
+              }
+            ]
+          },
+          {
+            "city": "Fullerton",
+            "county": "Orange",
+            "population": 140392,
+            "zip_codes": [
+              {
+                "zip_code": "92833"
+              },
+              {
+                "zip_code": "92831"
+              },
+              {
+                "zip_code": "92835"
+              },
+              {
+                "zip_code": "92832"
+              },
+              {
+                "zip_code": "92834"
+              },
+              {
+                "zip_code": "92836"
+              },
+              {
+                "zip_code": "92837"
+              },
+              {
+                "zip_code": "92838"
+              }
+            ]
+          },
+          {
+            "city": "Delano",
+            "county": "Kern",
+            "population": 54471,
+            "zip_codes": [
+              {
+                "zip_code": "93215"
+              }
+            ]
+          },
+          {
+            "city": "Dana Point",
+            "county": "Orange",
+            "population": 33934,
+            "zip_codes": [
+              {
+                "zip_code": "92629"
+              },
+              {
+                "zip_code": "92624"
+              }
+            ]
+          },
+          {
+            "city": "Woodcrest",
+            "county": "Riverside",
+            "population": 16527,
+            "zip_codes": [
+              {
+                "zip_code": "92508"
+              },
+              {
+                "zip_code": "92503"
+              },
+              {
+                "zip_code": "92504"
+              },
+              {
+                "zip_code": "92506"
+              }
+            ]
+          },
+          {
+            "city": "Squirrel Mountain Valley",
+            "county": "Kern",
+            "population": 1339,
+            "zip_codes": [
+              {
+                "zip_code": "93240"
+              }
+            ]
+          },
+          {
+            "city": "Woodlands",
+            "county": "San Luis Obispo",
+            "population": 1494,
+            "zip_codes": [
+              {
+                "zip_code": "93444"
+              }
+            ]
+          },
+          {
+            "city": "San Fernando",
+            "county": "Los Angeles",
+            "population": 24714,
+            "zip_codes": [
+              {
+                "zip_code": "91340"
+              },
+              {
+                "zip_code": "91341"
+              }
+            ]
+          },
+          {
+            "city": "Lompoc",
+            "county": "Santa Barbara",
+            "population": 52856,
+            "zip_codes": [
+              {
+                "zip_code": "93436"
+              },
+              {
+                "zip_code": "93438"
+              }
+            ]
+          },
+          {
+            "city": "South Gate",
+            "county": "Los Angeles",
+            "population": 95430,
+            "zip_codes": [
+              {
+                "zip_code": "90280"
+              }
+            ]
+          },
+          {
+            "city": "Hemet",
+            "county": "Riverside",
+            "population": 176892,
+            "zip_codes": [
+              {
+                "zip_code": "92545"
+              },
+              {
+                "zip_code": "92543"
+              },
+              {
+                "zip_code": "92546"
+              }
+            ]
+          },
+          {
+            "city": "North El Monte",
+            "county": "Los Angeles",
+            "population": 3832,
+            "zip_codes": [
+              {
+                "zip_code": "91780"
+              },
+              {
+                "zip_code": "91006"
+              }
+            ]
+          },
+          {
+            "city": "Walnut",
+            "county": "Los Angeles",
+            "population": 30199,
+            "zip_codes": [
+              {
+                "zip_code": "91789"
+              },
+              {
+                "zip_code": "91788"
+              }
+            ]
+          },
+          {
+            "city": "Orange",
+            "county": "Orange",
+            "population": 140560,
+            "zip_codes": [
+              {
+                "zip_code": "92868"
+              },
+              {
+                "zip_code": "92869"
+              },
+              {
+                "zip_code": "92866"
+              },
+              {
+                "zip_code": "92867"
+              },
+              {
+                "zip_code": "92865"
+              },
+              {
+                "zip_code": "92856"
+              },
+              {
+                "zip_code": "92857"
+              },
+              {
+                "zip_code": "92863"
+              },
+              {
+                "zip_code": "92864"
+              }
+            ]
+          },
+          {
+            "city": "Buena Park",
+            "county": "Orange",
+            "population": 83015,
+            "zip_codes": [
+              {
+                "zip_code": "90621"
+              },
+              {
+                "zip_code": "90620"
+              },
+              {
+                "zip_code": "90622"
+              },
+              {
+                "zip_code": "90624"
+              }
+            ]
+          },
+          {
+            "city": "Citrus",
+            "county": "Los Angeles",
+            "population": 11489,
+            "zip_codes": [
+              {
+                "zip_code": "91722"
+              },
+              {
+                "zip_code": "91702"
+              }
+            ]
+          },
+          {
+            "city": "Loma Linda",
+            "county": "San Bernardino",
+            "population": 24196,
+            "zip_codes": [
+              {
+                "zip_code": "92354"
+              },
+              {
+                "zip_code": "92324"
+              },
+              {
+                "zip_code": "92373"
+              },
+              {
+                "zip_code": "92318"
+              },
+              {
+                "zip_code": "92350"
+              },
+              {
+                "zip_code": "92357"
+              }
+            ]
+          },
+          {
+            "city": "Garden Farms",
+            "county": "San Luis Obispo",
+            "population": 279,
+            "zip_codes": [
+              {
+                "zip_code": "93422"
+              }
+            ]
+          },
+          {
+            "city": "Moskowite Corner",
+            "county": "Riverside",
+            "population": 155,
+            "zip_codes": [
+              {
+                "zip_code": "94558"
+              }
+            ]
+          },
+          {
+            "city": "Pomona",
+            "county": "Los Angeles",
+            "population": 152939,
+            "zip_codes": [
+              {
+                "zip_code": "91766"
+              },
+              {
+                "zip_code": "91767"
+              },
+              {
+                "zip_code": "91768"
+              },
+              {
+                "zip_code": "91769"
+              }
+            ]
+          },
+          {
+            "city": "Lake Elsinore",
+            "county": "Riverside",
+            "population": 66411,
+            "zip_codes": [
+              {
+                "zip_code": "92570"
+              },
+              {
+                "zip_code": "92532"
+              },
+              {
+                "zip_code": "92530"
+              }
+            ]
+          },
+          {
+            "city": "Covina",
+            "county": "Los Angeles",
+            "population": 48462,
+            "zip_codes": [
+              {
+                "zip_code": "91724"
+              },
+              {
+                "zip_code": "91722"
+              },
+              {
+                "zip_code": "91723"
+              }
+            ]
+          },
+          {
+            "city": "Cayucos",
+            "county": "San Luis Obispo",
+            "population": 2847,
+            "zip_codes": [
+              {
+                "zip_code": "93430"
+              }
+            ]
+          },
+          {
+            "city": "Fallbrook",
+            "county": "San Diego",
+            "population": 31121,
+            "zip_codes": [
+              {
+                "zip_code": "92028"
+              },
+              {
+                "zip_code": "92088"
+              }
+            ]
+          },
+          {
+            "city": "Borrego Springs",
+            "county": "San Diego",
+            "population": 2077,
+            "zip_codes": [
+              {
+                "zip_code": "92004"
+              }
+            ]
+          },
+          {
+            "city": "Paramount",
+            "county": "Los Angeles",
+            "population": 54909,
+            "zip_codes": [
+              {
+                "zip_code": "90723"
+              }
+            ]
+          },
+          {
+            "city": "Winterhaven",
+            "county": "Imperial",
+            "population": 183,
+            "zip_codes": [
+              {
+                "zip_code": "92283"
+              }
+            ]
+          },
+          {
+            "city": "Lake San Marcos",
+            "county": "San Diego",
+            "population": 4924,
+            "zip_codes": [
+              {
+                "zip_code": "92078"
+              }
+            ]
+          },
+          {
+            "city": "Nipomo",
+            "county": "San Luis Obispo",
+            "population": 16706,
+            "zip_codes": [
+              {
+                "zip_code": "93444"
+              }
+            ]
+          },
+          {
+            "city": "San Dimas",
+            "county": "Los Angeles",
+            "population": 34326,
+            "zip_codes": [
+              {
+                "zip_code": "91773"
+              },
+              {
+                "zip_code": "91768"
+              }
+            ]
+          },
+          {
+            "city": "Buttonwillow",
+            "county": "Kern",
+            "population": 1517,
+            "zip_codes": [
+              {
+                "zip_code": "93206"
+              }
+            ]
+          },
+          {
+            "city": "Marina del Rey",
+            "county": "Los Angeles",
+            "population": 9691,
+            "zip_codes": [
+              {
+                "zip_code": "90292"
+              }
+            ]
+          },
+          {
+            "city": "Vincent",
+            "county": "Los Angeles",
+            "population": 17485,
+            "zip_codes": [
+              {
+                "zip_code": "91722"
+              },
+              {
+                "zip_code": "91702"
+              }
+            ]
+          },
+          {
+            "city": "Santa Rosa Valley",
+            "county": "Ventura",
+            "population": 3456,
+            "zip_codes": [
+              {
+                "zip_code": "93012"
+              }
+            ]
+          },
+          {
+            "city": "Creston",
+            "county": "San Luis Obispo",
+            "population": 52,
+            "zip_codes": [
+              {
+                "zip_code": "93432"
+              }
+            ]
+          },
+          {
+            "city": "El Rio",
+            "county": "Ventura",
+            "population": 7229,
+            "zip_codes": [
+              {
+                "zip_code": "93036"
+              }
+            ]
+          },
+          {
+            "city": "Morro Bay",
+            "county": "San Luis Obispo",
+            "population": 10635,
+            "zip_codes": [
+              {
+                "zip_code": "93442"
+              },
+              {
+                "zip_code": "93443"
+              }
+            ]
+          },
+          {
+            "city": "Malibu",
+            "county": "Los Angeles",
+            "population": 12877,
+            "zip_codes": [
+              {
+                "zip_code": "90265"
+              }
+            ]
+          },
+          {
+            "city": "Redondo Beach",
+            "county": "Los Angeles",
+            "population": 67908,
+            "zip_codes": [
+              {
+                "zip_code": "90278"
+              },
+              {
+                "zip_code": "90277"
+              }
+            ]
+          },
+          {
+            "city": "Lamont",
+            "county": "Kern",
+            "population": 15597,
+            "zip_codes": [
+              {
+                "zip_code": "93307"
+              },
+              {
+                "zip_code": "93241"
+              }
+            ]
+          },
+          {
+            "city": "Anaheim",
+            "county": "Orange",
+            "population": 352497,
+            "zip_codes": [
+              {
+                "zip_code": "92808"
+              },
+              {
+                "zip_code": "92806"
+              },
+              {
+                "zip_code": "92807"
+              },
+              {
+                "zip_code": "92804"
+              },
+              {
+                "zip_code": "92805"
+              },
+              {
+                "zip_code": "92802"
+              },
+              {
+                "zip_code": "92801"
+              },
+              {
+                "zip_code": "92803"
+              },
+              {
+                "zip_code": "92809"
+              },
+              {
+                "zip_code": "92812"
+              },
+              {
+                "zip_code": "92815"
+              },
+              {
+                "zip_code": "92816"
+              },
+              {
+                "zip_code": "92817"
+              },
+              {
+                "zip_code": "92825"
+              },
+              {
+                "zip_code": "92850"
+              },
+              {
+                "zip_code": "92899"
+              }
+            ]
+          },
+          {
+            "city": "Mojave",
+            "county": "Kern",
+            "population": 4222,
+            "zip_codes": [
+              {
+                "zip_code": "93501"
+              },
+              {
+                "zip_code": "93502"
+              }
+            ]
+          },
+          {
+            "city": "Julian",
+            "county": "San Diego",
+            "population": 878,
+            "zip_codes": [
+              {
+                "zip_code": "92036"
+              }
+            ]
+          },
+          {
+            "city": "Bell Canyon",
+            "county": "Ventura",
+            "population": 2150,
+            "zip_codes": [
+              {
+                "zip_code": "91307"
+              }
+            ]
+          },
+          {
+            "city": "West Carson",
+            "county": "Los Angeles",
+            "population": 22260,
+            "zip_codes": [
+              {
+                "zip_code": "90710"
+              },
+              {
+                "zip_code": "90502"
+              }
+            ]
+          },
+          {
+            "city": "Claremont",
+            "county": "Los Angeles",
+            "population": 36015,
+            "zip_codes": [
+              {
+                "zip_code": "91711"
+              }
+            ]
+          },
+          {
+            "city": "Santa Ynez",
+            "county": "Santa Barbara",
+            "population": 4377,
+            "zip_codes": [
+              {
+                "zip_code": "93463"
+              },
+              {
+                "zip_code": "93460"
+              }
+            ]
+          },
+          {
+            "city": "Santa Clarita",
+            "county": "Los Angeles",
+            "population": 309378,
+            "zip_codes": [
+              {
+                "zip_code": "91321"
+              },
+              {
+                "zip_code": "91351"
+              },
+              {
+                "zip_code": "91350"
+              },
+              {
+                "zip_code": "91355"
+              },
+              {
+                "zip_code": "91354"
+              },
+              {
+                "zip_code": "91387"
+              },
+              {
+                "zip_code": "91322"
+              },
+              {
+                "zip_code": "91382"
+              },
+              {
+                "zip_code": "91385"
+              },
+              {
+                "zip_code": "91386"
+              }
+            ]
+          },
+          {
+            "city": "Derby Acres",
+            "county": "Kern",
+            "population": 320,
+            "zip_codes": [
+              {
+                "zip_code": "93224"
+              }
+            ]
+          },
+          {
+            "city": "Brea",
+            "county": "Orange",
+            "population": 42777,
+            "zip_codes": [
+              {
+                "zip_code": "92821"
+              },
+              {
+                "zip_code": "92823"
+              },
+              {
+                "zip_code": "92822"
+              }
+            ]
+          },
+          {
+            "city": "Lake Arrowhead",
+            "county": "San Bernardino",
+            "population": 10612,
+            "zip_codes": [
+              {
+                "zip_code": "92378"
+              },
+              {
+                "zip_code": "92391"
+              },
+              {
+                "zip_code": "92385"
+              },
+              {
+                "zip_code": "92352"
+              },
+              {
+                "zip_code": "92321"
+              },
+              {
+                "zip_code": "92317"
+              }
+            ]
+          },
+          {
+            "city": "Los Angeles",
+            "county": "Los Angeles",
+            "population": 12815475,
+            "zip_codes": [
+              {
+                "zip_code": "90291"
+              },
+              {
+                "zip_code": "90293"
+              },
+              {
+                "zip_code": "90292"
+              },
+              {
+                "zip_code": "91316"
+              },
+              {
+                "zip_code": "91311"
+              },
+              {
+                "zip_code": "90037"
+              },
+              {
+                "zip_code": "90031"
+              },
+              {
+                "zip_code": "90008"
+              },
+              {
+                "zip_code": "90004"
+              },
+              {
+                "zip_code": "90005"
+              },
+              {
+                "zip_code": "90006"
+              },
+              {
+                "zip_code": "90007"
+              },
+              {
+                "zip_code": "90001"
+              },
+              {
+                "zip_code": "90002"
+              },
+              {
+                "zip_code": "90003"
+              },
+              {
+                "zip_code": "90710"
+              },
+              {
+                "zip_code": "90089"
+              },
+              {
+                "zip_code": "91344"
+              },
+              {
+                "zip_code": "91345"
+              },
+              {
+                "zip_code": "91340"
+              },
+              {
+                "zip_code": "91342"
+              },
+              {
+                "zip_code": "91343"
+              },
+              {
+                "zip_code": "90035"
+              },
+              {
+                "zip_code": "90034"
+              },
+              {
+                "zip_code": "90036"
+              },
+              {
+                "zip_code": "90033"
+              },
+              {
+                "zip_code": "90032"
+              },
+              {
+                "zip_code": "90039"
+              },
+              {
+                "zip_code": "90247"
+              },
+              {
+                "zip_code": "90248"
+              },
+              {
+                "zip_code": "91436"
+              },
+              {
+                "zip_code": "91371"
+              },
+              {
+                "zip_code": "91605"
+              },
+              {
+                "zip_code": "91604"
+              },
+              {
+                "zip_code": "91607"
+              },
+              {
+                "zip_code": "91601"
+              },
+              {
+                "zip_code": "91602"
+              },
+              {
+                "zip_code": "90402"
+              },
+              {
+                "zip_code": "90068"
+              },
+              {
+                "zip_code": "90069"
+              },
+              {
+                "zip_code": "90062"
+              },
+              {
+                "zip_code": "90063"
+              },
+              {
+                "zip_code": "90061"
+              },
+              {
+                "zip_code": "90066"
+              },
+              {
+                "zip_code": "90067"
+              },
+              {
+                "zip_code": "90064"
+              },
+              {
+                "zip_code": "90065"
+              },
+              {
+                "zip_code": "91326"
+              },
+              {
+                "zip_code": "91324"
+              },
+              {
+                "zip_code": "91325"
+              },
+              {
+                "zip_code": "90013"
+              },
+              {
+                "zip_code": "90012"
+              },
+              {
+                "zip_code": "90011"
+              },
+              {
+                "zip_code": "90010"
+              },
+              {
+                "zip_code": "90017"
+              },
+              {
+                "zip_code": "90016"
+              },
+              {
+                "zip_code": "90015"
+              },
+              {
+                "zip_code": "90014"
+              },
+              {
+                "zip_code": "90019"
+              },
+              {
+                "zip_code": "90090"
+              },
+              {
+                "zip_code": "90095"
+              },
+              {
+                "zip_code": "90094"
+              },
+              {
+                "zip_code": "91042"
+              },
+              {
+                "zip_code": "91040"
+              },
+              {
+                "zip_code": "91411"
+              },
+              {
+                "zip_code": "91352"
+              },
+              {
+                "zip_code": "91356"
+              },
+              {
+                "zip_code": "90041"
+              },
+              {
+                "zip_code": "90042"
+              },
+              {
+                "zip_code": "90043"
+              },
+              {
+                "zip_code": "90044"
+              },
+              {
+                "zip_code": "90045"
+              },
+              {
+                "zip_code": "90046"
+              },
+              {
+                "zip_code": "90047"
+              },
+              {
+                "zip_code": "90048"
+              },
+              {
+                "zip_code": "90049"
+              },
+              {
+                "zip_code": "90018"
+              },
+              {
+                "zip_code": "91423"
+              },
+              {
+                "zip_code": "90210"
+              },
+              {
+                "zip_code": "91303"
+              },
+              {
+                "zip_code": "91304"
+              },
+              {
+                "zip_code": "91306"
+              },
+              {
+                "zip_code": "91307"
+              },
+              {
+                "zip_code": "90079"
+              },
+              {
+                "zip_code": "90071"
+              },
+              {
+                "zip_code": "90077"
+              },
+              {
+                "zip_code": "90059"
+              },
+              {
+                "zip_code": "91608"
+              },
+              {
+                "zip_code": "91606"
+              },
+              {
+                "zip_code": "91331"
+              },
+              {
+                "zip_code": "91330"
+              },
+              {
+                "zip_code": "91335"
+              },
+              {
+                "zip_code": "90026"
+              },
+              {
+                "zip_code": "90027"
+              },
+              {
+                "zip_code": "90024"
+              },
+              {
+                "zip_code": "90025"
+              },
+              {
+                "zip_code": "90023"
+              },
+              {
+                "zip_code": "90020"
+              },
+              {
+                "zip_code": "90021"
+              },
+              {
+                "zip_code": "90028"
+              },
+              {
+                "zip_code": "90029"
+              },
+              {
+                "zip_code": "90272"
+              },
+              {
+                "zip_code": "90732"
+              },
+              {
+                "zip_code": "90731"
+              },
+              {
+                "zip_code": "90230"
+              },
+              {
+                "zip_code": "91406"
+              },
+              {
+                "zip_code": "91405"
+              },
+              {
+                "zip_code": "91403"
+              },
+              {
+                "zip_code": "91402"
+              },
+              {
+                "zip_code": "91401"
+              },
+              {
+                "zip_code": "91367"
+              },
+              {
+                "zip_code": "91364"
+              },
+              {
+                "zip_code": "90038"
+              },
+              {
+                "zip_code": "90057"
+              },
+              {
+                "zip_code": "90058"
+              },
+              {
+                "zip_code": "90744"
+              },
+              {
+                "zip_code": "90501"
+              },
+              {
+                "zip_code": "90502"
+              },
+              {
+                "zip_code": "90009"
+              },
+              {
+                "zip_code": "90030"
+              },
+              {
+                "zip_code": "90050"
+              },
+              {
+                "zip_code": "90051"
+              },
+              {
+                "zip_code": "90053"
+              },
+              {
+                "zip_code": "90054"
+              },
+              {
+                "zip_code": "90055"
+              },
+              {
+                "zip_code": "90060"
+              },
+              {
+                "zip_code": "90070"
+              },
+              {
+                "zip_code": "90072"
+              },
+              {
+                "zip_code": "90074"
+              },
+              {
+                "zip_code": "90075"
+              },
+              {
+                "zip_code": "90076"
+              },
+              {
+                "zip_code": "90078"
+              },
+              {
+                "zip_code": "90080"
+              },
+              {
+                "zip_code": "90081"
+              },
+              {
+                "zip_code": "90082"
+              },
+              {
+                "zip_code": "90083"
+              },
+              {
+                "zip_code": "90084"
+              },
+              {
+                "zip_code": "90086"
+              },
+              {
+                "zip_code": "90087"
+              },
+              {
+                "zip_code": "90088"
+              },
+              {
+                "zip_code": "90093"
+              },
+              {
+                "zip_code": "90099"
+              },
+              {
+                "zip_code": "90134"
+              },
+              {
+                "zip_code": "90189"
+              },
+              {
+                "zip_code": "90213"
+              },
+              {
+                "zip_code": "90294"
+              },
+              {
+                "zip_code": "90295"
+              },
+              {
+                "zip_code": "90296"
+              },
+              {
+                "zip_code": "90733"
+              },
+              {
+                "zip_code": "90734"
+              },
+              {
+                "zip_code": "90748"
+              },
+              {
+                "zip_code": "91041"
+              },
+              {
+                "zip_code": "91043"
+              },
+              {
+                "zip_code": "91305"
+              },
+              {
+                "zip_code": "91308"
+              },
+              {
+                "zip_code": "91309"
+              },
+              {
+                "zip_code": "91313"
+              },
+              {
+                "zip_code": "91327"
+              },
+              {
+                "zip_code": "91328"
+              },
+              {
+                "zip_code": "91329"
+              },
+              {
+                "zip_code": "91333"
+              },
+              {
+                "zip_code": "91334"
+              },
+              {
+                "zip_code": "91337"
+              },
+              {
+                "zip_code": "91346"
+              },
+              {
+                "zip_code": "91353"
+              },
+              {
+                "zip_code": "91357"
+              },
+              {
+                "zip_code": "91365"
+              },
+              {
+                "zip_code": "91392"
+              },
+              {
+                "zip_code": "91393"
+              },
+              {
+                "zip_code": "91394"
+              },
+              {
+                "zip_code": "91395"
+              },
+              {
+                "zip_code": "91396"
+              },
+              {
+                "zip_code": "91404"
+              },
+              {
+                "zip_code": "91407"
+              },
+              {
+                "zip_code": "91408"
+              },
+              {
+                "zip_code": "91409"
+              },
+              {
+                "zip_code": "91410"
+              },
+              {
+                "zip_code": "91412"
+              },
+              {
+                "zip_code": "91413"
+              },
+              {
+                "zip_code": "91416"
+              },
+              {
+                "zip_code": "91426"
+              },
+              {
+                "zip_code": "91470"
+              },
+              {
+                "zip_code": "91482"
+              },
+              {
+                "zip_code": "91495"
+              },
+              {
+                "zip_code": "91496"
+              },
+              {
+                "zip_code": "91499"
+              },
+              {
+                "zip_code": "91603"
+              },
+              {
+                "zip_code": "91609"
+              },
+              {
+                "zip_code": "91610"
+              },
+              {
+                "zip_code": "91611"
+              },
+              {
+                "zip_code": "91612"
+              },
+              {
+                "zip_code": "91614"
+              },
+              {
+                "zip_code": "91615"
+              },
+              {
+                "zip_code": "91616"
+              },
+              {
+                "zip_code": "91617"
+              },
+              {
+                "zip_code": "91618"
+              }
+            ]
+          },
+          {
+            "city": "Calipatria",
+            "county": "Imperial",
+            "population": 7558,
+            "zip_codes": [
+              {
+                "zip_code": "92233"
+              }
+            ]
+          },
+          {
+            "city": "Mountain View Acres",
+            "county": "San Bernardino",
+            "population": 3869,
+            "zip_codes": [
+              {
+                "zip_code": "92392"
+              }
+            ]
+          },
+          {
+            "city": "McKittrick",
+            "county": "Kern",
+            "population": 145,
+            "zip_codes": [
+              {
+                "zip_code": "93251"
+              }
+            ]
+          },
+          {
+            "city": "Thousand Oaks",
+            "county": "Ventura",
+            "population": 218729,
+            "zip_codes": [
+              {
+                "zip_code": "91320"
+              },
+              {
+                "zip_code": "91360"
+              },
+              {
+                "zip_code": "91361"
+              },
+              {
+                "zip_code": "91362"
+              },
+              {
+                "zip_code": "91319"
+              },
+              {
+                "zip_code": "91358"
+              },
+              {
+                "zip_code": "91359"
+              }
+            ]
+          },
+          {
+            "city": "Grover Beach",
+            "county": "San Luis Obispo",
+            "population": 13628,
+            "zip_codes": [
+              {
+                "zip_code": "93433"
+              },
+              {
+                "zip_code": "93483"
+              }
+            ]
+          },
+          {
+            "city": "Westmorland",
+            "county": "Imperial",
+            "population": 2284,
+            "zip_codes": [
+              {
+                "zip_code": "92281"
+              }
+            ]
+          },
+          {
+            "city": "Lebec",
+            "county": "Kern",
+            "population": 1557,
+            "zip_codes": [
+              {
+                "zip_code": "93243"
+              }
+            ]
+          },
+          {
+            "city": "Glendale",
+            "county": "Los Angeles",
+            "population": 203054,
+            "zip_codes": [
+              {
+                "zip_code": "91210"
+              },
+              {
+                "zip_code": "91214"
+              },
+              {
+                "zip_code": "91046"
+              },
+              {
+                "zip_code": "91201"
+              },
+              {
+                "zip_code": "91204"
+              },
+              {
+                "zip_code": "91208"
+              },
+              {
+                "zip_code": "91203"
+              },
+              {
+                "zip_code": "91202"
+              },
+              {
+                "zip_code": "91205"
+              },
+              {
+                "zip_code": "91207"
+              },
+              {
+                "zip_code": "91206"
+              },
+              {
+                "zip_code": "91020"
+              },
+              {
+                "zip_code": "91209"
+              },
+              {
+                "zip_code": "91221"
+              },
+              {
+                "zip_code": "91222"
+              },
+              {
+                "zip_code": "91225"
+              },
+              {
+                "zip_code": "91226"
+              }
+            ]
+          },
+          {
+            "city": "Whitley Gardens",
+            "county": "San Luis Obispo",
+            "population": 293,
+            "zip_codes": [
+              {
+                "zip_code": "93446"
+              }
+            ]
+          },
+          {
+            "city": "Fillmore",
+            "county": "Ventura",
+            "population": 15895,
+            "zip_codes": [
+              {
+                "zip_code": "93015"
+              },
+              {
+                "zip_code": "93016"
+              }
+            ]
+          },
+          {
+            "city": "Mead Valley",
+            "county": "Riverside",
+            "population": 20402,
+            "zip_codes": [
+              {
+                "zip_code": "92570"
+              }
+            ]
+          },
+          {
+            "city": "Fort Irwin",
+            "county": "San Bernardino",
+            "population": 9053,
+            "zip_codes": [
+              {
+                "zip_code": "92310"
+              }
+            ]
+          },
+          {
+            "city": "Mentone",
+            "county": "San Bernardino",
+            "population": 10129,
+            "zip_codes": [
+              {
+                "zip_code": "92359"
+              },
+              {
+                "zip_code": "92374"
+              }
+            ]
+          },
+          {
+            "city": "Desert Center",
+            "county": "Riverside",
+            "population": 156,
+            "zip_codes": [
+              {
+                "zip_code": "92239"
+              }
+            ]
+          },
+          {
+            "city": "Highland",
+            "county": "San Bernardino",
+            "population": 55342,
+            "zip_codes": [
+              {
+                "zip_code": "92359"
+              },
+              {
+                "zip_code": "92410"
+              },
+              {
+                "zip_code": "92346"
+              }
+            ]
+          },
+          {
+            "city": "Hidden Hills",
+            "county": "Los Angeles",
+            "population": 1921,
+            "zip_codes": [
+              {
+                "zip_code": "91302"
+              }
+            ]
+          },
+          {
+            "city": "Los Osos",
+            "county": "San Luis Obispo",
+            "population": 15714,
+            "zip_codes": [
+              {
+                "zip_code": "93402"
+              },
+              {
+                "zip_code": "93412"
+              }
+            ]
+          },
+          {
+            "city": "Encinitas",
+            "county": "San Diego",
+            "population": 63184,
+            "zip_codes": [
+              {
+                "zip_code": "92007"
+              },
+              {
+                "zip_code": "92075"
+              },
+              {
+                "zip_code": "92024"
+              },
+              {
+                "zip_code": "92023"
+              }
+            ]
+          },
+          {
+            "city": "Los Olivos",
+            "county": "Santa Barbara",
+            "population": 788,
+            "zip_codes": [
+              {
+                "zip_code": "93441"
+              }
+            ]
+          },
+          {
+            "city": "Piñon Hills",
+            "county": "San Bernardino",
+            "population": 7583,
+            "zip_codes": [
+              {
+                "zip_code": "92371"
+              },
+              {
+                "zip_code": "92372"
+              }
+            ]
+          },
+          {
+            "city": "Greenacres",
+            "county": "Kern",
+            "population": 5705,
+            "zip_codes": [
+              {
+                "zip_code": "93312"
+              }
+            ]
+          },
+          {
+            "city": "View Park-Windsor Hills",
+            "county": "Los Angeles",
+            "population": 11308,
+            "zip_codes": [
+              {
+                "zip_code": "90008"
+              },
+              {
+                "zip_code": "90043"
+              },
+              {
+                "zip_code": "90056"
+              }
+            ]
+          },
+          {
+            "city": "East San Gabriel",
+            "county": "Los Angeles",
+            "population": 15832,
+            "zip_codes": [
+              {
+                "zip_code": "91775"
+              }
+            ]
+          },
+          {
+            "city": "Lake Sherwood",
+            "county": "Ventura",
+            "population": 1832,
+            "zip_codes": [
+              {
+                "zip_code": "91361"
+              }
+            ]
+          },
+          {
+            "city": "Cypress",
+            "county": "Orange",
+            "population": 49064,
+            "zip_codes": [
+              {
+                "zip_code": "90630"
+              }
+            ]
+          },
+          {
+            "city": "Poway",
+            "county": "San Diego",
+            "population": 50041,
+            "zip_codes": [
+              {
+                "zip_code": "92064"
+              },
+              {
+                "zip_code": "92074"
+              }
+            ]
+          },
+          {
+            "city": "Monrovia",
+            "county": "Los Angeles",
+            "population": 37061,
+            "zip_codes": [
+              {
+                "zip_code": "91016"
+              },
+              {
+                "zip_code": "91017"
+              },
+              {
+                "zip_code": "91185"
+              }
+            ]
+          },
+          {
+            "city": "Lake Isabella",
+            "county": "Kern",
+            "population": 4287,
+            "zip_codes": [
+              {
+                "zip_code": "93285"
+              },
+              {
+                "zip_code": "93240"
+              }
+            ]
+          },
+          {
+            "city": "Lakeside",
+            "county": "San Diego",
+            "population": 21827,
+            "zip_codes": [
+              {
+                "zip_code": "92021"
+              },
+              {
+                "zip_code": "92040"
+              }
+            ]
+          },
+          {
+            "city": "Diamond Bar",
+            "county": "Los Angeles",
+            "population": 56665,
+            "zip_codes": [
+              {
+                "zip_code": "91789"
+              },
+              {
+                "zip_code": "91765"
+              }
+            ]
+          },
+          {
+            "city": "Home Gardens",
+            "county": "Riverside",
+            "population": 11997,
+            "zip_codes": [
+              {
+                "zip_code": "92503"
+              },
+              {
+                "zip_code": "92879"
+              }
+            ]
+          },
+          {
+            "city": "Hawaiian Gardens",
+            "county": "Los Angeles",
+            "population": 14450,
+            "zip_codes": [
+              {
+                "zip_code": "90716"
+              }
+            ]
+          },
+          {
+            "city": "Lytle Creek",
+            "county": "San Bernardino",
+            "population": 901,
+            "zip_codes": [
+              {
+                "zip_code": "92358"
+              }
+            ]
+          },
+          {
+            "city": "Oak Park",
+            "county": "Ventura",
+            "population": 14440,
+            "zip_codes": [
+              {
+                "zip_code": "91377"
+              }
+            ]
+          },
+          {
+            "city": "Seal Beach",
+            "county": "Orange",
+            "population": 24326,
+            "zip_codes": [
+              {
+                "zip_code": "92649"
+              },
+              {
+                "zip_code": "90743"
+              },
+              {
+                "zip_code": "90740"
+              }
+            ]
+          },
+          {
+            "city": "Winchester",
+            "county": "Riverside",
+            "population": 2721,
+            "zip_codes": [
+              {
+                "zip_code": "92545"
+              },
+              {
+                "zip_code": "92596"
+              }
+            ]
+          },
+          {
+            "city": "Riverside",
+            "county": "Riverside",
+            "population": 2084749,
+            "zip_codes": [
+              {
+                "zip_code": "92508"
+              },
+              {
+                "zip_code": "92503"
+              },
+              {
+                "zip_code": "92501"
+              },
+              {
+                "zip_code": "92505"
+              },
+              {
+                "zip_code": "92504"
+              },
+              {
+                "zip_code": "92507"
+              },
+              {
+                "zip_code": "92506"
+              },
+              {
+                "zip_code": "92502"
+              },
+              {
+                "zip_code": "92513"
+              },
+              {
+                "zip_code": "92514"
+              },
+              {
+                "zip_code": "92516"
+              },
+              {
+                "zip_code": "92517"
+              },
+              {
+                "zip_code": "92521"
+              },
+              {
+                "zip_code": "92522"
+              }
+            ]
+          },
+          {
+            "city": "Alondra Park",
+            "county": "Los Angeles",
+            "population": 7441,
+            "zip_codes": [
+              {
+                "zip_code": "90249"
+              },
+              {
+                "zip_code": "90260"
+              },
+              {
+                "zip_code": "90506"
+              }
+            ]
+          },
+          {
+            "city": "Joshua Tree",
+            "county": "San Bernardino",
+            "population": 7020,
+            "zip_codes": [
+              {
+                "zip_code": "92252"
+              }
+            ]
+          },
+          {
+            "city": "Johannesburg",
+            "county": "Kern",
+            "population": 124,
+            "zip_codes": [
+              {
+                "zip_code": "93528"
+              }
+            ]
+          },
+          {
+            "city": "Yorba Linda",
+            "county": "Orange",
+            "population": 68229,
+            "zip_codes": [
+              {
+                "zip_code": "92886"
+              },
+              {
+                "zip_code": "92887"
+              },
+              {
+                "zip_code": "92885"
+              }
+            ]
+          },
+          {
+            "city": "San Buenaventura",
+            "county": "Ventura",
+            "population": 110790,
+            "zip_codes": [
+              {
+                "zip_code": "93004"
+              },
+              {
+                "zip_code": "93001"
+              },
+              {
+                "zip_code": "93003"
+              },
+              {
+                "zip_code": "93002"
+              },
+              {
+                "zip_code": "93005"
+              },
+              {
+                "zip_code": "93006"
+              },
+              {
+                "zip_code": "93007"
+              },
+              {
+                "zip_code": "93009"
+              }
+            ]
+          },
+          {
+            "city": "Midway City",
+            "county": "Orange",
+            "population": 8819,
+            "zip_codes": [
+              {
+                "zip_code": "92655"
+              }
+            ]
+          },
+          {
+            "city": "Carlsbad",
+            "county": "San Diego",
+            "population": 115330,
+            "zip_codes": [
+              {
+                "zip_code": "92008"
+              },
+              {
+                "zip_code": "92009"
+              },
+              {
+                "zip_code": "92011"
+              },
+              {
+                "zip_code": "92010"
+              },
+              {
+                "zip_code": "92013"
+              },
+              {
+                "zip_code": "92018"
+              }
+            ]
+          },
+          {
+            "city": "Aguanga",
+            "county": "Riverside",
+            "population": 830,
+            "zip_codes": [
+              {
+                "zip_code": "92536"
+              }
+            ]
+          },
+          {
+            "city": "Temple City",
+            "county": "Los Angeles",
+            "population": 36367,
+            "zip_codes": [
+              {
+                "zip_code": "91780"
+              }
+            ]
+          },
+          {
+            "city": "Blythe",
+            "county": "Riverside",
+            "population": 12228,
+            "zip_codes": [
+              {
+                "zip_code": "92225"
+              },
+              {
+                "zip_code": "92226"
+              }
+            ]
+          },
+          {
+            "city": "Maywood",
+            "county": "Los Angeles",
+            "population": 27586,
+            "zip_codes": [
+              {
+                "zip_code": "90270"
+              }
+            ]
+          },
+          {
+            "city": "Green Acres",
+            "county": "Riverside",
+            "population": 2776,
+            "zip_codes": [
+              {
+                "zip_code": "92545"
+              },
+              {
+                "zip_code": "92596"
+              }
+            ]
+          },
+          {
+            "city": "Fairbanks Ranch",
+            "county": "San Diego",
+            "population": 3024,
+            "zip_codes": [
+              {
+                "zip_code": "92067"
+              }
+            ]
+          },
+          {
+            "city": "South Taft",
+            "county": "Kern",
+            "population": 1417,
+            "zip_codes": [
+              {
+                "zip_code": "93268"
+              }
+            ]
+          },
+          {
+            "city": "Lost Hills",
+            "county": "Kern",
+            "population": 2055,
+            "zip_codes": [
+              {
+                "zip_code": "93249"
+              }
+            ]
+          },
+          {
+            "city": "Imperial",
+            "county": "Imperial",
+            "population": 17550,
+            "zip_codes": [
+              {
+                "zip_code": "92251"
+              }
+            ]
+          },
+          {
+            "city": "Adelanto",
+            "county": "San Bernardino",
+            "population": 34066,
+            "zip_codes": [
+              {
+                "zip_code": "92301"
+              }
+            ]
+          },
+          {
+            "city": "La Habra",
+            "county": "Orange",
+            "population": 62466,
+            "zip_codes": [
+              {
+                "zip_code": "90631"
+              },
+              {
+                "zip_code": "90632"
+              },
+              {
+                "zip_code": "90633"
+              }
+            ]
+          },
+          {
+            "city": "Brawley",
+            "county": "Imperial",
+            "population": 26472,
+            "zip_codes": [
+              {
+                "zip_code": "92227"
+              }
+            ]
+          },
+          {
+            "city": "Smith Corner",
+            "county": "Kern",
+            "population": 733,
+            "zip_codes": [
+              {
+                "zip_code": "93263"
+              }
+            ]
+          },
+          {
+            "city": "Apple Valley",
+            "county": "San Bernardino",
+            "population": 73077,
+            "zip_codes": [
+              {
+                "zip_code": "92308"
+              },
+              {
+                "zip_code": "92307"
+              }
+            ]
+          },
+          {
+            "city": "Bear Valley Springs",
+            "county": "Kern",
+            "population": 5389,
+            "zip_codes": [
+              {
+                "zip_code": "93561"
+              }
+            ]
+          },
+          {
+            "city": "Palm Desert",
+            "county": "Riverside",
+            "population": 52932,
+            "zip_codes": [
+              {
+                "zip_code": "92260"
+              },
+              {
+                "zip_code": "92211"
+              },
+              {
+                "zip_code": "92255"
+              }
+            ]
+          },
+          {
+            "city": "Rancho Palos Verdes",
+            "county": "Los Angeles",
+            "population": 42364,
+            "zip_codes": [
+              {
+                "zip_code": "90275"
+              }
+            ]
+          },
+          {
+            "city": "Westminster",
+            "county": "Orange",
+            "population": 91564,
+            "zip_codes": [
+              {
+                "zip_code": "92683"
+              },
+              {
+                "zip_code": "92684"
+              },
+              {
+                "zip_code": "92685"
+              }
+            ]
+          },
+          {
+            "city": "Buellton",
+            "county": "Santa Barbara",
+            "population": 5135,
+            "zip_codes": [
+              {
+                "zip_code": "93427"
+              }
+            ]
+          },
+          {
+            "city": "Canyon Lake",
+            "county": "Riverside",
+            "population": 11223,
+            "zip_codes": [
+              {
+                "zip_code": "92587"
+              }
+            ]
+          },
+          {
+            "city": "Baker",
+            "county": "San Bernardino",
+            "population": 626,
+            "zip_codes": [
+              {
+                "zip_code": "92309"
+              }
+            ]
+          },
+          {
+            "city": "Gardena",
+            "county": "Los Angeles",
+            "population": 60224,
+            "zip_codes": [
+              {
+                "zip_code": "90247"
+              },
+              {
+                "zip_code": "90249"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
